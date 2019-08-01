@@ -6,12 +6,12 @@ import os
 from email.mime.text import MIMEText
 from email.utils import formataddr
  
-my_sender='zhangtianxu@sjtu.edu.cn'    # 发件人邮箱账号
+my_sender='****@****'    # 发件人邮箱账号
 my_pass =os.environ['EMAIL_PASSWD']               # 发件人邮箱密码
-xiayubin = 'xiayubin@gmail.com'
-ipadstrust = 'ipads-trust@googlegroups.com'
-user = '576781512@qq.com'
-user2 = 'hanerzamora@gmail.com'
+xiayubin = '****@****'
+ipadstrust = '****@****'
+user = '****@****'
+user2 = '****@****'
 
 
 def mail():
