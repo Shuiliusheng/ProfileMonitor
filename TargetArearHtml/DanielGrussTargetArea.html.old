@@ -1,0 +1,2121 @@
+https://gruss.cc/
+<body>
+<div class="container-fluid" id="main">
+<div class="row">
+<!-- sidebar -->
+<div class="col-md-1 col-xs-0"> </div>
+<div class="col-md-2 col-sm-6 col-xs-12 text-center" id="sidebar">
+<img class="portrait" src="portrait_small.jpg"/>
+<br/>
+<br/>
+<h1>Daniel Gruss</h1>
+<ul class="fa-ul" id="contact-info">
+<li class="list-group-item" style="font-size: 210%;">
+<a href="mailto:daniel@gruss.cc"><i class="fa fa-envelope-square"></i></a>
+<a href="https://twitter.com/lavados"><i class="fa fa-twitter-square"></i></a>
+<a href="https://github.com/dgruss"><i class="fa fa-github-square"></i></a>
+<a href="https://scholar.google.com/citations?user=JmCg4uQAAAAJ&amp;hl=en"><i class="fa fa-google-plus-square"></i></a>
+</li>
+</ul>
+<p> </p>
+</div> <!-- /sidebar -->
+<div class="col-md-8 col-sm-6 col-xs-12" id="bodytext">
+<p>
+I'm an assistant professor, leading the coresec group, at the <a href="https://www.tugraz.at">Graz University of Technology</a>, Institute of Applied Information Processing and Communications.
+In my research I explore software-based microarchitectural attacks and operating system features.
+I teach undergraduate courses (<a href="https://teaching.iaik.tugraz.at/bs/start">Operating Systems</a>, <a href="https://teaching.iaik.tugraz.at/snp/start">System-Level Programming</a>) and graduate courses (<a href="https://teaching.iaik.tugraz.at/embsec/start">Embedded Security</a>, <a href="https://teaching.iaik.tugraz.at/sase/start">Security Aspects in Software Development</a>).
+</p>
+</div>
+<div class="col-md-8 col-sm-12 col-xs-12" id="bodytext">
+<div id="publications">
+<h2>Publications</h2>
+<table class="table">
+<tbody>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2020
+        </span><br/>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://rambleed.com/docs/20190603-rambleed-web.pdf">RAMBleed: Reading Bits in Memory Without Accessing Them</a>
+</span><br/>
+<span class="authors">
+        Andrew Kwong, Daniel Genkin, <b>Daniel Gruss</b>, Yuval Yarom.
+      </span>   
+<br/>
+<span class="venue"><b>S&amp;P'20</b>, San Francisco, California, USA, May 18-20, 2020.</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ieee-security.org/TC/SP2020/index.html">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2019
+        </span><br/>
+<span class="date-month">
+          November
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/pagecacheattacks.pdf">Page Cache Attacks</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Erik Kraft, Trishita Tiwari, Michael Schwarz, Ari Trachtenberg, Jason Hennessey, Alex Ionescu, Anders Fogh.
+      </span>   
+<br/>
+<span class="venue"><b>CCS'19</b>, London, UK, November 11-15, 2019 (AR (February Deadline): 6.2%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.sigsac.org/ccs/CCS2019/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/sgxjail.pdf">SGXJail: Defeating Enclave Malware via Confinement</a>
+</span><br/>
+<span class="authors">
+        Samuel Weiser, Luca Mayr, Michael Schwarz, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>RAID'19</b>, Beijing, China, September 23-25, 2019 (AR: 22.3%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.raid-2019.org/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/netspectre.pdf">NetSpectre: Read Arbitrary Memory over Network</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Martin Schwarzl, Moritz Lipp, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>ESORICS'19</b>, Luxembourg, September 23-27, 2019 (AR: 19.5%).</span>
+         
+      <span class="links">
+
+        [<a href="https://esorics2019.uni.lu">Conference</a>]
+
+        [<a href="https://arxiv.org/abs/1807.10535">Pre-print (Jul'18)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/scattercache.pdf">ScatterCache: Thwarting Cache Attacks via Cache Set Randomization</a>
+</span><br/>
+<span class="authors">
+        Mario Werner, Thomas Unterluggauer, Lukas Giner, Michael Schwarz, <b>Daniel Gruss</b>, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>28th USENIX Security Symposium</b>, Santa Clara, California, USA, August 14-16, 2019 (AR: 15.7%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity19">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/transientsok.pdf">A Systematic Evaluation of Transient Execution Attacks and Defenses</a>
+</span><br/>
+<span class="authors">
+        Claudio Canella, Jo Van Bulck, Michael Schwarz, Moritz Lipp, Benjamin von Berg, Philipp Ortner, Frank Piessens, Dmitry Evtyushkin, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>28th USENIX Security Symposium</b>, Santa Clara, California, USA, August 14-16, 2019 (AR: 15.7%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity19">Conference</a>]
+
+        [<a href="https://arxiv.org/abs/1811.05441">Pre-print (Nov'18)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/sgxrop.pdf">Practical Enclave Malware with Intel SGX</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Samuel Weiser, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>DIMVA'19</b>, Gothenburg, Sweden, June 19-20, 2019 (AR: 28.8%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.dimva2019.org/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://mdsattacks.com/files/fallout.pdf">Fallout:  Reading Kernel Writes From User Space</a>
+</span><br/>
+<span class="authors">
+        Marina Minkin, Daniel Moghimi, Moritz Lipp, Michael Schwarz, Jo Van Bulck, DanielGenkin, <b>Daniel Gruss</b>, Frank Piessens, Berk Sunar, Yuval Yarom.
+      </span>   
+<br/>
+<span class="venue"><b>arXiv</b>, 1905.12701.</span>
+         
+      <span class="links">
+
+        [<a href="https://arxiv.org/abs/1905.12701">Pre-print (May'19)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://cpu.fail/store_to_leak_forwarding.pdf">Store-to-Leak Forwarding: Leaking Data on Meltdown-resistant CPUs</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Claudio Canella, Lukas Giner, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>arXiv</b>, 1905.05725.</span>
+         
+      <span class="links">
+
+        [<a href="https://arxiv.org/abs/1905.05725">Pre-print (May'19)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://zombieloadattack.com/zombieload.pdf">ZombieLoad: Cross-Privilege-Boundary Data Sampling</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Moritz Lipp, Daniel Moghimi, Jo Van Bulck, Julian Stecklina, Thomas Prescher, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>arXiv</b>, 1905.05726.</span>
+         
+      <span class="links">
+
+        [<a href="https://arxiv.org/abs/1905.05726">Pre-print (May'19)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://spectreattack.com/spectre.pdf">Spectre Attacks: Exploiting Speculative Execution</a>
+</span><br/>
+<span class="authors">
+        Paul Kocher, Jann Horn, Anders Fogh, Daniel Genkin, <b>Daniel Gruss</b>, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher, Michael Schwarz, Yuval Yarom.
+      </span>   
+<br/>
+<span class="venue"><b>S&amp;P'19</b>, San Francisco, California, USA, May 20-22, 2019 (AR: 11.5%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ieee-security.org/TC/SP2019/index.html">Conference</a>]
+
+        [<a href="http://arxiv.org/abs/1801.01203">Pre-print (Jan'18)</a>]
+
+        [<a href="https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)">Wikipedia</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          February
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/jstemplate.pdf">JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Florian Lackner, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>NDSS'19</b>, San Diego, California, USA, February 24-27, 2019 (AR: 17.1%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ndss-symposium.org/ndss2019/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2018
+        </span><br/>
+<span class="date-month">
+          December
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://www.usenix.org/system/files/login/articles/login_winter18_03_gruss.pdf">Kernel Isolation: From an Academic Idea to an Efficient Patch for Every Computer</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Dave Hansen, Brendan Gregg.
+      </span>   
+<br/>
+<span class="venue"><b>USENIX ;login</b>, issue: Winter 2018, Vol. 43, No. 4.</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/publications/login/winter-2018-vol-43-no-4">Issue</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          November
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://www.degruyter.com/view/j/itit.ahead-of-print/itit-2018-0034/itit-2018-0034.xml">Software-based microarchitectural attacks</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>it - Information Technology</b>, ISSN (Online) 2196-7032, ISSN (Print) 1611-2776, November 2018.</span>
+         
+      <span class="links">
+
+        [<a href="https://doi.org/10.1515/itit-2018-0034">DOI</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/phd_german_abstract.pdf">Software-basierte Mikroarchitekturangriffe</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>Ausgezeichnete Informatikdissertationen 2017, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik</b>, Bonn, Germany, 2018. Presented at INFORMATIK2018 in Berlin, Germany, September 26-27, 2018.</span>
+         
+      <span class="links">
+
+        [<a href="https://dl.gi.de/handle/20.500.12116/24">LNI Digital Library</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://meltdownattack.com/meltdown.pdf">Meltdown: Reading Kernel Memory from User Space</a>
+</span><br/>
+<span class="authors">
+        Moritz Lipp, Michael Schwarz, <b>Daniel Gruss</b>, Thomas Prescher, Werner Haas, Anders Fogh, Jann Horn, Stefan Mangard, Paul Kocher, Daniel Genkin, Yuval Yarom, Mike Hamburg.
+      </span>   
+<br/>
+<span class="venue"><b>27th USENIX Security Symposium</b>, Baltimore, MD, USA, August 15-17, 2018 (AR: 19.2%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity18">Conference</a>]
+
+        [<a href="https://github.com/IAIK/meltdown">Code Examples</a>]
+
+        [<a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)">Wikipedia</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/double_fetch.pdf">Automated Detection, Exploitation, and Elimination of Double-Fetch Bugs using Modern CPU Features</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, <b>Daniel Gruss</b>, Moritz Lipp, Clémentine Maurice, Thomas Schuster, Anders Fogh, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>AsiaCCS'18</b>, Songdo, Incheon, Korea, Jun 4-8, 2018 (AR: 20.0%).</span>
+         
+      <span class="links">
+
+        [<a href="http://asiaccs2018.org/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/uafmail.pdf">Use-After-FreeMail: Generalizing the Use-After-Free Problem and Applying it to Email Services</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Michael Schwarz, Matthias Wübbeling, Simon Guggi, Timo Malderle, Stefan More, Moritz Lipp.
+      </span>   
+<br/>
+<span class="venue"><b>AsiaCCS'18</b>, Songdo, Incheon, Korea, Jun 4-8, 2018 (AR: 20.0%).</span>
+         
+      <span class="links">
+
+        [<a href="http://asiaccs2018.org/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/procharvester.pdf">ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android</a>
+</span><br/>
+<span class="authors">
+        Raphael Spreitzer, Felix Kirchengast, <b>Daniel Gruss</b>, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>AsiaCCS'18</b>, Songdo, Incheon, Korea, Jun 4-8, 2018 (AR: 20.0%).</span>
+         
+      <span class="links">
+
+        [<a href="http://asiaccs2018.org/">Conference</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/nethammer.pdf">Nethammer: Inducing Rowhammer Faults through Network Requests</a>
+</span><br/>
+<span class="authors">
+        Moritz Lipp, Misiker Tadesse Aga, Michael Schwarz, <b>Daniel Gruss</b>, Clémentine Maurice, Lukas Raab, Lukas Lamster.
+      </span>   
+<br/>
+<span class="venue"><b>arXiv</b>, 1805.04956.</span>
+         
+      <span class="links">
+
+        [<a href="https://arxiv.org/abs/1805.04956">Pre-print (May'18)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/flipinthewall.pdf">Another Flip in the Wall of Rowhammer Defenses</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Moritz Lipp, Michael Schwarz, Daniel Genkin, Jonas Juffinger, Sioli O'Connell, Wolfgang Schoechl, Yuval Yarom.
+      </span>   
+<br/>
+<span class="venue"><b>S&amp;P'18</b>, San Francisco, California, USA, May 21-23, 2018 (AR: 11.5%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ieee-security.org/TC/SP2018/index.html">Conference</a>]
+
+        [<a href="https://github.com/IAIK/flipfloyd">Code Examples</a>]
+
+        [<a href="http://arxiv.org/abs/1710.00551">Pre-print (Oct'17)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          February
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/jszero.pdf">JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Moritz Lipp, <b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>NDSS'18</b>, San Diego, California, USA, February 18-21, 2018 (AR: 21.5%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ndss-symposium.org/ndss2018/programme/">Program</a>]
+
+        [<a href="https://github.com/IAIK/ChromeZero">Github</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/keydrown.pdf">KeyDrown: Eliminating Software-Based Keystroke Timing Side-Channel Attacks</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Moritz Lipp, <b>Daniel Gruss</b>, Samuel Weiser, Clémentine Maurice, Raphael Spreitzer, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>NDSS'18</b>, San Diego, California, USA, February 18-21, 2018 (AR: 21.5%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ndss-symposium.org/ndss2018/programme/">Program</a>]
+
+        [<a href="https://github.com/IAIK/KeyDrown">Github</a>]
+
+        [<a href="https://arxiv.org/abs/1706.06381">Pre-print (Jun'17)</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2017
+        </span><br/>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/keystroke_js.pdf">Practical Keystroke Timing Attacks in Sandboxed JavaScript</a>
+</span><br/>
+<span class="authors">
+        Moritz Lipp, <b>Daniel Gruss</b>, Michael Schwarz, David Bidner, Clémentine Maurice, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>ESORICS'17</b>, Oslo, Norway, September 11-15, 2017 (AR: 15.9%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.ntnu.edu/web/esorics2017/program">Program</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/cloak.pdf">Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Julian Lettner, Felix Schuster, Olya Ohrimenko, Istvan Haller, Manuel Costa.
+      </span>   
+<br/>
+<span class="venue"><b>26th USENIX Security Symposium</b>, Vancouver, BC, Canada, August 16-18, 2017 (AR: 16.3%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/gruss">Session</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          July
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/kaiser.pdf">KASLR is Dead: Long Live KASLR</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Moritz Lipp, Michael Schwarz, Richard Fellner, Clémentine Maurice, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>ESSoS'17</b>, Bonn, Germany, July 2017 (AR: 46.9%).</span>
+         
+      <span class="links">
+
+        [<a href="https://distrinet.cs.kuleuven.be/events/essos/2017/programme.html">Program</a>]
+
+        [<a href="https://github.com/IAIK/KAISER">Github</a>]
+
+        [<a href="https://en.wikipedia.org/wiki/Kernel_page-table_isolation">Wikipedia</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/malware_guard_extension.pdf">Malware Guard Extension: Using SGX to Conceal Cache Attacks</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Samuel Weiser, <b>Daniel Gruss</b>, Clémentine Maurice, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>DIMVA'17</b>, Bonn, Germany, July 6-7, 2017 (AR: 26.9%).</span>
+         
+      <span class="links">
+
+        [<a href="https://itsec.cs.uni-bonn.de/dimva2017/Program.html">Program</a>]
+
+        [<a href="http://misc0110.net/web/files/sgx_slides.pdf">Slides</a>]
+
+        [<a href="https://arxiv.org/abs/1702.08719">Extended Version</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/phd_thesis.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>.
+      </span>   
+<br/>
+<span class="venue"><b>PhD Thesis</b>, Graz University of Technology. June 14, 2017.</span>
+         
+      <span class="links">
+
+        [<a href="/files/phd_defense_slides.pdf">Slides</a>]
+
+        [<a href="/files/phd_thesis_part1_only.pdf">Part I only</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          April
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/fantastictimers.pdf">Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript</a>
+</span><br/>
+<span class="authors">
+        Michael Schwarz, Clémentine Maurice, <b>Daniel Gruss</b>, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>FC'17</b>, Malta, April 2017 (AR: 26.5%).</span>
+         
+      <span class="links">
+
+        [<a href="http://fc17.ifca.ai/program.html">Program</a>]
+
+        [<a href="/files/timers_slides.pdf">Slides</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          February
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/hello.pdf">Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud</a>
+</span><br/>
+<span class="authors">
+        Clémentine Maurice, Manuel Weber, Michael Schwarz, Lukas Giner, <b>Daniel Gruss</b>, Carlo Alberto Boano, Kay Römer, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>NDSS'17</b>, San Diego, California, USA, February 2017 (AR: 16.1%).</span>
+         
+      <span class="links">
+
+        [<a href="http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-session-6a-cloud-and">Session</a>]
+
+        [<a href="/files/hello_ndss_slides.pdf">Slides</a>]
+
+        [<a href="https://github.com/IAIK/hello">Github</a>]
+
+        [<a href="https://www.blackhat.com/asia-17/briefings.html#hello-from-the-other-side-ssh-over-robust-cache-covert-channels-in-the-cloud">BlackHat Asia</a>]
+
+        [<a href="https://www.youtube.com/watch?v=a9sGk7FtnYk">BlackHat Asia Recording</a>]
+
+        [<a href="https://www.youtube.com/watch?v=yPZmiRi_c-o">Live Demo</a>]
+
+        [<a href="https://pwnies.com/winners/">Pwnie Award for Best Song</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2016
+        </span><br/>
+<span class="date-month">
+          October
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/prefetch.pdf">Prefetch Side-Channel Attacks: Bypassing SMAP and Kernel ASLR</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Anders Fogh, Clémentine Maurice, Moritz Lipp, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>CCS'16</b>, Vienna, Austria, October 24-28, 2016 (AR: 16.4%).</span>
+         
+      <span class="links">
+
+        [<a href="/files/prefetch_slides.pdf">Slides</a>]
+
+        [<a href="https://github.com/IAIK/prefetch">Github</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/drammer.pdf">Drammer: Deterministic Rowhammer Attacks on Mobile Platforms</a>
+</span><br/>
+<span class="authors">
+        Victor van der Veen, Yanick Fratantonio, Martina Lindorfer, <b>Daniel Gruss</b>, Clementine Maurice, Giovanni Vigna, Herbert Bos, Kaveh Razavi, Cristiano Giuffrida.
+      </span>   
+<br/>
+<span class="venue"><b>CCS'16</b>, Vienna, Austria, October 24-28, 2016 (AR: 16.4%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.vusec.net/projects/drammer/">Project Website</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_pessl.pdf">DRAMA: Exploiting DRAM Addressing for Cross-CPU Attacks</a>
+</span><br/>
+<span class="authors">
+        Peter Pessl, <b>Daniel Gruss</b>, Clémentine Maurice, Michael Schwarz, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>25th USENIX Security Symposium</b>, Austin, Texas, USA, August 10-12, 2016 (AR: 15.6%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/pessl">Session</a>]
+
+        [<a href="http://arxiv.org/abs/1511.08756">Pre-print (Nov'15)</a>]
+
+        [<a href="https://www.usenix.org/sites/default/files/conference/protected-/files/sec16_slides_pessl.pdf">Slides</a>]
+
+        [<a href="https://github.com/IAIK/drama">Github</a>]
+
+        [<a href="https://www.blackhat.com/eu-16/briefings.html#drama-how-your-dram-becomes-a-security-problem">BlackHat Europe</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf">ARMageddon: Cache Attacks on Mobile Devices</a>
+</span><br/>
+<span class="authors">
+        Moritz Lipp, <b>Daniel Gruss</b>, Raphael Spreitzer, Clémentine Maurice, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>25th USENIX Security Symposium</b>, Austin, Texas, USA, August 10-12, 2016 (AR: 15.6%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/lipp">Session</a>]
+
+        [<a href="http://arxiv.org/abs/1511.04897">Pre-print (Nov'15)</a>]
+
+        [<a href="https://www.usenix.org/sites/default/files/conference/protected-/files/sec16_slides_lipp.pdf">Slides</a>]
+
+        [<a href="https://github.com/IAIK/armageddon">Github</a>]
+
+        [<a href="https://www.blackhat.com/eu-16/briefings.html#armageddon-how-your-smartphone-cpu-breaks-software-level-security-and-privacy">BlackHat Europe</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          July
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/rowhammerjs.pdf">Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Clémentine Maurice, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>DIMVA'16</b>, Donostia-San Sebastián, Spain, July 7-8, 2016 (AR: 31.8%).</span>
+         
+      <span class="links">
+
+        [<a href="http://dimva2016.mondragon.edu/en">Conference</a>]
+
+        [<a href="https://github.com/IAIK/rowhammerjs">Github</a>]
+
+        [<a href="http://arxiv.org/abs/1507.06955">Pre-print (Jul'15)</a>]
+
+        [<a href="http://www.golem.de/news/rowhammer-speicher-bitflips-mittels-javascript-1507-115452.html">Golem</a>]
+
+        [<a href="http://www.slate.com/articles/technology/bitwise/2015/07/rowhammer_security_exploit_why_a_new_security_attack_is_truly_terrifying.html">Slate</a>]
+
+        [<a href="http://www.heise.de/security/meldung/Rowhammer-jetzt-auch-mit-JavaScript-Sicherheitsleck-durch-Software-Angriff-auf-DRAM-Chips-2764021.html">Heise</a>]
+
+        [<a href="http://www.heise.de/ct/artikel/Der-Hammer-mit-dem-Rowhammer-2764420.html">c't</a>]
+
+        [<a href="http://motherboard.vice.com/read/rowhammerjs-is-the-most-ingenious-hack-ive-ever-seen">Vice</a>]
+
+        [<a href="https://en.wikipedia.org/wiki/Rowhammer.js">Wikipedia</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/flushflush.pdf">Flush+Flush: A Fast and Stealthy Cache Attack</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Clémentine Maurice, Klaus Wagner, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>DIMVA'16</b>, Donostia-San Sebastián, Spain, July 7-8, 2016 (AR: 31.8%).</span>
+         
+      <span class="links">
+
+        [<a href="http://dimva2016.mondragon.edu/en">Conference</a>]
+
+        [<a href="http://arxiv.org/abs/1511.04594">Pre-print (Nov'15)</a>]
+
+        [<a href="https://github.com/IAIK/flush_flush">Github</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2015
+        </span><br/>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="/files/dedup.pdf">Practical Memory Deduplication Attacks in Sandboxed Javascript</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, David Bidner, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>ESORICS'15</b>, Vienna, Austria, September 23-25, 2015 (AR: 20.1%).</span>
+         
+      <span class="links">
+
+        [<a href="http://esorics2015.sba-research.org/">Conference</a>]
+
+        [<a href="esorics_15_slides.pdf">Slides</a>]
+
+        [<a href="http://crap.solutions/bac.html">PoC by David Bidner</a>]
+
+      </span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-file-pdf-o"></i> 
+        <a href="https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-gruss.pdf">Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches</a>
+</span><br/>
+<span class="authors">
+<b>Daniel Gruss</b>, Raphael Spreitzer, Stefan Mangard.
+      </span>   
+<br/>
+<span class="venue"><b>24th USENIX Security Symposium</b>, Washington, D.C., USA, August 12-14, 2015 (AR: 15.7%).</span>
+         
+      <span class="links">
+
+        [<a href="https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss">Session</a>]
+
+        [<a href="https://www.youtube.com/watch?v=IpaPMdscMQs">Lightning Talk</a>]
+
+        [<a href="https://www.usenix.org/sites/default/files/conference/protected-/files/sec15_slides_gruss.pdf">Slides</a>]
+
+        [<a href="https://github.com/IAIK/cache_template_attacks">Github</a>]
+
+      </span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="awards">
+<h2>Awards</h2>
+<ul>
+<li><a href="https://www.ieee-security.org/TC/SP2019/awards.html">IEEE Symposium on Security and Privacy Distinguished Paper Award for "Spectre Attacks: Exploiting Speculative Execution", 2019</a></li>
+<li><a href="https://www.tugraz.at/en/studying-and-teaching/teaching-at-tu-graz/prize-for-excellence-in-teaching/">Prize for Excellence in Teaching with the course "Operating Systems" (Graz University of Technology) 2017/2018</a></li>
+<li><a href="https://www.sigsac.org/award/diss-awards.html">ACM SIGSAC Doctoral Dissertation Award for outstanding PhD theses in Computer and Information Security 2017</a></li>
+<li><a href="https://gi.de/meldung/daniel-gruss-und-aemin-baumeler-mit-dissertationspreis-der-gesellschaft-fuer-informatik-ausgezeichnet/">GI-Dissertationspreis for the best PhD thesis in computer science in German-speaking countries 2017</a></li>
+<li><a href="http://history.tugraz.at/alumni/auszeichnungen/foerderpreistraeger/">Forum for Technology and Society (Graz University of Technology) Award for the best PhD thesis with particular Societal Relevance 2017</a></li>
+<li><a href="http://blog.ocg.at/2018/06/hzp2018/">Heinz Zemanek Award for the best PhD thesis in Computer Science in Austria 2016/2017</a></li>
+<li><a href="#">Best Bachelor Thesis Award 2010/2011 (Institute of Applied Information Processing and Communications, Graz University of Technology)</a></li>
+</ul>
+</div>
+<div id="presentations">
+<h2>Presentations</h2>
+<table class="table">
+<tbody>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2019
+        </span><br/>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/sibenik2019_transient.pdf">Transient Execution Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Summer School on Real-World Crypto and Privacy, Šibenik, Croatia, June 17-21, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/sibenik2019_uarch.pdf">Introduction to Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Summer School on Real-World Crypto and Privacy, Šibenik, Croatia, June 17-21, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/intel2019scap.pdf">Hardware-Software Co-Design to Eliminate Cache Leakage</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk with Lukas Giner @ Intel Side Channel Academic Program (SCAP) Annual Meeting, Hillsboro, OR, US, June 11-13, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Training @ RuhrSec, Bochum, Germany, May 27-29, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/voice_berlin19.pdf">Meltdown, Spectre, ZombieLoad</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ VOICE CISO Meeting Berlin, Graz, Austria, May 16, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          April
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/linuxtage19.pdf">A Christmas Carol - The Spectres of the Past, Present, and Future</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ Grazer Linuxtage, Graz, Austria, April 26-27, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          March
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/letscluster19.pdf">Software-based Microarchitectural Attacks: What do we learn from Meltdown and Spectre?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ #LetsCluster, Graz, Austria, March 26, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/dresden19.pdf">How the Hardware undermines Software Security</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Keynote @ ACM EuroSec'19 Workshop, Dresden, Germany, March 25, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          February
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/mit19.pdf">Microarchitectural Attacks and Beyond</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ CSAIL, MIT, Cambridge, MA, USA, February 21, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/boston19.pdf">Microarchitectural Security</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Keynote @ Boston University Red Hat Collaboratory Microarchitecture Workshop, Boston, MA, USA, February 20, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          January
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/sbaprime19.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ SBAPrime, Vienna, Austria, January 23, 2019</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2018
+        </span><br/>
+<span class="date-month">
+          December
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/rowhammer_35c3.pdf">A Christmas Carol - The Spectres of the Past, Present, and Future</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Michael Schwarz and Moritz Lipp @ 35th Chaos Communication Congress, Leipzig, Germany, December 27-30, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Meltdown, Spectre and Beyond</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ The Digital Society Conference 2018: Empowering Ecosystems, Berlin, Germany, December 10-11, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          November
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Microarchitectural Attacks: What do we learn from Meltdown and Spectre?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Keynote @ inday students 2018, Innsbruck, Austria, November 29, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Transient Execution Attacks: Meltdown, Spectre, and how to mitigate them</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ German OWASP Day 2018, Muenster, Germany, November 20, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          October
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Microarchitectural Attacks: What do we learn from Meltdown and Spectre?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Aarhus University CS Colloqium, Aarhus, Denmark, October 26, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cryptacus18.pdf">Recent Developments in Microarchitectural Attacks: Meltdown, Spectre, and Rowhammer</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Conference on Cryptanalysis in Ubiquitous Computing Systems (CRYPTACUS), Rennes, France, September 18 - September 20, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/riscure18.pdf">Software-based Microarchitectural Attacks: Meltdown and Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Riscure User Workshop 2018, Amsterdam, Netherlands, September 13 - September 14, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/vusec18.pdf">Transient Execution Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ VUsec, Amsterdam, Netherlands, September 12, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/ches18.pdf">(Why) Are Microarchitectural Attacks Really Different than Physical Side-Channel Attacks?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ CHES (Conference on Cryptographic Hardware and Embedded Systems) 2018, Amsterdam, Netherlands, September 9 - September 12, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/gsw18lab.pdf">Side-Channel Lab</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Lab @ Graz Security Week 2018, Graz, Austria, September 3 - September 7, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/gsw18.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Graz Security Week 2018, Graz, Austria, September 3 - September 7, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/gddg18.pdf">Hacking (in) Games - Protecting your Games and your Gamers</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk with Michael Schwarz @ Game Dev Days Graz 2018, Graz, Austria, August 31 - September 2, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/us-18-Gruss-Another-Flip-In-The-Row.pdf">Another Flip in the Row</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Moritz Lipp and Michael Schwarz @ BlackHat USA 2018, Las Vegas, USA, August 4 - August 9, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/bhusa2018_meltdown_slides.pdf">Meltdown: Basics, Details, Consequences</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Moritz Lipp and Michael Schwarz @ BlackHat USA 2018, Las Vegas, USA, August 4 - August 9, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/nijmegen2018.pdf">Microarchitectural Attacks: From the Basics to Arbitrary Read and Write Primitives without any Software Bugs</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ Radboud University Digital Security Group, Nijmegen, Netherlands, June 19, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/acsd2018.pdf">Microarchitectural Attacks: From the Basics to Arbitrary Read and Write Primitives without any Software Bugs</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Austrian Computer Science Day, Salzburg, Austria, June 15, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Shortlisted Candidate Talk @ Forum Technik und Gesellschaft, Received the Graz University of Technology Förderpreis 2017/18 (Best Dissertation), Graz, Austria, June 6, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/oecg_2018.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Shortlisted Candidate Talk @ Oesterreichische Computer Gesellschaft, Received the Heinz Zemanek Preis for the Best Dissertation in Computer Science in Austria in 2016/2017, Vienna, Austria, May 30, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Fehlerfreie Software und trotzdem unsicher? Eine Einführung in die Mikroarchitekturangriffe anhand von Meltdown, Spectre, und Rowhammer</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ Monat der freien Bildung, Graz, Austria, May 25, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/ruhrsec2018.pdf">The Story of Meltdown and Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ RuhrSec, Bochum, Germany, May 17-18, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/gdi_2018.pdf">Software-basierte Mikroarchitekturangriffe</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Shortlisted Candidate Talk @ GI-Dissertationspreis 2017 Kolloquium, Dagstuhl, Germany, May 6-9, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          April
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/natixis.pdf">Microarchitectural Attacks: Meltdown and Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Natixis Open Day, Porto, Portugal, April 21, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cryptacus_training_2018.pdf">How to have a Meltdown</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Training @ CRYPTACUS Training School, Azores, Portugal, April 16-20, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cryptacus2018.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ CRYPTACUS Training School, Azores, Portugal, April 16-20, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/hotsos2018.pdf">Microarchitectural Attacks: From the Basics to Arbitrary Read and Write Primitives without any Software Bugs</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Symposium and Bootcamp on the Science of Security (HotSoS), Raleigh, NC, USA, April 10-11, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          March
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/rise2018.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ RISE Spring School, Cambridge, UK, March 28-29, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/apple2018.pdf">Software-based Microarchitectural Attacks: What do we learn from Meltdown and Spectre?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ Apple, Cupertino, California, USA, March 27, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/insomnihack2018.pdf">Microarchitectural Attacks and the Case of Meltdown and Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Insomni'hack, Geneva, Switzerland, March 22-23, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ Security and Privacy Group, University of Birmingham, UK, March 21, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Microarchitectural Attacks: Meltdown, Spectre, Rowhammer</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ King's College London, UK, March 20, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Microarchitectural Attacks: From the Basics to Arbitrary Read and Write Primitives without any Software Bugs</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ CISPA Saarland, Saarbrücken, Germany, March 16, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Microarchitectural Attacks: Meltdown, Spectre, Rowhammer</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Austrian Trust Circle der öffentlichen Verwaltung, Salzburg, Austria, March 1, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          February
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Kurzüberblick zu Meltdown und Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Digitaldialog, Graz, Austria, February 27, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/necs2018.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ NeCS Cyber Security Winter School, Trento, Italy, February 12-16, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/msr2018.pdf">Microarchitectural Attacks: From the Basics to Arbitrary Read and Write Primitives</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ Microsoft Research Cambridge, UK, February 05, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          January
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cert_overview.pdf">Brief Overview on Meltdown and Spectre</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Talk @ European Government CERT Meeting, Vienna, Austria, January 26, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/google_js_slides.pdf">Microarchitectural Attacks and Defenses in JavaScript</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk (Joint presentation with Moritz Lipp and Michael Schwarz) @ Google, Munich, Germany, January 25, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/beyond_belief.pdf">Beyond Belief: The Case of Spectre and Meltdown</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Keynote (Joint presentation with Moritz Lipp and Michael Schwarz) @ BlueHat IL, Tel Aviv, Israel, January 24, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cert_stammtisch.pdf">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ CERT.at IT Security Stammtisch, Vienna, Austria, January 10, 2018</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2017
+        </span><br/>
+<span class="date-month">
+          November
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/sgxdesignflaws.pdf">Why SGX design flaws hinder its application in cloud computing</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ Workshop on Cryptography for the Internet of Things and Cloud, Bochum, Germany, November 06-07, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          October
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/omc2.pdf">Oh my Cache! 2 - More fun with caches.</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ QSP Lab, University of Innsbruck, Innsbruck, Austria, October 13, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          September
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cashattacks.pdf">Cash Attacks on SGX</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk (Joint presentation with Michael Schwarz) @ Breaking Bitcoin, Paris, France, September 09-10, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          June
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/sba.pdf">Rowhammer Attacks: An Extended Walkthrough Guide</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ SBA Research, Vienna, Austria, June 27, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          May
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">How processor performance is tied to side-channel leakage: With great speed comes great leakage</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Moritz Lipp @ Qualcomm Mobile Security Summit, San Diego, CA, USA, May 18-19, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Rowhammer Attacks: A Walkthrough Guide</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Clémentine Maurice @ RuhrSec, Bochum, Germany, May 4-5, 2017</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2016
+        </span><br/>
+<span class="date-month">
+          October
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/microarchitecturalincontinence.pdf">Microarchitectural Incontinence - You would leak too if you were so fast!</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited talk @ 13th Hacktivity conference, Budapest, Hungary, October 21-22, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Oh my Cache! - Introduction to having fun with your Cache.</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ QSP Lab, University of Innsbruck, Innsbruck, Austria, October 21, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          August
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Microarchitectural Attacks (and what we can do against them)</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ Constructive Security Group, Microsoft Research Cambridge, UK, August 25, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Microarchitectural Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Guest Talk @ Qualcomm, San Diego, California, USA, August 8, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="https://www.blackhat.com/us-16/briefings.html">Using Undocumented CPU Behavior to See into Kernel Mode and Break KASLR in the Process</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Anders Fogh @ BlackHat USA 2016, Las Vegas, USA, July 30 - August 4, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          April
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/cache_and_rowhammer_ruhrsec.pdf">Cache Side-Channel Attacks and the case of Rowhammer</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited talk @ RuhrSec, Bochum, Germany, April 28-29, 2016</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-year">
+          2015
+        </span><br/>
+<span class="date-month">
+          December
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="/files/rowhammer_32c3.pdf">Rowhammer.js: Root privileges for web apps?</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Joint presentation with Clémentine Maurice @ 32nd Chaos Communication Congress, Hamburg, Germany, December 27-30, 2015</span>
+</td>
+</tr>
+<tr>
+<td>
+<span>
+<span class="date-month">
+          November
+        </span>
+</span>
+</td>
+<td class="publication">
+<span class="pubtitle">
+<i class="fa fa-television"></i> 
+        <a href="#">Software-based Side-Channel and Fault Attacks</a>
+</span><br/>
+<span class="venuetype"></span>
+<span class="venue">Invited Talk @ MooseCon 2015, Palo Alto, California, USA, November 19-20, 2015</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="service">
+<h2>Service</h2>
+<ul>
+<li>Technical Program Committee: SEC'20, TCHES'20, WOOT'19, SEC'19, CARDS'19, BlueHat IL'19, CCS'18, WOOT '18, WOOT'19, SPACE'18, WoSSCA'18, Kangacrypt'18</li>
+<li>Reviewer: AJSE, PLOS ONE, IET Information Security</li>
+<li>External Reviewer: PoPETS'18, DIMVA'17, EUROCRYPT'17, CHES'16, CT-RSA'16, DATE'16, CT-RSA'15, DATE'15, Indocrypt'15</li>
+<li>On-site organization: COSADE'16</li>
+</ul>
+</div>
+</div>
+</div> <!-- /bodytext -->
+</div> <!-- /column -->
+</body>

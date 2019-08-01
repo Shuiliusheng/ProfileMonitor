@@ -1,0 +1,862 @@
+http://cwfletcher.net/Pages/Research.php
+<body>
+<div class="wrapper">
+<div class="outer-container">
+<div class="inner-container" style="Z-INDEX: 100; LEFT: 0px; POSITION: absolute; TOP: 64px">
+<div class="header">
+<div class="title">
+<span class="sitename">
+<font face="Tahoma" size="6">Christopher W. Fletcher</font>
+</span>
+<div class="slogan"></div>
+</div>
+</div>
+<div class="path">
+<a href="/Pages/About.php"><font size="+1">About</font></a> 
+<!--<a href="/Pages/News.php">News</a>&nbsp;-->
+<a href="/Pages/Research.php"><font size="+1">Research</font></a> 
+<a href="/Pages/Students.php"><font size="+1">Students</font></a> 
+<a href="/Pages/Teaching.php"><font size="+1">Teaching</font></a> 
+<!--<a href="/Pages/Volunteer.php">Volunteer</a>&nbsp;-->
+<!--<a href="/Pages/Thoughts.php">Thoughts</a>&nbsp;-->
+<!--<a href="/Pages/OldProjects.php">Old Projects</a>&nbsp;-->
+<a href="/Pages/Misc.php"><font size="+1">Misc</font></a> 
+<!--<a href="/Pages/About.php">About</a>-->
+</div>
+<div class="main" id="main">
+<div class="content">
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!-- Content                                                           -->
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<h1>Research</h1>
+<br/>
+<div id="Introduction">
+
+I am a computer architect with broad interests in security (from applied cryptography to hardware-based attacks and defenses) and machine learning/tensor processing.  Here is my <a href="https://drive.google.com/open?id=1fgPqbHUce5TOl6cWfp7S1fBuu3AOSOra"><b>CV</b></a> and <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F5_AmcczTdOomMSky8FboycbmG2JW8ZE-CtNg7UNmDgjvZ-gxmSqbWnOThRabN-NdmkneQd3lFYX5BE2fONTrFdmSz8TQ&amp;user=QRw9-IYAAAAJ"><b>Google scholar</b></a> profile.
+<br/>
+<br/>
+Here are a few recent papers that give a sense of our current work:
+<br/>
+<br/>
+<ol>
+<li><b>Security, Attacks:</b> <a href="http://cwfletcher.net/Content/Publications/Academics/Papers/microscope_isca19.pdf">MicroScope: Enabling Microarchitectural Replay Attacks</a></li>
+<li><b>Security, Defenses:</b> <a href="https://eprint.iacr.org/2018/808">Data Oblivious ISA Extensions for Side Channel-Resistant and High Performance Computing</a> (extended version, also a bit sharper than the conference version)</li>
+<li><b>Domain-specific acceleration:</b> <a href="https://arxiv.org/abs/1804.06508">UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition</a></li>
+</ol>
+<br/> 
+We are very fortunate to maintain multiple collaborations with both Intel and NVIDIA.  With Intel, I lead a multi-university Intel Strategic Research Alliance (ISRA) center to study microarchitectural side channels (<a href="http://cwfletcher.net/Content/Pictures/isra-year1.jpg">year 1 retreat group photo</a>).
+<br/>
+<br/>
+During my PhD, my focus was Architecture + Security, and our work spanned taping out a secure processor to designing asymptotically better cryptography.  Here are two representative papers:
+<br/>
+<br/>
+<ol>
+<li><b>Theory:</b> <a href="https://eprint.iacr.org/2015/005.pdf">Onion ORAM: A Constant Bandwidth Blowup Oblivious RAM</a></li>
+<li><b>Practice:</b> <a href="https://people.csail.mit.edu/devadas/pubs/ascend-chip.pdf">Design and Implementation of the Ascend Secure Processor</a></li>
+</ol>
+<br/>
+Also, <a href="http://cwfletcher.net/Content/598/ascend_whitepaper.pdf">here</a> is a 1-pager on the Ascend project that expounds my philosophy in secure hardware design.
+
+<br/>
+<br/>
+<h1>Navigation</h1>
+<ol>
+<li><a href="/Pages/Research.php#prpapers">Peer-reviewed papers</a>
+<li><a href="/Pages/Research.php#patents">Patents</a>
+<li><a href="/Pages/Research.php#theses">Theses</a>
+<li><a href="/Pages/Research.php#miscpapers">Misc. papers (e.g., eprints)</a>
+<li><a href="/Pages/Research.php#blogs">Academic blogs</a>
+<li><a href="/Pages/Research.php#press">Selected press</a>
+<li><a href="/Pages/Research.php#talks">Talks</a>
+<li><a href="/Pages/Research.php#posters">Posters</a>
+<li><a href="/Pages/Research.php#funding">Funding</a>
+<li><a href="/Pages/Research.php#resources">Tutorials/Misc. Resources</a>
+</li></li></li></li></li></li></li></li></li></li></ol>
+<!--<h1>Selected Projects</h1>
+<br>
+<center>
+<table border="0">
+	<tr>
+		<td>
+			<a href='./SystemsBiologyPic.php'> 
+				<img border="0" height="200"  src="/Content/Publications/Images/SystemsBiologyPic.jpg">
+			</a>
+		</td>
+		<td width="50"></td>
+		<td>
+				<img border="0" height="200"  src="/Content/Publications/Images/HCoresPic.jpg">
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href='./Projects/SystemsBiology.php'>Systems Biology</a></td>
+		<td width="50"></td>
+		<td align="center"><a href='./Projects/HCores.php'>High-{throughput, performance} <br> Reconfigurable Architectures</a></td>
+	</tr>
+</table>
+</center>
+<br>
+-->
+<!--<h1>Journals</h1>
+<br>
+<ol>
+
+	<br>
+
+</ol>
+<br> -->
+<br/>
+<h1>Extra Cool Stuff</h1>
+<a href="/Content/Publications/Academics/Presentations/chip_detailed.png">
+<img align="right" alt="Chip thumbnail" src="/Content/Publications/Academics/Presentations/chip_thumbnail.jpg" style="width:228px;height:228px;"/>
+</a>
+<br/>
+In March 2015, in a collaboration with David Wentzlaff's group at Princeton, we taped out a 25 core Ascend (aka Piton) processor in a 32nm process.  Click the picture to get a blowup.  The ORAM controller came out to about 1mm^2.  For the final layout, we were very conservative at the top level, so the 'real' area is somewhere between .5-1mm^2.  
+<br/>
+<br/>
+<font color="green" size="3"><b>Bring-up:</b></font> The ORAM successfully passed its self tests on bring-up!  The ORAM runs at 857 MHz, dissipating 166 mW @ 1.1V!  To verify functionality, we have a traffic generator on the chip that simulates a last level cache miss pattern and supplies the ORAM with requests.  The ORAM/chip then talks to a Spartan6 FPGA which is connected over UART to a laptop.  The UART/laptop simulates a memory substrate such as DRAM.  For power measurements, we have a mode where the ORAM loops data back on itself (thus, 166 mW doesn't include the back-end I/O (e.g., DRAM) controller--it is made up of the logic and SRAM power in the ORAM core itself).  See here for a <a href="/Content/Publications/Academics/Presentations/chip_selfie.jpeg">chip selfie</a><!--and <a href="http://youtu.be/wcM5QAxPkAo">here</a> for a video-->.  See <a href="/Content/Publications/Academics/Presentations/log500MHz.txt">here</a> for the transcript of the first 2 accesses ("received from chip..." is ciphertext received from the ORAM).
+<br/>
+<br/>
+A paper describing the design can be found <a href="https://people.csail.mit.edu/devadas/pubs/ascend-chip.pdf">here</a>.  The ORAM controller RTL is open source <a href="https://github.com/ascend-secure-processor/oram">here</a>.
+<br/>
+<br/>
+<h1 id="prpapers">Peer-Reviewed Papers</h1>
+<br/>
+<b>Color code:</b> <font color="blue"><b>Blue:</b></font> conference, <font color="green"><b>Green:</b></font> journal, <font color="purple"><b>Purple:</b></font> workshop.
+<br/>
+<br/>
+<b>Top architecture conferences:</b> ASPLOS, HPCA, ISCA, MICRO
+<br/>
+<b>Top security conferences:</b> CCS, NDSS, Oakland/SP, USENIX Security
+<br/>
+<br/>
+<ol>
+<li>
+<b>ExTensor: An Accelerator for Sparse Tensor Algebra;</b>
+		Kartik Hegde, Hadi Asghari-Moghaddam, Michael Pellauer, Neal Crago, Aamer Jaleel, Edgar Solomonik, Joel Emer, Christopher W. Fletcher;            
+		<font color="blue"><b>MICRO</b></font>, 2019
+  </li>
+<br/>
+<li>
+<b>Speculative Taint Tracking (STT): A Comprehensive Protection for Transiently Accessed Secrets;</b>
+    Jiyong Yu, Mengjia Yan, Artem Khyzha, Adam Morrison, Josep Torrellas, Christopher W. Fletcher;            
+		<font color="blue"><b>MICRO</b></font>, 2019
+  </li>
+<br/>
+<li>
+<b>A Retrospective on Path ORAM;</b>
+		Emil Stefanov, Marten van Dijk, Elaine Shi, Christopher W. Fletcher, Ling Ren, Xiangyao Yu, Srinivas Devadas;            
+		<font color="green"><b>IEEE TCAD</b></font>, 2019
+  </li>
+<br/>
+<li>
+<b>Approximate Checkers;</b>
+		Abdulrahman Mahmoud, Paul Reckamp, Panqiu Tang, Christopher W. Fletcher, Sarita V. Adve;            
+		<font color="purple"><b>WAX</b></font>, 2019
+  </li>
+<br/>
+<li>
+<b>MicroScope: Enabling Microarchitectural Replay Attacks;</b>
+		Dimitrios Skarlatos, Mengjia Yan, Bhargava Gopireddy, Read Sprabery, Josep Torrellas, Christopher W. Fletcher;            
+		<font color="blue"><b>ISCA</b></font>, 2019
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/dskarlatos/MicroScope">here</a></b></font>
+<br/>
+<font color="#DF0101"><b>Highest ranked paper in double-blind review process</b></font>
+</li>
+<br/>
+<li>
+<b>SecDir: Secure Directories to Defeat Directory Side Channel Attacks;</b>
+		Mengjia Yan, Jen-Yang Wen, Christopher W. Fletcher, Josep Torrellas;            
+		<font color="blue"><b>ISCA</b></font>, 2019
+  </li>
+<br/>
+<li>
+<b>gem5-Approxilyzer: an Open Source Tool for Application-level Soft Error Analysis;</b>
+		Radha Venkatagiri, Khalique Ahmed, Abdulrahman Mahmoud, Sasa Misailovic, Darko Marinov, Christopher W. Fletcher, and Sarita V. Adve;            
+		<font color="blue"><b>DSN</b></font>, 2019
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/rsimgroup/gem5-Approxilyzer">here</a></b></font>
+</li>
+<br/>
+<li>
+<b>Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration;</b>
+		Michael Pellauer, Yakun Sophia Shao, Jason Clemons, Neal Crago, Kartik Hegde, Rangarajan Venkatesan, Stephen W. Keckler, Christopher W. Fletcher, Joel Emer;            
+		<font color="blue"><b>ASPLOS</b></font>, 2019
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/cwfletcher/buffets">here</a></b></font>
+</li>
+<br/>
+<li>
+<b>Minotaur: Adapting Software Testing Techniques for Hardware Errors;</b>
+		Abdulrahman Mahmoud, Radha Venkatagiri, Khalique Ahmed, Sasa Misailovic, Darko Marinov, Christopher W. Fletcher, Sarita V. Adve;            
+		<font color="blue"><b>ASPLOS</b></font>, 2019
+	</li>
+<br/>
+<li>
+<b>Data Oblivious ISA Extensions for Side Channel-Resistant and High Performance Computing;</b>
+		Jiyong Yu, Lucas Hsiung, Mohamad El Hajj, Christopher W. Fletcher;            
+		<font color="blue"><b>NDSS</b></font>, 2019
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/cwfletcher/oisa">here</a></b></font>
+<br/>
+<font color="#DF0101"><b>Distinguished Paper Finalist</b></font>
+</li>
+<br/>
+<li>
+<b>Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World;</b>
+		Mengjia Yan, Read Sprabery, Bhargava Gopireddy, Christopher W. Fletcher, Roy Campbell, Josep Torrellas;            
+		<font color="blue"><b>Oakland/SP</b></font>, 2019
+	</li>
+<br/>
+<li>
+<b>InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy;</b>
+		Mengjia Yan, Jiho Choi, Dimitrios Skarlatos, Adam Morrison, Christopher W. Fletcher, Josep Torrellas;            
+		<font color="blue"><b>MICRO</b></font>, 2018
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/mjyan0720/InvisiSpec-1.0">here</a></b></font>
+<br/>
+<font color="#DF0101"><b>IEEE Micro's Top Picks 2019 Honorable Mention</b></font>
+<br/>
+</li>
+<br/>
+<li>
+<b>Morph: Flexible Acceleration for 3D CNN-based Video Understanding;</b>
+		Kartik Hegde, Rohit Agrawal, Yulun Yao, Christopher W. Fletcher;            
+		<font color="blue"><b>MICRO</b></font>, 2018
+	</li>
+<br/>
+<li>
+<b>UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition;</b>
+		Kartik Hegde, Jiyong Yu, Rohit Agrawal, Mengjia Yan, Michael Pellauer, Christopher W. Fletcher;            
+		<font color="blue"><b>ISCA</b></font>, 2018
+	</li>
+<br/>
+<li>
+<b>Path ORAM: An Extremely Simple Oblivious RAM Protocol;</b>
+		Emil Stefanov, Marten van Dijk, Elaine Shi, T-H Hubert Chan, Christopher W. Fletcher, Ling Ren, Xiangyao Yu, Srinivas Devadas;            
+		<font color="green"><b>JACM</b></font>, 2018
+	</li>
+<br/>
+<li>
+<b>ZeroTrace: Oblivious Memory Primitives from Intel SGX;</b>
+		 Sajin Sasy, Sergey Gorbunov, Christopher W. Fletcher;
+		 <font color="blue"><b>NDSS</b></font>, 2018
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/sshsshy/ZeroTrace">here</a></b></font>
+</li>
+<br/>
+<li>
+<b>Design and Implementation of the Ascend Secure Processor;</b>
+		 Ling Ren, Christopher W. Fletcher, Albert Kwon; Marten van Dijk; Srinivas Devadas;
+		 <font color="green"><b>IEEE TDSC</b></font>, 2017
+	</li>
+<br/>
+<li>
+<b>Asymptotically tight bounds for composing ORAM with PIR;</b>
+		 Kartik Nayak, Ling Ren, Christopher W. Fletcher, Ittai Abraham, Benny Pinkas;
+		 <font color="blue"><b>PKC</b></font>, 2017
+	</li>
+<br/>
+<li>
+<b>HOP: Hardware makes Obfuscation Practical;</b>
+		 Kartik Nayak, Christopher W. Fletcher, Ling Ren, Nishanth Chandran, Satya Lokam, Elaine Shi, Vipul Goyal;
+		 <font color="blue"><b>NDSS</b></font>, 2017
+    <br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/kartik1507/hop">here</a></b></font>
+</li>
+<br/>
+<li>
+<b>Onion ORAM: A Constant Bandwidth Blowup Oblivious RAM;</b>
+		 Srinivas Devadas, Marten van Dijk, Christopher W. Fletcher, Ling Ren, Elaine Shi, Daniel Wichs;
+		 <font color="blue"><b>TCC</b></font>, 2016; (Alphabetical authors, L. Ren and I shared lead author)
+	</li>
+<br/>
+<li>
+<b>Constants Count: Practical Improvements to Oblivious RAM;</b>
+		Ling Ren, Christopher W. Fletcher, Albert Kwon, Emil Stefanov, Elaine Shi, Marten van Dijk, Srinivas Devadas;
+		<font color="blue"><b>USENIX Security</b></font>, 2015
+	</li>
+<br/>
+<li>
+<b>PrORAM: Dynamic Prefetcher for Oblivious RAM;</b>
+		Xiangyao Yu, Syed Kamran Haider, Ling Ren, Christopher W. Fletcher, Albert Kwon, Marten van Dijk, Srinivas Devadas;            
+		<font color="blue"><b>ISCA</b></font>, 2015
+		<br/>
+</li>
+<br/>
+<li>
+<b>A Low-Latency, Low-Area Hardware Oblivious RAM Controller;</b>
+		Christopher W. Fletcher, Ling Ren, Albert Kwon, Marten van Dijk, Emil Stefanov, Dimitrios Serpanos, Srinivas Devadas;            
+		<font color="blue"><b>FCCM</b></font>, 2015
+	</li>
+<br/>
+<li>
+<b>Freecursive ORAM: [Nearly] Free Recursion and Integrity Verification for Position-based Oblivious RAM;</b>
+		Christopher W. Fletcher, Ling Ren, Albert Kwon, Marten van Dijk, Srinivas Devadas;            
+		<font color="blue"><b>ASPLOS</b></font>, 2015 
+		<br/>
+<font color="#FFA500"><b>Open source release <a href="https://github.com/ascend-secure-processor/oram">here</a></b></font>
+<!--; preliminary versions: <a href="https://eprint.iacr.org/2014/431">this</a> and <a href="https://eprint.iacr.org/2014/205">this</a>-->
+<br/>
+</li>
+<br/>
+<li>
+<b>Suppressing the Oblivious RAM Timing Channel While Making Information Leakage and Program Efficiency Trade-offs;</b>
+		Christopher W. Fletcher, Ling Ren, Xiangyao Yu, Marten van Dijk, Omer Khan, Srinivas Devadas;            
+		<font color="blue"><b>HPCA</b></font>, 2014
+		<br/>
+</li>
+<br/>
+<li>
+<b>Path ORAM: An Extremely Simple Oblivious RAM Protocol;</b>
+		Emil Stefanov, Marten van Dijk, Elaine Shi, Christopher W. Fletcher, Ling Ren, Xiangyao Yu, Srinivas Devadas;            
+		<font color="blue"><b>CCS</b></font>, 2013 <!--; preliminary versions: <a href="http://eprint.iacr.org/2013/280.pdf">this</a> and <a href="http://arxiv.org/abs/1202.5150">this</a>-->
+<br/>
+<font color="#DF0101"><b>Best Student Paper Award</b></font>
+<br/>
+<font color="#DF0101"><b>Top Picks in Hardware &amp; Embedded Security 2018</b></font>
+<br/>
+</li>
+<br/>
+<li>
+<b>Generalized External Interaction with Tamper-Resistant Hardware with Bounded Information Leakage;</b>
+		Xiangyao Yu, Christopher W. Fletcher, Ling Ren, Marten van Dijk, Srinivas Devadas;
+		<font color="purple"><b>CCSW</b></font>, 2013 <!--; preliminary version: <a href="http://csg.csail.mit.edu/pubs/memos/Memo-509/memo509.pdf">CSG Technical Memo 509</a>-->
+<br/>
+</li>
+<br/>
+<li>
+<b>A Framework to Accelerate Sequential Programs on Homogeneous Multicores;</b>
+		Christopher W. Fletcher, Rachael Harding, Omer Khan, Srinivas Devadas;            
+		<font color="blue"><b>VLSI SoC</b></font>, 2013
+		<br/>
+</li>
+<br/>
+<li>
+<b>Integrity Verification for Path Oblivious-RAM;</b>
+		Ling Ren, Christopher W. Fletcher, Xiangyao Yu, Marten van Dijk, Srinivas Devadas;
+		<font color="blue"><b>HPEC</b></font>, 2013
+		<br/>
+</li>
+<br/>
+<li>
+<b>Design Space Exploration and Optimization of Path Oblivious RAM in Secure Processors;</b>
+		Ling Ren, Xiangyao Yu, Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<font color="blue"><b>ISCA</b></font>, 2013 <!--; preliminary version: <a href="http://eprint.iacr.org/2013/076.pdf">Cryptology ePrint Archive (IACR), Report 2013/076</a>-->
+<br/>
+</li>
+<br/>
+<li>
+<b>Towards an Interpreter for Efficient Encrypted Computation;</b>
+		Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<font color="purple"><b>CCSW</b></font>, 2012 <!--;  preliminary version: <a href="http://eprint.iacr.org/2012/266.pdf">Cryptology ePrint Archive (IACR), Report 2012/266</a>-->
+<br/>
+</li>
+<br/>
+<li>
+<b>A Secure Processor Architecture for Encrypted Computation on Untrusted Programs;</b>
+		Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<font color="purple"><b>STC</b></font>, 2012
+		<br/>
+</li>
+<br/>
+<li>
+<b>HORNET: a cycle-level multicore simulator;</b>
+		Pengju Ren, Mieszko Lis, Myong Hyon Cho, Keun Sup Shim, Christopher W. Fletcher, Omer Khan, Nanning Zheng, Srinivas Devadas;
+		<font color="green"><b>IEEE TCAD</b></font>, Vol. 31, No. 6, June 2012
+	</li>
+<br/>
+<li>
+<b>A Low-overhead Dynamic Optimization Framework on Multicores;</b>
+		Christopher W. Fletcher, Rachael Harding, Omer Khan, Srinivas Devadas;
+		<font color="blue"><b>PACT</b></font> (short paper), 2012
+		<br/>
+</li>
+<br/>
+<li>
+<b>Exploring Many-core Design Templates for FPGAs and ASICs;</b>
+		Ilia Lebedev, <b>Christopher W. Fletcher</b>, Shaoyi Cheng, James Martin, Austin Doupnik, Daniel Burke, Mingjie Lin, John Wawrzynek;
+		<font color="green"><b>IJRC</b></font>, Article ID 439141, Volume 2012
+		<br/>
+<!--<i>Appears in the International Journal of Reconfigurable Computing (IJRC), Volume 2012 (2012), Article ID 439141, doi:10.1155/2012/439141</i><br>-->
+<!-- <font color="#DF0101">Invited Paper, peer reviewed</font> -->
+</li>
+<br/>
+<li>
+<b>Scalable Accurate Multicore Simulation in the 1000 core era;</b>
+		Mieszko Lis, Pengju Ren, Myong Hyon Cho, Keun Sup Shim, Christopher W. Fletcher, Omer Khan, Srinivas Devadas;
+		<font color="blue"><b>ISPASS</b></font>, 2011
+	</li>
+<br/>
+<li>
+<b>Brief Announcement: Distributed Shared Memory based on Computation Migration;</b>
+		Mieszko Lis, Keun Sup Shim, Myong Hyon Cho, Christopher W. Fletcher, Michel Kinsy, Ilia Lebedev, Omer Khan, Srinivas Devadas;
+		<font color="blue"><b>SPAA</b></font> (short paper), 2011
+		<br/>
+</li>
+<br/>
+<li>
+<b>Bridging the GPGPU-FPGA Efficiency Gap;</b>
+		Christopher W. Fletcher, Ilia Lebedev, Narges B. Asadi, Daniel R. Burke, John Wawrzynek;
+		<font color="blue"><b>ISFPGA</b></font> (short paper), 2011
+		<br/>
+</li>
+<br/>
+<li>
+<b>MARC: A Many-Core Approach to Reconfigurable Computing;</b> 
+		Ilia Lebedev, Shaoyi Cheng, Austin Doupnik, James Martin, Christopher W. Fletcher, Daniel Burke, Mingjie Lin, John Wawrzynek;
+		<font color="blue"><b>ReConFig</b></font>, 2010
+		<br/>
+</li>
+<br/>
+<li>
+<b><i>ParaLearn</i>: A Massively Parallel, Scalable System for Learning Interaction Networks on FPGAs;</b> 
+		Narges B. Asadi, Christopher W. Fletcher, Greg Gibeling, Karen Sachs, Eric Glass, Daniel Burke, Zoey Zhou, John Wawrzynek, Wing H. Wong, Garry P. Nolan;
+		<font color="blue"><b>ICS</b></font>, 2010; (N. Asadi and I shared lead author)
+		<br/>
+<font color="#DF0101"><b>Best Student Paper Award</b></font>
+<br/>
+</li>
+</ol>
+<br/>
+<h1 id="patents">Patents</h1>
+<br/>
+<ol>
+<li>
+<b>Technique for secure computation;</b>
+		Srinivas Devadas, Christopher W. Fletcher, Marten Van Dijk; 
+		Patent No. 8909967.
+		(Note: there is currently a bug where only Marten is listed as inventor.  The lawyers are fixing it...)
+	</li>
+</ol>
+<br/>
+<h1 id="theses">Theses</h1>
+<br/>
+<ol>
+<li>
+<b>Oblivious RAM: From Theory to Practice;</b>
+		Christopher W. Fletcher;
+		Ph.D. Thesis;
+		[<a href="/Content/Publications/Academics/Papers/thesis.pdf">Thesis</a>]<br/>
+<font color="#DF0101"><b>George M. Sprowls Award for outstanding Ph.D. thesis in CS at MIT</b></font>
+<br/>
+</li>
+<br/>
+<li>
+<b>Ascend: An Architecture for Performing Secure Computation on Encrypted Data;</b>
+		Christopher W. Fletcher;
+		S.M. Thesis;
+		[<a href="http://csg.csail.mit.edu/pubs/memos/Memo-508/memo508.pdf">CSG Technical Memo 508</a>]
+		<!--<i>(saved as CSG Technical Memo 508.  http://csg.csail.mit.edu/pubs/publications.html.)</i>-->
+<br/>
+</li>
+</ol>
+<br/>
+<h1 id="miscpapers">Other Tech Reports/Articles</h1>
+<br/>
+<ol>
+<li>
+<b>Cache telepathy: Leveraging shared resource attacks to learn DNN architectures;</b>
+		Mengjia Yan, <b>Christopher W. Fletcher</b>, Josep Torrellas;
+		<i>arXiv preprint arXiv:1808.04761</i>
+</li>
+<br/>
+<li>
+<b>Bucket ORAM: Single Online Roundtrip, Constant Bandwidth Oblivious RAM;</b>
+<b>Christopher W. Fletcher</b>, Muhammad Naveed, Ling Ren, Elaine Shi, Emil Stefanov;
+		<i>Cryptology ePrint Archive (IACR), Report 2015/1065, 2015.  http://eprint.iacr.org/</i>
+</li>
+<br/>
+<!--	<li>
+		<b>Onion ORAM: A Constant Bandwidth and Constant Client Storage ORAM (without FHE or SWHE);</b>
+		 Srinivas Devadas, Marten van Dijk, Christopher W. Fletcher, Ling Ren;
+		<i>Cryptology ePrint Archive (IACR), Report 2015/005, 2015.  http://eprint.iacr.org/; Alphabetical author list</i>
+	</li>
+	<br>
+	<li>
+		<b>Ring ORAM: Closing the Gap Between Small and Large Client Storage Oblivious RAM;</b>
+		Ling Ren, Christopher W. Fletcher, Albert Kwon, Emil Stefanov, Elaine Shi, Marten van Dijk, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2014/997, 2014.  http://eprint.iacr.org/.</i>
+	</li>
+	<br> -->
+<!--<li>
+		<b>RAW Path ORAM: A Low-Latency, Low-Area Hardware ORAM Controller with Integrity Verification;</b>
+		<b>Christopher W. Fletcher*</b>, Ling Ren*, Albert Kwon, Marten van Dijk, Emil Stefanov, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2014/431, 2014.  http://eprint.iacr.org/;</i> *: Co-lead authors
+	</li>
+	<br>-->
+<li>
+<b>[Author Retrospective] AEGIS: Architecture for Tamper-Evident and Tamper-Resistant Processing;</b>
+		G. Edward Suh, Christopher W. Fletcher, Dwaine Clarke, Blaise Gassend, Marten van Dijk, Srinivas Devadas;
+		<i>25 Years of the International Conference on Supercomputing, 2014.</i>
+</li>
+<br/>
+<!--<br>
+	<li>
+		<b>Enhancing Oblivious RAM Performance Using Dynamic Prefetching;</b>
+		Xiangyao Yu, Ling Ren, Christopher W. Fletcher, Albert Kwon, Marten van Dijk, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2014/234, 2014.  http://eprint.iacr.org/.</i>
+	</li>
+	<br>-->
+<!--<li>
+		<b>Unified Oblivious-RAM: Improving Recursive ORAM with Locality and Pseudorandomness;</b>
+		Ling Ren, Christopher W. Fletcher, Xiangyao Yu, Albert Kwon, Marten van Dijk, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2014/225, 2014.  http://eprint.iacr.org/.</i>
+	</li>
+	<br>-->
+<li>
+<b>Let's Stop Trusting Software With Our Sensitive Data;</b>
+		Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<i>IEEE Design and Test of ICs, March/April 2013. The Last Byte.</i>
+<br/>
+</li>
+<!--<br>
+	<li>
+		<b>Efficient Private Information Retrieval Using Secure Hardware;</b>
+		Xiangyao Yu, Christopher W. Fletcher, Ling Ren, Marten van Dijk, Srinivas Devadas;
+		[<a href="http://csg.csail.mit.edu/pubs/memos/Memo-509/memo509.pdf">CSG Technical Memo 509</a>]
+		<br>
+		<b>(Subsumed by the CCSW13 paper)</b>
+		<br>
+	</li>
+	<br>
+	<li>
+		<b>Design Space Exploration and Optimization of Path Oblivious RAM in Secure Processors;</b>
+		Ling Ren, Xiangyao Yu, Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2013/076, 2013.  http://eprint.iacr.org/.</i>
+		<br>
+		<b>(Subsumed by the ISCA13 paper)</b>
+		<br>
+	</li>
+	<br>
+	<li>
+		<b>Compilation Techniques for Efficient Encrypted Computation;</b>
+		Christopher W. Fletcher, Marten van Dijk, Srinivas Devadas;
+		<i>Cryptology ePrint Archive (IACR), Report 2012/266, 2012.  http://eprint.iacr.org/.</i>
+		<br>
+		<b>(Subsumed by the CCSW12 paper)</b>
+		<br>
+	</li>-->
+</ol>
+<br/>
+<h1 id="blogs">Academic Blogging</h1>
+<br/>
+<ol>
+<li>
+<b>Approaches to System Security: Using Cryptographic Techniques to Minimize Trust;</b> Sigarch blog [<a href="https://www.sigarch.org/approaches-to-system-security-using-cryptographic-techniques-to-minimize-trust/">article</a>]; with Simha Sethumadhavan.
+  </li>
+</ol>
+<br/>
+<h1 id="press">Selected Press</h1>
+<br/>
+<ol>
+<li>
+<b>Cybersecurity Factory nurtures early-stage startups in a tough field;</b> Fortune
+		[<a href="http://fortune.com/2015/06/26/cybersecurity-factory-nurtures-startups">article</a>]
+	</li>
+<br/>
+<li>
+<b>The Quest to Rescue Security Research From the Ivory Tower;</b> Wired
+		[<a href="http://www.wired.com/2015/07/quest-rescue-security-research-ivory-tower">article</a>]
+	</li>
+<br/>
+<li>
+<b>Cloud security reaches silicon;</b> MIT News
+		[<a href="http://newsoffice.mit.edu/2015/cloud-security-chips-0223">article</a>]
+	</li>
+<br/>
+<li>
+<b>Hardware Trick Could Keep Cloud Data Safe;</b> IEEE Spectrum
+		[<a href="http://spectrum.ieee.org/computing/hardware/hardware-trick-could-keep-cloud-data-safe/">article</a>]
+	</li>
+<br/>
+<li>
+<b>Devadas hardware disguises cloud servers memory-access patterns thwarting timing attacks;</b> CSAIL News
+		[<a href="http://www.eecs.mit.edu//news-events/media/csail-news-devadas-hardware-disguises-cloud-servers-memory-access-patterns">article</a>]
+	</li>
+<br/>
+<li>
+<b>Protecting data in the cloud;</b> MIT News
+		[<a href="http://newsoffice.mit.edu/2013/protecting-data-in-the-cloud-0702">article</a>]
+	</li>
+<br/>
+<li>
+<b>A New Type of Security Chip Guards Against Big Data Snooping;</b> Scientific American, <font color="#DF0101"><b>Ascend has been named a "World Changing Idea"!</b></font>
+		[<a href="http://www.nature.com/scientificamerican/journal/v309/n6/full/scientificamerican1213-46.html">article</a>]
+	</li>
+</ol>
+<br/>
+<h1 id="talks">Talks (ordered by project, then time)</h1>
+<br/>
+<!--<center>(See my <a href='/Content/Publications/About/CV.pdf'><b>CV</b></a> for a more consolidated list.)</center>
+<br> -->
+<ol>
+<li>
+<b>UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition; </b>Facebook Research, 7/24/2019
+    <br/>
+</li>
+<br/>
+<li>
+<b>Speculative Taint Tracking (STT): A Comprehensive Protection for Transiently Accessed Secrets</b>
+<ol id="numbered">
+<li>Intel SCAP Yearly Meeting, 6/11/2019</li>
+<li>Open Source Enclaves Workshop, Berkeley CA, 7/25/2019</li>
+</ol>
+</li>
+<br/>
+<li>
+<b>MicroScope: Enabling Microarchitectural Replay Attacks; </b>Intel Research Bi-Weekly SCAP Seminar Series, 5/14/2019
+    <br/>
+</li>
+<br/>
+<li>
+<b>Hardware Abstractions and Efficient Intersection for Tensor Algebra;</b>
+<ol id="numbered">
+<li>Workshop on Compiler Techniques for Sparse Tensor Algebra, 1/26/2019</li>
+<li>DARPA SDH Open Session, 5/6/2019</li>
+<li>Facebook Research, 7/24/2019</li>
+</ol>
+</li>
+<br/>
+<li>
+<b>Data Oblivious Programming and Data Oblivious ISAs</b>
+<ol id="numbered">
+<li>Open Source Enclaves Workshop, Berkeley CA, 8/29/2018</li>
+<li>International Workshop on Blockchain/Crypto Winterschool, Xi'an China, 12/10/2018</li>
+<li>Intel Research Bi-Weekly SCAP Seminar Series, 1/22/2019</li>
+<li>Intel SCAP Yearly Meeting, 6/11/2019</li>
+</ol>
+    [<a href="/Content/Publications/Academics/Presentations/Intel_oisa.pdf">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Attack Directories, Not Caches: Side Channel Attacks in a Non-Inclusive World;</b> AMD Weekly Seminar Series, 7/13/2018
+    <br/>
+    [<a href="https://drive.google.com/open?id=1dgSS7YYQL59Azn5D9a7roXTgisJdgUiS">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Systems-centric aspects in Holistic Defense against Information Leakage; </b>Plenary talk, NSF Workshop on Side and Covert Channels in Computing Systems, Washington D.C., 3/22/2018
+    <br/>
+    [<a href="https://drive.google.com/open?id=1JTzqNUSQRCTt9stMLS86OgCHU77eK6Ab">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Cryptography Can Outmaneuver Hardware;</b> Hardware Security Workshop at Columbia University, New York City, 8/31/2016
+	</li>
+<br/>
+<li>
+<b>The Ascend Secure Processor: Concept to Silicon Implementation</b>
+<ol id="numbered">
+<li>University of Illinois at Urbana-Champaign, 2/15/2016</li>
+<li>Stanford University, 2/23/2016</li>
+<li>Harvard University, 3/6/2016</li>
+<li>University of California--San Diego, 4/25/2016</li>
+<li>Nvidia Research, 7/14/2016</li>
+</ol>
+<br/>
+    I also gave subsets of this talk at:
+    <ol id="numbered">
+<li>CHASE Conference (Conference on Secure/Trustworthy Systems and Supply Chain Assurance), University of Connecticut, 6/1/2016</li>
+<li>DIMACS Workshop (Center for Discrete Mathematics and Theoretical Computer Science), MIT, 6/11/2016</li>
+</ol>
+<br/>
+<li>
+<b>Constants Count: Practical Improvements to Oblivious RAM;</b> "ORAMorama" Technical Session at the 24th Usenix Security Symposium, Washington D.C., 8/13/2015
+	<br/>
+		[<a href="/Content/Publications/Academics/Presentations/USENIXSEC15_slides.pdf">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Tiny ORAM: A Low-Latency, Low-Area Hardware Oblivious RAM Controller;</b> "Implementation I" Technical Session at the 23rd IEEE Intl. Sym. on Field-Programmable Custom Computing Machines, Vancouver, Canada, 5/2/2015
+	<br/>
+		[<a href="/Content/Publications/Academics/Presentations/FCCM15_slides.pdf">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Onion ORAM: Constant Bandwidth ORAM using Additively Homomorphic Encryption;</b><br/>
+<ol id="numbered">
+<li>ORAM Day at Boston University, Boston, Massachusetts, 1/30/2015</li>
+<li>Charles River Crypto Day at Northeastern University, Boston, Massachusetts, 4/17/2015</li>
+<li>UBC Seminar, Vancouver, Canada, 5/3/2015</li>
+<li>ORAM Technical Session at the 13th Theory of Cryptography Conference, 1/13/2016</li>
+</ol>
+		[<a href="/Content/Publications/Academics/Presentations/ORAMDay_slides.pdf">slides</a>, <a href="/Content/Publications/Academics/Presentations/TCC_slides.pptx">shorter slides (with whole talk written out in comments section)</a>]
+	</li>
+<br/>
+<li>
+<b>Hardware Security in Cloud Computing</b><br/>
+		Presented at the Annual CSAIL Alliance Program meeting, Cambridge, 4/30/2014
+	</li>
+<br/>
+<li>
+<b>Suppressing the Oblivious RAM Timing Channel While Making Information Leakage and Program Efficiency Trade-offs;</b> "Security and Cloning" Technical Session at the 20th Intl. Sym. on High Performance Computer Architecture, Orlando, Florida, 2/18/2014<br/>
+		[<a href="/Content/Publications/Academics/Presentations/HPCA14_slides.pdf">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Techniques for Performing Secure Computation on Encrypted Data</b><br/>
+		Presented at:
+		<ol id="numbered">
+<li>the NSA-CSAIL visit, Cambridge, Massachusetts, 9/19/2012</li>
+<li>the MIT CSAIL security seminar series, Cambridge, Massachusetts, 10/1/2012</li>
+<li>7th ACM Workshop on Scalable Trusted Computing (STC), Raleigh, North Carolina, 10/15/2012 (second half)</li>
+<li>4th ACM Cloud Computing Security Workshop (CCSW), Raleigh, North Carolina, 10/19/2012 (first half)</li>
+<li>the Northrop Grumman-CSAIL visit, Cambridge, Massachusetts, 10/25/2012</li>
+<li>the Boston University security (BUSec) seminar series, Cambridge, Massachusetts, 12/10/2012</li>
+<li>MIT Lincoln Laboratory, Lexington, Massachusetts, 2/4/2013</li>
+</ol>
+		[<a href="/Content/Publications/Academics/Presentations/Ascend.pdf">slides</a>]
+	</li>
+<br/>
+<li>
+<b>Bridging the GPGPU-FPGA Effciency Gap;</b> "FPGA Architectures and Technology" Technical Session at the 19th Intl. Sym. on FPGAs, Monterey, California, 2/28/2011<br/>
+	[<a href="/Content/Publications/Academics/Presentations/FPGA11_bridging_slides.pdf">slides</a>] <!-- <a href="/Content/Publications/Academics/Papers/FPGA11_bridging_paper.pdf">paper</a>, -->
+</li>
+<br/>
+<li>
+<b>ParaLearn: A massively parallel, scalable system for learning interaction networks on FPGAs;</b> "Applications" Technical Session at the 24th Intl. Conf. on Supercomputing, Tsukuba, Japan, 6/2/2010
+		<br/>
+		[<a href="/Content/Publications/Academics/Presentations/ICS2010_paralearn_slides.pdf">slides</a>] <!-- <a href="/Content/Publications/Academics/Papers/ICS2010_paralearn_paper.pdf">paper</a>, -->
+</li>
+<br/>
+	The slides for the below talks were subsumed by the ICS'10 and FPGA'11 talks:
+	<br/>
+<br/>
+<li>
+<b>Scalable Bayesian Network Discovery with Reconfigurable Hardware</b><br/>
+		Presented at: 
+		<ol id="numbered">
+<li>the BWRC Winter Retreat, Lake Tahoe, 1/10/2010</li>
+<li>the RAMP Winter Retreat, U.C. Santa Cruz, 1/28/2010</li>
+</ol>
+</li>
+<br/>
+<li>
+<b>Reconfigurable Computing &amp; Bayesian Networks</b><br/>
+		Presented at the GSRC Annual Research Symposium, San Jose, 9/3/2009
+	</li>
+<br/>
+<li>
+<b>Introduction to GateLib &amp; MCMC on the BEE3</b><br/>
+		Presented at the Nolan Lab "All Hands Meeting," Stanford, 6/15/2009
+	</li>
+</li></ol>
+<br/>
+<h1 id="posters">Posters</h1>
+<br/>
+(Has not been updated since 2013.)
+<br/>
+<br/>
+<ol>
+<li>
+<b>Ascend: An Architecture for Performing Secure Computation on Encrypted Data;</b> Presented at the ACSC Annual Conference, Boston, 11/12/2013 (and numerous other places ...)<br/>
+		[<a href="/Content/Publications/Academics/Posters/ACSC13_ascend_poster.pdf">poster</a>]<br/>
+<font color="#DF0101"><b>Best Poster Presentation Award, Second Place</b></font>
+<br/>
+</li>
+<br/>
+<li>
+<b>A Low-overhead Dynamic Optimization Framework on Multicores;</b><br/>
+		Presented at:
+		<ol id="numbered">
+<li>International Conference on Very Large Scale Integration, Istanbul, 10/6/2013</li>
+<li>the 21st IEEE/ACM International Conference on Parallel Architectures and Compilation Techniques, Minneapolis, 9/20/2012</li>
+</ol>
+		[<a href="/Content/Publications/Academics/Posters/PACT12_partnercores_poster.pdf">poster</a>]
+	</li>
+<br/>
+<li>
+<b>Bridging the GPGPU-FPGA Efficiency Gap;</b> Presented at the 19th International Symposium on Field-Programmable Gate Arrays, Monterey, 2/28/2011<br/>
+		[<a href="/Content/Publications/Academics/Posters/FPGA11_bridging_poster.pdf">poster</a>]
+	</li>
+<br/>
+<li>
+<b>Scalable FPGA Solutions for Learning Bayesian Networks</b><br/>
+		Presented at:
+		<ol id="numbered">
+<li>the BWRC Winter Retreat, Lake Tahoe, 1/10/2010</li>
+<li>the BWRC Summer Retreat, U.C. Berkeley, 6/6/2010 (with an updated results pane)</li>
+</ol>
+		[<a href="/Content/Publications/Academics/Posters/BWRCSR2010_signetscalability_poster.pdf">poster</a>]
+	</li>
+<br/>
+<li>
+<b>Curing Cancer with RCBIOS;</b> Presented at the RAMP Summer Retreat, U. T. Austin, 6/23/2009<br/>
+		[<a href="/Content/Publications/Academics/Posters/RAMPSR2009_signetrcbios_poster.pdf">poster</a>]
+	</li>
+<br/>
+<li>
+<b>flint;</b> Presented at the RAMP Winter Retreat, U.C. Berkeley, 1/10/2009<br/>
+		[<a href="/Content/Publications/Academics/Posters/RAMPWR2009_flint_poster.pdf">poster</a>]
+	</li>
+</ol>
+<br/>
+<h1 id="funding">Funding</h1>
+<br/>
+* All funding amounts are my personal take/total grant budget.
+<br/>
+<br/>
+<ol>
+<li>NSF CNS #1909999 (2019-2022); 500K, Lead PI
+  <li>Intel ISRA (2018-2021); 300K/1.5M (awarded as gift), Lead PI
+  <li>NSF CNS #1816226 (2018-2021); 250K/500K, Lead PI
+  <li>DARPA SDH (2018-2022); 466K/23M, subcontractor under NVIDIA  
+  <li>NSF CCF #1725734 (2017-2020); 250K/500K, Co PI
+  <li>Too many travel grants to list...
+</li></li></li></li></li></li></ol>
+<br/>
+We thank NSF, DARPA/NVIDIA and Intel for their generous support!
+<br/>
+<br/>
+<h1 id="resources">Tutorials/Misc. Resources</h1>
+<br/>
+<ol>
+<li><a href="http://cwfletcher.net/Pages/CryptoBib.php">Crypto-hardware-software bibliography</a></li>
+<li>Tutorial on microarchitectural side/covert channels: <a href="https://sites.google.com/view/arch-sec/home">ISCA'19</a></li>
+</ol>
+<p><center>© Chris Fletcher 2019</center><p>
+</p></p></div>
+</div>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!-- Footer                                                            -->
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!--
+<div class="navigation">
+<h1>&nbsp;Links</h1>
+
+<!--
+<h2>Research</h2>
+<ul>
+	<li><a href="http://csg.csail.mit.edu/index.html">CSG</a></li>
+	<li><a href="http://ramp.eecs.berkeley.edu/">RAMP</a></li>
+	<li><a href="http://bwrc.eecs.berkeley.edu/">BWRC</a></li>
+	<li><a href="http://parlab.eecs.berkeley.edu/">Par Lab</a></li>
+	<li><a href="http://www.stanford.edu/group/nolan/">Nolan Lab</a></li>
+</ul>
+<h2>Teaching</h2>
+<ul>
+	<li><a href="http://inst.eecs.berkeley.edu/~cs150/fa08/" target="_blank">CS150 - Fall 2008</a></li>
+	<li><a href="http://inst.eecs.berkeley.edu/~cs150/sp09/" target="_blank">CS150 - Spring 2009</a></li>
+	<li><a href="http://inst.eecs.berkeley.edu/~cs150/sp10/" target="_blank">CS150 - Spring 2010</a></li>
+</ul>  	
+
+<h2>Volunteer</h2>
+<ul>
+	<li><a href="http://www.zclc.org/">Zeitgeist</a></li>
+	<li><a href="http://webgla.alsa.org/site/PageServer?pagename=GLA_homepage">ALSA</a></li>
+	<li><a href="http://www.ocf.berkeley.edu/~ejc/">EJC</a></li>
+</ul> -->
+<!-- <h2>Web Ring</h2>
+<ul>
+	<li><a href="http://ilebedev.net/home.php">Ilia Lebedev</a></li>
+</ul>
+
+</div>
+
+<div class="clearer">&nbsp;</div></div>
+<div class="footer">
+<div class="clearer"></div></div></div></div>
+
+-->
+</div></div></div></div></body>

@@ -1,0 +1,45 @@
+https://www.cs.purdue.edu/homes/pfonseca/
+<body>
+<div id="container">
+<tr>
+<div style="float: right;">
+<img height="190" src="images/photo.jpg"/>
+</div>
+<div>
+<span style="font-size: 24pt;">
+<a href="." style="color: black; text-decoration: none;">Pedro Fonseca</a> </span>
+<br/>
+<div style="line-height: 1.5; padding-top: 15px;"> Assistant Professor<br/>
+<a href="http://www.cs.purdue.edu/" style="color: black;">
+Department of Computer Science
+</a>
+<br/>
+<a href="http://www.purdue.edu/" style="color: black;">
+Purdue University
+</a>
+</div>
+</div>
+<br/>
+<br/>
+<h3>Research</h3>
+<p>
+
+My research focuses on <b> building systems </b> that are both reliable and secure.
+In particular, during the last years, I have developed techniques and methodologies
+that are particularly suited to address this problem in the context of core software systems
+– the building blocks in modern computing
+that other software layers critically rely upon, such as <b>operating systems</b>,
+<b>hypervisors</b> and <b>distributed systems</b>. 
+
+</p>
+I tackle this problem from three directions:
+<ul>
+<li>	Gathering insights about the impact of emerging trends on reliability 
+			and security, by conducting real-world, empirical studies
+	</li>
+<li>	Building systematic testing tools that scale to modern, complex systems
+	</li>
+<li>	Designing and redesigning systems for reliability and security
+	</li>
+</ul>
+</tr></div></body>

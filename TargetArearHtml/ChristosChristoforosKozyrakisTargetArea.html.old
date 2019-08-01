@@ -1,0 +1,989 @@
+https://web.stanford.edu/~kozyraki/papers.html
+<body>
+<div id="container">
+<div id="header">
+<h1>Christos Kozyrakis</h1>
+<h2>Professor, EE &amp; CS, Stanford University</h2>
+</div>
+<div id="navigation">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="teaching.html">Teaching</a></li>
+<li class="selected"><a href="papers.html">Publications</a></li>
+<li><a href="software.html">Software</a></li>
+<li><a href="students.html">students</a></li>
+<li><a href="links.html">Fun</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div id="contentWide">
+<a name="current"> </a>
+<h2>Publications</h2>
+<br/>
+<h4>2019</h4>
+<ul>
+<li style="list-style-type:none"><strong>[ATC]</strong>
+<a href="https://www.usenix.org/system/files/atc19-fouladi.pdf"> From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers <img src="pics/pdf_icon.png"/></a>
+<a href="https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_fouladi.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/atc19/presentation/fouladi"><img src="pics/weblink_icon.png"/></a><br/>
+Sadjad Fouladi, Francisco Romero, Dan Iter, Qian Li, Shuvo Chatterjee, Christos Kozyrakis, Matei Zaharia, and Keith Winstein<br/>
+    Proceedings of the 2019 USENIX Annual Technical Conference, Renton, WA, July 2019.</li> <br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href=""> AsmDB: Understanding and Mitigating Front-end Stalls in Warehouse-Scale Computers <img src="pics/pdf_icon.png"/></a>
+<a href=""><img src="pics/slides_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=X"><img src="pics/weblink_icon.png"/></a><br/>
+ Grant Ayers, Nayana Prasad Nagendra, David I. August, Hyoun Kyu Cho, Svilen Kanev, Christos Kozyrakis, Trivikram Krishnamurthy, Heiner Litz, Tipp Moseley, Parthasarathy Ranganathan<br/>
+    Proceedings of the 46th International Symposium on Computer Architecture, Phoenix, AZ, June 2019.</li> <br/>
+<li style="list-style-type:none"><strong>[HOTOS]</strong>
+<a href=""> A Case for Managed and Model-less Inference Serving <img src="pics/pdf_icon.png"/></a>
+<a href=""><img src="pics/slides_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=3321443"><img src="pics/weblink_icon.png"/></a><br/>
+Neeraja Yadwadkar, Francisco Romero, Qian Li,  Christos Kozyrakis<br/>
+    Proceedings of the 17th  Workshop on Hot Topics in Operating Systems, Betrinoro, Italy, May 2019.</li> <br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="http://iiis.tsinghua.edu.cn/~gaomy/pubs/tangram.asplos19.pdf"> TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators<img src="pics/pdf_icon.png"/></a>
+<a href="http://iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=3304014"><img src="pics/weblink_icon.png"/></a><a href="https://github.com/stanford-mast/nn_dataflow"><img src="pics/code_icon.png"/></a> <br/>
+Mingyu Gao, Xuan Yang, Jing Pu, Mark Horowitz, and Christos Kozyrakis<br/>
+    Proceedings of the 24th International Conference on Architectural Support for Programming Languages and Operating Systems, Providence, RI, April 2019.</li> <br/>
+<li style="list-style-type:none"><strong>[;login]</strong>
+<a href="publications/2019.pocket.login.pdf">Pocket: Elastic ephemeral storage for serverless analytics<img src="pics/pdf_icon.png"/></a>
+<a href="https://www.usenix.org/publications/login/spring2019/klimovic"><img src="pics/weblink_icon.png"/></a> <br/>
+Ana Klimovic, Yawen Wang, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Christos Kozyrakis<br/>
+;login, the USENIX magazine,  issue: Spring 2019, Vol. 44, No. 1.</li> <br/>
+<li style="list-style-type:none"><strong>[NSDI]</strong>
+<a href="https://www.usenix.org/system/files/nsdi19-kaffes.pdf"> Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency<img src="pics/pdf_icon.png"/></a>
+<a href="https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_kaffes.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/nsdi19/presentation/kaffes"><img src="pics/weblink_icon.png"/></a> <br/>
+ Kostis Kaffes, Timothy Chong, and Jack Tigar Humphries, Adam Belay, David Mazières and Christos Kozyrakis<br/>
+    Proceedings of the 16th USENIX Symposium on Networked Systems, Boston, MA, February 2019.</li> <br/>
+</ul>
+<h4>2018</h4>
+<ul>
+<li style="list-style-type:none"><strong>[OSDI]</strong>
+<a href="publications/2018.pocket.osdi.pdf">Pocket: Elastic ephemeral storage for serverless analytics<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.pocket.posdi.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/osdi18/presentation/klimovic"><img src="pics/weblink_icon.png"/></a><a href="https://github.com/stanford-mast/pocket"><img src="pics/code_icon.png"/></a> <br/>
+Ana Klimovic, Yawen Wang, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Christos Kozyrakis<br/>
+    Proceedings of the 13tg USENIX Symposium on Operating Systems Design and Implementation, Carlsbad, CA, October, 2018.</li> <br/>
+<li style="list-style-type:none"><strong>[CACM]</strong>
+<a href="publications/2018.amdahl.cacm.pdf">
+Amdahl's Law for Tail Latency<img src="pics/pdf_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=3241891.3232559"><img src="pics/weblink_icon.png"/></a> <br/>
+Christina Delimitrou, Christos Kozyrakis<br/>
+   Communications of ACM (CACM) , vol. 61, no. 8, August 2018</li><br/>
+<li style="list-style-type:none"><strong>[TACO]</strong>
+<a href="publications/2018.quman.taco.pdf">
+QuMan: Profile-based Improvement of Cluster Utilization<img src="pics/pdf_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=3274266"><img src="pics/weblink_icon.png"/></a> <br/>
+Yannis Sfakianakis, Christos Kozanitis, Christos Kozyrakis, Angelos Bilas<br/>
+ACM Transactions on Architecture and Code Optimization (TACO), vol. 15, no. 3, August 2018</li><br/>
+<li style="list-style-type:none"><strong>[ICML]</strong>
+<a href="publications/2018.prefetch.icml.pdf"> Learning Memory Access Patterns<img src="pics/pdf_icon.png"/></a>
+<a href="https://icml.cc/Conferences/2018/Schedule?showEvent=2243"><img src="pics/weblink_icon.png"/></a> <br/>
+    Milad Hashemi, Kevin Swersky, Jamie Smith, Grant Ayers, Heiner Litz, Jichuan Chang, Christos Kozyrakis, Parthasarathy Ranganathan<br/>
+    Proceedings of the 35th Intl. Conference on Machine Learning, Stockholm, Sweden, July 2018.</li> <br/>
+<li style="list-style-type:none"><strong>[ATC]</strong>
+<a href="publications/2018.selecta.atc.pdf">Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.select.atc.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/atc18/presentation/klimovic-selecta"><img src="pics/weblink_icon.png"/></a> <br/>
+    Ana Klimovic, Heiner Litz, Christos Kozyrakis<br/>
+    Proceedings of the 2018 USENIX Annual Conference, Boston, MA, July 2018.</li> <br/>
+<li style="list-style-type:none"><strong>[ATC]</strong>
+<a href="publications/2018.ephemeral.atc.pdf">Understanding Ephemeral Storage for Serverless Analytics<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.ephemeral.atc.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/atc18/presentation/klimovic-serverless"><img src="pics/weblink_icon.png"/></a> <br/>
+    Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi<br/>
+    Proceedings of the 2018 USENIX Annual Conference, Boston, MA, July 2018.</li> <br/>
+<li style="list-style-type:none"><strong>[PLDI]</strong>
+<a href="publications/2018.spatial.pldi.pdf">Spatial: A Language and Compiler for Application Accelerators <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.spatial.pldi.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://pldi18.sigplan.org/event/pldi-2018-papers-spatial-a-language-and-compiler-for-application-accelerators"><img src="pics/weblink_icon.png"/></a> <br/>
+    David Koeplinger, Matthew Feldman, Raghu Prabhakar, Yaqi Zhang, Stefan Hadjis, Ruben Fiszel, Tian Zhao, Luigi Nardi, Ardavan Pedram, Christos Kozyrakis, Kunle Olukotun<br/>
+    Proceedings of the 2018 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Philadelphia, PA, June 2018.</li>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2018.bolt.ieeemicro.pdf">
+Uncovering the Security Implications of Cloud Multi-Tenancy with Bolt<img src="pics/pdf_icon.png"/></a><a href="https://ieeexplore.ieee.org/document/8358043"><img src="pics/weblink_icon.png"/></a> <br/>
+Christina Delimitrou, Christos Kozyrakis<br/>
+    IEEE Micro, Special Issue on
+Top Picks from Architecture Conferences, vol. 38, no. 3, May 2018</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2018.plasticine.ieeemicro.pdf">
+Plasticine: A Reconfigurable Accelerator for Parallel Patterns<img src="pics/pdf_icon.png"/></a><a href="https://ieeexplore.ieee.org/document/8357989"><img src="pics/weblink_icon.png"/></a> <br/>
+    Raghu Prabhakar, Yaqi Zhang, David Koeplinger, Matt Feldman, Tian Zhao, Stefan Hadjis, Ardavan Pedram, Christos Kozyrakis, Kunle Olukotun<br/>
+    IEEE Micro, Special Issue on
+Top Picks from Architecture Conferences, vol. 38, no. 3, May 2018</li><br/>
+<li style="list-style-type:none"><strong>[arXiv]</strong>
+<a href="publications/2018.mempatterns.arxiv.pdf">Learning Memory Access Patterns <img src="pics/pdf_icon.png"/></a>
+<a href="http://arxiv.org/abs/1803.02329"><img src="pics/weblink_icon.png"/></a> <br/>
+    Milad Hashemi, Kevin Swersky, Jamie A Smith, Grant Ayers, Heiner Litz, Jichuan Chang, Christos Kozyrakis, Parthasarathy Ranganathan<br/>
+   arXiv preprint arXiv:1803.02329, March 2018.</li><br/>
+<li style="list-style-type:none"><strong>[SysML]</strong>
+<a href="publications/2018.selecta.sysml.pdf">Learning Heterogeneous Cloud Storage Configuration for Data Analytics<img src="pics/pdf_icon.png"/></a>
+<a href="https://www.sysml.cc/doc/82.pdf"><img src="pics/weblink_icon.png"/></a> <br/>
+    Ana Klimovic, Heiner Litz, Christos Kozyrakis<br/>
+    Poster at the inaugural SysML Conference, Stanford, CA, February 2018.</li> <br/>
+<li style="list-style-type:none"><strong>[PPoPP]</strong>
+<a href="publications/2018.grazelle.ppopp.pdf">Making Pull-based Graph Processing Performant<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.grazelle.ppopp.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://dl.acm.org/citation.cfm?id=3178506"><img src="pics/weblink_icon.png"/></a> <br/>
+    Samuel Grossman, Heiner Litz, Christos Kozyrakis<br/>
+    Proceeding of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Vienna, Austria, February 2018.<br/>
+<img src="pics/artifacts_available_dl.jpg"/><img src="pics/artifacts_evaluated_reusable_dl.jpg"/><img src="pics/results_replicated_dl.jpg"/>
+<a href="https://zenodo.org/record/1169388#.WrnZrtPwbOQ">Artifact available and resusable; results replicated.</a></li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2018.search.hpca.pdf">Memory Hierarchy for Web Search <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.search.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://ieeexplore.ieee.org/document/8327044/"><img src="pics/weblink_icon.png"/></a> <br/>
+    Grant Ayers, Jung Ho Ahn, Christos Kozyrakis, Parthasarathy Ranganathan<br/>
+    Proceeding of the 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, February 2018.</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2018.graphp.hpca.pdf">GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2018.graphp.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://ieeexplore.ieee.org/document/8327036/"><img src="pics/weblink_icon.png"/></a><br/>
+    Mingxing Zhang, Youwei Zhuo, Chao Wang, Mingyu Gao, Yongwei Wu, Kang Chen, Christos Kozyrakis, Xuehai Qian<br/>
+    Proceeding of the 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, February 2018.
+</li><br/>
+</ul>
+<h4>2017</h4>
+<ul>
+<li style="list-style-type:none"><strong>[arXiv]</strong>
+<a href="publications/2017.appswitch.arxiv.pdf">AppSwitch: Resolving the Application Identity Crisis <img src="pics/pdf_icon.png"/></a>
+<a href="://arxiv.org/abs/1711.02294"><img src="pics/weblink_icon.png"/></a> <br/>
+    Dinesh Subhraveti, Sri Goli, Serge Hallyn, Ravi Chamarthy, Christos Kozyrakis<br/>
+   arXiv preprint arXiv:1711.02294, November 2017.</li><br/>
+<li style="list-style-type:none"><strong>[CODES+ISS]</strong>
+<a href="publications/2017.3dnanosystems.codes.pdf">3D nanosystems enable embedded abundant-data computing<img src="pics/pdf_icon.png"/></a> <br/>
+William Hwang, Mohamed M. Sabry Aly, Yash H. Malviya, Mingyu Gao, Tony F. Wu, Christos Kozyrakis, H.-S. Philip Wong, Subhasish Mitra<br/>
+Proceedings of the 12th International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Seoul, South Korea, October 2017. </li><br/>
+<li style="list-style-type:none"><strong>[ATC]</strong>
+<a href="publications/2017.persona.atc.pdf">Persona: A High-Performance Bioinformatics Framework<img src="pics/pdf_icon.png"/></a> <a href="publications/2017.persona.atc.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="https://www.usenix.org/conference/atc17/technical-sessions/presentation/byma"><img src="pics/weblink_icon.png"/></a> <br/>
+Stuart Byma, Sam Whitlock, Laura Flueratoru, Ethan Tseng, Christos Kozyrakis, Edouard Bugnion, James Larus
+<br/>
+Proceedings of the 2017 USENIX Annual Technical Conference, Santa Clara, CA, July 2017. </li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2017.plasticine.isca.pdf">Plasticine: A Reconfigurable Architecture For Parallel Patterns<img src="pics/pdf_icon.png"/></a> <a href="publications/2017.plasticine.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="http://dl.acm.org/citation.cfm?id=3080256"><img src="pics/weblink_icon.png"/></a> <br/>
+Raghu Prabhakar, Yaqi Zhang, David Koeplinger, Matt Feldman,
+Tian Zhao, Stefan Hadjis, Ardavan Pedram, Christos Kozyrakis, Kunle Olukotun <br/>
+Proceedings of the 44th International Symposium on Computer Architecture (ISCA), Toronto, Canada, June 2017</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2017.draf.ieeemicro.pdf">DRAF: A Low-power
+DRAM-based Reconfigurable
+Acceleration Fabric<img src="pics/pdf_icon.png"/></a><br/>
+    Mingyu Gao, Christina Delimitrou, Dimin Niu, Krishna T. Malladi,Hongzhong Zheng, Bob Brennan, Christos Kozyrakis<br/>
+    IEEE Micro, Special Issue on
+Top Picks from Architecture Conferences, vol. 34, no. 3, May 2017</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2017.reflex.asplos.pdf">ReFlex: Remote Flash == Local Flash<img src="pics/pdf_icon.png"/></a> <a href="publications/2017.reflex.slides.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="http://dl.acm.org/citation.cfm?id=3037732"><img src="pics/weblink_icon.png"/></a> <br/>
+Ana Klimovic, Heiner Litz, Christos Kozyrakis<br/>
+Proceedings of the 22nd Intl. Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Xi'an, China, April 2017</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2017.tetris.asplos.pdf">TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory<img src="pics/pdf_icon.png"/></a> <a href="publications/2017.tetris.slides.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="http://dl.acm.org/citation.cfm?id=3037702"><img src="pics/weblink_icon.png"/></a> <br/>
+Mingyu Gao, Ping Pu, Xun Yang, Mark Horowitz, Christos Kozyrakis<br/>
+Proceedings of the 22nd Intl. Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Xi'an, China, April 2017</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2017.bolt.asplos.pdf">Bolt: I Know What You Did Last Summer... In the Cloud<img src="pics/pdf_icon.png"/></a> <a href="publications/2017.bolt.slides.slides.pdf"><img src="pics/slides_icon.png"/></a><a href="http://dl.acm.org/citation.cfm?id=3037703"><img src="pics/weblink_icon.png"/></a> <br/>
+Christina Delimitrou, Christos Kozyrakis<br/>
+Proceedings of the 22nd Intl. Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Xi'an, China, April 2017</li>
+</ul>
+<h4>2016</h4>
+<ul>
+<li style="list-style-type:none"><strong>[TOCS]</strong>
+<a href="publications/2016.ix.tocs.pdf">The IX Operating System: Combining Low Latency, High Throughput, and Efficiency in a Protected Dataplane<img src="pics/pdf_icon.png"/></a>
+<a href="http://dl.acm.org/citation.cfm?id=2997641"><img src="pics/weblink_icon.png"/></a> <br/>
+Adam Belay, George Prekas, Ana Klimovic, Samuel Grossman, Christos Kozyrakis, Edouard Bugnion<br/>
+ACM Transactions on Computer Systems, Volume 34, Issue 4, December 2016 </li><br/>
+<li style="list-style-type:none"><strong>[CAL]</strong>
+<a href="publications/2016.seccloud.cal.pdf">Security Implications of Data Mining
+in Cloud Scheduling<img src="pics/pdf_icon.png"/></a>
+<a href="http://ieeexplore.ieee.org/document/7167661/"><img src="pics/weblink_icon.png"/></a> <br/>
+Christina Delimitrou, Christos Kozyrakis<br/>
+IEEE Computer Architecture Letters, Volume 15, Issue 2, July 2016 </li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2016.draf.isca.pdf">DRAF: A Low-Power DRAM-based Reconfigurable Acceleration Fabric <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.draf.isca.slides.pdf"><img src="pics/slides_icon.png"/></a> <br/>
+    Mingyu Gao, Christina Delimitrou, Dimin Niu, Krishna Malladi, Hongzhong Zheng, Bob Brennan, Christos Kozyrakis<br/>
+    Proceedings of the 43rd Intl. Symposium on Computer Architecture, Seoul, South Korea, June 2016</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong> <a href="publications/2016.delitehw.isca.pdf">Automatic Generation of Efficient Accelerators for Reconfigurable Hardware <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.delitehw.isca.slides.pdf"><img src="pics/slides_icon.png"/></a> <br/>
+    David Koeplinger, Raghu Prabhakar, Yaqi Zhang, Christina Delimitrou, Christos Kozyrakis, Kunle Olukotun<br/>
+    Proceedings of the 43rd Intl. Symposium on Computer Architecture, Seoul, South Korea, June 2016</li><br/>
+<li style="list-style-type:none"><strong>[TOCS]</strong>
+<a href="publications/2016.heracles.tocs.pdf">Improving Resource Efficiency at Scale with Heracles <img src="pics/pdf_icon.png"/></a><br/>
+David Lo,  Liqun Cheng, Rama Govindaraju, Parthasarathy Ranganathan,
+Christos Kozyrakis<br/>
+ACM Transactions on Computer Systems, Volume 34, Issue 2, May 2016 </li><br/>
+<li style="list-style-type:none"><strong>[EPFL-TR]</strong>
+<a href="publications/2016.openix.tr-epfl.pdf">IX Open-source v1.0 – Deployment and Evaluation Guide
+<img src="pics/pdf_icon.png"/></a><br/>
+George Prekas, Adam Belay, Mia Primorac, Ana Klimovic, Sam Grossman, Marios Kogias, Bernard Gütermann, Christos Kozyrakis, Edouard Bugnion<br/>
+EPFL Technical Report 218568, May 2016 </li><br/>
+<li style="list-style-type:none"><strong>[EuroSys]</strong>
+<a href="publications/2016.flash.eurosys.pdf">Flash Storage Disaggregations <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.flash.eurosys.slides.pdf"><img src="pics/slides_icon.png"/></a> <br/>
+    Ana Klimovic, Christos Kozyrakis, Eno Thereska, Binu John, Sanjeev Kumar<br/>
+    Proceedings of the 2016 EuroSys Conference, London, UK, April 2016</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2016.hcloud.asplos.pdf">HCloud: Resource-Efficient Provisioning in Shared Cloud Systems <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.hcloud.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a> <br/>
+    Christina Delimitrou, Christos Kozyrakis<br/>
+    Proceedings of the 21st Intl. Conference on Architectural Support for
+  Programming Languages and Operating Systems (ASPLOS), Atlanta
+    GA, April 2016</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2016.delitehw.asplos.pdf">Generating Configurable Hardware from Parallel Patterns <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.delitehw.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+    Raghu Prabhakar, David Koeplinger, Kevin Brown, HyoukJoong Lee,
+    Christopher De Sa, Christos Kozyrakis, Kunle Olukotun <br/>
+    Proceedings of the 21st Intl. Conference on Architectural Support for
+  Programming Languages and Operating Systems (ASPLOS), Atlanta
+    GA, April 2016 </li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2016.hrl.hpca.pdf">HRL: Efficient and Flexible Reconfigurable Logic for Near-Data Processing <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2016.hrl.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+    Mingyu Gao, Christos Kozyrakis<br/>
+    Proceeding of the 22nd IEEE Symposium on High Performance Computer Architecture (HPCA), Barcelona, Spain, March 2016</li><br/>
+</ul>
+<a name="2015"> </a>
+<h4>2015</h4>
+<ul>
+<li style="list-style-type:none"><strong>[PACT]</strong>
+<a href="publications/2015.ndp.pact.pdf">Practical Near-Data Processing for In-memory Analytics Frameworks <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2015.ndp.pact.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Mingyu Gao, Grant Ayers, Christos Kozyrakis<br/>
+ Proceedings of the 24th International Conference on Parallel Architectures and Compilation Techniques (PACT), San Francisco, CA, October 2015</li><br/>
+<li style="list-style-type:none"><strong>[SOCC]</strong>
+<a href="publications/2015.tarcil.socc.pdf">Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2015.tarcil.socc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+ Christina Delimitrou, Daniel Sanchez, Christos Kozyrakis<br/>
+Proceedings of the ACM Symposium on Cloud Computing (SOCC),
+ Kohala Coast, HI, August 2015</li><br/>
+<li style="list-style-type:none"><strong>[SOCC]</strong>
+<a href="publications/2015.ixcp.socc.pdf">Energy proportionality and workload consolidation for latency-critical applications <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2015.ixcp.socc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+ George Prekas, Mia Primorac, Adam Belay, Christos Kozyrakis, Edouard Bugnion<br/>
+Proceedings of the ACM Symposium on Cloud Computing (SOCC), Kohala Coast, HI, August 2015</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2015.heracles.isca.pdf">Heracles: Improving Resource Efficiency at Scale <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2015.heracles.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+David Lo,  Liqun Cheng, Rama Govindaraju, Parthasarathy Ranganathan,
+Christos Kozyrakis<br/>
+Proceedings of the 42nd Intl. Symposium on Computer Architecture (ISCA), Portland, OR,
+  June 2014</li><br/>
+<li style="list-style-type:none"><strong>[CACM]</strong>
+<a href="publications/2015.convolution_engine.cacm.pdf">Convolution Engine: Balancing Efficiency and Flexibility in Specialized Computing <img src="pics/pdf_icon.png"/></a>
+Wajahat Qadeer, Rehan Hameed, Ofer Shacham, Preethi Venkatesan,
+  Christos Kozyrakis, Mark Horowitz<br/>
+Communications of the ACM (CACM), vol. 58, no. 4, April 2015</li><br/>
+</ul>
+<a name="2014"> </a>
+<h4>2014</h4>
+<ul>
+<li style="list-style-type:none"><strong>[OSDI]</strong>
+<a href="publications/2014.ix.osdi.pdf">IX: A Protected Dataplane Operating System for High Throughput and Low Latency <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2014.ix.osdi.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Adam Belay, George Prekas, Ana Klimovic, Samuel Grossman, Christos Kozyrakis, Edouard Bugnion<br/>
+Proceedings of the 11th USENIX Symposium on Operating Systems
+    Design,Broomfield, CO, October 2014</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2014.pegasus.isca.pdf">Towards Energy Proportionality for Large-Scale Latency-Critical Workloads <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2014.pegasus.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+David Lo,  Liqun Cheng, Rama Govindaraju, Luiz Barroso, Christos Kozyrakis<br/>
+Proceedings of the 41st Intl. Symposium on Computer Architecture
+    (ISCA), Minneapolis, MN, June 2014</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong> 
+[<a href="publications/2014.paragon.ieeemicro.pdf">Quality-of-Service-Aware Scheduling in Heterogeneous Datacenters with Paragon <img src="pics/pdf_icon.png"/></a><br/>
+    Christina Delimitrou, Christos Kozyrakis<br/>
+    IEEE Micro, Special Issue on
+Top Picks from Architecture Conferences, vol. 34, no. 3, May 2014</li><br/>
+<li style="list-style-type:none"><strong>[EuroSys]</strong>
+<a href="publications/2014.mutilate.eurosys.pdf">Reconciling High
+    Server  Utilization and Sub-millisecond Quality-of-Service <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2014.mutilate.eurosys.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+    Jacob Leverich Christos Kozyrakis<br/>
+    Proceedings of the 2014 EuroSys Conference, Amsterdam, Nethelands,
+April 2014</li><br/>
+<li style="list-style-type:none"><strong>[NVMW]</strong>
+<a href="publications/2014.hwkvs.nvmw.slides.pdf">High Performance
+Hardware-Accelerated Flash Key-Value Store <img src="pics/slides_icon.png"/></a><br/>
+Shingo Tanaka, Christos Kozyrakis<br/>
+The 2014 Non-volatile Memories Workshop (NVMW), San Diego, CA, March 2014</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2014.quasar.asplos.pdf">Quasar:
+Resource-Efficient and QoS-Aware Cluster Management <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2014.quasar.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Christina Delimitrou and Christos Kozyrakis<br/>
+Proceedings of the 19th Intl. Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Salt Lake City, UT, March 2014</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2014.autoturbo.hpca.pdf">Dynamic Management of
+TurboMode in Modern Multi-core Chips <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2014.autoturbo.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+David Lo, Christos Kozyrakis<br/>
+Proceedings of the 20th Intl. Symposium on High Performance Computer Architecture (HPCA), Orlando, FL, February 2014</li><br/>
+</ul>
+<a name="2013"> </a>
+<h4>2013</h4>
+<ul>
+<li style="list-style-type:none"><strong>[TOCS]</strong>
+<a href="publications/2013.paragon.tocs.pdf">QoS-Aware Scheduling in
+   Heterogeneous Datacenters with Paragon <img src="pics/pdf_icon.png"/></a><br/>
+  Christina Delimitrou, Christos Kozyrakis<br/>
+  ACM Transactions on Computer Systems (TOCS), vol. 31, no. 4, December 2013</li><br/>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2013.ibench.iiswc.pdf">iBench: Quantifying Interference for Datacenter Workloads <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.ibench.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina Delimitrou, Christos Kozyrakis<br/>
+  Proceedings of the IEEE Intl.
+  Symposium on Workload Characterization, Portland, OR,  September
+  2013</li><br/>
+<li style="list-style-type:none"><strong>[SPAA]</strong>
+<a href="publications/2013.localityaware.spaa.pdf">Locality-Aware
+  Task Management for Unstructured Parallelism: A Quantitative Limit
+  Study  <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.localityaware.spaa.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Richard Yoo, Christopher Hughes, Changkyu Kim, Yen-Kuang Chen,
+  Christos Kozyrakis<br/>
+  Proceedings of the 25th ACM Symposium on Parallelism Algorithms and Architectures, Montreal,
+  Canada, July  2013</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2013.zsim.isca.pdf">ZSim: Fast and Accurate Microarchitectural Simulation of Thousand-Core Systems <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.zsim.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, Christos Kozyrakis <br/>
+  Proceedings of the 40th Intl. Symposium on Computer Architecture (ISCA), Tel Aviv, Israel
+  June 2013</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2013.convolution.isca.pdf">Convolution Engine: Balancing Efficiency and Flexibility in Specialized Computing <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.convolution.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Wajahat Qadeer, Rehan Hameed, Ofer Shacham, Preethi Venkatesan, Christos Kozyrakis, Mark Horowitz <br/>
+  Proceedings of the 40th Intl. Symposium on Computer Architecture (ISCA), Tel Aviv, Israel
+  June 2013</li><br/>
+<li style="list-style-type:none"><strong>[ICAC]</strong>
+<a href="publications/2013.arq.icac.pdf">QoS-Aware Admission Control in Heterogeneous Datacenters <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.arq.icac.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina Delimitrou, Nick Bambos, Christos Kozyrakis<br/>
+  Proceedings of the 10th
+  Intl. Conference on Autonomic Computing (ICAC), San Jose, CA,
+  June 2013
+  [<a href="publications/2013.arq.icac.extended.pdf">extended version</a>]</li><br/>
+<li style="list-style-type:none"><strong>[DATE]</strong>
+<a href="publications/2013.resourceefficiency.date.pdf">Resource Efficient
+  Computing for Warehouse-scale Datacenters <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.resourceefficiency.date.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christos Kozyrakis<br/>
+  Proceedings of the 2013 Conference on Design Automation and Test in
+  Europe (DATE), Grenoble, France, March 2013</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2013.paragon.asplos.pdf">Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.paragon.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina Delimitrou, Christos Kozyrakis <br/>
+  Proceedings of the 18th Intl. Conference on
+  Architectural Support for Programming Languages and Operating
+  Systems (ASPLOS), Houston, TX, March 2013</li><br/>
+<li style="list-style-type:none"><strong>[TRANSACT]</strong>
+<a href="publications/2013.tmnack.transact.pdf">Enhanced Concurrency Control
+  with Transactional NACKs <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2013.tmnac.transact.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Woongki Baek, Richard Yoo, Christos Kozyrakis<br/>
+  Proceedings of the 8th ACM SIGPLAN Workshop on Transactional Computing  (TRANSACT), Houston, TX, March 2013</li><br/>
+<li style="list-style-type:none"><strong>[SCIS]</strong>
+<a href="http://www.sciencedirect.com/science/article/pii/S2210537913000103">Measuring and analyzing the energy use of enterprise computing systems <img src="pics/weblink_icon.png"/></a><br/>
+ Maria Kazandjieva, Brandon Heller, Omprakash Gnawali, Philip Levis,
+  Christos Kozyrakis <br/>
+  Sustainable Computing: Informatics and
+  Systems, February 2013</li><br/>
+</ul>
+<a name="2012"> </a>
+<h4>2012</h4>
+<ul>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2012.echo.iiswc.pdf">ECHO: Recreating Network
+  Traffic Maps for Datacenters of Tens of Thousands of Servers <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.echo.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina Delimitrou, Sriram Sankar, Aman Kansal, Christos Kozyrakis<br/>
+  Proceedings of the IEEE Intl. Symposium on Workload Characterization, La Jolla, CA,  November 2012</li><br/>
+<li style="list-style-type:none"><strong>[OSDI]</strong>
+<a href="publications/2012.dune.osdi.pdf">Dune: Safe User-level Access to Privileged CPU Features <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.dune.osdi.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Adam Belay, Andrea Bittau, Ali Mashtizadeh, David Terei, David
+  Mazie`res, Christos Kozyrakis <br/>
+Proceedings of the 10th Usenix Sympoisum on Operating Systems Design
+&amp; Implementation (OSDI), Hollywood, CA, October 2012</li><br/>
+<li style="list-style-type:none"><strong>[CODES]</strong>
+<a href="publications/2012.tmacc.codes.pdf">A Case of System-level
+  Hardware/Software Co-design and Co-verification of a Commodity
+  Multi-Processor System with Custom Hardware <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.tmacc.codes.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Sungpack Hong, Tayo Oguntebi, Jared Casper,
+Nathan Bronson, Christos Kozyrakis, Kunle Olukotun<br/>
+Proceedings of the 17th Intl. Conference on Hardware/Software Codesign and
+  System Synthesis (CODES+ISS), Tampere, Finland, October 2012</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2012.vantage.ieeemicro.pdf">Scalable and
+  Efficient Fine-Grained Cache Partitioning with Vantage <img src="pics/pdf_icon.png"/></a><br/>
+  Daniel Sanchez, Christos Kozyrakis <br/>
+  IEEE Micro, Special Issue on Top Picks from Architecture Conferences, vol. 32,
+no. 3, June 2012</li><br/>
+<li style="list-style-type:none"><strong>[IGCC]</strong>
+<a href="publications/2012.greendata.igcc.pdf">Green Enterprise Computing Data: Assumptions and Realities <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.greendata.igcc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Maria Kazandjieva, Brandon Heller, Omprakash Gnawali, Philip Levis,
+Christos Kozyrakis<br/>
+Proceedings of the Third International Green Computing Conference, San
+Jose, CA, June 2012<br/>
+[<a href="http://sing.stanford.edu/maria/powernet/">data</a>]</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2012.lpddr2.isca.pdf">Towards Energy Proportional Data-center Memory With Mobile DRAMs <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.lpddr2.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Krishna Malladi, Frank Nothaft,	Karthika Periyathambi, Benjamin Lee,
+  Christos Kozyrakis, Mark Horowitz <br/>
+Proceedings of the 39th Intl. Symposium on Computer Architecture (ISCA), Portland, OR,
+  June 2012</li><br/>
+<li style="list-style-type:none"><strong>[CAL] </strong>
+<a href="publications/2012.dcnetflix.cal.pdf">The Netflix Challenge: Datacenter Edition <img src="pics/pdf_icon.png"/></a><br/>
+  Christina Delimitrou, Christos Kozyrakis <br/>
+  IEEE Computer Architecture Letters (CAL), vol 11, no 2, June 2012</li><br/>
+<li style="list-style-type:none"><strong>[CAL] </strong>
+<a href="publications/2012.storagemodeling.cal.pdf">Decoupling Datacenter Storage Studies from Access to Large-Scale Applications <img src="pics/pdf_icon.png"/></a><br/> 
+Christina Delimitrou, Sriram Sankar, Kushagra Vaid, Christos Kozyrakis<br/>
+  IEEE Computer Architecture Letters (CAL), vol 11, no 2, June 2012</li><br/>
+<li style="list-style-type:none"> <strong>[TACO]</strong>
+<a href="publications/2012.mcdimm.taco.pdf">Improving System Energy
+  Efficiency with Memory Rank Subsetting <img src="pics/pdf_icon.png"/></a><br/>
+  Jung Ho Ahn, Norman Jouppi, Christos Kozyrakis, Jacob Leverich, Robert Schreiber <br/>
+  ACM Transactions on Architecture and Code Optimization (TACO), vol. 9, no. 1, March 2012</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2012.scd.hpca.pdf">SCD: A Scalable Coherence Directory with Flexible Sharer Set Encoding <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2012.scd.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, Christos Kozyrakis<br/>
+  Proceedings of the the 18th International Symposium on High Performance Computer
+  Architecture (HPCA), New Orleans, LA, February 2012</li><br/>
+</ul>
+<a name="2011"> </a>
+<h4>2011</h4>
+<ul>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2011.storagemodeling.iiswc.pdf">Decoupling Datacenter Studies from Access
+  to Large-Scale Applications: A Modeling Approach for Storage
+    Workloads <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.storagemodeling.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+    Christina  Delimitrou, Sriram Sankar, Kushgra Vaid, Christos Kozyrakis <br/>
+  Proceedings of 2011 IEEE Intl. Symposium on Workload Characterization (IISWC),
+  Austin, TX, November 2011</li><br/>
+<li style="list-style-type:none"><strong>[MobiHeld] </strong>
+<a href="publications/2011.mars.mobiheld.pdf"> MARS: adaptive remote execution for multi-threaded mobile devices<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.mars.mobiheld.slides.ppsx"><img src="pics/slides_icon.png"/></a><br/>
+  Asaf Cidon, Tomer London, Sachin Katti, Christos Kozyrakis, Mendel Rosenblum
+  <br/>Proceedings of 3rd ACM SOSP Workshop on Networking, Systems, and
+  Applications on Mobile Handhelds (MobiHeld), Cascais, Portugal, October 2011</li><br/>
+<li style="list-style-type:none"><strong>[PACT] </strong>
+<a href="publications/2011.gramps.pact.pdf">Dynamic Fine-Grain Scheduling of Pipeline 
+Parallelism <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.gramps.pact.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, David Lo, Richard Yoo, Jeremy Sugerman, Christos Kozyrakis
+  <br/>Proceedings of the 20th Intl. Conference on Parallel Architecture and Compilation Techniques
+  (PACT), Galveston Island, TX, October 2011</li><br/>
+<li style="list-style-type:none"><strong>[CACM]</strong>
+<a href="publications/2011.efficiency.cacm.pdf">Understanding Sources of
+Inefficiency in General-Purpose Chips <img src="pics/pdf_icon.png"/></a><br/>
+  Rehan Hameed, Wajahat Qadeer, Megan Wachs, Omid Azizi, Alex Solomatnikov, Benjamin C. Lee, Stephen
+Richardson1, Christos Kozyrakis, Mark Horowitz <br/>
+  Communications of the ACM (CACM), vol. 54, no. 10, October 2011</li><br/>
+<li style="list-style-type:none"><strong>[TPCTC]</strong>
+<a href="publications/2011.generation.tpctc.pdf">Time and Cost-Efficient Modeling and 
+Generation of Large-Scale TPCC/TPCE/TPCH <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.generation.tpctc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina Delimitrou, Sriram Sankar, Baadriddine Khessib, Kushgra Vaid, Christos Kozyrakis<br/>
+  Proceedings of the 3rd TPC Technology Conference on Performance
+  Evaluation &amp; Benchmarking (TPCTC), Seattle, WA, August 2011</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2011.vantage.isca.pdf">Vantage: Scalable and Efficient Cache Partitioning <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.vantage.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, Christos Kozyrakis<br/> Proceedings of the 38th
+  Intl. Symposium on Computer Architecture (ISCA), San Jose, CA,
+  June 2011</li><br/>
+<li style="list-style-type:none"><strong>[MapReduce]</strong>
+<a href="publications/2011.phoenixplus.mapreduce.pdf">Phoenix++: Modular
+  MapReduce for Shared-Memory Systems <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.phoenixplus.mapreduce.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Justin Talbot, Richard Yoo, Christos Kozyrakis<br/>
+  Proceedings of the 2nd Intl Workshop on MapReduce and its Applications (MAPREDUCE'),
+San Jose, CA, June, 2011<br/> [<a href="http://mapreduce.stanford.edu">software</a>]</li><br/>
+<li style="list-style-type:none"><strong>[ISPASS]</strong>
+<a href="publications/2011.storagereplay.ispass.pdf">Storage I/O Generation and Replay for Datacenter 
+Applications <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.storagereplay.ispass.poster.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Christina Delimitrou, Sriram Sankar, Kushgra Vaid, Christos Kozyrakis <br/>
+  Poster at the Intl. Symposium on Performance Analysis of Systems and Software
+ (ISPASS), Austin, TX, April
+  2011.</li><br/>
+<li style="list-style-type:none"><strong>[EXERT]</strong>
+<a href="publications/2011.storagemodeling.exert.pdf">Accurate Modeling and
+  Generation of Storage I/O for Datacenter Workloads <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.storagemodeling.exert.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Christina  Delimitrou, Sriram Sankar, Kushgra Vaid, Christos
+  Kozyrakis<br/>
+  Proceedings of the 2nd Workshop on Exascale Evaluation and Research Techniques (EXERT), Newport Beach, CA, March,
+  2011</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2011.tmacc.asplos.pdf">Hardware Acceleration of
+  Transactional Memory on Commodity Systems <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2011.tmacc.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Jared Casper,  Tayo Oguntebi, Sungpack Hong,
+  Nathan Bronson, Christos Kozyrakis,
+  Kunle Olukotun<br/>
+  Proceedings of the 16th Intl. Conference on 
+Architectural Support for Programming Languages and Operating Systems
+  (ASPLOS), Newport Beach, CA, March,
+  2011</li><br/>
+</ul>
+<h4>2010</h4>
+<ul>
+<li style="list-style-type:none"><strong>[MICRO]</strong>
+<a href="publications/2010.zcache.micro.pdf">The ZCache: Decoupling Ways and Associativity <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.zcache.micro.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, Christos Kozyrakis<br/>
+  Proceedings of the 43rd
+  Intl. Symposium on Microarchitecture (MICRO), Atlanta, GA,
+  December 2010</li><br/>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2010.eigenbench.iiswc.pdf">EigenBench: A Simple
+  Exploration Tool for Orthogonal TM Characteristics <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.eigenbench.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Sungpack Hong, Tayo Oguntebi, Jared Casper, Nathan Bronson, Christos Kozyrakis,
+  Kunle Olukotun <br/> Proceedings of the IEEE Intl. Symposium on
+  Workload Characterization (IISWC), Atlanta, GA, December,
+  2010</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2010.serverinsights.ieeemicro.pdf">Server Engineering Insights for Large-Scale Online Services <img src="pics/pdf_icon.png"/></a><br/>
+Christos Kozyrakis, Aman Kansal, Sriram Sankar, Kushagra Vaid<br/>
+IEEE Micro, vol. 30, no. 4, July/August 2010</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2010.efficiency.isca.pdf">Understanding Sources of
+Inefficiency in General-Purpose Chips <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.efficiency.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Rehan Hameed, Wajahat Qadeer,
+Megan Wachs, Omid Azizi, Alex Solomatnikov, Benjamin C. Lee, Stephen
+Richardson1, Christos Kozyrakis, Mark Horowitz <br/> Proceedings of the
+37th Intl. Symposium on Computer Architecture (ISCA), Saint-Malo,
+France, June 2010</li><br/>
+<li style="list-style-type:none"><strong>[ICS]</strong>
+<a href="publications/2010.fantm.ics.pdf">Making Nested Parallel Transactions Practical using 
+Lightweight Hardware Support <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.fantm.ics.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Woongki Baek, Nathan Bronson, Christos Kozyrakis, Kunle Olukotun <br/>
+Proceedings  of the 24th Intl. Conference on Supercomputing (ICS), Epochal Tsukuba, Tsukuba, Japan, June 2010</li><br/>
+<li style="list-style-type:none"><strong>[SPAA]</strong>
+<a href="publications/2010.nestm.spaa.pdf">Implementing and Evaluating Nested Parallel Transactions 
+in Software Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.nestm.spaa.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Woongki Baek,
+  Nathan Bronson, Christos Kozyrakis, Kunle Olukotun<br/>Proceedings
+  of the 22nd ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA), Santorini, Greece, June 2010</li><br/>
+<li style="list-style-type:none"><strong>[FCCM]</strong>
+<a href="publications/2010.farm.fccm.pdf"> FARM: A Prototyping Environment
+  for Tightly-Coupled, Heterogeneous Architectures <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.farm.fccm.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Tayo Oguntebi,
+  Sungpack Hong, Jared Casper, Nathan Bronson, Christos Kozyrakis,
+  Kunle Olukotun <br/> Proceedings the
+  18th Intl. IEEE Symposium on Field-Programmable Custom Computing
+  Machines (FCCM), Charlotte, NC, May 2010</li><br/>
+<li style="list-style-type:none"><strong>[NOCS]</strong>
+<a href="publications/2010.bufferlesseval.nocs.pdf"> Evaluating Bufferless Flow
+  Control for On-Chip Networks <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.bufferlesseval.nocs.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  George Michelogiannakis, Daniel
+  Sanchez, William J. Dally, Christos Kozyrakis<br/> Proceedings of the
+  4th ACM/IEEE International Symposium on Networks-on-Chip (NOCS),
+  Grenoble, France, May 2010</li><br/>
+<li style="list-style-type:none"><strong>[TACO]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2010.noc-arch.taco.pdf">An
+  Analysis of On-Chip Interconnection  Networks for Large-Scale Chip
+  Multiprocessors  <img src="pics/pdf_icon.png"/></a> <br/>
+  Daniel Sanchez, George Michelogiannakis,
+Christos Kozyrakis. ACM Transactions on Architecture and Code
+  Optimization (TACO), vol. 7, no. 1, April 2010</li><br/>
+<li style="list-style-type:none"><strong>[OSR]</strong>
+<a href="publications/2010.taintingpoint.osr.pdf">Tainting is Not Pointless <img src="pics/pdf_icon.png"/></a><br/>
+  Michael Dalton, Hari Kannan, Christos Kozyrakis <br/> ACM SIGOPS Operating Systems Review vol. 44, no 2, April 2010</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="publications/2010.adm.asplos.pdf">Flexible Architectural
+  Support for Fine-Grain Scheduling <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.adm.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Daniel Sanchez, Richard Yoo, Christos Kozyrakis <br/>
+  Proceedings of the 15th Intl. Conference on Architectural Support
+  for Programming Languages and Operating Systems (ASPLOS),
+  Pittsburgh, PA, March, 2010</li><br/>
+<li style="list-style-type:none"><strong>[ICECCS]</strong>
+<a href="publications/2010.chktm.iceccs.pdf"> Implementing and
+  Evaluating a Model Checker for Transactional Memory Systems <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2010.chktm.iceccs.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Woongki Baek, Nathan Bronson, Christos Kozyrakis, Kunle Olukotun, Proceedings of the 15th IEEE Intl. Conference on Engineering of Complex Computer Systems (ICECCS), Oxford, UK, March 2010</li><br/>
+</ul>
+<a name="2009"> </a>
+<h4>2009</h4>
+<ul>
+<li style="list-style-type:none"><strong>[CAL]</strong>
+<a href="publications/2009.pcpg.cal.pdf"> Power Management of Datacenter
+  Workloads Using Per-Core Power Gating <img src="pics/pdf_icon.png"/></a> <br/>
+  Jacob Leverich, Mateo Monchiero, Vanish Talwar, Partha Ranganathan,
+  Christos Kozyrakis<br/>
+  IEEE Computer Architecture Letters vol. 8, no 2, December 2009</li><br/>
+<li style="list-style-type:none"><strong>[OSR]</strong>
+<a href="publications/2009.ramcloud.osr.pdf"> The case for
+  RAMClouds: scalable high-performance storage entirely in DRAM <img src="pics/pdf_icon.png"/></a> <br/>
+  John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis,
+  Jacob Leverich, David Mazières, Subhasish Mitra, Aravind Narayanan,
+  Guru Parulkar, Mendel Rosenblum, Stephen Rumble, Eric Stratmann,
+  Ryan Stutsman<br/> ACM SIGOPS Operating Systems Review vol. 43, no 4, December 2009</li><br/>
+<li style="list-style-type:none"><strong>[SC]</strong>
+<a href="publications/2009.mcdimm.sc.pdf"> Future Scaling of
+  Processor-Memory Interfaces <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.mcdimm.sc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Jung Ho Ahn, Norman Jouppi, Christos Kozyrakis, Jacob Leverich,
+  Robert Schreiber<br/>
+  Proceedings of the 22nd Intl. Conference for High Performance Computing, Networking, Storage, and Analysis (SC), Portland, OR, November 2009</li><br/>
+<li style="list-style-type:none"><strong>[HotPower/OSR]</strong>
+<a href="publications/2009.hadoopenergy.hotpower.pdf"> On the Energy
+  (In)Efficiency of Hadoop Clusters <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.hadoopenergy.hotpower.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Jacob Leverich, Christos Kozyrakis<br/>
+  Proceedings of the Workshop on Power Aware Computing and Systems
+(HotPower), Big Sky, MT, October 2009. Also appeared in ACM SIGOPS Operating Systems Review, vol. 44, no 1, January 2010</li><br/>
+<li style="list-style-type:none"><strong>[HotPower/OSR]</strong>
+<a href="publications/2009.powernet.hotpower.pdf"> Energy Dumpster
+Diving <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.powernet.hotpower.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Maria Kazandjieva, Brandon Heller, Philip Levis, Christos
+Kozyrakis<br/>
+Proceedings of the Workshop on Power Aware Computing and Systems
+(HotPower), Big Sky, MT, October 2009. Also appeared in ACM SIGOPS Operating Systems Review, vol. 44, no 1, January 2010</li><br/>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2009.scalable_phoenix.iiswc.pdf"> Phoenix Rebirth: Scalable MapReduce on a 
+Large-Scale Shared-Memory System <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.scalable_phoenix.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Richard Yoo, Anthony Romano, Christos Kozyrakis<br/>
+Proceedings of the IEEE Intl. Symposium on Workload Characterization (IISWC),
+Austin, TX, October, 2009<br/>[<a href="http://mapreduce.stanford.edu">software</a>]</li><br/>
+<li style="list-style-type:none"><strong>[HotChips]</strong>
+<a href="publications/2009.ppl.hotchips.slides.pdf">The Stanford
+Pervasive Parallelism Lab <img src="pics/slides_icon.png"/></a>
+<br/>Christos Kozyrakis, Kunle Olukotun<br/>
+Technical Record of the 21st Hot
+Chips Symposium,  Palo Alto, CA, August 2009</li><br/>
+<li style="list-style-type:none"><strong>[UsenixSec]</strong>
+<a href="publications/2009.nemesis.usenixsec.pdf"> Nemesis: Preventing Authentication &amp; Access 
+Control Vulnerabilities in Web Applications <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.nemesis.usenixsec.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Michael Dalton, Christos Kozyrakis, Nickolai Zeldovich<br/>
+Proceedings of the 18th Usenix Security Symposium, Montreal, Canada<br/>[<a href="http://www.usenix.org/media/events/sec09/tech/videos/dalton.mp4">video</a>]</li><br/>
+<li style="list-style-type:none"><strong>[DSN]</strong>
+<a href="publications/2009.offcoreraksha.dsn.pdf"> Decoupling Dynamic Information Flow Tracking with a Dedicated Coprocessor <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.offcoreraksha.dsn.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Hari Kannan, Michael Dalton, Christos Kozyrakis<br/>
+Proceedings of the 39th Intl. Conference on Dependable Systems and Networks (DSN), Estoril, Portugal, June 2009</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2009.smframework.isca.pdf"> A Memory System Design Framework: Creating Smart Memories <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.smframework.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Amin Firoozshahian, Alex Solomatnikov, Ofer Shacham, Zain Asgar, Stephen Richardson, Christos Kozyrakis, Mark Horowitz.
+Proceedings of the 36tg Intl. Symposium on Computer Architecture (ISCA), Austin, TX, June 2009</li><br/>
+<li style="list-style-type:none"><strong>[ICS]</strong>
+<a href="publications/2009.snapshot.ics.pdf">Fast Memory Snapshot for Concurrent Programming without Synchronization <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.snapshot.ics.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+JaeWoong Chung, Woognki Bake,, Christos Kozyrakis.
+Proceedings of the 23rd Intl. Conference on Supercomputing (ICS), Yorktown Heights, NY, June 2009</li><br/>
+<li style="list-style-type:none">
+<strong>[POPL]</strong>
+<a href="publications/2009.barrieropt.popl.pdf">Feedback-Directed Barrier Optimization in a Strongly Isolated STM <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2009.barrieropt.popl.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Nathan Bronson, Christos Kozyrakis, Kunle Olukotun.
+Proceedings of the 36th Symposium on Principles of Programming Languages (POPL), Savannah, GA, January 2009</li><br/>
+</ul>
+<a name="2008"> </a>
+<h4>2008</h4>
+<ul>
+<li style="list-style-type:none"><strong>[OSDI]</strong>
+<a href="publications/2008.loki.osdi.pdf"> Hardware Enforcement of Application Security Policies <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.loki.osdi.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Nickolai Zeldovich, Hari Kannan, Michael Dalton, Christos Kozyrakis.
+Proceedings of the 8th Usenix Sympoisum on Operating Systems Design
+&amp; Implementation (OSDI), San Diego, CA, December 2008</li><br/>
+<li style="list-style-type:none"><strong>[HotPower]</strong>
+<a href="publications/2008.powermodels.hotpower.pdf"> A Comparison of High-Level Full-System Power Models <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.powermodels.hotpower.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Suzanne Rivoire, Partha Ranganathan,Christos Kozyrakis.
+Proceedings of the Workshop on Power Aware Computing and Systems
+(HotPower), San Diego, CA, December 2008</li><br/>
+<li style="list-style-type:none"><strong>[TACO]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2008.pmarch.taco.pdf">Comparative
+Evaluation of Memory Models for Chip Multiprocessors <img src="pics/pdf_icon.png"/></a><br/>
+Jacob Leverich, Hideho Arakida, Alex Solomatnikov, Amin Firoozshahian, Mark Horowitz,
+Christos Kozyrakis<br/>
+ACM Transactions on Architecture and Code Optimization (TACO), vol. 5, no. 3, November 2008</li><br/>
+<li style="list-style-type:none"><strong>[CACM]</strong>
+<a href="publications/2008.tm.cacm.pdf">Transactional Memory <img src="pics/pdf_icon.png"/>
+<a href="http://mags.acm.org/communications/200807/"><img src="pics/weblink_icon.png"/></a><br/>
+Jim Larus, Christos Kozyrakis<br/> Communications of the ACM, vol. 51, no. 7, pages
+  80-88, July 2008</a></li><br/>
+<li style="list-style-type:none"><strong>[IISWC]</strong>
+<a href="publications/2008.stamp.iiswc.pdf">STAMP: Stanford Transactional
+  Applications for Multi-Processing <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.stamp.iiswc.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Chi Cao Minh, JaeWoong
+  Chung, Christos Kozyrakis, Kunle Olukotun<br/> Proceedings of The
+  IEEE Intl. Symposium on Workload Characterization,
+  Seattle, WA, September 2008</li><br/>
+<li style="list-style-type:none"><strong>[UsenixSec]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2008.pidift.usenixsec.pdf"> Real-World Buffer Overflow
+  Protection for Userspace and Kernelspace <img src="pics/pdf_icon.png"/></a>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2008.pidift.usenixsec.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Michael Dalton, Hari Kannan, Christos Kozyrakis<br/>
+  Proceedings of the 17th Usenix
+  Security Symposium,San Jose, CA, July 2008 </li><br/>
+<li style="list-style-type:none"><strong>[SPAA]</strong>
+<a href="publications/2008.mshot_short.spaa.pdf"> Improving Software
+  Concurrency with Hardware-Assisted Memory Snapshot <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.mshot_short.spaa.poster.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  JaeWoong Chung, Jiwon Seo, Woongki Baek, Chi Cao Minh, Christos
+  Kozyrakis, Kunle Olukotun<br/>
+  Poster, Proceedings of the 20th ACM Symposium on Parallelism in
+  Algorithms and Architecture (SPAA), Munich, Germany, June 2008</li><br/>
+<li style="list-style-type:none"><strong>[SPAA]</strong>
+<a href="publications/2008.ased_short.spaa.pdf"> ASeD: Availability, Security,
+  and Debugging using Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.ased_short.spaa.poster.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  JaeWoong Chung, Woogki Baek, Nathan Bronson, Jiwon Seo, Christos
+  Kozyrakis, Kunle Olukotun<br/>
+  Poster, Proceedings of the 20th ACM Symposium on Parallelism in
+  Algorithms and Architecture (SPAA), Munich, Germany, June
+  2008</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2008.safedbt.hpca.pdf"> Thread-Safe Dynamic Binary
+  Translation Using Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2008.safedbt.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  JaeWoong Chung, Michael Dalton, Hari Kannan, Christos Kozyrakis <br/>
+  Proceedings of the 14th Intl. Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, UT, February 2008</li><br/>
+</ul>
+<a name="2007"> </a>
+<h4>2007</h4>
+<ul>
+<li style="list-style-type:none"><strong>[Computer]</strong>
+<a href="publications/2007.powermodels.ieeecomputer.pdf"> Models
+   and Metrics to Enable Energy-Efficiency Optimizations <img src="pics/pdf_icon.png"/></a><br/>
+   Suzanne Rivoire, Mehul Shah, Partha Ranganathan, Christos
+   Kozyrakis, Justin Meza<br/>
+   IEEE Computer, vol. 40, no. 12, pages 39-49, December 2007</li><br/>
+<li style="list-style-type:none"> <strong>[CASES]</strong>
+<a href="publications/2007.bliss_power.cases.slides.pdf">A Low
+   Power Front-end for Embedded Processors using a Block-aware
+   Instruction Set <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.bliss_power.cases.pdf"><img src="pics/slides_icon.png"/></a><br/>
+   Ahmad Zmily, Christos Kozyrakis<br/> Proceedings
+of the Intl. Conference on Compilers, Architecture, and Synthesis for
+   Embedded Systems (CASES), Salzburg, Austria, September
+   2007</li><br/>
+<li style="list-style-type:none"><strong>[HotChips]</strong>
+<a href="publications/2007.raksha.hotchips.pdf">Raksha: A Flexible
+   Architecture for Software Security <img src="pics/slides_icon.png"/></a>
+<br/> Hari Kannan,
+Michael Dalton, Christos Kozyrakis<br/>Technical Record of the 19th Hot
+Chips Symposium,  Palo Alto, CA, August 2007</li><br/>
+<li style="list-style-type:none"><strong>[PACT]</strong>
+<a href="publications/2007.opentm.pact.pdf">The OpenTM Transactional
+Application Programming Interface <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.opentm.pact.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Woongki Baek, Chi Cao Minh, Martin Trautmann, Christos Kozyrakis,
+Kunle Olukotun<br/>
+Proceedings of the 16th Intl. Conference on Parallel Architecture and Compilation
+Techniques (PACT), Brasov, Romania, September 2007</li><br/>
+<li style="list-style-type:none"><strong>[SIGMOD]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2007.jsort.sigmod.pdf">
+JouleSort: A Balanced Energy-Efficiency Benchmark <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.jsort.sigmod.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Suzanne Rivoire, Mehul A. Shah, Parthasarathy Ranganathan, Christos Kozyrakis, Proceedings of the ACM SIGMOD Intl. Conference on Management of Data (SIGMOD), Beijing, China, June 2007</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2007.raksha.isca.pdf">Raksha: A Flexible Information Flow Architecture for Software
+Security <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.raksha.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Michael Dalton, Hari Kannan, Christos Kozyrakis<br/>
+Proceedings of the 34th Intl. Symposium on Computer
+Architecture (ISCA), San Diego, CA, June 2007</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2007.pmarch.isca.pdf">Comparing
+Memory Systems for Chip Multiprocessors <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.pmarch.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Jacob Leverich, Hideho Arakida, Alex Solomatnikov, Amin Firoozshahian, Mark Horowitz,
+Christos Kozyrakis<br/>Proceedings of the 34th Intl. Symposium on
+Computer Architecture (ISCA), San Diego, CA, June 2007</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2007.sigtm.isca.pdf">
+An Effective Hybrid Transactional Memory System with Strong Isolation
+Guarantees <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.sigtm.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Chi Cao Minh, Martin Trautmann, JaeWoong Chung, Austen McDonald, Nathan
+Bronson, Jared Casper, Christos Kozyrakis, Kunle
+Olukotun<br/>Proceedings of the 34th Intl. Symposium on Computer
+Architecture (ISCA), San Diego, CA, June 2007</li><br/>
+<li style="list-style-type:none"><strong>[SPAA]</strong>
+<a href="publications/2007.softcomp.spaa.pdf">Towards Soft Optimization Techniques for Parallel Cognitive Applications <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.softcomp.spaa.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Woongki Baek, JaeWoong Chung, Chi Cao Minh, Christos Kozyrakis, Kunle
+Olukotun<br/>Brief Announcement, Proceedings of the 19th ACM Symposium
+on Parallelism in Algorithms and Architecture (SPAA), San Diego, CA, June 2007</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2007.ramp.ieeemicro.pdf"> RAMP: Research Accelerator for Multiple Processors <img src="pics/pdf_icon.png"/></a><br/>
+John Wawrzynek, David Patterson, Mark Oskin, Shih-Lien Lu,
+Christoforos Kozyrakis, James Hoe, Derek Chiou, Krste Asanovic<br/>
+IEEE Micro, vol. 27, no. 2, March/April 2007</li><br/>
+<li style="list-style-type:none"><strong>[DATE]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2007.atlas.date.pdf">
+ATLAS: A Chip-Multiprocessor with Transactional Memory Support <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.atlas.date.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Njuguna Njoroge, Jared Casper, Sewook Wee, Yuriy Teslyar, Daxia Ge, Christos Kozyrakis, Kunle Olukotun<br/> Proceedings of the Conference
+on Design Automation and Test in Europe (DATE), Nice, France, April 2007</li><br/>
+<li style="list-style-type:none"><strong>[DATE]</strong>
+<a href="publications/2007.rpa.date.pdf"> Register Pointer
+Architecture for Efficient Embedded Processors <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.rpa.date.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+JongSoo Park, Sung-Boem Park, James D. Balfour, David Black-Schaffer,
+Christos Kozyrakis, William J. Dally<br/> Proceedings of the Conference
+on Design Automation and Test in Europe (DATE), Nice, France, April 2007</li><br/>
+<li style="list-style-type:none"><strong>[PPoPP]</strong>
+<a href="publications/2007.tclass.ppopp.pdf">Transactional Collection
+Classes <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.tclass.ppopp.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Brian D. Carlstrom, Austen McDonald, Michael Carbin, Christos Kozyrakis, Kunle Olukotun<br/> Proceedings
+of the
+ACM 2007 SIGPLAN Conference on Principles and Practice of Parallel Computing (PPoPP),
+San Jose, CA, March 2007</li><br/>
+<li style="list-style-type:none"><strong>[Micro]</strong>
+<a href="publications/2007.hwswtm.ieeemicro.pdf">Transactional Memory:
+The Hardware-Software Interface <img src="pics/pdf_icon.png"/></a> <br/>
+Austen
+McDonald, Brian D. Carlstrom, JaeWoong Chung, Chi Cao
+Minh, Hassan Chafi, Christos Kozyrakis, Kunle
+Olukotun<br/>IEEE Micro, Special Issue on
+Top Picks from Architecture Conferences, vol. 27,
+no. 1, January/February 2007</li><br/>
+<li style="list-style-type:none"><strong>[FPGA]</strong>
+<a href="publications/2007.fpga_framework.fpga.pdf">A Practical
+FPGA-based Framework for Novel CMP Research <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.fpga_framework.fpga.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Sewook Wee,
+Jared Casper, Njuguna Njoroge, Yuriy Tesylar, Daxia Ge, Christos
+Kozyrakis, Kunle Olukotun<br/>
+Proceedings of the 15th ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays (FPGA), Montery, CA, February 2007</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2007.cmp_mapreduce.hpca.pdf">Evaluating
+MapReduce for Multi-core and Multiprocessor Systems<img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.cmp_mapreduce.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Colby Ranger, Ramanan Raghuraman, Arun Penmetsa, Gary Bradski,
+Christos Kozyrakis<br/>
+Proceedings of the 13th Intl. Symposium on High-Performance Computer Architecture (HPCA),
+Phoenix, AZ, February 2007<br/>[<a href="http://video.google.com/videoplay?docid=5795534100478091031">video</a>]</li><br/>
+<li style="list-style-type:none"><strong>[HPCA]</strong>
+<a href="publications/2007.scalable_tcc.hpca.pdf"> A Scalable,
+Non-blocking Approach to Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2007.scalable_tcc.hpca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Hassan Chafi, Jared Casper, Brian D. Carlstrom, Austen McDonald, Chi
+Cao Minh, Woongki Baek, Christos Kozyrakis, Kunle
+Olukotun <br/> Proceedings of the 13th Intl. Symposium on
+High-Performance Computer Architecture (HPCA), 
+Phoenix, AZ, February 2007</li><br/>
+</ul>
+<a name="2006"> </a>
+<h4>2006</h4>
+<ul>
+<li style="list-style-type:none"><strong>[Queue]</strong>
+<a href="publications/2006.unlocking_concurrency.queue.pdf"> Unlocking
+  Concurrency: Multicore Programming with Transactional Memory <img src="pics/pdf_icon.png"/></a> <br/> Ali-Reza Adl-Tabatabai, Christos Kozyrakis, Bratin Saha<br/> ACM Queue, vol. 4, no. 10, December 2006</li><br/>
+<li style="list-style-type:none"><strong>[dasCMP]</strong>
+<a href="publications/2006.qos.dascmp.pdf"> From Chaos to QoS: Case
+  Studies in CMP Resource Management <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.qos.dascmp.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+  Hari Kannan, Fei Guo, Li Zhao, Ramesh Illikkal, Ravi Iyer, Don Newell, Yan Solihin, Christos Kozyrakis<br/> The 2nd Workshop on Design, Architecture, and Simulation of Chip-Multiprocessors (dasCMP), Orlando, FL, December 2006</li><br/>
+<li style="list-style-type:none"><strong>[SCP]</strong>
+<a href="publications/2006.executing_java.scp.pdf"> Executing Java
+  Programs with Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<br/> Brian D. Carlstrom, JaeWoong
+Chung, Hassan Chafi, Austen McDonald, Chi Cao MinhLance Hammond,
+Christos Kozyrakis, Kunle Olukotun <br/>
+Science of Computer Programming, Volume 63, Issue 2, 1 December
+2006</li><br/>
+<li style="list-style-type:none"><strong>[ASPLOS]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2006.tm_virtualization.asplos.pdf"> Tradeoffs in Transactional Memory
+Virtualization <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.tm_virtualization.asplos.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+JaeWoong Chung, Chi Cao Minh, Austen
+McDonald, Travis Skare, Hassan Chafi, Brian Carlstrom, Christos
+Kozyrakis, Kunle Olukotun <br/> Proceedings of the 12th Intl.
+Conference on Architectural Support for Programming Languages
+and Operating Systems (ASPLOS), San Jose, CA, October 2006</li><br/>
+<li style="list-style-type:none"><strong>[TACO]</strong>
+<a href="publications/2006.bliss.taco.pdf">Block
+Aware Instruction Set Architecture <img src="pics/pdf_icon.png"/></a><br/>
+Ahmad Zmily and Christos Kozyrakis<br/> ACM Transactions on Architecture
+and Code Optimization, vol. 3, no. 3, pages 327-357, September 2006</li><br/>
+<li style="list-style-type:none"><strong>[PACT]</strong>
+<a href="publications/tm_tutorial_pact2006.zip"> Tutorial: Transactional Programming In A Multi-core Environment <img src="pics/weblink_icon.png"/></a><br/>
+Ali-Reza Adl-Tabatabai, Christos Kozyrakis and Bratin Saha<br/>
+Tutorial at the 15th Intl. Conference on Parallel
+Architecture and Compilation Techniques (PACT),
+Seattle, WA, September 2006</li><br/>
+<li style="list-style-type:none"><strong>[PACT]</strong>
+<a href="publications/2006.vtm.pact.pdf"> Testing Implementations of Transactional
+Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.vtm.pact.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Chaiyasit Manovit, Sudheendra Hangal, Austen
+McDonald, Hassan Chafi, Christos Kozyrakis, Kunle Olukotun<br/> Proceedings
+of the 15th Intl. Conference on Parallel Architecture and Compilation
+Techniques (PACT), Seattle, WA, September 2006</li><br/>
+<li style="list-style-type:none"><strong>[HPEC]</strong>
+<a href="publications/2006.cearch.hpec.pdf"> CEARCH: Cognition
+Enabled Architecture <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.cearch.hpec.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+S. Crago, J. McMahon, et. al.<br/>Proceedings of the 10th Workshop on High Performance
+Embedded Computing (HPEC), Lexington, MA, September 2006</li><br/>
+<li style="list-style-type:none"><strong>[HotChips]</strong>
+<a href="publications/2006.ramp.hotchips.slides.pdf">RAMP:
+Research Accelerator for Multiple Processors<img src="pics/slides_icon.png"/></a><br/> 
+K. Asanovic, D. Chiou, J. Hoe, C. Kozyrakis, S. Lu, M. Oskin,
+J. Rabaey, J. Wawrzynek<br/> Technical Record of
+the 18th Hot Chips Symposium, Palo Alto, CA, August 2006</li><br/>
+<li style="list-style-type:none"><strong>[ICPP]</strong>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2006.vlt.icpp.pdf">Vector
+Lane Threading <img src="pics/pdf_icon.png"/></a>
+<a href="http://csl.stanford.edu/%7Echristos/publications/2006.vlt.icpp.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Suzanne
+Rivoire, Rebecca Schultz, Tomofumi Okuda, Christos Kozyrakis<br/>Proceedings
+of the Intl. Conference on Parallel Processing (ICPP), Colombus,
+Ohio, August 2006</li><br/>
+<li style="list-style-type:none"><strong>[ISCA]</strong>
+<a href="publications/2006.tmsemantics.isca.pdf">Architectural Semantics
+for Practical Transactional Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.tmsemantics.isca.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Austen McDonald,
+JaeWoong Chung, Brian Carlstrom, Chi Cao Minh, Hassan Chafi, Christos
+Kozyrakis, Kunle Olukotun<br/> Proceedings of the 33rd Intl.
+Symposium on Computer Architecture (ISCA), Boston, MA, June
+2006</li><br/>
+<li style="list-style-type:none"><strong>[WDDD]</strong>
+<a href="publications/2006.security_arcs.wddd.pdf">Deconstructing Hardware Architectures for
+Security <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.security_arcs.wddd.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Michael Dalton, Hari Kannan, Christos Kozyrakis<br/> The 5th
+Annual Workshop on Duplicating, Deconstructing, and Debunking (WDDD) at
+ISCA, Boston, MA, June 2006</li><br/>
+<li style="list-style-type:none"><strong>[MOBS]</strong>
+<a href="publications/2006.mantis.mobs.pdf">Full-system Power Analysis and Modeling for
+Server Environments <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.mantis.mobs.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Dimitris Economou, Suzanne Rivoire,
+Christos Kozyrakis, Partha Ranganathan<br/>Workshop on Modeling
+Benchmarking and Simulation (MOBS) at ISCA, Boston, MA, June
+2006</li><br/>
+<li style="list-style-type:none"><strong>[PLDI]</strong>
+<a href="publications/2006.atomos.pldi.pdf"> The ATOMOS Transactional
+Programming Language <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.atomos.pldi.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+Brian D. Carlstrom, Austen McDonald,
+Hassan Chafi, JaeWoong Chung, Chi Cao Minh, Christos
+Kozyrakis, Kunle Olukotun<br/>Proceedings of the Conference on 
+Programming Language Design and Implementation (PLDI), 
+Ottawa, Canada, June 2006</li><br/>
+<li style="list-style-type:none"><strong>[WTW]</strong>
+<a href="publications/2006.specjbb2k_tm.wtw.pdf"> Parallelizing SPECjbb2000 with Transactional
+Memory <img src="pics/pdf_icon.png"/></a>
+<a href="publications/2006.specjbb2k_tm.wtw.slides.pdf"><img src="pics/slides_icon.png"/></a><br/>
+JaeWoong Chung, Chi Cao Minh, Brian D. Carlstrom,
+Christos Kozyrakis<br/> Workshop on Transactional Memory
+Workloads (WTW), Ottawa, Canada, June 2006</li><br/>
+<li style="list-style-type:none"></li></ul></div></div></body>

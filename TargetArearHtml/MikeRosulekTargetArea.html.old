@@ -1,0 +1,481 @@
+http://web.engr.oregonstate.edu/~rosulekm/
+<body>
+<div class="topfold">
+<img class="headshot" height="247" src="www/headshot4.jpg" width="180"/>
+</div>
+<div class="header">Mike Rosulek</div>
+<div class="botfold">
+<div class="affiliation">Associate Professor<br/>School of EECS<br/>Oregon State University</div>
+<ul class="contact fa-ul">
+<li><i class="fa fa-li fa-envelope"></i><a href="mailto:rosulekm@eecs.oregonstate.edu">rosulekm@eecs.oregonstate.edu</a></li>
+<li> <i class="fa fa-li fa-university"></i><span>3063 Kelley Engineering Center</span></li>
+<li> <i class="fa fa-li fa-key"></i><a href="https://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0x7181A58FDE125D6B">(pgp)
+            <tt class="pgp">4E37 C45E F109 1308 0D5F<br/>817F 7181 A58F DE12 5D6B</tt></a></li>
+</ul>
+</div>
+<div class="nav"> <a class="navlink" href="#teaching">teaching</a><a class="navlink" href="#research">research</a><a class="navlink" href="#other">other</a></div>
+<div class="content">
+<p>I am a computer scientist interested in cryptography and security. BS from Iowa State University &amp;rarrw PhD from University of Illinois &amp;rarrw Assistant Prof at University of Montana (2009-2013) &amp;rarrw Assistant Prof at Oregon State (2013-2019) &amp;rarrw Associate Prof at Oregon State (2019-present). I am the only faculty member at Oregon State University whose name contains the substring "OSU".</p>
+<h2>News</h2>
+<div class="schedule narrow" style="max-height: 200px; overflow-y: scroll;">
+<div class="schedline">
+<div class="scheddate">May 2019</div>
+<div class="scheditem">I have been promoted to Associate Professor with indefinite tenure!</div>
+</div>
+<div class="schedline">
+<div class="scheddate">May 2019</div>
+<div class="scheditem">New paper on <a href="https://eprint.iacr.org/2019/634">PSI and sparse OT extension</a> is accepted to Crypto 2019.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Apr 2019</div>
+<div class="scheditem">Paper on <a href="https://eprint.iacr.org/2019/338">garbled neural networks</a> now on eprint.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Feb 2019</div>
+<div class="scheditem">Paper on <a href="https://eprint.iacr.org/2019/239">speeding up PSI via differentially-private leakage</a> accepted to PETS 2019.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Dec 2018</div>
+<div class="scheditem">I will be area chair for cryptography at <a href="https://www.sigsac.org/ccs/CCS2019/">CCS 2019</a>, so please submit your coolest results! We will have 3 submission deadlines: in Feburary, May, and September.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Dec 2018</div>
+<div class="scheditem">Together with David Evans and Vlad Kolesnikov, we wrote <a href="https://securecomputation.org/">a book about MPC</a>. It gives an overview of the current state of the art and main constructions.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Dec 2018</div>
+<div class="scheditem">Paper on thumbnail-preserving encryption accepted to NDSS 2019.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Sep 2018</div>
+<div class="scheditem">I have started collecting <a href="advising.html">some materials for new grad students and their mentors</a> related to graduate study, so that I can refer to it easily for new students.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Aug 2018</div>
+<div class="scheditem">Paper on post-quantum signatures accepted to CCS 2018, and paper on <a href="https://eprint.iacr.org/2017/464">UC hybrid protocols</a> accepted to TCC 2018. Also find me featured in this <a href="https://www.oregonlive.com/expo/news/erry-2018/08/76268e4b361333/db-cooper-secret-ciphers-relea.html">Oregonion article</a> where I offer some skepticism about bunk cryptanalysis.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">May 2018</div>
+<div class="scheditem">Paper on <a href="https://eprint.iacr.org/2018/578">authenticated garbling</a> accepted to Crypto 2018. Paper on <a href="https://eprint.iacr.org/2018/579">private contact discovery</a> accepted to PETS 2018.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Apr 2018</div>
+<div class="scheditem">I will be delivering a lecture series on 2PC techniques at the <a href="https://cryptabit.bit.uni-bonn.de/cryptabit-2018/">crypt@b-it summer school</a>. Come to Germany for a week in July and learn 2PC!</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Dec 2017</div>
+<div class="scheditem">Slides from <a href="pubs/gc-indocrypt-talk.pdf">Indocrypt tutorial</a> and <a href="pubs/gatehiding-talk.pdf">gate-hiding GC paper</a> now posted.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Nov 2017</div>
+<div class="scheditem">Paper on <a href="https://eprint.iacr.org/2017/1150">wildcard pattern matching</a> accepted to Financial Cryptography 2018.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Oct 2017</div>
+<div class="scheditem">Paper on <a href="https://eprint.iacr.org/2017/976">gate-hiding garbled circuits</a> accepted to Indocrypt 2017. CCS workshop paper on thumbnail-preserving encryption <a href="https://eprint.iacr.org/2017/1046">now on eprint</a>.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Sep 2017</div>
+<div class="scheditem">This quarter I'm teaching an <a href="cs321h/">honors section</a> and <a href="cs321/">traditional section</a> of CS 321, Theory of computation.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Aug 2017</div>
+<div class="scheditem">OSU takeover of ACM CCS 2017 has been successful: 3 papers for me (<a href="https://eprint.iacr.org/2017/769">malicious PSI</a>, <a href="https://eprint.iacr.org/2017/344">Duplo</a>, <a href="https://eprint.iacr.org/2017/799">multi-party PSI</a>), 5 for my group members, 6 for Oregon State! <i>Addendum Sep 2017: plus 1 paper at a CCS-affiliated workshop</i></div>
+</div>
+<div class="schedline">
+<div class="scheddate">Jul 2017</div>
+<div class="scheditem">I will be on the program committee for <a href="https://eurocrypt.iacr.org/2018/callforpapers.html">Eurocrypt 2018</a>, so get your best results in order for the Sep 19 deadline!</div>
+</div>
+<div class="schedline">
+<div class="scheddate">May 2017</div>
+<div class="scheditem">Paper on UC hybrid protocols now <a href="https://eprint.iacr.org/2017/464">on eprint</a>.</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Mar 2017</div>
+<div class="scheditem">I'll be on the program committees for <a href="https://www.sigsac.org/ccs/CCS2017/">CCS 2017</a> and <a href="http://events.csa.iisc.ernet.in/indocrypt2017/">Indocrypt 2017</a>. Please submit your best work!</div>
+</div>
+<div class="schedline">
+<div class="scheddate">Jan 2017</div>
+<div class="scheditem">Hat trick! 3 papers accepted to Eurocrypt 2017! (<a href="https://eprint.iacr.org/2017/129">ZK for RAM programs</a>, <a href="https://eprint.iacr.org/2016/746">malicious PSI</a>, <a href="https://eprint.iacr.org/2017/125">non-interactive 2PC</a>)</div>
+</div>
+</div>
+<h1>Teaching<a class="anchor" name="teaching">​</a></h1>
+<!--      <p>This quarter (Winter 2018) I am teaching <a href="cs427/">CS 427/519 (Intro to Cryptography)</a>.</p> -->
+<p>Typically I teach CS 321 (Theory of Computation) in fall, CS 427 (Intro to Cryptography) in winter, and CS 517 (Computational Complexity) in spring.</p>
+<h2>Textbook</h2>
+<p>I am writing an undergraduate textbook on cryptography called <a href="crypto"><b>The Joy of Cryptography</b></a>. The book is / will be free, thanks to support from Oregon State's <a href="http://open.oregonstate.edu/textbooks/">open textbook initiative</a>.</p>
+<h2>Mentoring</h2>
+<div class="twocols">
+<div class="col">Current advisees: 
+          <ul>
+<li><a href="https://nitrieu.github.io/">Ni Trieu</a> (PhD)</li>
+<li>Gayathri Garimella (PhD)</li>
+<li>Lawrence Roy (PhD)</li>
+<li>Naimisha Saireddy (MS)</li>
+<li>Tommy Hollenberg (MS)</li>
+</ul>
+</div>
+<div class="col">
+          Long-term visitors:
+          <ul>
+<li><a href="https://www.encrypto.informatik.tu-darmstadt.de/people/daniel-demmler/">Daniel Demmler</a> (TU Darmstadt, Spring 2017)
+          </li></ul>
+</div>
+</div>
+<p>Former advisees: 
+          <ul>
+<li>Perry Hooker (MS, 2012) → now @ Oracle</li>
+<li>Zhangxiang Hu (MS, 2015) → now PhD program @ U Oregon</li>
+<li><a href="https://morganfshirley.com/">Morgan Shirley</a> (MS, 2017) → now PhD program @ Toronto</li>
+<li><a href="https://ladnir.github.io/">Peter Rindal</a> (PhD, 2018) → now @ Visa Research</li>
+<li><a href="http://web.engr.oregonstate.edu/~carmerb/">Brent Carmer</a> (PhD, 2018) → now @ Galois</li>
+</ul>
+</p>
+<p>I have started collecting <a href="advising.html">some materials for new grad students (and their mentors)</a> related to graduate study, so that I can refer to it easily for new students. The materials are biased towards my area of research, but there is also plenty of advice about grad school in general.</p>
+<h2>2PC Course</h2>
+<p>In Summer 2018 I was an invited lecturer at the <a href="https://cryptabit.bit.uni-bonn.de/cryptabit-2018/">crypt@b-it summer school</a> in Bonn, Germany. I delivered a week-long course on efficient secure computation techniques. The focus was on things that I actually know about: 2PC based on garbled circuits, and PSI.
+        <ul>
+<li><b>Day 1:</b> Overview of secure computation (applications and definitions) and textbook Yao's protocol. <a class="pubtag" href="cryptabit/1-overview.pdf">slides</a></li>
+<li><b>Day 2:</b> Optimizations to garbled circuits (point-permute, free-XOR, half-gates, arithmetic garbling). <a class="pubtag" href="cryptabit/2-gc.pdf">slides</a></li>
+<li><b>Day 3:</b> Optimizations to oblivious transfer (Beaver precomputation, OT extension, IKNP protocol and variants). <a class="pubtag" href="cryptabit/3-ot.pdf">slides</a></li>
+<li><b>Day 4:</b> Protecting Yao's protocol from malicious attacks (cut-and-choose &amp; its subtleties, cheating punishment, dual execution variants, batch cut-and-choose) <a class="pubtag" href="cryptabit/4-malicious.pdf">slides</a></li>
+<li><b>Day 5:</b> Private set intersection (classic DH protocol, OT-based equality tests, hashing techniques) <a class="pubtag" href="cryptabit/5-psi.pdf">slides</a></li>
+<li><a href="cryptabit/problems.pdf">Homework problems</a> for all days
+        </li></ul>
+</p>
+<h1>Research<a class="anchor" name="research">​</a></h1>
+<p>My main research focus is on <b>cryptographic protocols for secure computation</b>. These tools allow parties to perform computations on private data, so that they learn the <i>outcome</i> of the computation but nothing else. I am interested in both theoretical and practical aspects of secure computation techniques.</p>
+<p>More specifically, my recent research has focused on:</p>
+<ul>
+<li><b>Private set intersection:</b> Two parties each hold a set of items, and wish to learn which items they have in common, without revealing anything else about their sets. This special case of secure computation has many real-world applications.</li>
+<li><b>Garbled circuits:</b> Garbled circuits are one of the few ways to achieve general-purpose secure computation protocols with just a few rounds of communication. I'm interested in making this core technique more efficient.</li>
+<li><b>Secure computation against malicious adversaries:</b> My group has developed new techniques for hardening secure computation protocols against malicious participants, who may deviate arbitrarily from the protocol.</li>
+</ul>
+<p>My research is supported by the NSF, including an NSF CAREER award, and faculty research awards from Google and Visa Research.</p>
+<h2>Publications</h2>
+<p>More bibliographic information is also available on my <a href="http://scholar.google.com/citations?hl=en&amp;user=wQyhNhwAAAAJ&amp;oi=sra">Google scholar</a> page and <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rosulek:Mike.html">DBLP</a> page. For most publications I include a link to a free version of the article; however, some papers are behind paywalls. Send me email if you would like a copy of paywalled publications.</p>
+<div class="publist">
+<div class="pubitem">
+<div class="pubtitle">SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension</div>
+<div class="pubauthors">Benny Pinkas, Mike Rosulek, Ni Trieu, Avishay Yanai</div>
+<div class="pubinfo">Crypto 2019 <a class="pubtag" href="https://eprint.iacr.org/2019/634">article</a> <a class="pubtag" href="https://github.com/osu-crypto/SpOT-PSI">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Cheaper Private Set Intersection via Differentially Private Leakage</div>
+<div class="pubauthors">Adam Groce, Peter Rindal, Mike Rosulek</div>
+<div class="pubinfo">PETS 2019 <a class="pubtag" href="https://eprint.iacr.org/2019/239">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">A Pragmatic Introduction to Secure Multi-Party Computation</div>
+<div class="pubauthors">David Evans, Vladimir Kolesnikov, Mike Rosulek</div>
+<div class="pubinfo"><b>Monograph</b>, NOW Publishers (2018) <a class="pubtag" href="https://securecomputation.org/">author version</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption</div>
+<div class="pubauthors">Kimia Tajik, Akshith Gunasekaran, Rhea Dutta, Brandon Ellis, Rakesh B. Bobba, Mike Rosulek, Charles V. Wright, Wu-Chi Feng</div>
+<div class="pubinfo">NDSS 2019 <a class="pubtag" href="https://eprint.iacr.org/2019/295">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">On the Structure of Unconditional UC Hybrid Protocols</div>
+<div class="pubauthors">Mike Rosulek &amp; Morgan Shirley</div>
+<div class="pubinfo">TCC 2018 <a class="pubtag" href="https://eprint.iacr.org/2017/464">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">TACHYON: Fast Signatures from Compact Knapsack</div>
+<div class="pubauthors">Rouzbeh Behnia, Muslum Ozgur Ozmen, Attila A Yavuz, Mike Rosulek</div>
+<div class="pubinfo">CCS 2018 <a class="pubtag" href="https://eprint.iacr.org/2018/873">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Optimizing Authenticated Garbling for Faster Secure Two-Party Computation</div>
+<div class="pubauthors">Jonathan Katz, Samuel Ranellucci, Mike Rosulek, Xiao Wang</div>
+<div class="pubinfo">Crypto 2018 <a class="pubtag" href="https://eprint.iacr.org/2018/578">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">PIR-PSI: Scaling Private Contact Discovery</div>
+<div class="pubauthors">Daniel Demmler, Peter Rindal, Mike Rosulek, Ni Trieu</div>
+<div class="pubinfo">PETS 2018 <a class="pubtag" href="https://eprint.iacr.org/2018/579">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">SWiM: Secure Wildcard Pattern Matching From OT Extension</div>
+<div class="pubauthors">Vladimir Kolesnikov, Mike Rosulek, Ni Trieu</div>
+<div class="pubinfo">Financial Cryptography 2018  <a class="pubtag" href="https://eprint.iacr.org/2017/1150">article</a> <a class="pubtag" href="https://github.com/osu-crypto/PatternMatching">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Improvements for Gate-Hiding Garbled Circuits</div>
+<div class="pubauthors">Mike Rosulek</div>
+<div class="pubinfo">Indocrypt 2017  <a class="pubtag" href="https://eprint.iacr.org/2017/976">article</a> <a class="pubtag" href="pubs/gatehiding-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Approximate Thumbnail Preserving Encryption</div>
+<div class="pubauthors">Byron Marohn, Charles V Wright, Wu-chi Feng, Mike Rosulek, Rakesh Bobba</div>
+<div class="pubinfo">Workshop on Multimedia Privacy and Security 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/1046">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Malicious-Secure Private Set Intersection via Dual Execution</div>
+<div class="pubauthors">Peter Rindal &amp; Mike Rosulek</div>
+<div class="pubinfo">CCS 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/769">article</a> <a class="pubtag" href="https://github.com/osu-crypto/libpsi">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Practical Multi-party Private Set Intersection from Symmetric-Key Techniques</div>
+<div class="pubauthors">Vladimir Kolesnikov, Naor Matania, Benny Pinkas, Mike Rosulek, Ni Trieu</div>
+<div class="pubinfo">CCS 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/799">article</a> <a class="pubtag" href="https://github.com/osu-crypto/MultipartyPSI">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">DUPLO: Unifying Cut-and-Choose for Garbled Circuits</div>
+<div class="pubauthors">Vladimir Kolesnikov, Jesper Buus Nielsen, Mike Rosulek, Ni Trieu, Roberto Trifiletti</div>
+<div class="pubinfo">CCS 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/344">article</a> <a class="pubtag" href="https://github.com/AarhusCrypto/DUPLO">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Improved Private Set Intersection against Malicious Adversaries</div>
+<div class="pubauthors">Peter Rindal &amp; Mike Rosulek</div>
+<div class="pubinfo">Eurocrypt 2017 <a class="pubtag" href="https://eprint.iacr.org/2016/746">article</a> <a class="pubtag" href="https://github.com/osu-crypto/libPSI">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Non-Interactive Secure 2PC in the Offline/Online and Batch Settings</div>
+<div class="pubauthors">Payman Mohassel &amp; Mike Rosulek</div>
+<div class="pubinfo">Eurocrypt 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/125">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Sublinear Zero-Knowledge Arguments for RAM Programs</div>
+<div class="pubauthors">Payman Mohassel, Mike Rosulek, Alessandra Scafuro</div>
+<div class="pubinfo">Eurocrypt 2017  <a class="pubtag" href="https://eprint.iacr.org/2017/129">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Reconciling Non-malleability with Homomorphic Encryption</div>
+<div class="pubauthors">Manoj Prabhakaran &amp; Mike Rosulek</div>
+<div class="pubinfo">Journal of Cryptology 2017 <a class="pubtag" href="http://link.springer.com/article/10.1007/s00145-016-9231-y">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Efficient Batched Oblivious PRF with Applications to Private Set Intersection</div>
+<div class="pubauthors">Vladimir Kolesnikov, Ranjit Kumaresan, Mike Rosulek, Ni Trieu</div>
+<div class="pubinfo">CCS 2016 <a class="pubtag" href="https://eprint.iacr.org/2016/799">article</a> <a class="pubtag" href="https://github.com/osu-crypto/BaRK-OPRF">code</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Garbling Gadgets for Boolean and Arithmetic Circuits</div>
+<div class="pubauthors">Marshall Ball, Tal Malkin, Mike Rosulek</div>
+<div class="pubinfo">CCS 2016 <a class="pubtag" href="https://eprint.iacr.org/2016/969">article</a> <a class="pubtag" href="pubs/gc-gadgets-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Linicrypt: A Model for Practical Cryptography</div>
+<div class="pubauthors">Brent Carmer &amp; Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2016 <a class="pubtag" href="https://eprint.iacr.org/2016/548">article</a> <a class="pubtag" href="https://github.com/osu-crypto/linisynth">code</a> <a class="pubtag" href="pubs/linicrypt-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Faster Malicious 2-party Secure Computation with Online/Offline Dual Execution</div>
+<div class="pubauthors">Peter Rindal &amp; Mike Rosulek</div>
+<div class="pubinfo">USENIX Security 2016 <a class="pubtag" href="https://eprint.iacr.org/2016/632">article</a> <a class="pubtag" href="https://github.com/osu-crypto/batchDualEx">code</a> <a class="pubtag" href="pubs/dual-ex-talk2.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Fast and Secure Three-party Computation: The Garbled Circuit Approach</div>
+<div class="pubauthors">Payman Mohassel, Mike Rosulek, Ye Zhang</div>
+<div class="pubinfo">CCS 2015 <a class="pubtag" href="https://eprint.iacr.org/2015/931">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Efficient Zero-Knowledge Proofs of Non-Algebraic Statements with Sublinear Amortized Cost</div>
+<div class="pubauthors">Zhangxiang Hu, Payman Mohassel, Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2015 <a class="pubtag" href="https://eprint.iacr.org/2015/497">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Two Halves Make a Whole: Reducing Data Transfer in Garbled Circuits using Half Gates</div>
+<div class="pubauthors">Samee Zahur, Mike Rosulek, David Evans</div>
+<div class="pubinfo">Eurocrypt 2015 <a class="pubtag" href="https://eprint.iacr.org/2014/756">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">How to Efficiently Evaluate RAM Programs with Malicious Security</div>
+<div class="pubauthors">Arash Afshar, Zhangxiang Hu, Payman Mohassel, Mike Rosulek</div>
+<div class="pubinfo">Eurocrypt 2015 <a class="pubtag" href="https://eprint.iacr.org/2014/759">article</a> <a class="pubtag" href="pubs/malram-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Richer Efficiency/Security Tradeoffs in 2PC</div>
+<div class="pubauthors">Vladimir Kolesnikov, Payman Mohassel, Ben Riva, Mike Rosulek</div>
+<div class="pubinfo">TCC 2015 <a class="pubtag" href="https://eprint.iacr.org/2015/055">article</a> <a class="pubtag" href="pubs/dual-ex-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">FleXOR: Flexible garbling for XOR gates that beats free-XOR</div>
+<div class="pubauthors">Vladimir Kolesnikov, Payman Mohassel, Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2014 <a class="pubtag" href="https://eprint.iacr.org/2014/460">article</a> <a class="pubtag" href="pubs/flexor-slides-aarhus.pdf">slides</a> <a class="pubtag" href="https://www.youtube.com/embed/BRdZF5_9X6A">video</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Multi-Party Computation for Polynomials and Branching Programs without Simultaneous Interaction</div>
+<div class="pubauthors">Dov Gordon, Tal Malkin, Mike Rosulek, Hoeteck Wee</div>
+<div class="pubinfo">Eurocrypt 2013 <a class="pubtag" href="https://eprint.iacr.org/2013/267">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Characterizing the Cryptographic Properties of Reactive 2-Party Functionalities</div>
+<div class="pubauthors">R. Amzi Jeffs &amp; Mike Rosulek</div>
+<div class="pubinfo">TCC 2013 <a class="pubtag" href="pubs/reactive-char.pdf">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">A Unified Characterization of Completeness and Triviality for Secure Function Evaluation</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">Indocrypt 2012 <a class="pubtag" href="http://dx.doi.org/10.1007/978-3-642-34931-7_4">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Must you know the code of <i>f</i>  to securely compute <i>f?</i></div>
+<div class="pubauthors">Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2012 <a class="pubtag" href="https://eprint.iacr.org/2012/455">article</a> <a class="pubtag" href="pubs/fbb-talk-crypto.pdf">slides</a> <a class="pubtag" href="https://www.youtube.com/embed/8CfJmSGXSTc?rel=0">video</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Universal Composability from Essentially Any Trusted Setup</div>
+<div class="pubauthors">Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2012 <a class="pubtag" href="https://eprint.iacr.org/2011/240">article</a> <a class="pubtag" href="pubs/completeness-talk-crypto.pdf">slides</a> <a class="pubtag" href="https://www.youtube.com/embed/6UlOmCv1J1w?rel=0">video</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Complexity of Multi-Party Computation Functionalities</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo"><b>Book chapter</b>, IOS Press <a class="pubtag" href="https://eprint.iacr.org/2013/042">chapter</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Exploring the Limits of Common Coins Using Frontier Analysis of Protocols</div>
+<div class="pubauthors">Hemanta Maji, Pichayoot Ouppaphan, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">TCC 2011 <a class="pubtag" href="https://eprint.iacr.org/2011/006">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Attribute-Based Signatures</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">CT-RSA 2011 <a class="pubtag" href="https://eprint.iacr.org/2010/595">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">A Zero-One Law for Cryptographic Complexity with Respect to Computational UC Security</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2010 <a class="pubtag" href="https://eprint.iacr.org/2010/098">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Cryptographic Complexity Classes and Computational Intractability Assumptions</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">ICS 2010 <a class="pubtag" href="http://eccc.hpi-web.de/report/2009/123/">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Complexity of Multiparty Computation Problems: The Case of 2-Party Symmetric Secure Function Evaluation</div>
+<div class="pubauthors">Hemanta Maji, Manoj Prabhakaran, Mike Rosulek</div>
+<div class="pubinfo">TCC 2009 <a class="pubtag" href="https://eprint.iacr.org/2008/454">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Towards Robust Computation on Encrypted Data</div>
+<div class="pubauthors">Manoj Prabhakaran &amp; Mike Rosulek</div>
+<div class="pubinfo">Asiacrypt 2008 <a class="pubtag" href="http://www.iacr.org/archive/asiacrypt2008/53500220/53500220.pdf">article</a> <a class="pubtag" href="pubs/hcca-prots-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Cryptographic Complexity of Multi-party Computation Problems: Classifications and Separations</div>
+<div class="pubauthors">Manoj Prabhakaran &amp; Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2008 <a class="pubtag" href="http://eccc.hpi-web.de/eccc-reports/2008/TR08-050/index.html">article</a> <a class="pubtag" href="pubs/split-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Homomorphic Encryption with CCA Security</div>
+<div class="pubauthors">Manoj Prabhakaran &amp; Mike Rosulek</div>
+<div class="pubinfo">ICALP 2008 <a class="pubtag" href="https://eprint.iacr.org/2008/079">article</a> <a class="pubtag" href="pubs/hcca-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Harvesting Credentials in Trust Negotiation as an Honest-But-Curious Adversary</div>
+<div class="pubauthors">Lars Olson, Mike Rosulek, Marianne Winslett</div>
+<div class="pubinfo">WPES 2007 <a class="pubtag" href="http://www.ideals.illinois.edu/handle/2142/11381">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Rerandomizable RCCA Encryption</div>
+<div class="pubauthors">Manoj Prabhakaran &amp; Mike Rosulek</div>
+<div class="pubinfo">CRYPTO 2007 <a class="pubtag" href="https://eprint.iacr.org/2007/119">article</a> <a class="pubtag" href="pubs/rcca-talk.pdf">slides</a></div>
+</div>
+</div>
+<h2>Unpublished manuscripts &amp; other writings</h2>
+<div class="publist">
+<div class="pubitem">
+<div class="pubtitle">Scalable Private Set Union from Symmetric-Key Techniques</div>
+<div class="pubauthors">Vladimir Kolesnikov, Mike Rosulek, Ni Trieu, Xiao Wang</div>
+<div class="pubinfo">Manuscript 2019 <a class="pubtag" href="https://eprint.iacr.org/2019/776">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Garbled Neural Networks are Practical</div>
+<div class="pubauthors">Marshall Ball, Brent Carmer, Tal Malkin, Mike Rosulek, Nichole Schimanski</div>
+<div class="pubinfo">Manuscript 2019 <a class="pubtag" href="https://eprint.iacr.org/2019/338">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Characterizing Collision and Second-Preimage Resistance in Linicrypt</div>
+<div class="pubauthors">Ian McQuoid, Trevor Swope, Mike Rosulek</div>
+<div class="pubinfo">Manuscript 2018 <a class="pubtag" href="https://eprint.iacr.org/2018/458">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Efficient Maliciously Secure Two Party Computation for Mixed Programs</div>
+<div class="pubauthors">Arash Afshar, Payman Mohassel, Mike Rosulek</div>
+<div class="pubinfo">Manuscript 2017 <a class="pubtag" href="https://eprint.iacr.org/2017/062">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Secure Data Exchange: A Marketplace in the Cloud</div>
+<div class="pubauthors">Ran Gilad-Bachrach, Kim Laine, Kristin Lauter, Peter Rindal, Mike Rosulek</div>
+<div class="pubinfo">Manuscript 2016 <a class="pubtag" href="https://eprint.iacr.org/2016/620">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Secure Your Data and Compute on It, Too</div>
+<div class="pubauthors">Mike Rosulek</div>
+<div class="pubinfo">XRDS: Crossroads, the ACM Magazine for Students, 2015 <a class="pubtag" href="http://dl.acm.org/citation.cfm?id=2730910">article</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Correspondences regarding cryptography between John Nash and the NSA</div>
+<div class="pubauthors">John Nash</div>
+<div class="pubinfo">Transcribed &amp; typeset by Mike Rosulek <a class="pubtag" href="pubs/nash.pdf">pdf</a> <a class="pubtag" href="http://www.nsa.gov/public_info/press_room/2012/nash_exhibit.shtml">originals</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">The Structure of Secure Multi-Party Computation</div>
+<div class="pubauthors">Mike Rosulek</div>
+<div class="pubinfo">University of Illinois PhD dissertation, 2009 <a class="pubtag" href="pubs/dissertation.pdf">pdf</a></div>
+</div>
+</div>
+<h2>Selected talks</h2>
+<div class="publist">
+<div class="pubitem">
+<div class="pubtitle">Garbled Circuits for Secure Computation</div>
+<div class="pubinfo">Indocrypt Tutorial, December 2017 <a class="pubtag" href="pubs/gc-indocrypt-talk.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Towards Optimal Garbled Circuit Constructions</div>
+<div class="pubinfo">Allerton Conference, October 2015 <a class="pubtag" href="pubs/gc-allerton.pdf">slides</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">A Brief History of Practical Garbled Circuit Optimizations</div>
+<div class="pubinfo">Simons Institute workshop on Securing Computation, June 2015 <a class="pubtag" href="pubs/gc-survey-talk.pdf">slides</a> <a class="pubtag" href="https://www.youtube.com/watch?v=FTxh908u9y8">video</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Zero-Knowledge Proofs, with Applications to Sudoku and Where's Waldo</div>
+<div class="pubinfo">Educational talk, University of Montana, December 2008 <a class="pubtag" href="pubs/zk-waldo-talk.pdf">slides</a></div>
+</div>
+</div>
+<h1>Other Things<a class="anchor" name="other">​</a></h1>
+<h2>Projects</h2>
+<div class="publist">
+<div class="pubitem">
+<div class="pubtitle">An Annotated Bibliography of Practical Secure Computation
+</div>
+<div class="pubinfo">A reference for researchers in secure computation<a class="pubtag" href="https://web.engr.oregonstate.edu/~rosulekm/scbib/">website</a></div>
+</div>
+<div class="pubitem">
+<div class="pubtitle">Vamonos</div>
+<div class="pubinfo">A browser-based platform for algorithm visualization<a class="pubtag" href="http://rosulek.github.io/vamonos/">website</a></div>
+</div>
+</div>
+<h2>Professional Service</h2>
+<p>I have served on the following program committees (reverse chronological):</p>
+<blockquote>
+        CCSW 2019,
+        CCS 2019 (cryptography <b>area chair</b>), 
+        S&amp;P (Oakland) 2019,
+        TCC 2018,
+        Crypto 2018,
+        Eurocrypt 2018,
+        Indocrypt 2017, 
+        CCS 2017, 
+        CRYPTO 2016, 
+        PETS 2015, 
+        ACNS 2015,
+        Eurocrypt 2014, 
+        TCC 2014, 
+        TCC 2012, 
+        PKC 2011
+      </blockquote>
+<p>I am on the organizing committee for the <a href="http://www.multipartycomputation.com">Theory and Practice of Multi-Party Computation Workshops</a>.</p>
+<p>I also serve as communications secretary for the <a href="http://iacr.org">International Association for Cryptologic Research</a>.</p>
+<h2>Miscellany</h2>
+<p>I have a <a href="http://www.mikero.com">personal website</a> (never updated), a <a href="https://www.flickr.com/photos/mikerosulek">Flickr page</a>, a <a href="https://github.com/rosulek/">Github page</a>, and a few <a href="https://www.youtube.com/playlist?list=PLy9xpoIWr469NOTLnLriMMc0PFcj9Qtma">Youtube videos</a>.</p>
+<!--
+      <p>The navigation elements on this page were inspired by and adapted from <a href="http://codepen.io/codeams/pen/uljkp">this codepen</a> by Alejandro Monta&ntilde;ez.</p>
+-->
+</div>
+</body>

@@ -1,0 +1,619 @@
+https://wenke.gtisc.gatech.edu/publications.html
+<body> <h2><a href="http://scholar.google.com/citations?user=nfkH5V4AAAAJ&amp;hl=en" target="_blank">Profile</a> at Google Scholar</h2>
+<h2>Publications</h2> <ol>
+<p><li>DIFT Games: Dynamic Information Flow Tracking Games for
+  Advanced Persistent Threats. <br/> Dinuka Sahabandu, Baicen Xiao,
+  Andrew Clark, Sangho Lee, Wenke Lee, and Radha Poovendran. <br/> In
+  <em> Proceedings of <strong>The 57th IEEE Conference on Decision and
+  Control (CDC)</strong></em>. Miami Beach, FL, December 2018.
+
+<p><li>Multi-Stage Dynamic Information Flow Tracking Game. <br/> Shana
+  Moothedath, Dinuka Sahabandu, Andrew Clark, Sangho Lee, Wenke Lee,
+  and Radha Poovendran. <br/> In <em>Proceedings of <strong>The 9th
+  Conference on Decision and Game Theory for Security
+  (GameSec)</strong></em>. Seattle, WA, October 2018.
+
+<p><li>Enforcing Unique Code Target Property for Control-Flow
+  Integrity. <br/> Hong Hu, Chenxiong Qian, Carter Yagemann, Simon Pak
+  Ho Chung, Bill Harris, Taesoo Kim, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong>The 25th ACM Conference on Computer and
+  Communications Security (CCS 2018)</strong></em>. Toronto, Canada,
+  October 2018.
+
+<p><li>ClickShield: Are You Hiding Something? Towards Eradicating
+  Clickjacking on Android. <br/> Andrea Possemato, Andrea Lanzi, Simon
+  Pak Ho Chung, Wenke Lee, and Yanick Fratantonio. <br/> In <em>
+  Proceedings of <strong>The 25th ACM Conference on Computer and
+  Communications Security (CCS 2018)</strong></em>. Toronto, Canada,
+  October 2018.
+
+<p><li>Enabling Refinable Cross-Host Attack Investigation with
+  Efficient Data Flow Tagging and Tracking. <br/> Yang Ji, Sangho Lee,
+  Mattia Fazzini, Joey Allen, Evan Downing, Taesoo Kim, Alessandro
+  Orso, and Wenke Lee. <br/> In <em> Proceedings of <strong>The 27th
+  USENIX Security Symposium</strong></em>. Baltimore, MD, August 2018
+
+<p><li>Rampart: Protecting Web Applications from CPU-Exhaustion
+  Denial-of-Service Attacks. <br/> Wei Meng, Chenxiong Qian, Shuang Hao,
+  Kevin Borgolte, Giovanni Vigna, and Christopher Kruegel, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 27th USENIX Security
+  Symposium</strong></em>. Baltimore, MD, August 2018
+
+<p><li>rtCaptcha: A Real-Time CAPTCHA Based Liveness Detection
+  System. <br/> Erkam Uzun, Simon Pak Ho Chung, Irfan Essa, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 2018 Network and Distributed
+    System Security Symposium (NDSS)</strong></em>. San Diego, CA, February 2018.
+
+<p><li>Broken Fingers: On the Usage of the Fingerprint API in
+  Android. <br/> Antonio Bianchi, Yanick Fratantonio, Aravind Machiry,
+  Christopher Kruegel, Giovanni Vigna, Simon Pak Ho Chung, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 2018 Network and Distributed
+    System Security Symposium (NDSS)</strong></em>. San Diego, CA, February 2018.
+
+<p><li> Identifying Open-Source License Violation and 1-day Security
+  Risk at Large Scale. <br/> Ruian Duan, Ashish Bijlani, Meng Xu,
+  Taesoo Kim, and Wenke Lee. <br/> In <em> Proceedings of <strong>The
+  24th ACM Conference on Computer and Communications Security (CCS
+  2017)</strong></em>. Dallas, Texas, October 2017.
+
+<p><li> RAIN: Refinable Attack Investigation with On-demand
+  Inter-Process Information Flow Tracking. <br/> Yang Ji, Sangho Lee,
+  Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alessandro
+  Orso, and Wenke Lee. <br/> In <em> Proceedings of <strong>The 24th
+  ACM Conference on Computer and Communications Security (CCS
+  2017)</strong></em>. Dallas, Texas, October 2017.
+
+<p><li> Efficient Protection of Path-Sensitive Control Security. <br/>
+  Ren Ding, Chenxiong Qian, Chengyu Song, Bill Harris, Taesoo Kim, and
+  Wenke Lee. <br/> In <em> Proceedings of <strong> The 26th USENIX
+  Security Symposium</strong></em>.  Vancouver, BC, Canada, August
+  2017.
+
+<p><li> Bunshin: Compositing Security Mechanisms through
+  Diversification. <br/> Meng Xu, Kangjie Lu, Taesoo Kim, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 2017 USENIX Annual
+  Technical Conference</strong></em>.  Santa Clara, CA, July 2017.
+
+<p><li> Cloak and Dagger: From Two Permissions to Complete Control of
+  the UI Feedback Loop. <br/> Yanick Fratantonio, Chenxiong Qian, Pak
+  Chung, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 2017
+  IEEE Symposium on Security and Privacy</strong></em>. San Jose, CA,
+  May 2017 (<strong>Distinguished Practical Paper Award</strong>).
+
+<p><li> Unleashing Use-Before-Initialization Vulnerabilities in the
+  Linux Kernel Using Targeted Stack Spraying. <br/> Kangjie Lu,
+  Marie-Therese Walter, David Pfaff, Stefan Nuernberger, Wenke Lee,
+  and Michael Backes. <br/> In <em> Proceedings of <strong>The 2017
+  Network and Distributed System Security Symposium
+  (NDSS)</strong></em>. San Diego, CA, February 2017.
+
+ <p><li> From Physical to Cyber: Escalating Protection for
+  Personalized Auto Insurance. <br/> Le Guan, Jun Xu, Shuai Wang, Xinyu
+  Xing, Lin Lin, Heqing Huang, Peng Liu, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong> The 14th ACM Conference on Embedded
+  Networked Sensor Systems (SenSys 2016)</strong></em>. Stanford, CA,
+  November 2016.
+
+ <p><li> UniSan: Proactive Kernel Memory Initialization to Eliminate
+  Data Leakages. <br/> Kangjie Lu, Chengyu Song, Taesoo Kim, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 23rd ACM Conference on
+  Computer and Communications Security (CCS
+  2016)</strong></em>. Vienna, Austria, October 2016.
+
+  <p><li> Financial Lower Bounds of Online Advertising Abuse - A Four
+  Year Case Study of the TDSS/TDL4 Botnet. <br/> Yizheng Chen,
+  Panagiotis Kintis, Manos Antonakakis, Yacin Nadji, David Dagon,
+  Wenke Lee, and Michael Farrell. <br/> In <em> Proceedings of <strong>
+  The 13th Conference on Detection of Intrusions and Malware &amp;
+  Vulnerability Assessment (DIMVA 2016)</strong></em>. Sebastian,
+  Spain, July 2016.
+
+<p><li>HDFI: Hardware-Assisted Data-flow Isolation. <br/> Chengyu Song,
+  Hyungon Moon, Monjur Alam, Insu Yun, Byoungyoung Lee, Taesoo Kim,
+  Wenke Lee, and Yunheung Paek.<br/> In <em> Proceedings of <strong>
+  The 37th IEEE Symposium on Security and Privacy</strong></em>, San
+  Jose, CA, May 2016.
+
+  <p><li>TrackMeOrNot: Enable Flexible Control on Web Tracking.<br/> Wei
+  Meng, Byoungyoung Lee, Xinyu Xing, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong> The 25th International World Wide Web
+  Conference (WWW)</strong></em>, Montreal, Canada, April 2016.
+
+  <p><li><a href="papers/ndss16_mobile_ad.pdf">The Price of Free: Privacy Leakage in Personalized Mobile
+  In-Apps Ads</a>. <br/> Wei Meng, Ren Ding, Simon P. Chung, Steven Han,
+  and Wenke Lee. <br/> In <em> Proceedings of <strong>The 2016 Network
+  and Distributed System Security Symposium (NDSS)</strong></em>, San
+  Diego, CA, February, 2016.
+
+  <p><li> <a href="papers/runtimeaslr-ndss16.pdf">How to Make ASLR Win the Clone Wars: Runtime
+  Re-Randomization<a>. <br/> Kangjie Lu, Wenke Lee, Stefan Nurnberger, and
+  Michael Backes. <br/> In <em> Proceedings of <strong> The 2016
+  Network and Distributed System Security Symposium (NDSS)
+  </strong></em>, San Diego, CA, February, 2016.
+
+  <p><li><a href="papers/enforcing-kernal-security-invariants-data-flow-integrity.pdf">
+  Enforcing Kernel Security Invariants with Data Flow
+  Integrity</a>.<br/> Chengyu Song, Byoungyoung Lee, Kangjie Lu,
+  William Harris, Taesoo Kim and Wenke Lee. <br/> In <em> Proceedings
+  of <strong>The 2016 Network and Distributed System Security
+  Symposium (NDSS)</strong></em>, San Diego, CA, February, 2016.
+
+  <p><li><a href="papers/ucognito.pdf">UCognito: Private Browsing
+  without Tears</a>. <br/>Meng Xu, Yeongjin Jang, Xinyu Xing, Taesoo
+  Kim, and Wenke Lee.<br/> In <em> Proceedings of <strong>The 22nd ACM
+  Conference on Computer and Communications Security
+  (CCS)</strong></em>, Denver, CO, October 2015.
+ 
+<p><li><a href="papers/aslrguard.pdf">ASLR-Guard: Stopping Address
+  Space Leakage for Code Reuse Attacks</a>. <br/>Kangjie Lu, Chengyu
+  Song, Byoungyoung Lee, Simon P. Chung, Taesoo Kim, and Wenke Lee.<br/>
+  In <em> Proceedings of <strong>The 22nd ACM Conference on Computer and
+  Communications Security (CCS)</strong></em>, Denver, CO, October 2015.
+ 
+<p><li><a href="papers/caver.pdf">Type Casting Verification: Stopping
+  an Emerging Attack Vector</a>. <br/>Byoungyoung Lee, Chengyu Song,
+  Taesoo Kim, and Wenke Lee. <br/> In <em> Proceedings of <strong>The
+  24th USENIX Security Symposium</strong></em>, Washington, D.C.,
+  August 2015. <br/> (Awarded the <strong>Internet Defense Prize </strong>
+  by Facebook and USENIX)
+
+<p><li><a href="papers/www15.pdf">Unraveling the Relationship Between
+  Ad-Injecting Browser Extensions and Malvertising</a>. <br/>Xinyu
+  Xing, Wei Meng, Byoungyoung Lee, Udi Weinsberg, Anmol Sheth, Roberto
+  Perdisci, and Wenke Lee. <br/> In <em> Proceedings of <strong>The 24th
+  International World Wide Web Conference (WWW)</strong></em>,
+  Florence, Italy, May 2015.
+ 
+<p><li><a href="papers/sdcg.pdf">Exploiting and Protecting Dynamic
+  Code Generation</a>. <br/>Chengyu Song, Chao Zhang, Tielei Wang,
+  Wenke Lee, and David Melski. <br/> In <em> Proceedings of <strong>The
+  2015 Network and Distributed System Security Symposium
+  (NDSS)</strong></em>, San Diego, CA, February 2015.
+
+  <p><li><a href="papers/dangnull.pdf">Preventing Use-after-free with
+  Dangling Pointers Nullification</a>. <br/>Byoungyoung Lee, Chengyu
+  Song, Yeongjin Jang, Tielei Wang, Taesoo Kim, Long Lu, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 2015 Network and
+  Distributed System Security Symposium (NDSS)</strong></em>, San
+  Diego, CA, February 2015.
+
+<p><li><a href="papers/aapl.pdf">Checking More and Alerting Less:
+              Detecting Privacy Leakages via Enhanced Data-flow
+              Analysis and Peer Voting</a>. <br/>Kangjie Lu, Zhichun
+              Li, Vasileios P. Kemerlis, Zhenyu Wu, Long Lu, Cong
+              Zheng, Zhiyun Qian, Wenke Lee, and Guofei Jiang. <br/> In
+              <em> Proceedings of <strong>The 2015 Network and
+              Distributed System Security Symposium
+              (NDSS)</strong></em>, San Diego, CA, February 2015.
+
+  <p><li><a href="papers/a11y.pdf">A11y Attacks: Exploiting
+  Accessibility in Operating Systems</a>. <br/> Yeongjin Jang, Chengyu
+  Song, Simon P. Chung, Tielei Wang, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong>The 21st ACM Conference on Computer and
+  Communications Security (CCS)</strong></em>, Scottsdale, Arizona,
+  November 2014.
+
+  <p><li><a href="papers/ccs2014-meng.pdf">Your Online Interests -
+  Pwned! A Pollution Attack Against Targeted Advertising</a>. <br/> Wei
+  Meng, Xinyu Xing, Anmol Sheth, Udi Weinsberg, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong>The 21st ACM Conference on
+  Computer and Communications Security (CCS)</strong></em>,
+  Scottsdale, Arizona, November 2014.
+
+<p><li><a href="papers/security_overlay.pdf">Mimesis Aegis: A Mimicry
+  Privacy Shield - A System's Approach to Data Privacy on Public
+  Cloud</a>. <br/> Billy Lau, Pak Ho Chung, Chengyu Song, Yeongjin
+  Jang, Wenke Lee, and Alexandra Boldyreva. <br/> In <em> Proceedings
+  of <strong> The 23rd USENIX Security Symposium.  </strong></em> San
+  Diego, CA. August 2014.
+
+<p><li><a href="papers/iworm.pdf">On the Feasibility of Large-Scale
+  Infections of iOS Devices</a>. <br/>Tielei Wang, Yeongjin Jang,
+  Yizheng Chen, Pak Ho Chung, Billy Lau, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong> The 23rd USENIX Security Symposium.
+  </strong></em> San Diego, CA. August 2014.
+
+<p><li>Diagnosis and Emergency Patch Generation for Integer Overflow
+Exploits. <br/> Tielei Wang, Chengyu Song, and Wenke Lee. <br/> In
+<em>Proceedings of <strong>The 11th Conference on Detection of Intrusions
+and Malware &amp; Vulnerability Assessment (DIMVA 2014)</strong></em>,
+Egham, UK, July 2014.
+
+<p><li>DNS Noise: Measuring the Pervasiveness of Disposable Domains in
+Modern DNS Traffic. <br/> Yizheng Chen, Manos Antonakakis, Roberto
+Perdisci, Yacin Nadji, David Dagon, and Wenke Lee. <br/> In
+<em>Proceedings of <strong>The 44th Annual IEEE/IFIP International
+Conference on Dependable Systems and Networks (DSN
+2014)</strong></em>, Atlanta, GA, June 2014.
+
+<p><li><a href="papers/morula.pdf">From Zygote to Morula: Fortifying
+  Weakened ASLR on Android</a>. <br/> Byoungyoung Lee, Long Lu, Tielei
+  Wang, Taesoo Kim, and Wenke Lee. <br/> In <em>Proceedings of
+  <strong>The 2014 IEEE Symposium on Security and
+  Privacy</strong></em>, San Jose, CA, May 2014.
+
+<p><li>Exposing Inconsistent Web Search Results with Bobble</li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></a>. <br/>
+  Xinyu Xing, Wei Meng, Dan Doozan, Nick Feamster, Wenke Lee, and Alex
+  C. Snoeren. <br/> In <em>Proceedings of <strong>The 2014 Passive and
+  Active Measurement (PAM) Conference</strong></em>, Los Angeles, CA,
+  March 2014.
+
+<p><li><a href="papers/gyrus.pdf">Gyrus: A Framework for User-Intent
+  Monitoring of Text-Based Networked Applications</a>. <br/> Yeongjin
+  Jang, Simon P. Chung, Bryan D. Payne, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong>The 21st Annual Network and Distributed
+  System Security Symposium (NDSS)</strong></em>, San Diego, CA,
+  February 2014.
+
+<p><li>Building a Scalable System for Stealthy P2P-Botnet
+  Detection. <br/> Junjie Zhang, Roberto Perdisci, Wenke Lee, Unum Sarfraz, and
+  Xiapu Luo. <br/> <em><strong>IEEE Transactions on Information Forensics and
+  Security</strong></em>, 9(1), January 2014.
+
+<p><li><a href="papers/hydras.pdf">Beheading Hydras: Performing
+  Effective Botnet Takedowns</a>. <br/> Yacin Nadji, Manos Antonakakis,
+  Roberto Perdisci, and Wenke Lee. <br/> In <em> Proceedings of
+  <strong>The 20th ACM Conference on Computer and Communications
+  Security (CCS)</strong></em>, Berlin, Germany, November 2013.
+
+<p><li><a href="papers/tzb.pdf">Tappan Zee (North) Bridge: Mining
+  Memory Accesses for Introspection</a>. <br/> Brendan Dolan-Gavitt,
+  Tim Leek, Josh Hodosh, and Wenke Lee. <br/> In <em> Proceedings of
+  <strong>The 20th ACM Conference on Computer and Communications
+  Security (CCS)</strong></em>, Berlin, Germany, November 2013.
+
+<p><li>Connected Colors: Unveiling the Structure of Criminal
+  Networks. <br/> Yacin Nadji, Manos Antonakakis, Roberto Perdisci, and
+  Wenke Lee. <br/> In <em> Proceedings of <strong>The 16th International
+  Symposium on Research in Attacks, Intrusions and Defenses
+  (RAID)</strong></em>, St. Lucia, October 2013.
+
+<p><li><a href="papers/sec13-paper_xing.pdf">Take This Personally:
+  Pollution Attacks on Personalized Services</a>. <br/> Xinyu Xing, Wei
+  Meng, Dan Doozan, Alex Snoeren, Nick Feamster, and Wenke Lee. <br/>
+  In <em> Proceedings of <strong> The 22nd USENIX Security Symposium.
+  </strong></em> Washington DC. August 2013.
+
+<p><li><a href="papers/sec13-paper_wang_2.pdf">Jekyll
+  on iOS: When Benign Apps Become Evil</a>. <br/> Tielei Wang, Kangjie
+  Lu, Long Lu, Simon Chung, and Wenke Lee. <br/> In <em> Proceedings of
+  <strong> The 22nd USENIX Security Symposium.
+  </strong></em> Washington DC. August 2013.
+  
+<p><li><a href="papers/bot_queries.pdf">Intention and Origination: An
+  Inside Look at Large-Scale Bot Queries</a>. <br/> Junjie Zhang,
+  Yinglian Xie, Fang Yu, David Soukal, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong> The 20th Annual Network and Distributed
+  System Security Symposium (NDSS)</strong></em>, San Diego, CA,
+  February 2013.
+
+<p><li><a href="papers/lever-ndss13.pdf">The Core of the Matter: Analyzing
+  Malicious Traffic in Cellular Carriers.</a> <br/> Charles Lever,
+  Manos Antonakakis, Bradley Reaves, Patrick Traynor and Wenke
+  Lee. <br/> In <em> Proceedings of <strong> The 20th Annual Network
+  and Distributed System Security Symposium (NDSS)</strong></em>, San
+  Diego, CA, February 2013.
+
+<p><li> <a href="papers/chex.pdf">CHEX: Statically Vetting Android
+  Apps for Component Hijacking Vulnerabilities</a>. <br/> Long Lu,
+  Zhichun Li, Zhenyu Wu, Wenke Lee, and Guofei Jiang. <br/> In <em>
+  Proceedings of <strong> The 19th ACM Conference on Computer and
+  Communications Security (CCS)</strong></em>, Raleigh, NC. October
+  2012.
+
+<p><li>Secure and Robust Monitoring of Virtual Machines through
+  Guest-Assisted Introspection. <br/> Martim Carbone, Matthew Conover,
+  Bruce Montague, and Wenke Lee. <br/> In <em> Proceedings of <strong>
+  The 15th International Symposium on Research in Attacks, Intrusions,
+  and Defenses (RAID)</strong></em>. Amsterdam, The
+  Netherlands. September, 2012.
+
+<p><li> From Throw-Away Traffic to Bots: Detecting the Rise of
+  DGA-Based Malware. <br/> Manos Antonakakis, Roberto Perdisci, Yacin
+  Nadji, Nikolaos Vasiloglou, Saeed Abu-Nimeh, Wenke Lee, and David
+  Dagon. <br/> In <em> Proceedings of <strong> The 21st USENIX Security Symposium</strong></em>. Bellevue, WA. August 2012.
+
+<p><li> Practical End-to-End Web Content Integrity. <br/> Kapil Singh,
+  Helen Wang, Alexander Moshchuk, Collin Jackson, and Wenke Lee. <br/>
+  In <em> Proceedings of <strong> The 21st International World Wide
+  Web Conference (WWW)</strong></em>, Lyon, France, April 2012.
+
+<p><li>Exposing Invisible Timing-Based Traffic Watermarks with BACKLIT. <br/> Xiapu Luo, Peng Zhou, Junjie Zhang, Roberto Perdisci, Wenke Lee, and Rocky K.C. Chang. <br/> In <em> Proceedings of <strong>The 27th Annual Computer Security Applications Conference (ACSAC 2011)</strong></em>, Orlando, FL, December 2011.
+  
+<p><li>Understanding the Prevalence and Use of Alternative Plans in Malware with Network Games. <br/> Yacin Nadji, Manos Antonakakis, Roberto Perdisci, and Wenke Lee. <br/> In <em> Proceedings of <strong>The 27th Annual Computer Security Applications Conference (ACSAC 2011)</strong></em>, Orlando, FL, December 2011.
+
+ <p><li> SURF: Detecting and Measuring Search Poisoning. <br/> Long Lu, Roberto Perdisci, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 18th ACM Conference on Computer and Communications Security (CCS)</strong></em>. Chicago, IL, October 2011.
+  
+<p><li>Detecting Malware Domains at the Upper DNS Hierarchy. <br/> Manos Antonakakis, Roberto Perdisci, Wenke Lee, Nikolaos Vasiloglou II, and David Dagon. <br/> In <em> Proceedings of <strong> The 20th USENIX Security Symposium</strong></em>. San Francisco, August 2011.
+  
+<p><li>A Combinatorial Approach to Network Covert Communications with Applications in Web Leaks. <br/>Xiapu Luo, Peng Zhou, Edmond W. W. Chan, Rocky K. C. Chang, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 41st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</strong></em>. Hong Kong, China, June 2011.
+
+<p><li>Detecting Stealthy P2P Botnets Using Statistical Traffic Fingerprints. <br/> Junjie Zhang, Roberto Perdisci, Wenke Lee, Unum Sarfraz, and Xiapu Luo. <br/> In <em> Proceedings of <strong> The 41st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</strong></em>. Hong Kong, China, June 2011.
+
+<p><li>Virtuoso: Narrowing the Semantic Gap in Virtual Machine Introspection. <br/> Brendan Dolan-Gavitt, Tim Leek, Michael Zhivich, Jonathon Giffin, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 2011 IEEE Symposium on Security and Privacy</strong></em>. Oakland, CA, May 2011.
+  
+<p><li>ARROW: Generating Signatures to Detect Drive-By Downloads. <br/> Junjie Zhang, Jay Stokes, Christian Seifert, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 20th International World Wide Web Conference (WWW)</strong></em>, Hyderabad, India, March 2011.
+
+<p><li>Boosting the Scalability of Botnet Detection Using Adaptive Traffic Sampling. <br/> Junjie Zhang, Xiapu Luo, Roberto Perdisci, Guofei Gu, Wenke Lee, and Nick Feamster. <br/> In <em> Proceedings of <strong>The 6th ACM Symposium on Information, Computer and Communications Security (ASIACCS)</strong></em>, Hong Kong, March 2011.
+
+<p><li>HTTPOS: Sealing Information Leaks with Browser-side Obfuscation of Encrypted Flows. <br/> Xiapu Luo, Peng Zhou, Edmond W.W. Chan, Wenke Lee, Rocky K. C. Chang, and Roberto Perdisci. <br/> In <em> Proceedings of <strong> The 18th Annual Network and Distributed System Security Symposium (NDSS)</strong></em>, San Diego, CA, February 2011.
+
+<p><li>Control of Low-Rate Denial-of-Service Attacks on Web Servers
+and TCP Flows. <br/> Qing Hui, Xiapu Luo, and Wenke Lee. <br/> In <em>
+Proceedings of <strong> The 49th IEEE Conference on Decision and
+Control (CDC)</strong></em>, Atlanta, GA, December 2010.
+
+<p><li>On the Secrecy of Spread-Spectrum Flow Watermarks. <br/> Xiapu
+Luo, Junjie Zhang, Roberto Perdisci, and Wenke Lee. <br/> In <em>
+Proceedings of <strong> The 15th European Symposium on Research in
+Computer Security (ESORICS)</strong></em>, Athens, Greece, September
+2010.
+
+<p><li>A Centralized Monitoring Infrastructure for Improving DNS
+Security. <br/> Manos Antonakakis, David Dagon, Xiapu Luo, Roberto
+Perdisci, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 13th
+International Symposium on Recent Advances in Intrusion Detection
+(RAID)</strong></em>, Ottawa, Ontario, Canada, September 2010.
+
+<p><li>BLADE: An Attack-Agnostic Approach for Preventing Drive-By
+Malware Infections. <br/> Long Lu, Vinod Yegneswaran, Phil Porras, and
+Wenke Lee. <br/> In <em> Proceedings of <strong> The 17th ACM
+Conference on Computer and Communications Security
+(CCS),</strong></em> Chicago, IL, October 2010.
+
+<p><li>Building a Dynamic Reputation System for DNS. <br/> Manos
+Antonakakis, Roberto Perdisci, David Dagon, Wenke Lee, and Nick
+Feamster. <br/> In <em> Proceedings of <strong> The 19th USENIX
+Security Symposium</strong></em>, Washington, DC, August 2010.
+
+<p><li>Evaluating Bluetooth as a Medium for Botnet Command and
+Control. <br/> Kapil Singh, Samrit Sangal, Nehil Jain, Patrick Traynor,
+and Wenke Lee. <br/> In <em> Proceedings of <strong> The 7th Conference
+on Detection of Intrusions and Malware Vulnerability Assessment
+(DIMVA)</strong></em>, Bonn, Germany, July 2010.
+
+<p><li>On the Incoherencies in Web Browser Access Control
+Policies. <br/> Kapil Singh, Alexander Moshchuk, Helen J. Wang, and
+Wenke Lee. <br/> In <em> Proceedings of <strong> The 2010 IEEE
+Symposium on Security and Privacy</strong></em>, Oakland, CA, May
+2010.
+  
+<p><li>Behavioral Clustering of HTTP-based Malware and Signature
+Generation using Malicious Network Traces. <br/> Roberto Perdisci,
+Wenke Lee, and Nick Feamster. <br/> In <em> Proceedings of <strong> The
+7th USENIX Symposium on Networked Systems Design and Implementation
+(NSDI)</strong></em>, San Jose, CA, April 2010.
+  
+<p><li>Detecting Malicious Flux Service Networks through Passive
+Analysis of Recursive DNS Traces. <br/> Roberto Perdisci, Igino Corona,
+David Dagon, and Wenke Lee. <br/> In <em> Proceedings of <strong> The
+25th Annual Computer Security Applications Conference (ACSAC
+2009)</strong></em>, Honolulu, HI, December 2009.
+
+<p><li>Active Botnet Probing to Identify Obscure Command and Control
+Channels. <br/> Guofei Gu, Vinod Yegneswaran, Phillip Porras, Jennifer
+Stoll, and Wenke Lee. <br/> In <em> Proceedings of <strong> The 25th
+Annual Computer Security Applications Conference (ACSAC
+2009)</strong></em>, Honolulu, HI, December 2009.
+
+<p><li>Secure In-VM Monitoring Using Hardware Virtualization. <br/>
+Monirul Sharif, Wenke Lee, Weidong Cui, and Andrea Lanzi. <br/> In <em>
+Proceedings of <strong>The 16th ACM Conference on Computer and
+Communications Security (CCS 2009)</strong></em>, Chicago, IL,
+November, 2009.
+
+<p><li>Mapping Kernel Objects to Enable Systematic Integrity
+Checking. <br/> Martim Carbone, Weidong Cui, Long Lu, Wenke Lee, Marcus
+Peinado, and Xuxian Jiang. <br/> In <em> Proceedings of <strong>The
+16th ACM Conference on Computer and Communications Security (CCS
+2009)</strong></em>, Chicago, IL, November, 2009.
+
+<p><li>xBook: Redesigning Privacy Control in Social Networking
+Platforms. <br/> Kapil Singh, Sumeer Bhola, and Wenke Lee. <br/> In <em>
+Proceedings of <strong>The 18th USENIX Security
+Symposium</strong></em>, Montreal, Canada, August, 2009.
+
+<p><li>WSEC DNS: Protecting Recursive DNS Resolvers from Poisoning
+Attacks. <br/> Roberto Perdisci, Manos Antonakakis, Xiapu Luo, and
+Wenke Lee. <br/> In <em> Proceedings of <strong> The 39th Annual
+IEEE/IFIP International Conference on Dependable Systems and Networks
+(DSN 2009)</strong></em>, Lisbon, Portugal, June 2009.
+  
+<p><li>Automatic Reverse Engineering of Malware Emulators. <br/>
+  Monirul Sharif, Andrea Lanzi, Jon Giffin, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong> The 2009 IEEE
+  Symposium on Security and Privacy</strong></em>, Oakland, CA, May
+  2009. (Best Student Paper Award)
+  
+<p><li>McPAD: A Multiple Classifier System for Accurate Payload-Based
+  Anomaly Detection. <br/> Roberto Perdisci, Davide Ariu, Prahlad
+  Fogla, Giorgio Giacinto, and Wenke Lee. <br/> In <em><strong>
+  Computer Networks, </strong></em> 53(6), 2009.
+
+<p><li>Dynamic Trust Management. <br/> Matt Blaze, Sampath Kannan,
+Insup Lee, Oleg Sokolsky, Jonathan Smith, Angelos Keromytis, and Wenke
+Lee. <br/> In <em><strong> IEEE Computer, </strong></em> February 2009.
+  
+<p><li>K-Tracer: A System for Extracting Kernel Malware Behavior. <br/>
+  Andrea Lanzi, Monirul Sharif, and Wenke Lee. <br/> In <em>
+  Proceedings of <strong> The 16th Annual Network and Distributed
+  System Security Symposium (NDSS 2009)</strong></em>, San Diego, CA,
+  February 2009.
+  
+<p><li>Recursive DNS Architectures and Vulnerability
+  Implications. <br/> David Dagon, Manos Antonakakis, Kevin Day, Xiapu
+  Luo, Christopher P. Lee, and Wenke Lee. <br/> In <em> Proceedings of
+  <strong> The 16th Annual Network and Distributed System Security
+  Symposium (NDSS 2009)</strong></em>, San Diego, CA, February
+  2009.
+  
+<p><li>McBoost: Boosting Scalability in Malware Collection and
+Analysis Using Statistical Classification of Executables. <br/> Roberto
+Perdisci, Andrea Lanzi, and Wenke Lee. <br/> In <em> Proceedings of
+<strong> The 24th Annual Computer Security Applications Conference
+(ACSAC 2008)</strong></em>, Anaheim, CA, December 2008.
+
+<p><li>Classification of Packed Executables for Accurate Computer
+  Virus Detection.<br/> Roberto Perdisci, Andrea Lanzi, and Wenke
+  Lee. <br/> In <em><strong> Pattern Recognition Letters</strong></em>,
+  29(14), October 2008.
+  
+<p><li>Ether: Malware Analysis via Hardware Virtualization
+Extensions. <br/> Artem Dinaburg, Paul Royal, Monirul Sharif, and Wenke
+Lee. <br/> In <em> Proceedings of <strong> The 15th ACM Conference on
+Computer and Communications Security (CCS 2008)</strong></em>,
+Alexandria, VA, October 2008.
+
+<p><li>Increased DNS Forgery Resistance Through 0x20-Bit
+Encoding. <br/> David Dagon, Manos Antonakakis, Paul Vixie, Tatuya
+Jinmei, and Wenke Lee.  <br/> In <em> Proceedings of <strong> The 15th
+ACM Conference on Computer and Communications Security (CCS
+2008)</strong></em>, Alexandria, VA, October 2008.
+
+<p><li>Eureka: A Framework for Enabling Static Malware Analysis. <br/>
+Monirul Sharif, Vinod Yegneswaran, Hassen Saidi, Phillip Porras, and
+Wenke Lee. <br/> In <em> Proceedings of <strong> The 13th European
+Symposium on Research in Computer Security (ESORICS)</strong></em>,
+Malaga, Spain, October 2008.
+
+<p><li>BotMiner: Clustering Analysis of Network Traffic for Protocol-
+  and Structure-Independent Botnet Detection. <br/> Guofei Gu, Roberto
+  Perdisci, Junjie Zhang, and Wenke Lee. <br/> In <em> Proceedings of
+  <strong> The 17th USENIX Security Symposium
+  (Security'08)</strong></em>, San Jose, CA, July 2008.
+
+<p><li>Evaluating Email's Feasibility for Botnet Command and
+  Control. <br/> Kapil Singh, Abhinav Srivastava, Jon Giffin, and Wenke
+  Lee. <br/> In <em> Proceedings of <strong> The 38th Annual IEEE/IFIP
+  International Conference on Dependable Systems and Networks (DSN
+  2008)</strong></em>, Anchorage, Alaska, June 2008.
+
+<p><li>Lares: An Architecture for Secure Active Monitoring Using
+  Virtualization. <br/> Bryan D. Payne, Martim Carbone, Monirul Sharif,
+  and Wenke Lee. <br/> In <em> Proceedings of <strong> The 2008 IEEE
+  Symposium on Security and Privacy</strong></em>, Oakland, CA, May
+  2008.
+
+<p><li>Principled Reasoning and Practical Applications of Alert Fusion
+  in Intrusion Detection Systems. <br/> Guofei Gu, Alvaro A. Cardenas,
+  and Wenke Lee. <br/> In <em> Proceedings of <strong> The ACM
+  Symposium on InformAction, Computer and Communications Security
+  (ASIACCS'08)</strong></em>, Tokyo, Japan, March 2008.
+
+<p><li>Taming Virtualization. <br/> Martim Carbone, Diego Zamboni, and
+  Wenke Lee. <br/> In <em><strong> IEEE Security &amp;
+  Privacy</strong></em>, 6(1), January/February 2008.
+
+<p><li>Corrupted DNS Resolution Paths: The Rise of a Malicious
+  Resolution Authority. <br/> David Dagon, Niels Provos, Chris Lee, and
+  Wenke Lee. <br/> In <em> Proceedings of <strong> The 15th Annual
+  Network and Distributed System Security Symposium (NDSS
+  2008)</strong></em>, San Diego, CA, February 2008.
+
+<p><li>BotSniffer: Detecting Botnet Command and Control Channels in
+  Network Traffic. <br/> Guofei Gu, Junjie Zhang, and Wenke Lee. <br/>
+  In <em> Proceedings of <strong> The 15th Annual Network and
+  Distributed System Security Symposium (NDSS 2008)</strong></em>, San
+  Diego, CA, February 2008.
+
+<p><li>Impeding Malware Analysis using Conditional Code
+  Obfuscation. <br/> Monirul Sharif, Andrea Lanzi, Jonathon Giffin, and
+  Wenke Lee. <br/> In <em> Proceedings of <strong> The 15th Annual
+  Network and Distributed System Security Symposium (NDSS
+  2008)</strong></em>, San Diego, CA, February 2008.
+
+<p><li>Secure and Flexible Monitoring of Virtual Machines. <br/> Bryan
+  D. Payne and Martim Carbone and Wenke Lee. <br/> In <em> Proceedings
+  of <strong>The 23rd Annual Computer Security Applications Conference
+  (ACSAC 2007)</strong></em>, Miami Beach, FL, December 2007.</li>
+<p><li>A Taxonomy of Botnet Structures. <br/> David Dagon, Guofei Gu,
+Chris Lee and Wenke Lee. <br/> In <em> Proceedings of <strong>The 23rd
+Annual Computer Security Applications Conference (ACSAC
+2007)</strong></em>, Miami Beach, FL, December 2007.</li>
+<p><li>Misleading and Defeating Importance-Scanning Malware
+Propagation. <br/> Guofei Gu, Zesheng Chen, Phillip Porras and Wenke
+Lee. <br/> In <em> Proceedings of <strong>The 3rd International
+Conference on Security and Privacy in Communication Networks
+(SecureComm'07)</strong></em>, Nice, France, September 2007.</li>
+<p><li>An Assessment of VoIP Covert Channel Threats. <br/> Takehiro
+Takahashi and Wenke Lee. <br/> In <em> Proceedings of <strong>The 3rd
+International Conference on Security and Privacy in Communication
+Networks (SecureComm'07)</strong></em>, Nice, France, September
+2007.</li>
+<p><li>Understanding Precision in Host Based Intrusion Detection:
+Formal Analysis and Practical Models. <br/> Monirul Sharif, Kapil
+Singh, Jonathon Giffin and Wenke Lee. <br/> In <em> Proceedings of
+<strong>The 10th International Symposium on Recent Advances in
+Intrusion Detection (RAID)</strong></em>, Surfers Paradise, Australia,
+September 2007.</li>
+<p><li>BotHunter: Detecting Malware Infection Through IDS-Driven
+Dialog Correlation. <br/> Guofei Gu, Phillip Porras, Vinod Yegneswaran,
+Martin Fong, Wenke Lee. <br/> In <em> Proceedings of <strong>The 16th
+USENIX Security Symposium (Security'07)</strong></em>, Boston, MA,
+August 2007.</li>
+<p><li>A Layered Approach to Simplified Access Control in Virtualized
+Systems.<br/> Bryan D. Payne, Reiner Sailer, Ramon Caceres, Ronald
+Perez, and Wenke Lee<br/> In <em><strong>ACM SIGOPS Operating Systems
+Review</strong></em>, 4(2), July 2007.</li>
+<p><li>Intrusion-Resilient Key Exchange in the Bounded Retrieval
+  Model. <br/> David Cash, Yan Zong Ding, Yevgeniy Dodis, Wenke Lee,
+  Richard Lipton, and Shabsi Walfish. <br/> In <em> Proceedings of
+  <strong>The Fourth IACR Theory of Cryptography Conference (TCC
+  2007)</strong></em>, Amsterdam, The Netherlands, February
+  2007.</li>
+<p><li>Using an Ensemble of One-Class SVM Classifiers to Harden
+           Payload-based Anomaly Detection Systems.<br/> Roberto
+           Perdisci, Guofei Gu, and Wenke Lee. <br/> In <em>Proceedings
+           of <strong>The 2006 IEEE International Conference on Data
+           Mining (ICDM '06) </strong></em>, Hong Kong, China,
+           December 2006.</li>
+<p><li>PolyUnpack: Automating the Hidden-Code Extraction of
+           Unpack-Executing Malware.<br/> Paul Royal, Mitch Halpin,
+           David Dagon, Robert Edmonds, and Wenke Lee. <br/>
+           In <em>Proceedings of <strong>The 22nd Annual Computer
+           Security Applications Conference (ACSAC
+           2006)</strong></em>, Miami Beach, FL, December 2006.</li>
+<p><li>Evading Network Anomaly Detection Systems: Formal Reasoning and
+           Practical Techniques.<br/> Prahlad Fogla and Wenke Lee. <br/>
+           In <em>Proceedings of <strong>The 13th ACM Conference on
+           Computer and Communications Security (CCS
+           2006) </strong></em>, Alexandria, VA, October 2006.</li>
+<p><li><a href="papers/Gu_ESORICS06_IDSmodel.pdf">Towards an
+           Information-Theoretic Framework for Analyzing Intrusion
+           Detection Systems</a>.<br/> Guofei Gu, Prahlad Fogla, David
+           Dagon, Wenke Lee, and Boris Skoric. <br/> In <em>Proceedings
+           of <strong>The 11th European Symposium Research Computer
+           Security (ESORICS 2006) </strong></em>, Hamburg, Germany,
+           September 2006.</li>
+<p><li><a href="papers/usenix_security_2006.pdf">Polymorphic Blending
+           Attacks</a>.<br/> Prahlad Fogla, Monirul Sharif, Roberto
+           Perdisci, Oleg Kolesnikov, and Wenke Lee. <br/>
+           In <em>Proceedings of <strong>The 15th USENIX Security
+           Symposium (SECURITY '06) </strong></em>, Vancouver, B.C.,
+           Canada, August 2006.</li>
+<p><li>Using Labeling to Prevent Cross-Service Attacks Against Smart
+           Phones.<br/> Collin Mulliner, Giovanni Vigna, David Dagon,
+           and Wenke Lee. <br/> In <em>Proceedings of <strong>The 3rd
+           Conference on Detection of Intrusions &amp; Malware, and
+           Vulnerability Assessment (DIMVA 2006)</strong></em>,
+           Berlin, Germany, July 2006.</li>
+<p><li>Agent-Based Cooperative Anomaly Detection for Wireless Ad Hoc
+           Networks.<br/> Hongmei Deng, Roger Xu, Jason H. Li, Frank
+           Zhang, Renato Levy, and Wenke Lee. <br/> In <em>Proceedings
+           of <strong>The 12th International Conference on Parallel
+           and Distributed Systems (ICPADS 2006)</strong></em>,
+           Minneapolis, Minnesota, July 2006.</li>
+<p><li>DSO: Dependable Signing Overlay.<br/>Guofei Gu, Prahlad Fogla,
+           Wenke Lee, and Douglas Blough. <br/> In <em>Proceedings
+           of <strong>The 4th International Conference on Applied
+           Cryptography and Network Security (ACNS '06)</strong></em>,
+           Singapore, June 2006.</li>
+<p><li><a href="papers/ieee-sp-06.pdf">Misleading Worm Signature
+           Generators Using Deliberate Noise Injection</a> (full
+           paper).<br/> Roberto Perdisci, David Dagon, Wenke Lee,
+           Prahlad Fogla, and Monirul Sharif. <br/> In <em>Proceedings
+           of <strong>The 2006 IEEE Symposium on Security and
+           Privacy</strong></em>, Oakland, CA, May 2006.</li>
+<p><li>q-Gram Matching Using Tree Models <br/> Prahlad Fogla and Wenke
+Lee<br/> <em><strong>IEEE Transactions on Knowledge and Data
+Engineering</strong></em></li></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></a></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></ol></body>

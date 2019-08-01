@@ -1,0 +1,112 @@
+http://www.cs.columbia.edu/~junfeng/#publications
+<body>
+<!----
+  <table>
+    <tr>
+      <td id="logo">
+        <a href=http://www.cs.columbia.edu>
+          <img src="http://www.cs.columbia.edu/images/cscu.jpg" 
+               alt="Columbia CS"
+               border=0px />
+        </a>
+      </td>
+      
+      <td>
+        <div id="title">
+          <h1> Reliable Computer Systems Laboratory </h1>
+        </div>
+      </td>
+    </tr>
+  </table>
+--->
+<div id="content">
+<table align="center" border="0" cellpadding="10" style="margin-left:4em;" width="95%">
+<tr valign="bottom">
+<td align="left" width="35%">
+<h2> Junfeng Yang </h2> 
+    	Associate Professor <br/>
+        Co-director of <a href="http://systems.cs.columbia.edu">Software Systems Lab</a> <br/>
+<a href="http://www.cs.columbia.edu/"> Department of Computer Science</a><br/>
+<a href="http://www.columbia.edu"> Columbia University</a><br/>
+<br/>
+	500 West 120 Street, 519 CSB<br/>
+	Mail Code 0401 <br/>
+	New York, NY 10027 <br/>
+<br/>
+<img alt="Email of Junfeng Yang" src="email.jpg"/> <br/>
+<br/>
+        Lab: 487 CSB <br/>
+	Phone: (212) 939-7012 <br/>
+	Fax: (212) 666-0140 <br/>
+<br/>
+        [ <a href="http://systems.cs.columbia.edu/lab/news/">News</a>
+        | <a href="#awards">Awards</a>
+        | <a href="#publications">Publications</a>
+        | <a href="#software">Software</a>
+        | <a href="http://systems.cs.columbia.edu/projects/">Projects</a>] <br/>
+        [ <a href="#people">People</a> 
+        | <a href="#press">Press</a>
+        | <a href="#teaching">Teaching</a>
+        | <a href="#support">Support</a> ]
+        <br/>
+<br/>
+</td>
+<td align="left"><img alt="Picture of Junfeng Yang" height="400" src="yang-small.jpg"/></td>
+</tr>
+</table>
+<p> My research centers on making reliable and secure systems.  Some of my
+  current research thrusts are (1) security and robustness of machine
+  learning, (2) tools to better protect, verify, analyze, test, and debug
+  software, and (3) programming and runtime systems for cloud
+  applications.  After getting a BS in Computer Science from
+  <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua
+  University</a>, I earned my PhD in Computer Science at
+  <a href="http://www.stanford.edu/">Stanford</a>, where I created
+  <a href="papers/yang-explode-osdi.pdf">eXplode</a>, a general, lightweight
+  system for effectively finding storage system errors.  This work has led
+  to <a href="http://www.usenix.org/events/osdi04/tech/yang.html">an OSDI
+  best paper award</a>,
+  <a href="http://www.google.com/#q=junfeng+site:lkml.org">numerous bug
+  fixes</a> to real systems such as the Linux kernel, and
+  <a href="http://lwn.net/Articles/210590">a featured article</a> in Linux
+  Weekly news.  In 2008, I worked at Microsoft Research Silicon Valley,
+  extending eXplode to check production distributed systems.
+  <a href="papers/modist-nsdi09.pdf">MoDist</a>, the resultant system, is
+  being transferred to Microsoft product groups.  At Columbia University,
+  my recent work on reliable multithreading was featured in sites such as
+  <a href="http://technews.acm.org/archives.cfm?fo=2011-11-nov/nov-04-2011.html#550214">ACM
+  Tech News</a>.  I won the Sloan Research Fellowship and the AFOSR YIP
+  award, both in 2012; and the NSF CAREER award in 2011.
+
+<p style="font-size: x-large;"><b>I'm looking for a few graduate students,
+  postdocs, and undergraduate interns.  If you know how to build
+  systems/tools, we should talk.</b></p>
+<p style="font-size: x-large;"><b>Columbia undergraduate and master
+  students</b>: the above applies to you, too.  Also, take a look at
+  some <a href="student-projects.html">projects</a> available for academic
+  credits.</p>
+<p> I was on sabbatical in 2016 co-founding a Columbia spin-off called
+  <a href="https://nimbledroid.com">NimbleDroid</a>.  NimbleDroid provides
+  automated, comprehensive app performance analysis to help teams build
+  performant apps.  Its mission is to leverage research breakthroughs to
+  automate mundane tasks in software engineering.  </p>
+<a name="awards"></a>
+<h3> Select Awards</h3>
+<ul>
+<li>Rock Star Award, Association of Chinese Scholars in Computing, 2019</li>
+<li><a href="https://www.sigops.org/sosp/sosp17/program.html">SOSP best
+  paper</a>, 2017</li>
+<li><a href="http://www.sloan.org/fellowships">Sloan research fellowship</a>, 2012</li>
+<li><a href="http://www.eurekalert.org/pub_releases/2012-01/afoo-aag011112.php">Air
+  Force Office of Scientific Research Young Investigator Program Award
+  (AFOSR YIP)</a>, 2012</li>
+<li><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1054906">NSF CAREER</a>, 2011</li>
+<li><a href="http://www.usenix.org/events/osdi04/tech/yang.html">OSDI
+  best paper</a>, 2004</li>
+</ul>
+<a name="drafts"></a>
+<h3>Paper drafts</h3>
+<p> (If you're interested in a paper draft but it isn't available online, please email me for a copy.)</p>
+<ul class="paper">
+<li> <span class="title"><a href="https://arxiv.org/abs/1712.01785">Towards Practical Verification of Machine Learning: The Case of Computer Vision Systems
+</a></span></li></ul></p></div></body>

@@ -1,0 +1,221 @@
+https://chao.100871.net/
+<body alink="#ee0000" link="#0000ee" style="font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;" vlink="#551a8b">
+<table>
+<tbody>
+<thead><h2>Chao Zhang (张超)</h2></thead>
+<tr>
+<td><img src="photo.jpg" width="200"/></td>
+<td width="10"><br/></td>
+<td>
+<br/>
+        Associate Professor<br/>
+<a href="http://netsec.ccert.edu.cn/members?lang=en">Network and Information Security Lab</a><br/>
+        Institute for Network Science and Cyberspace<br/>
+        Tsinghua University<br/>
+<p> Mailing address:<br/>
+            FIT 3-209<br/>
+            Tsinghua University<br/>
+            Beijing, China 100084<br/>
+<br/>
+<script type="text/javascript">protecteml('l','chaoz','tsinghua','edu.cn','','Message from Chao\'s homepage');</script><br/>
+<script type="text/javascript">protecteml('l','chaoz','berkeley','edu','','Message from Chao\'s homepage');</script><br/>
+<script type="text/javascript">protecteml('l','chao.zhang','pku','edu.cn','','Message from Chao\'s homepage');</script><br/>
+</p></td>
+</tr>
+</tbody>
+</table>
+<h2>About</h2>
+<li> I am currently a tenure-track Associate Professor in <a href="http://www.insc.tsinghua.edu.cn/publish/wyy/index.html">Tsinghua University</a>.</li>
+<li> I am a member of the <a href="http://www.blue-lotus.net/">Blue-Lotus</a> CTF team.</li>
+<h2>Experience</h2>
+<li> I was a postdoc advised by <a href="http://www.cs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> at UC Berkeley from Sep 2013 to Sep 2016. </li>
+<li> I received my Ph.D. degree in Computer Science from <a href="http://www.icst.pku.edu.cn/">Peking University</a> in July 2013, advised by <a href="http://www.icst.pku.edu.cn/team/content_267.htm">Prof. Wei Zou</a> and co-advised by <a href="http://lenx.100871.net">Prof. Tao Wei</a>. </li>
+<li> I received my B.S. degree in Mathematical Science from <a href="http://www.icst.pku.edu.cn/">Peking University</a> in July 2008. </li>
+<li> I was a member of <a href="http://seclab.pku.edu.cn/">the V group of LiST</a> at ICST, Peking University.</li>
+<li> I was a co-organizer of <a href="http://bitblaze.cs.berkeley.edu/">the BitBlaze Group</a> in UC Berkeley.</li>
+<li> I was a co-leader of the <a href="https://twitter.com/C0deJitsu">CodeJitsu team</a>, a finalist of the DARPA <a href="https://cgc.darpa.mil/">Cyber Grand Challenge</a>.</li>
+<h2>Research Interests</h2>
+<li>Software and system security.</li>
+<li>Blockchain security.</li>
+<li>AI and security.</li>
+<li>Cool stuff: IoT...</li>
+<h2>Awards</h2>
+<li> 2018 <b><a href="http://www.qiushi.org/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=41">Qiu Shi Outstanding Young Scholar Award</a></b></li>
+<li> 2017 <b><a href="http://www.1000plan.org/qrjh/article/74754">Thousand Youth Talents Plan</a></b></li>
+<li> 2017 <b><a href="http://news.sciencenet.cn/htmlnews/2017/3/371432.shtm">Young Elite Scientists Sponsorship Program</a> by CAST (Chinese Association for Science and Technology).</b></li>
+<li> 2017 <b><a href="http://history.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2968340885481">Young Talent Development Program</a> by CCF (China Computer Federation).</b></li>
+<li> 2017 <b>GeekPwn 2017/5/12</b></li>
+<li> 2016 <b>DARPA <a href="http://archive.darpa.mil/cybergrandchallenge/event.html">Cyber Grand Challenge</a> CFE, ranked #2 in attack.</b></li>
+<li> 2015 <b>DARPA <a href="http://archive.darpa.mil/cybergrandchallenge_competitorsite/">Cyber Grand Challenge</a> CQE, ranked #1 in defense.</b></li>
+<li> 2012 <b>Microsoft BlueHat Prize Contest's Special Recognition Award.</b></li>
+<li> 2017 <b>5nd place in <a href="https://blog.legitbs.net/2017/07/def-con-ctf-2017-final-scores-and-data.html">Defcon CTF 2017</a></b> </li>
+<li> 2016 <b>2nd place in <a href="https://defcon.org/html/defcon-24/dc-24-ctf.html">Defcon CTF 2016</a></b> </li>
+<li> 2015 <b>5th place in <a href="https://blog.legitbs.net/2015/08/2015-def-con-ctf-final-scores.html">Defcon CTF 2015</a></b> </li>
+<h2> Bug List </h2>
+<li><a href="/bugs.html"> <b>bugs found by our automated solutions.</b> </a></li>
+<h2>Publications</h2>
+<h3>Conferences</h3>
+<ol>
+<li> <b>Revery: from Proof-of-Concept to Exploitable (One Step towards Automatic Exploit Generation)</b><br/> 
+    Yan Wang, <u>Chao Zhang*</u>, Xiaobo Xiang, Zixuan Zhao, Wenjie Li, Xiaorui Gong*, Bingchang Liu, Kaixiang Chen, Wei Zou<br/>
+    In <i>the ACM Conference on Computer and Communications Security (CCS’18)</i>, Toronto, Canada, Oct 2018.</li>
+<li> <b>Abusing CDNs for Fun and Profit: Security Issues in CDNs’ Origin Validation</b><br/> 
+    Run Guo, Jianjun Chen, Baojun Liu, Jia Zhang*, <u>Chao Zhang*</u>, Haixin Duan*, Tao Wan, Jian Jiang, Shuang Hao, Yaoqi Jia<br/>
+    In <i>37th IEEE International Symposium on Reliable Distributed Systems (SRDS 2018)</i>, Bahia, Brazil, Oct 2018.</li>
+<li> <b>αDiff: Cross-Version Binary Code Similarity Detection with DNN</b><br/> 
+    Binchang Liu, Wei Huo*, <u>Chao Zhang*</u>, Wenchao Li, Feng Li, Aihua Piao, Wei Zou<br/>
+    In <i>IEEE/ACM Automated Software Engineering (ASE’18)</i>, Montpellier, France, Sep 2018.</li>
+<li> <b>ICUFuzzer: Fuzzing ICU Library for Exploitable Bugs in Multiple Software</b><br/> 
+    Kun Yang, Yuan Deng, <u>Chao Zhang*</u>, Jianwei Zhuge and Haixin Duan<br/>
+    In <i>Information Security Conference (ISC’18)</i>, London, UK, Sep 2018.</li>
+<li> <b>CBTracer: Continuously Building Datasets for Binary Vulnerability and Exploit Research</b><br/> 
+    Yukun Liu, Jianwei Zhuge, <u>Chao Zhang*</u><br/>
+    In <i>the First Workshop on Radical and Experiential Security (RESEC)</i>, Incheon, Korea, June 2018.</li>
+<li> <b>CollAFL: Coverage Sensitive Fuzzing</b> [<a href="http://chao.100871.net/papers/oakland18.pdf">PDF</a>]<br/> 
+    Shuitao Gan, <u>Chao Zhang*</u>, Xiaojun Qin, Xuwen Tu, Kang Li, Zhongyu Pei, Zuoning Chen<br/>
+    In <i>the 39th IEEE Symposium on Security and Privacy (Oakland'18)</i>, San Francisco, CA, May 2018.</li>
+<li> <b>vCFI: Visible Control Flow Integrity for Cloud Tenants</b><br/>
+    Yuan Li, <u>Chao Zhang*</u>, Xiapu Luo<br/>
+    In <i>the 2nd Workshop on System Software for Trusted Execution (SysTEX 2017)</i></li>
+<li> <b>Semantic Sensitive Coverage-based Fuzzing</b><br/>
+    Jun Li, <u>Chao Zhang*</u><br/>
+    In <i>the 2nd Conference on Communications, Information Management and Network Security (CIMNS2017)</i></li>
+<li> <strong>Towards Efficient Heap Overflow Discovery</strong> [<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-jia.pdf">PDF</a>] <br/>
+    Xiangkun Jia, <u>Chao Zhang</u>,  Purui Su, Yi Yang, Huafeng Huang, Dengguo Feng <br/>
+    In <i>the 26th {USENIX} Security Symposium ({USENIX} Security 17), </i> Vancouver, BC, Aug 2017 </li>
+<li> <strong>VTrust: Regaining Trust on Virtual Calls</strong> [<a href="http://chao.100871.net/papers/VTrust-NDSS16-CR.pdf">PDF</a>] <br/>
+<u>Chao Zhang</u>,  Scott A. Carr, Tongxin Li, Yu Ding, Chengyu Song, Mathias Payer, Dawn Song <br/>
+    In <i>the Network and Distributed System Security Symposium (NDSS'16), </i> San Diego, CA, Feb 2016 </li>
+<li> <strong>VTint: Protecting Virtual Function Tables’ Integrity</strong> [<a href="http://www.internetsociety.org/sites/default/files/03_1_2.pdf">pdf</a>]  
+    [<a href="http://chao.100871.net/papers/VTint-NDSS-slides.pdf">slides</a>] <br/>
+<u>Chao Zhang</u>, Chengyu Song, Kevin Zhijie Chen, Zhaofeng Chen, Dawn Song <br/>
+    In <i>the Network and Distributed System Security Symposium (NDSS'15), </i> San Diego, CA, Feb 2015 </li>
+<li> <strong>Exploiting and Protecting Dynamic Code Generation</strong> [<a href="http://www.internetsociety.org/sites/default/files/09_2_2.pdf">pdf</a>] <br/>
+    Chengyu Song, <u>Chao Zhang</u>, Tielei Wang, Wenke Lee, David Melski <br/>
+    In <i>the Network and Distributed System Security Symposium (NDSS'15), </i> San Diego, CA, Feb 2015 </li>
+<li> <strong>JITScope: Protecting Web Users from Control-Flow Hijacking Attacks</strong> <em> </em> <br/>
+<u>Chao Zhang</u>, Mehrdad Niknami, Kevin Zhijie Chen, Chengyu Song, Zhaofeng Chen, Dawn Song <br/>
+    In <i>the 34th Annual IEEE International Conference on Computer Communications (InfoCom'15), </i> Hong Kong, China, April 2015 </li>
+<li> <strong>UAFChecker: Scalable Static Detection of Use-After-Free Vulnerabilities</strong> <em> (poster) </em> <br/>
+    Jiayi Ye, <u>Chao Zhang</u>, Xinhui Han <br/>
+    In <i>the 21st ACM Conference on Computer and Communications Security (CCS'14)</i>, Scottsdale, Arizona, Nov 2014 </li>
+<li> <b>PHPGate: A Practical White-Delimiter-Tracking Protection against SQL-Injection for PHP</b> <em> (poster) </em> <br/>
+    Lihua Zhang, Yu Ding, <u>Chao Zhang</u>, Lei Duan, Zhaofeng Chen, Tao Wei, Xinhui Han <br/>
+    In <i>the 24th USENIX Security Symposium</i>, San Diego, CA, Aug 2014 </li>
+<li> <b>The Store-and-Flood Distributed Reflective Denial of Service Attack</b> <br/>
+    Bingshuang Liu, Skyler Berg, Jun Li, Tao Wei, <u>Chao Zhang</u>, Xinhui Han <br/>
+    In <i>the 23rd International Conference on Computer Communications and Networks (ICCCN‘14)</i>, Shanghai, China, Aug 2014 </li>
+<li> <b>Android Low Entropy Demystified</b> <br/>
+    Yu Ding, Zhuo Peng, Yuanyuan Zhou, <u>Chao Zhang</u> <br/>
+    In <i> IEEE International Conference on Communications (ICC’14), </i> Sydney, Australia, June 2014 </li>
+<li> <b>Unider: Exploit Attack Emulator Armed with State-of-Art Exploit Techniques</b> <em> (poster) </em> <br/>
+    Yu Ding, <u>Chao Zhang</u>, Tao Wei <br/>
+    In <i> the Network and Distributed System Security Symposium (NDSS'14), </i> San Diego, CA, Feb 2014 </li>
+<li> <b>Splider: A Split-based Crawler of the BT-DHT Network and its Applications</b> <br/>
+    Bingshuang Liu, Shidong Wu, Tao Wei, <u>Chao Zhang</u>, Jun Li, Jianyu Zhang, Yu Chen, Chen Li <br/>
+    In <i> the 11th Annual IEEE Consumer Communications &amp; Networking Conference (CCNC'14), </i> Las Vegas, Nevada, Jan 2014 </li>
+<li> <b>Practical Control Flow Integrity &amp; Randomization for Binary Executables</b> [<a href="http://lenx.100871.net/papers/CCFIR-oakland-CR.pdf">PDF</a>] [<a href="http://chao.100871.net/papers/Oakland13-CCFIR-slides.pdf">slides</a>]<br/>
+<u>Chao Zhang</u>, Tao Wei, Zhaofeng Chen, Lei Duan, Laszlo Szekeres, Stephen McCamant, Dawn Song, Wei Zou.<br/>
+    In <i> the 34th IEEE Symposium on Security &amp; Privacy (Oakland'13), </i> San Francisco, CA, May 2013. </li>
+<li> <b>Protecting Function Pointers in Binary</b> <br/>
+<u>Chao Zhang</u>, Tao Wei, Zhaofeng Chen, Lei Duan, Stephen McCamant, Laszlo Szekeres.<br/>
+    In <i> the 8th ACM Symposium on Information, Computer and Communications Security (ASIACCS'13), </i> Hangzhou, China, May 2013. </li>
+<li> <b>LinkTrust: A Phishing Detection Method Depending on the PageRank</b> <em>(in Chinese)</em><br/>
+    Lihua Zhang, Tao Wei, Kun Li, Jian Mao, <u>Chao Zhang</u>, Wei Zou. <br/>
+    In <i>the 5th Conference on Vulnerability Analysis and Risk Assessment (VARA'12),</i> Shanghai, China, Dec, 2012.</li>
+<li> <b>FPGate: The Last Building Block For A Practical CFI Solution</b> [<a href="http://lenx.100871.net/papers/FPGate-bluehat.pdf">PDF</a>]<br/>
+    Tao Wei, <u>Chao Zhang</u>, Zhaofeng Chen, Lei Duan, Laszlo Szekeres, Stephen McCamant, Dawn Song.<br/>
+    Technical Report for <i>Microsoft BlueHat Prize Contest</i>, Apr. 2012.</li>
+<li> <b>A Framework to Eliminate Backdoors from Response Computable Authentication</b> [<a href="http://lenx.100871.net/papers/AuthBack-report.pdf">PDF</a>]<br/>
+    Shuaifu Dai, Tao Wei, <u>Chao Zhang</u>, Tielei Wang, Yu Ding, Wei Zou, Zhenkai Liang. <br/>
+    In <i>the 33rd IEEE Symposium on Security and Privacy (Oakland'12)</i>, San Francisco, CA, May 2012.</li>
+<li> <b>IntPatch: Automatically Fix Integer-Overflow-to-Buffer-Overflow Vulnerability at Compile-Time</b> [<a href="http://lenx.100871.net/papers/IntPatch-ESORICS.pdf">PDF</a>]<br/>
+<u>Chao Zhang</u>, Tielei Wang, Tao Wei, Yu Chen, Wei Zou.<br/>
+    In <i>the 15th European Symposium on Research in Computer Security (ESORICS'10), </i> Athens, Greece, Sep. 2010. </li>
+</ol>
+<h3>Journals</h3>
+<ol>
+<li> <b> Fuzzing: a survey</b><br>
+  Jun Li, Bodong Zhao, <u>Chao Zhang*</u><br>
+  In <i>Cybersecurity</i>, Jun 2018, 1(1) </br></br></li>
+<li> <b> Several Methods of Exploiting Glibc Heap </b>(in Chinese)<br> 
+  Zhongyu Pei, <u>Chao Zhang*</u>, Haixin Duan<br>
+  In <i>Journal of Cyber Security</i>, January 2018, 3(1): 1-15. </br></br></li>
+<li> <b> Detect use-after-free vulnerabilities in binaries </b>(in Chinese)<br>
+  Xinhui Han, Shuang Wei, Jiayi Ye, <u>Chao Zhang</u>, Zhiyuan Ye<br>
+  In <i>Journal of Tsinghua University (Science and Technology)</i>, 2017, 57(10): 1022-1029.</br></br></li>
+<li> <b> SQL injection prevention based on sensitive characters. </b>(in Chinese)<br>
+  Huilin Zhang, Yu Ding, Lihua Zhang, Lei Duan, <u>Chao Zhang</u>, Tao Wei, Guancheng Li, Xinhui Han<br>
+  In <i>Journal of Computer Research and Development</i> Vol. 53, No. 10, Oct. 2016 </br></br></li>
+<li> <b> Accurate and Efficient Exploit Capture and Classification </b><br>
+  Yu Ding, Tao Wei, Hui Xue, Yulong Zhang, <u>Chao Zhang</u>, Xinhui Han<br>
+  In <i>SCIENCE CHINA Information Sciences (SCIS)</i>, Vol. 60, No. 5, 2016</br></br></li>
+<li> <b> SF-DRDoS: The store-and-flood distributed reflective denial of service attack </b> <br/>
+  Bingshuang Liu, Jun Li, Tao Wei, Skyler Berg, Jiayi Ye, Chen Li, <u> Chao Zhang </u>, Jianyu Zhang, Xinhui Han <br/>
+  In <i>Computer Communications, </i> Vol. 69, Sep. 2015</li>
+<li> <strong> Improving lookup reliability in Kad </strong> <br/>
+  Bingshuang Liu, Tao Wei, <u> Chao Zhang </u>, Jun Li, Jianyu Zhang <br/>
+  In <em> Peer-to-Peer Networking and Applications, </em> Vol. 8, Issue 1, Jan. 2015 </li>
+<li> <b>Using Type Analysis in Compiler to Eliminate Integer-Overflow-to-Buffer-Overflow Threat.</b>[<a href="http://lenx.100871.net/papers/IntPatch-JCS.pdf">PDF</a>]<br/>
+<u>Chao Zhang</u>, Wei Zou, Tielei Wang, Yu Chen, Tao Wei.<br/>
+  In <i>Journal of Computer Security (JCS), </i> Vol. 19, No. 6, Dec. 2011 </li>
+</ol>
+<h2>Professional Service</h2>
+Program Commitee for:
+<li><a href="http://securecomm.org/">International Conference on Security and Privacy in Communication Networks (SecureComm'18)</a></li>
+<li><a href="https://www.usenix.org/conference/cset18/">Cyber Security Experimentation and Test (CSET'18)</a></li>
+<li><a href="https://www.usenix.org/conference/cset17/">Cyber Security Experimentation and Test (CSET'17)</a></li>
+<br>
+Student/Shadow PC for:
+<li><a href="http://www.ieee-security.org/TC/SP2016/">IEEE Symposium on Security and Privacy (Oakland'16)</a></li>
+<br>
+Editorial Board Member for:
+<li><a href="https://cybersecurity.springeropen.com/">Cybersecurity (Springer)</a></li>
+<br>
+Reviewer for journals:
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">Transactions on Information Forensics &amp; Security (TIFS)</a> </li>
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">Transactions on Dependable and Secure Computing (TDSC)</a></li>
+<li><a href="https://ton.lids.mit.edu/">IEEE/ACM Transactions on Networking (ToN)</a></li>
+<li><a href="http://www.iospress.nl/journal/journal-of-computer-security/">Journal of Computer Security (JCS)</a></li>
+<li><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X">Software: Practice and Experience (SPE)</a></li>
+<li><a href="http://www.springer.com/computer/journal/607">Computing Journal (COMP)</a></li>
+<li><a href="https://www.journals.elsevier.com/computers-and-security">Computers &amp; Security (COSE)</a></li>
+<li> <a href="http://csur.acm.org/">ACM Computing Surveys</a> </li>
+<li><a href="http://xbna.pku.edu.cn/EN/volumn/current.shtml">Acta Scientiarum Naturalium Universitatis Pekinensis (in Chinese)</a></li>
+<li><a href="http://www.jos.org.cn/ch/index.aspx">Journal Of Software</a> (in Chinese)</li>
+<li><a href="http://jcs.iie.ac.cn/ch/index.aspx">Journal of Cyber Security (in Chinese)</a></li>
+<li><a href="https://cybersecurity.springeropen.com/">Cybersecurity (Springer)</a></li>
+<li><a href="https://www.editorialmanager.com/ajse">Arabian Journal for Science and Engineering</a></li>
+<li><a href="https://www.hindawi.com/journals/scn/">Security and Communication Networks</a></li>
+<br>
+Reviewer for conferences:
+<li><a href="http://securecomm.org/">International Conference on Security and Privacy in Communication Networks (SecureComm'18)</a></li>
+<li><a href="https://www.usenix.org/conference/cset18/">Cyber Security Experimentation and Test (CSET'18)</a></li>
+<li><a href="https://www.internetsociety.org/blog/2018/02/workshop-binary-analysis-research-bar-2018-ndss-18-february/">Workshop on Binary Analysis Research (BAR'18)</a></li>
+<li><a href="https://www.acsac.org/2017/">Annual Computer Security Applications Conference (ACSAC'17)</a></li>
+<li><a href="https://www.raid2017.org/">International Symposium on Research in Attacks, Intrusions and Defenses (RAID'17)</a></li>
+<li><a href="https://www.usenix.org/conference/cset17/">Cyber Security Experimentation and Test (CSET'17)</a></li>
+<li> <a href="http://www.ece.cmu.edu/calcm/asplos2016/">International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'16)</a></li>
+<li> <a href="http://www.sigsac.org/ccs/CCS2014/">ACM Conference on Computer and Communications Security (CCS'14)</a> </li>
+<li> <a href="http://www.spsm-workshop.org/2014/">4th Annual ACM CCS Workshop on Security and Privacy in Smartphones and Mobile Devices (SPSM'14)</a></li>
+<li> <a href="http://www.ieee-security.org/TC/SP2013/index.html">34th IEEE Symposium on Security &amp; Privacy (Oakland'13)</a> </li>
+<li> <a href="http://www.internetsociety.org/events/ndss-symposium-2013">Annual Network &amp; Distributed System Security Symposium (NDSS'13, '16)</a>. </li>
+<li> <a href="http://hise.hznu.edu.cn/asiaccs/">8th ACM Symposium on Information, Computer and Communications Security (ASIACCS'13)</a>. </li>
+<li> <a href="http://vara.itsec.gov.cn/">5th Conference on Vulnerability Analysis and Risk Assessment (VARA 2012)</a>, in Chinese.</li>
+<!-- <h2>Open Source Projects</h2> -->
+<!-- <li><a href="http://proton.100871.net/"> libproton: Make porting easy from Python to C++11 <img src="http://lenx.100871.net/proton.png" width=24></a></li> -->
+<h2>Resources</h2>
+<li> <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">Computer Security Conference Ranking and Statistic</a> </li>
+<li> <a href="http://s3.eurecom.fr/~balzarot/notes/top4/">Statistics of Top 4 System Security Conferences</a></li>
+<li> <a href="http://s3.eurecom.fr/~balzarot/notes/top4/authors.html">Top Authors in Top4 Conferences</a> </li>
+<li> <a href="http://www.cs.ucsb.edu/~almeroth/conf/stats/">Networking Conferences Statistics</a> </li>
+<li> <a href="http://students.engr.scu.edu/~sschaeck/acceptancerates/">Compiler Conferences and Workshops</a> </li>
+<li> <a href="http://www.eecg.toronto.edu/~livio/os/">Operating Systems Conferences</a> </li>
+<li> <a href="http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757428">Recommended network/information security conferences/journals by CCF (Chinese)</a> </li>
+<br>
+<hr/>
+<br>
+<address>
+  Last updated: June 2018.
+  </address>
+</br></br></br></br></br></br></body>

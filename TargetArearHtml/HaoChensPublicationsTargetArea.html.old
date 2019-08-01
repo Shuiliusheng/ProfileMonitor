@@ -1,0 +1,777 @@
+https://web.cs.ucdavis.edu/~hchen/paper/
+<body>
+<header>
+<h2>Hao Chen</h2>
+</header>
+<nav>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a class="active" href="#">Publications</a></li>
+<li><a href="../#about">About</a></li>
+<li><a href="../#contact">Contact</a></li>
+</ul>
+</nav>
+<!--
+	<p class="bib">
+	  <a id=""></a>
+	  <span class="title"></span>
+	  <a href=".pdf" class="paperformat">PDF</a> 
+	  <a href="-abs.txt" class="paperformat">Abstract</a>
+	  <a href="-slide.">Presentation</a>
+	  <a href="paper.html#">BibLaTeX</a>
+	  <span class="author"></span>
+	  <span class="booktitle"></span>, , 
+	</p>
+	-->
+<p class="bib">
+<a id="Yen:2018"></a>
+<span class="title">Falsified Data Attack on Backpressure-based Traffic
+Signal Control Algorithms</span>
+<!-- <a href="yen2018.pdf" class="paperformat">PDF</a> 
+      <a href="yen2018-abs.txt" class="paperformat">Abstract</a> -->
+<a href="paper.html#Yen:2018">BibLaTeX</a>
+<span class="author">Chia-Cheng Yen, Dipak Ghosal, Michael Zhang, Chen-Nee Chuah, and Hao Chen</span>
+<span class="booktitle">IEEE Vehicular Networking Conference (VNC)</span>, Taipei, Taiwan, December 5--7, 2018. 
+    </p>
+<p class="bib">
+<a id="Liu:2018:Sanitization"></a>
+<span class="title">Less is more: culling the training set to improve robustness of deep neural networks</span>
+<a class="paperformat" href="liu2018sanitization.pdf">PDF</a>
+<a class="paperformat" href="liu2018sanitization-abs.txt">Abstract</a>
+<!--  <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Liu:2018:Sanitization">BibLaTeX</a>
+<span class="author">Yongshuai Liu, Jiyu Chen, and Hao Chen</span>
+<span class="booktitle">Conference on Decision and Game Theory for Security (GameSec)</span>, Seattle, WA, October 29--31, 2018.
+    </p>
+<p class="bib">
+<a id="Chen:2018:Angora"></a>
+<span class="title">Angora: efficient fuzzing by principled search</span>
+<a class="paperformat" href="chen2018angora.pdf">PDF</a>
+<a class="paperformat" href="chen2018angora-abs.txt">Abstract</a>
+<!--  <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Chen:2018:Angora">BibLaTeX</a>
+<span class="author">Peng Chen and Hao Chen</span>
+<span class="booktitle">IEEE Symposium on Security &amp; Privacy (S&amp;P)</span>, San Francisco, CA, May 21--23, 2018. (10.0%) 
+    </p>
+<p class="bib">
+<a id="Zhang:2018:Library"></a>
+<span class="title">Detecting third-party libraries in Android applications with high precision and recall</span>
+<a class="paperformat" href="zhang2018.pdf">PDF</a>
+<a class="paperformat" href="zhang2018-abs.txt">Abstract</a>
+<!-- <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Zhang:2018:Library">BibLaTeX</a>
+<span class="author">Yuan Zhang, Jiarun Dai, Xiaohan Zhang, Sirong Huang, Zhemin Yang, Min Yang, and Hao Chen</span>
+<span class="booktitle">IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER)</span>, Campobasso, Italy, March 20--23, 2018.
+    </p>
+<p class="bib">
+<a id="Han:2017:senDroid"></a>
+<span class="title">senDroid: auditing sensor access in Android system-wide</span>
+<a class="paperformat" href="han2017.pdf">PDF</a>
+<!-- <a href="han2017-abs.txt" class="paperformat">Abstract</a> -->
+<a href="paper.html#Han:2017:senDroid">BibLaTeX</a>
+<span class="author">Weili Han, Chang Cao, Hao Chen, Dong Li, Zheran Fang, Wenyuan Xu, and Xiaoyang Wang</span>
+<span class="booktitle">IEEE Transactions on Dependable and Secure Computing</span> 2017.
+    </p>
+<p class="bib">
+<a id="Meng:2017:MagNet"></a>
+<span class="title">MagNet: a two-pronged defense against adversarial examples</span>
+<a class="paperformat" href="meng2017.pdf">PDF</a>
+<a class="paperformat" href="meng2017-abs.txt">Abstract</a>
+<a href="meng2017-slides.pdf">Presentation</a>
+<a href="paper.html#Meng:2017:MagNet">BibLaTeX</a>
+<span class="author">Dongyu Meng and Hao Chen</span>
+<span class="booktitle">ACM Conference on Computer and Communications Security (CCS)</span>, Dallas, TX. October 30 -- November 3, 2017. (17.9%)
+    </p>
+<p class="bib">
+<a id="Wu:2017:Browser"></a>
+<span class="title">Evaluating private modes in desktop and mobile browsers and their resistance to fingerprinting</span>
+<a class="paperformat" href="wu2017.pdf">PDF</a>
+<a class="paperformat" href="wu2017-abs.txt">Abstract</a>
+<!-- <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Wu:2017:Browser">BibLaTeX</a>
+<span class="author">Yuanyi Wu, Dongyu Meng, and Hao Chen</span>
+<span class="booktitle">IEEE Conference on Communications and Network Security (CNS)</span>, Las Vegas, NV, October 9--11, 2017. (29.9%)
+    </p>
+<p class="bib">
+<a id="Vronsky:2017:SurgeScan"></a>
+<span class="title">SurgeScan: enforcing security policies on untrusted third-party Android libraries</span>
+<a class="paperformat" href="vronsky2017.pdf">PDF</a>
+<a class="paperformat" href="vronsky2017-abs.txt">Abstract</a>
+<!-- <a href="vronsky2017-slide.">Presentation</a> -->
+<a href="paper.html#Vronsky:2017:SurgeScan">BibLaTeX</a>
+<span class="author">Jonathan Vronsky, Ryan Stevens, and Hao Chen</span>
+<span class="booktitle">The 14th IEEE Conference on Advanced and Trusted Computing (ATC)</span>, San Francisco, CA. August 4--8, 2017.
+    </p>
+<p class="bib">
+<a id="Zhang:2016:FindDroid"></a>
+<span class="title">Rethinking permission enforcement mechanism on mobile systems</span>
+<a class="paperformat" href="zhang2016.pdf">PDF</a>
+<!-- <a href="tifs2016-abs.txt" class="paperformat">Abstract</a> -->
+<a href="paper.html#Zhang:2016:FindDroid">BibLaTeX</a>
+<span class="author">Yuan Zhang, Min Yang, Guofei Gu, and Hao Chen</span>
+<span class="booktitle">IEEE Transactions on Information Forensics &amp; Security</span>. 11(10):2227--2240, 2016.</p>
+<p class="bib">
+<a id="Qu:2016:AppShield"></a>
+<span class="title">AppShield: enabling multi-entity access control cross platforms for mobile app management</span>
+<a class="paperformat" href="qu2016.pdf">PDF</a>
+<!--  <a href="-abs.txt" class="paperformat">Abstract</a> -->
+<a href="paper.html#Qu:2016:AppShield">BibLaTeX</a>
+<span class="author">Zhengyang Qu, Guanyu Guo, Zhengyue Shao, Vaibhav Rastogi, Yan Chen, Hao Chen and Wangjun Hong</span>
+<span class="booktitle">International Conference on Security and
+	Privacy in Communication Networks (SECURECOMM)</span>, Guangzhou, China. October 10--12, 2016. (23.4%)
+    </p>
+<p class="bib">
+<a id="Chen:2016:UAV"></a>
+<span class="title">Security analysis of personal unmanned aerial vehicles</span>
+<!--<a href=".pdf" class="paperformat">PDF</a> 
+	  <a href="-abs.txt" class="paperformat">Abstract</a>
+	  <a href="-slide.">Presentation</a>-->
+<a href="paper.html#Chen:2016:UAV">BibLaTeX</a>
+<span class="author">Peng Chen and Hao Chen</span>
+<span class="booktitle">International Conference on Security and
+	Privacy in Communication Networks (SECURECOMM)</span>, Guangzhou, China. October 10--12, 2016. (23.4%)
+    </p>
+<p class="bib">
+<a id="Fang:2016:revDroid"></a>
+<span class="title">revDroid: code analysis of the side effects after dynamic permission revocation of Android apps</span>
+<a class="paperformat" href="fang2016.pdf">PDF</a>
+<!--<a href="-abs.txt" class="paperformat">Abstract</a>-->
+<a href="paper.html#Fang:2016:revDroid">BibLaTeX</a>
+<span class="author">Zheran Fang, Weili Han, Dong Li, Zeqing Guo, Danhao Guo, X. Sean Wang, Zhiyun Qian and Hao Chen</span>
+<span class="booktitle">ACM Asia Conference on Computer and Communications Security  (ASIACCS)</span>, Xi'an, China. May 30 -- June 3, 2016.(20.9%)
+    </p>
+<p class="bib">
+<a id="Stevens:2015:MTOP"></a>
+<span class="title">On the origin of mobile apps: network provenance for Android applications</span>
+<a class="paperformat" href="codaspy2016.pdf">PDF</a>
+<a class="paperformat" href="codaspy2016-abs.txt">Abstract</a>
+<!-- <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Stevens:2015:MTOP">BibLaTeX</a>
+<span class="author">Ryan Stevens and Jonathan Crussell and Hao Chen</span>
+<span class="booktitle">6th ACM Conference on Data and Application Security and Privacy (CODASPY)</span>, New Orleans, LA, March 9-11, 2016. (22%)</p>
+<p class="bib">
+<a id="Zhang:2015:FindDroid"></a>
+<span class="title">FineDroid: enforcing permissions with system-wide application</span>
+<a class="paperformat" href="securecomm2015.pdf">PDF</a>
+<a class="paperformat" href="securecomm2015-abs.txt">Abstract</a>
+<!-- <a href="-slide.">Presentation</a> -->
+<a href="paper.html#Zhang:2015:FindDroid">BibLaTeX</a>
+<span class="author">Yuan Zhang, Min Yang, Guofei Gu, and Hao Chen</span>
+<span class="booktitle">International Conference on Security and Privacy in Communication Networks (SECURECOMM)</span>, Dallas, TX, October 26-29, 2015.</p>
+<p class="bib">
+<a id="Stevens:2015:Pred"></a>
+<span class="title">Predictive eviction: a novel policy for optimizing TLS session cache performance</span>
+<a class="paperformat" href="globecom2015.pdf">PDF</a>
+<a class="paperformat" href="globecom2015-abs.txt">Abstract</a>
+<a href="paper.html#Stevens:2015:Pred">BibLaTeX</a>
+<span class="author">Ryan Stevens and Hao Chen</span>
+<span class="booktitle">IEEE Global Communications Conference: Communications and Information System Security (GLOBECOM)</span>, San Diego, CA, December 6-10, 2015.
+    </p>
+<p class="bib">
+<a id="Crussell:2015:AnDarwin"></a>
+<span class="title">AnDarwin: scalable detection of Android application clones based on semantics</span>
+<a class="paperformat" href="tmc2015.pdf">PDF</a>
+<a class="paperformat" href="tmc2015-abs.txt">Abstract</a>
+<a href="paper.html#Crussell:2015:AnDarwin">BibLaTeX</a>
+<span class="author">Jonathan Crussell, Clint Gibler, and Hao Chen</span>
+<span class="booktitle">IEEE Transactions on Mobile Computing</span>, 14(10):2007-2019, 2015.
+    </p>
+<p class="bib">
+<a id="Cai:2015:AppCracker"></a>
+<span class="title">AppCracker: widespread vulnerabilities in user and session authentication in mobile apps</span>
+<a class="paperformat" href="most2015.pdf">PDF</a>
+<a class="paperformat" href="most2015-abs.txt">Abstract</a>
+<a href="paper.html#Cai:2015:AppCracker">BibLaTeX</a>
+<span class="author">Fangda Cai and Hao Chen and Yuanyi Wu and Yuan Zhang</span>
+<span class="booktitle">IEEE Mobile Security Technologies (MoST)</span>, San Jose, CA, May 21, 2015. (30%)
+    </p>
+<p class="bib">
+<a id="Crussell:2014:MAdFraud"></a>
+<span class="title">MAdFraud: investigating ad fraud in Android application</span>
+<a class="paperformat" href="mobisys2014.pdf">PDF</a> <a class="paperformat" href="mobisys2014-abs.txt">Abstract</a>
+<a href="http://cancer.cs.ucdavis.edu/~jcrussell/madfraud-dataset/">
+	Data Set</a>
+<a href="mobisys2014-slide.pdf">Presentation</a>
+<a href="paper.html#Crussell:2014:MAdFraud">BibLaTeX</a>
+<span class="author">Jon Crussell, Ryan Stevens, and Hao Chen</span>
+<span class="booktitle">12th International Conference on Mobile Systems,
+	Applications and Services (MobiSys)</span>, Bretton Woods, NH, USA, June 16-19, 2014.
+      (13.5%)
+    </p>
+<p class="bib">
+<a id="Defreez:2014:Firefox"></a>
+<span class="title">A first look at firefox OS security</span>
+<a class="paperformat" href="most2014.pdf">PDF</a>
+<a class="paperformat" href="most2014-abs.txt">Abstract</a>
+<a href="paper.html#Defreez:2014:Firefox">BibLaTeX</a>
+<span class="author">Daniel Defreez and Bhargava Shastry and Hao Chen and Jean-Pierre Seifert</span>
+<span class="booktitle">IEEE Mobile Security Technologies (MoST)</span>, San Jose, CA, May 17, 2014. (37%)
+    </p>
+<p class="bib">
+<a id="Goues:2013:MTD"></a>
+<span class="title">Moving target defenses in the Helix self-Regenerative architecture</span>
+<a class="paperformat" href="mtd2013.pdf">PDF</a>
+<a class="paperformat" href="mtd2013-abs.txt">Abstract</a>
+<a href="paper.html#Goues:2013:MTD">BibLaTeX</a>
+<span class="author">Claire Le Goues, Anh Nguyen-Tuong, Hao Chen, Jack W. Davidson, Stephanie Forrest, Jason D. Hiser, John C. Knight, and Matthew Van Gundy</span>
+      In <span class="booktitle">Moving Target Defense II: Application of Game Theory and Adversarial Modeling</span>, Ed. by Sushil Jajodia et al., Springer-Verlag New York, 2013, pages 117-149. 
+    </p>
+<p class="bib">
+<a id="Posnett:2013:UA"></a>
+<span class="title">Using and asking: APIs used in the Android market and asked about in StackOverflow</span>
+<a class="paperformat" href="socinfo2013.pdf">PDF</a>
+<a class="paperformat" href="socinfo2013-abs.txt">Abstract</a>
+<a href="paper.html#Posnett:2013:UA">BibLaTeX</a>
+<span class="author">Daryl Posnett, David Kavaler, Clint Gibler, Hao Chen, Prem Devanbu, and Vladimir Filkov</span>
+<span class="booktitle">5th International Conference on Social Informatics (SocInfo)</span>, Kyoto, Japan, November 25-27, 2013. 
+    </p>
+<p class="bib">
+<a id="Crussell:2013:AnDarwin"></a>
+<span class="title">AnDarwin: scalable semantics-based detection of similar Android applications</span>
+<a class="paperformat" href="esorics2013.pdf">PDF</a>
+<a class="paperformat" href="esorics2013-abs.txt">Abstract</a>
+<a href="http://cancer.cs.ucdavis.edu/~jcrussell/andarwin-dataset/">Dataset</a>
+<!-- <a href="-slide.">Presentation</a>-->
+<a href="paper.html#Crussell:2013:AnDarwin">BibLaTeX</a>
+<span class="author">Jonathan Crussell, Clint Gibler, and Hao Chen</span>
+<span class="booktitle">18th European Symposium on Research in Computer Security (ESORICS)</span>, Egham, U.K., September 9-13, 2013. (18%)
+    </p>
+<p class="bib">
+<a id="Davis:2013:Retrofit"></a>
+<span class="title">RetroSkeleton: retrofitting Android apps</span>
+<a class="paperformat" href="mobisys2013rs.pdf">PDF</a>
+<a class="paperformat" href="mobisys2013rs-abs.txt">Abstract</a>
+<a href="mobisys2013rs-slide.pptx">Presentation</a>
+<a href="mobisys2013rs.mp4">Video</a>
+<a href="http://www.youtube.com/watch?v=8xWtKKM1LVE"><img alt="YouTube" src="../image/youtube.jpg"/></a>
+<a href="paper.html#Davis:2013:Retrofit">BibLaTeX</a>
+<span class="author">Benjamin Davis and Hao Chen</span>
+<span class="booktitle">11th International Conference on Mobile Systems,
+	Applications and Services (MobiSys)</span>, Taipei, Taiwan, June 25-28, 2013. (15.7%)
+    </p>
+<p class="bib">
+<a id="Gibler:2013:UEcon"></a>
+<span class="title">AdRob: examining the landscape and impact of Android application plagiarism</span>
+<a class="paperformat" href="mobisys2013adrob.pdf">PDF</a>
+<a class="paperformat" href="mobisys2013adrob-abs.txt">Abstract</a>
+<a href="mobisys2013adrob-slide.pptx">Presentation</a>
+<a href="mobisys2013adrob.mp4">Video</a><a href="http://www.youtube.com/watch?v=0tmonX9zFs0"><img alt="YouTube" src="../image/youtube.jpg"/></a>
+<a href="paper.html#Gibler:2013:UEcon">BibLaTeX</a>
+<span class="author">Clint Gibler, Ryan Stevens, Jon Crussell, Hao Chen, Hui Zang, and Heesook Choi</span>
+<span class="booktitle">11th International Conference on Mobile Systems,
+	Applications and Services (MobiSys)</span>, Taipei, Taiwan, June 25-28, 2013.
+      (15.7%)
+    </p>
+<p class="bib">
+<a id="Gustafson:2013:Permission"></a>
+<span class="title">Quantifying the effects of removing permissions from Android applications</span>
+<a class="paperformat" href="most2013.pdf">PDF</a> <a class="paperformat" href="most2013-abs.txt">Abstract</a><!--<a href="-slide.">Presentation</a>-->
+<a href="paper.html#Gustafson:2013:Permission">BibLaTeX</a>
+<span class="author">Eric Gustafson, Kristen Kennedy, and Hao Chen</span>
+<span class="booktitle">IEEE Mobile Security Technologies (MoST)</span>, San Francisco, CA, May 23, 2013. (40%)</p>
+<p class="bib">
+<a id="Stevens:2013:Permission"></a>
+<span class="title">Asking for (and about) permissions used by Android apps</span>
+<a class="paperformat" href="msr2013.pdf">PDF</a>
+<a class="paperformat" href="msr2013-abs.txt">Abstract</a>
+<a href="msr2013-slide.pdf">Presentation</a>
+<a href="paper.html#Stevens:2013:Permission">BibLaTeX</a>
+<span class="author">Ryan Stevens, Jonathan Ganz, Prem Devanbu, Hao Chen and Vladimir Filkov</span>
+<span class="booktitle">10th Working Conference on Mining Software Repositories (MSR)</span>, San Francisco, CA, May 18-19, 2013. (38.2%)
+    </p>
+<p class="bib">
+<a id="Crussell:2012:DNADroid"></a>
+<span class="title">Attack of the clones: detecting cloned applications on Android markets</span>
+<a class="paperformat" href="esorics2012.pdf">PDF</a>
+<a class="paperformat" href="esorics2012-abs.txt">Abstract</a>
+<!--<a href="-slide.">Presentation</a>-->
+<a href="paper.html#Crussell:2012:DNADroid">BibLaTeX</a>
+<span class="author">Jonathan Crussell, Clint Gibler, and Hao Chen</span>
+<span class="booktitle">17th European Symposium on Research in Computer Security (ESORICS)</span>, Pisa, Italy, September 10-12, 2012. (20%)
+    </p>
+<p class="bib">
+<a id="Gibler:2012:AndroidLeaks"></a>
+<span class="title">AndroidLeaks: automatically detecting potential privacy leaks in Android applications on a large scale</span>
+<a class="paperformat" href="trust2012al.pdf">PDF</a>
+<a class="paperformat" href="trust2012al-abs.txt">Abstract</a>
+<a href="paper.html#Gibler:2012:AndroidLeaks">BibLaTeX</a>
+<span class="author">Clint Gibler, Jon Crussell, Jeremy Erickson, and Hao Chen</span>
+<span class="booktitle">5th International Conference on Trust &amp; Trustworthy Computing (TRUST)</span>, Vienna, Austria, June 13-15, 2012. 
+    </p>
+<p class="bib">
+<a id="Cai:2012:Motion"></a>
+<span class="title">On the practicality of motion based keystroke inference attack</span>
+<a class="paperformat" href="trust2012touch.pdf">PDF</a> <a class="paperformat" href="trust2012touch-abs.txt">Abstract</a>
+<a href="paper.html#Cai:2012:Motion">BibLaTeX</a>
+<span class="author">Liang Cai and Hao Chen</span>
+<span class="booktitle">5th International Conference on Trust &amp; Trustworthy Computing (TRUST)</span>, Vienna, Austria, June 13-15, 2012. 
+    </p>
+<p class="bib">
+<a id="Stevens:2012:Ad"></a>
+<span class="title">Investigating user privacy in Android ad libraries.<a href="most2012ad.pdf"></a></span>
+<a class="paperformat" href="most2012ad.pdf">PDF</a>
+<a class="paperformat" href="most2012ad-abs.txt">Abstract</a>
+<a href="paper.html#Stevens:2012:Ad">BibLaTeX</a>
+<span class="author">Ryan Stevens, Clint Gibler, Jon Crussell, and Jeremy Erickson and Hao Chen</span>
+<span class="booktitle">IEEE Mobile Security Technologies (MoST)</span>, San Francisco, CA, May 24, 2012. (39%)
+    </p>
+<p class="bib">
+<a id="Davis:2012:IARMDroid"></a>
+<span class="title">I-ARM-Droid: a rewriting framework for in-app reference monitors for Android applications</span>
+<a class="paperformat" href="most2012iarmdroid.pdf">PDF</a>
+<a class="paperformat" href="most2012iarmdroid-abs.txt">Abstract</a>
+<a href="paper.html#Davis:2012:IARMDroid">BibLaTeX</a>
+<span class="author">Benjamin Davis, Ben Sanders, Armen Khodaverdian, and Hao Chen</span>
+<span class="booktitle">IEEE Mobile Security Technologies (MoST)</span>, San Francisco, CA, May 24, 2012. (39%)
+    </p>
+<p class="bib">
+<a id="Maganis:2012:"></a>
+<span class="title">Opaak: using mobile phones to limit anonymous identities online</span>
+<a class="paperformat" href="mobisys2012.pdf">PDF</a>
+<a class="paperformat" href="mobisys2012-abs.txt">Abstract</a>
+<a href="paper.html#Maganis:2012:">BibLaTeX</a>
+<span class="author">Gabriel Maganis, Elaine Shi, Hao Chen, and Dawn Song</span>
+<span class="booktitle">10th International Conference on Mobile Systems,
+	Applications and Services (MobiSys)</span>, Low Wood Bay, Lake District, United Kingdom, June 26-28, 2012. (18%)
+    </p>
+<p class="bib">
+<a id="Davis:2012:Alibi"></a>
+<span class="title">Privacy-preserving alibi systems</span>
+<a class="paperformat" href="asiaccs2012.pdf">PDF</a>
+<a class="paperformat" href="asiaccs2012-abs.txt">Abstract</a>
+<a href="paper.html#Davis:2012:Alibi">BibLaTeX</a>
+<span class="author">Benjamin Davis, Hao Chen, and Matthew Franklin</span>
+<span class="booktitle">7th ACM Symposium on Information, Computer and Communications Security (ASIACCS), Seoul, South Korea, May 1-3, 2012. (30%)</span>
+</p>
+<p class="bib">
+<a id="VanGundy:2012:Noncespaces"></a>
+<span class="title">Noncespaces: using randomization to defeat cross-site scripting attacks</span>
+<a class="paperformat" href="cs2012.pdf">PDF</a>
+<a class="paperformat" href="cs2012-abs.txt">Abstract</a>
+<a href="paper.html#VanGundy:2012:Noncespaces">BibLaTeX</a>
+<span class="author">Matthew Van Gundy and Hao Chen</span>
+<span class="booktitle">Computer &amp; Security</span>, 31:612-628, 2012. 
+    </p>
+<p class="bib">
+<a id="Cai:2011:TouchLogger"></a>
+<span class="title">TouchLogger: inferring keystrokes on touch screen from smartphone motion</span>
+<a class="paperformat" href="hotsec2011.pdf">PDF</a>
+<a class="paperformat" href="hotsec2011-abs.txt">Abstract</a>
+      Slides (<a href="hotsec2011-slide.pptx">PPT</a> <a href="hotsec2011-slide.pdf">PDF</a>)
+      <a href="paper.html#Cai:2011:TouchLogger">BibLaTeX</a>
+<span class="author">Liang Cai and Hao Chen</span>
+<span class="booktitle">6th USENIX Workshop on Hot Topics in Security (HotSec '11), San Francisco, CA, August 9, 2011. (20%)</span>.
+    </p>
+<p class="bib">
+<a id="Niu:2011:Gesture"></a>
+<span class="title">Gesture authentication with touch input for mobile devices</span>
+<a class="paperformat" href="mobisec2011.pdf">PDF</a> <a class="paperformat" href="mobisec2011.pdf-abs.txt">Abstract</a><!--Slides(<a href="-slide.">OpenOffice</a>
+																  <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Niu:2011:Gesture">BibLaTeX</a>
+<span class="author">Yuan Niu and Hao Chen</span>
+<span class="booktitle">3rd International Conference on Security and Privacy in Mobile Information and Communication Systems (MobiSec)</span>, Aalborg, Denmark, May 17-19, 2011.
+    </p>
+<p class="bib">
+<a id="Cai:2011:GoodNeighbor"></a>
+<span class="title">Good neighbor: secure pairing of nearby wireless devices by
+	multiple antennas</span>
+<a class="paperformat" href="ndss2011.pdf">PDF</a>
+<a class="paperformat" href="ndss2011-abs.txt">Abstract</a>
+<a href="ndss2011-slide.pptx">Slides</a>
+<a href="paper.html#Cai:2011:GoodNeighbor">BibLaTeX</a>
+<span class="author">Liang Cai, Kai Zeng, Hao Chen, and Prasant Mohapatra</span>
+<span class="booktitle">18th Annual Network and Distributed System
+	Security Symposium (NDSS), San Diego, CA, February 6-9, 2011. (20%)</span>
+</p>
+<p class="bib">
+<a id="Davis:2010:DBTaint"></a>
+<span class="title">DBTaint: cross-application information flow tracking via databases</span>
+<a class="paperformat" href="webapps2010.pdf">PDF</a>
+<a class="paperformat" href="webapps2010-abs.txt">Abstract</a>
+<a href="webapps2010-slide.ppt">Slides</a>
+<a href="paper.html#Davis:2010:DBTaint">BibLaTeX</a>
+<span class="author">Benjamin Davis and Hao Chen</span>
+<span class="booktitle">USENIX Conference on Web Application</span>, Boston, MA, June 23-24, 2010.
+    </p>
+<p class="bib">
+<a id="Hsu:2009:WebCallerID"></a>
+<span class="title">WebCallerID: leveraging cellular networks for web authentication</span>
+<a class="paperformat" href="jcs2011.pdf">PDF</a>
+<a class="paperformat" href="jcs2011-abs.txt">Abstract</a>
+<a href="paper.html#Hsu:2009:WebCallerID">BibLaTeX</a>
+<span class="author">Francis Hsu, Hao Chen, and Sridhar Machiraju</span>
+<span class="booktitle">Journal of Computer Security, 19(5):869-893, 2011</span>.
+    </p>
+<p class="bib">
+<a id="Liang:2010:CapAuth"></a>
+<span class="title">CapAuth: a capability-based handover scheme</span>
+<a class="paperformat" href="infocom2010.pdf">PDF</a>
+<a class="paperformat" href="infocom2010-abs.txt">Abstract</a>
+<a href="paper.html#Liang:2010:CapAuth">BibLaTeX</a>
+<span class="author">Liang Cai, Sridhar Machiraju, and Hao Chen</span>
+<span class="booktitle">IEEE INFOCOM 2010: The 27th Conference on Computer Communications</span>, San Diego, CA, March 15-19, 2010.
+    </p>
+<p class="bib">
+<a id="Racic:2009:PF"></a>
+<span class="title">Exploiting and defending opportunistic scheduling in cellular data networks</span>
+<a class="paperformat" href="tmc2010.pdf">PDF</a>
+<a class="paperformat" href="tmc2010-abs.txt">Abstract</a>
+<a href="paper.html#Racic:2009:PF">BibLaTeX</a>
+<span class="author">Radmilo Racic, Denys Ma, Hao Chen, and Xin Liu</span>
+<span class="booktitle">IEEE Transactions on Mobile Computing</span>, 9:609-620, 2010.
+    </p>
+<p class="bib">
+<a id="Hsu:2009:WebFS"></a>
+<span class="title">Secure file system services for web 2.0 applications</span>
+<a class="paperformat" href="ccsw2009.pdf">PDF</a> <a class="paperformat" href="ccsw2009-abs.txt">Abstract</a><!--Slides(<a href="-slide.">OpenOffice</a>
+															<a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Hsu:2009:WebFS">BibLaTeX</a>
+<span class="author">Francis Hsu and Hao Chen</span>
+<span class="booktitle">Proceedings of the The ACM Cloud Computing Security Workshop (CCSW)</span>, Chicago, IL, November 13, 2009. (37%)
+    </p>
+<p class="bib">
+<a id="Goldberg:2009:mpOTR"></a>
+<span class="title">Multi-party off-the-record messaging</span>
+<a class="paperformat" href="ccs2009.pdf">PDF</a> <a class="paperformat" href="ccs2009-abs.txt">Abstract</a><!-- Slides(<a href="-slide.">OpenOffice</a>
+														       <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Goldberg:2009:mpOTR">BibLaTeX</a>
+<span class="author">Ian Goldberg, Berkant Ustaoglu, Matthew Van Gundy, and Hao Chen</span>
+<span class="booktitle">Proceedings of the 16th ACM Conference on Computer and Communications Security (CCS)</span>, Chicago, IL, November 9-13, 2009. (18%)
+    </p>
+<p class="bib">
+<a id="Liang:2009:Paging"></a>
+<span class="title">Mitigating DoS attacks on the paging channel by efficient encoding in page messages</span>
+<a class="paperformat" href="securecomm2009.pdf">PDF</a> <a class="paperformat" href="securecomm2009-abs.txt">Abstract</a><!-- Slides(<a href="-slide.">OpenOffice</a>
+																     <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Liang:2009:Paging">BibLaTeX</a>
+<span class="author">Liang Cai, Gabriel Maganis, Hui Zang, and Hao Chen</span>
+<span class="booktitle">Proceedings of the 5th International Conference on
+	Security and Privacy in Communication Networks (SecureComm)</span>, Athens, Greece, September 14-18, 2009. (26%)
+    </p>
+<p class="bib">
+<a id="Ye:2009:Search"></a>
+<span class="title">Noise injection for search privacy protection</span>
+<a class="paperformat" href="passat2009.pdf">PDF</a> <a class="paperformat" href="passat2009-abs.txt">Abstract</a><!--Slides(<a href="-slide.">OpenOffice</a>
+															    <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Ye:2009:Search">BibLaTeX</a>
+<span class="author">Shaozhi Ye, Felix Wu, Raju Pandey, and Hao Chen</span>
+<span class="booktitle">Proceedings of the 2009 IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT)</span>, Vancouver, Canada, August 29-31, 2009. (13%)
+    </p>
+<p class="bib">
+<a id="Liang:2009:Sensor"></a>
+<span class="title">Defending against sensor-sniffing attacks on mobile phones</span>
+<a class="paperformat" href="mobiheld2009.pdf">PDF</a> <a class="paperformat" href="mobiheld2009-abs.txt">Abstract</a><!--Slides(<a href="-slide.">OpenOffice</a>
+																<a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Liang:2009:Sensor">BibLaTeX</a>
+<span class="author">Liang Cai, Sridhar Machiraju, and Hao Chen</span>
+<span class="booktitle">The First ACM SIGCOMM Workshop on Networking, Systems, Applications on Mobile Handhelds (MobiHeld)</span>, Barcelona, Spain, August 17, 2009.
+    </p>
+<p class="bib">
+<a id="Becker:2009:SocialNetworks"></a>
+<span class="title">Measuring privacy risk in online social networks</span>
+<a class="paperformat" href="w2sp2009.pdf">PDF</a> <a class="paperformat" href="w2sp2009-abs.txt">Abstract</a><!--Slides(<a href="-slide.">OpenOffice</a>
+															<a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Becker:2009:SocialNetworks">BibLaTeX</a>
+<span class="author">Justin Becker and Hao Chen</span>
+<span class="booktitle">Web 2.0 Security and Privacy (W2SP)</span>, Oakland, CA, May 21, 2009.  (36%)
+    </p>
+<p class="bib">
+<a id="VanGundy:2009:Noncespaces"></a>
+<span class="title">Noncespaces: using randomization to enforce information flow tracking and thwart cross-site scripting attacks</span>
+<a class="paperformat" href="ndss2009.pdf">PDF</a>
+<a class="paperformat" href="ndss2009-abs.txt">Abstract</a>
+<a href="ndss2009-slide.pdf">Slide</a>
+<a href="paper.html#VanGundy:2009:Noncespaces">BibLaTeX</a>
+<span class="author">Matthew Van Gundy and Hao Chen</span>
+<span class="booktitle">Proceedings of the 16th Annual Network and Distributed System Security Symposium (NDSS)</span>, San Diego, CA, February 8-11, 2009.  (12%)
+    </p>
+<p class="bib">
+<a id="Misherghi:2008:Firewall"></a>
+<span class="title">A general framework for benchmarking firewall optimization techniques</span>
+<a class="paperformat" href="tnsm2008.pdf">PDF</a> <a class="paperformat" href="tnms2008-abs.txt">Abstract</a>
+<a href="paper.html#Misherghi:2008:Firewall">BibLaTeX</a>
+<span class="author">G Misherghi,  Lihua Yuan, Zhendong Su, Chen-Nee Chuah, Hao Chen</span>
+<span class="booktitle">IEEE Transactions on Network and Service Management</span>, 5(4):227-238, December 2008.</p>
+<p class="bib">
+<a id="Crites:2008:OMash"></a>
+<span class="title">OMash: enabling secure web mashups via object abstraction</span>
+<a class="paperformat" href="ccs2008.pdf">PDF</a>
+<a class="paperformat" href="ccs2008-abs.txt">Abstract</a>
+      Slides (<a href="ccs2008-slide.pptx">PPTX</a> <a href="ccs2008-slide.pdf">PDF</a>)
+      <a href="paper.html#Crites:2008:OMash">BibLaTeX</a>
+<span class="author">Steven Crites, Francis Hsu, and Hao Chen</span>
+<span class="booktitle">Proceedings of the 15th ACM Conference on
+	Computer and Communications Security (CCS)</span>, Alexandria, VA,
+      October 27-31, 2008.  (18%) 
+    </p>
+<p class="bib">
+<a id="Niu:2008:iPhish"></a>
+<span class="title">iPhish: phishing vulnerabilities on consumer electronics</span>
+<a class="paperformat" href="upsec2008.pdf">PDF</a> <a class="paperformat" href="upsec2008-abs.txt">Abstract</a><!-- Slides(<a href="-slide.">OpenOffice</a>
+															   <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Niu:2008:iPhish">BibLaTeX</a>
+<span class="author">Yuan Niu, Francis Hsu and Hao Chen</span>
+<span class="booktitle">Proceedings of Usability, Psychology, and
+	Security 2008</span>, San Francisco, CA, April, 2008. 
+    </p>
+<p class="bib">
+<a id="Machiraju:2008:Authentication"></a>
+<span class="title">Distributed authentication for low-cost wireless networks</span>
+<a class="paperformat" href="hotmobile2008.pdf">PDF</a> <a class="paperformat" href="hotmobile2008-abs.txt">Abstract</a><!-- Slides(<a href="-slide.">OpenOffice</a>
+																   <a href="-slide.pdf">PDF</a>)-->
+<a href="paper.html#Machiraju:2008:Authentication">BibLaTeX</a>
+<span class="author">Sridhar Machiraju, Hao Chen, and Jean Bolot</span>
+<span class="booktitle">Proceedings of the Ninth Workshop on Mobile
+	Computing Systems and Applications (ACM HotMobile)</span>, Napa
+      Valley, CA, February 25-26, 2008. (23%)
+    </p>
+<p class="bib">
+<a id="Racic:2008:PF"></a>
+<span class="title">Exploiting opportunistic scheduling in cellular data networks</span>
+<a class="paperformat" href="ndss2008.pdf">PDF</a>
+<a class="paperformat" href="ndss2008-abs.txt">Abstract</a>
+<a href="ndss2008-slide.ppt">Slides</a>
+<a href="paper.html#Racic:2008:PF">BibLaTeX</a>
+<span class="author">Radmilo Racic, Denys Ma, Hao Chen, and Xin Liu</span>
+<span class="booktitle">Proceedings of the 15th Annual Network and
+	Distributed System Security Symposium (NDSS 2008)</span>, San Diego,
+      CA, February 10-13, 2008. (18%)
+    </p>
+<p class="bib">
+<a id="VanGundy:2007:FO"></a>
+<span class="title">Feature omission vulnerabilities: thwarting signature generation for polymorphic worms</span>
+<a class="paperformat" href="acsac2007.pdf">PDF</a>
+<a class="paperformat" href="acsac2007-abs.txt">Abstract</a>
+<a href="paper.html#VanGundy:2007:FO">BibLaTeX</a>
+<span class="author">Matthew Van Gundy, Hao Chen,
+	Zhendong Su, and Giovanni Vigna</span>
+<span class="booktitle">Proceedings of the 23rd Annual Computer
+	Security Applications Conference (ACSAC 2007)</span>, Miami Beach, FL,
+      December 10-14, 2007. (22%)
+    </p>
+<p class="bib">
+<a id="Wang:2007:spam"></a>
+<span class="title">Spam double-funnel: connecting web spammers with advertisers</span>
+<a class="paperformat" href="www2007.pdf">PDF</a>
+<a class="paperformat" href="www2007-abs.txt">Abstract</a>
+<a href="paper.html#Wang:2007:spam">BibLaTeX</a>
+<span class="author">Yi-Min Wang, Ming Ma, Yuan Niu, and Hao Chen</span>
+<span class="booktitle">Proceedings of the 16th
+	International World Wide Web Conference (WWW2007)</span>, Banff,
+      Canada, May 8-12, 2007. (15%)
+    </p>
+<p class="bib">
+<a id="Niu:2007:spam"></a>
+<span class="title">A quantitative study of forum spamming using context-based analysis</span>
+<a class="paperformat" href="ndss2007.pdf">PDF</a>
+<a class="paperformat" href="ndss2007-abs.txt">Abstract</a>
+<a href="ndss2007-slide.ppt">Slides</a>
+<a href="paper.html#Niu:2007:spam">BibLaTeX</a>
+<span class="author">Yuan Niu, Yi-Min Wang, Hao Chen, Ming Ma, and Francis Hsu</span>
+<span class="booktitle">Proceedings of the 14th Annual Network and Distributed System Security Symposium (NDSS)</span>, pages 79-92, San Diego, CA,
+      February, 2007. (15%)
+    </p>
+<p class="bib">
+<a id="Hsu:2006:BTTF"></a><span class="title">Back to the future: a framework for automatic malware removal and system repair</span>
+<a class="paperformat" href="acsac2006.pdf">PDF</a>
+<a class="paperformat" href="acsac2006.ps">PS</a>
+<a class="paperformat" href="acsac2006-abs.txt">Abstract</a>
+<a href="paper.html#Hsu:2006:BTTF">BibLaTeX</a>
+<span class="author">Francis Hsu, Hao Chen, Thomas Ristenpart, Jason
+	Li, and Zhendong Su</span>
+<span class="booktitle">Proceedings of 2006 Annual
+	Computer Security Applications Conference (ACSAC 22), 
+	Miami Beach, FL, December, 2006</span> (30%)
+    </p>
+<p class="bib">
+<span class="title">Exploiting MMS vulnerabilities to stealthily exhaust mobile phone's battery</span>
+<a class="paperformat" href="securecomm2006.pdf">PDF</a>
+<a class="paperformat" href="securecomm2006.ps">PS</a>
+<a class="paperformat" href="securecomm2006-abs.txt">Abstract</a>
+<a href="securecomm2006-slide.ppt">Slides</a>
+<a id="Racic:2006:MMS"></a>
+<a href="paper.html#Racic:2006:MMS">BibLaTeX</a>
+<span class="author">Radmilo Racic, Denys Ma, and Hao Chen</span>
+<span class="booktitle">Proceedings of the Second IEEE
+	Communications Society / CreateNet International Conference on Security
+	and Privacy in Communication Networks (SecureComm)</span>, Baltimore,
+      MD, August, 2006. (25%)
+    </p>
+<p class="bib">
+<a id="Yuan:2006:FIREMAN"></a>
+<span class="title">FIREMAN: a toolkit for FIREwall modeling and aNalysis</span>
+<a class="paperformat" href="ieeesp2006.pdf">PDF</a>
+<a class="paperformat" href="ieeesp2006-abs.txt">Abstract</a>
+<a href="paper.html#Yuan:2006:FIREMAN">BibLaTeX</a>
+<span class="author">Lihua Yuan, Jianning Mai, Zhendong Su, Hao Chen,
+	Chen-Nee Chuah, and Prasant Mohapatra</span>
+<span class="booktitle">Proceedings of 2006 IEEE Symposium on
+	Security and Privacy</span>, Oakland, CA, May, 2006.  (13%)
+    </p>
+<p class="bib">
+<a id="Schwarz:2005:Linux"></a>
+<span class="title">Model checking an entire linux distribution for security violations</span>
+<a class="paperformat" href="acsac2005.pdf">PDF</a>
+<a class="paperformat" href="acsac2005.ps">PS</a>
+<a class="paperformat" href="acsac2005-abs.txt">Abstract</a>
+<a href="acsac2005.ppt">Slides</a>
+<a href="paper.html#Schwarz:2005:Linux">BibLaTeX</a>
+<span class="author">Benjamin Schwarz, Hao Chen, David Wagner, Geoff
+	Morrison, Jacob West, Jeremy Lin, and Wei Tu</span>
+<span class="booktitle">Proceedings of 21st Annual Computer
+	Security Applications Conference (ACSAC)</span>,  Tucson, AZ, 
+      December, 2005. (23%)
+    </p>
+<p class="bib">
+<a id="Chen:2004:EROS"></a>
+<span class="title">Using build-integrated static checking to preserve correctness	invariants</span>
+<a class="paperformat" href="ccs2004.pdf">PDF</a>
+<a class="paperformat" href="ccs2004.ps">PS</a>
+<a class="paperformat" href="ccs2004-abs.txt">Abstract</a>
+      Slides(<a href="ccs2004-slide.sxi">OpenOffice</a><a href="ccs2004-slide.pdf">PDF</a>)
+      <a href="paper.html#Chen:2004:EROS">BibLaTeX</a>
+<span class="author">Hao Chen and Jonathan Shapiro</span>
+<span class="booktitle">Proceedings of the 11th ACM Conference on
+	Computer and Communications Security (CCS)</span>, pages 288-297, Washington,
+      DC, October 2004. (14%)
+    </p>
+<p class="bib">
+<a id="Chen:2004:million"></a>
+<span class="title">Model checking one million lines of C
+	code</span>
+<a class="paperformat" href="ndss2004.pdf">PDF</a>
+<a class="paperformat" href="ndss2004.ps">PS</a>
+<a class="paperformat" href="ndss2004-abs.txt">Abstract</a>
+<a class="paperformat" href="ndss2004.ppt">Slides(PPT)</a>
+<a href="paper.html#Chen:2004:million">BibLaTeX</a>
+<span class="author">Hao Chen, Drew Dean, and David Wagner</span>
+<span class="booktitle">Proceedings of the 11th Annual Network and Distributed System
+	Security Symposium (NDSS)</span>, pages 171--185, San Diego, CA, February 2004.
+    </p>
+<p class="bib">
+<a id="Chen:2002:setuid"></a>
+<span class="title">Setuid demystified</span>
+<a class="paperformat" href="usenix2002.pdf">PDF</a>
+<a class="paperformat" href="usenix2002.ps">PS</a>
+<a class="paperformat" href="usenix2002-abs.txt">Abstract</a>
+<a class="paperformat" href="usenix2002.ppt">Slides(PPT)</a>
+<a href="paper.html#Chen:2002:setuid">BibLaTeX</a>
+<span class="author">Hao Chen, David Wagner, and Drew Dean</span>
+<span class="booktitle">Proceedings of the 11th USENIX Security Symposium</span>, pages
+      171--190, San Francisco, CA, August 2002.
+    </p>
+<p class="bib">
+<a id="Chen:2002:MOPS"></a>
+<span class="title">MOPS: an infrastructure for examining security properties of software</span>
+<a class="paperformat" href="ccs2002.pdf">PDF</a>
+<a class="paperformat" href="ccs2002.ps">PS</a>
+<a class="paperformat" href="ccs2002-abs.txt">Abstract</a>
+<a href="paper.html#Chen:2002:MOPS">BibLaTeX</a>
+<span class="author">Hao Chen and David Wagner</span>
+<span class="booktitle">Proceedings of the 9th ACM Conference on Computer and Communications Security (CCS)</span>, pages 235--244, Washington, DC, November 2002.
+    </p>
+<p class="bib">
+<a id="Chen:2001:swish"></a>
+<span class="title">Optimizing search by showing results in context</span>
+<a class="paperformat" href="chi2001.pdf">PDF</a>
+<a class="paperformat" href="chi2001.ps">PS</a>
+<a class="paperformat" href="chi2001-abs.txt">Abstract</a>
+<a href="paper.html#Chen:2001:swish">BibLaTeX</a>
+<span class="author">Susan Dumais, Edward Cutrell, and Hao Chen</span>
+<span class="booktitle"> Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</span>, pages 277--284, Seattle, WA, April 2001.
+    </p>
+<p class="bib">
+<a id="Chen:2000:swish"></a>
+<span class="title">Bringing order to the web: automatically categorizing search results</span>
+<a class="paperformat" href="chi2000.pdf">PDF</a>
+<a class="paperformat" href="chi2000.ps">PS</a>
+<a class="paperformat" href="chi2000.doc">Word</a>
+<a class="paperformat" href="chi2000-abs.txt">Abstract</a>
+<a class="paperformat" href="chi2000.ppt">Slides(PPT)</a>
+<a href="paper.html#Chen:2000:swish">BibLaTeX</a>
+<span class="author">Hao Chen and Susan Dumais</span>
+<span class="booktitle">Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</span>, pages 145--152, The Hague, The Netherlands, April 2000.
+    </p>
+<p class="bib">
+<a id="Chen:2000:swishcat"></a>
+<span class="title">Hierarchical classification of web content</span>
+<a class="paperformat" href="sigir2000.pdf">PDF</a>
+<a class="paperformat" href="sigir2000.ps">PS</a>
+<a class="paperformat" href="sigir2000-abs.txt">Abstract</a>
+<a href="paper.html#Chen:2000:swishcat">BibLaTeX</a>
+<span class="author">Susan Dumais and Hao Chen</span>
+<span class="booktitle">Proceedings of the 23rd ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</span>, pages 256--263, Athens, Greece, July 2000.
+    </p>
+<p class="bib">
+<a id="Chen:2000:swishcat2"></a>
+<span class="title">Classified displays of web search results</span>
+<a href="paper.html#Chen:2000:swishcat2">BibLaTeX</a>
+<span class="author">Susan Dumais, Edward Cutrell, and Hao Chen</span>
+<span class="booktitle">11th ASIS&amp;T SIG/CR Classification Research Workshop</span>, pages 87--90, November 2000.
+    </p>
+<p class="bib">
+<a id="Chen:2000:textcat"></a>
+<span class="title">Evaluation of decision forests on text categorization</span>
+<a class="paperformat" href="spie2000.pdf">PDF</a>
+<a class="paperformat" href="spie2000.ps">PS</a>
+<a class="paperformat" href="spie2000-abs.txt">Abstract</a>
+<a class="paperformat" href="spie2000.ppt">Slides(PPT)</a>
+<a href="paper.html#Chen:2000:textcat">BibLaTeX</a>
+<span class="author">Hao Chen and Tin K. Ho</span>
+<span class="booktitle">Proceedings of the SPIE Conference on Document Recognition and Retrieval VII</span>, volume 3967, pages 191--199, San Jose, CA, January 2000.
+    </p>
+<p class="bib">
+<a id="Chen:1999:emu"></a>
+<span class="title">Integrating geometrical and linguistic analysis for e-mail signature block parsing</span>
+<a class="paperformat" href="tois1997.pdf">PDF</a>
+<a class="paperformat" href="tois1997.ps">PS</a>
+<a class="paperformat" href="tois1997-abs.txt">Abstract</a>
+<a href="paper.html#Chen:1999:emu">BibLaTeX</a>
+<span class="author">Hao Chen, Jianying Hu, and Richard Sproat</span>
+<span class="booktitle">ACM Transactions on Information Systems</span>, 17(4):343--366, October 1999.
+    </p>
+<p class="bib">
+<a id="Sproat:1998:emu"></a>
+<span class="title">Emu: an e-mail preprocessor for text-to-speech</span>
+<a class="paperformat" href="mmsp1998.pdf">PDF</a>
+<a class="paperformat" href="mmsp1998.ps">PS</a>
+<a class="paperformat" href="mmsp1998-abs.txt">Abstract</a>
+<a href="paper.html#Sproat:1998:emu">BibLaTeX</a>
+<span class="author">Richard Sproat, Jianying Hu, and Hao Chen</span>
+<span class="booktitle">1998 Workshop on Multimedia Signal Processing</span>, pages 239--244, Redondo Beach, CA, December 1998. IEEE Signal Processing Society.
+    </p>
+<p class="bib">
+<a id="Chen:1998:emu"></a>
+<span class="title">E-mail signature block analysis</span>
+<a class="paperformat" href="icpr1998.pdf">PDF</a>
+<a class="paperformat" href="icpr1998.ps">PS</a>
+<a class="paperformat" href="icpr1998-abs.txt">Abstract</a>
+<a href="paper.html#Chen:1998:emu">BibLaTeX</a>
+<span class="author">Hao Chen, Jianying Hu, and Richard Sproat</span>
+<span class="booktitle">Proceedings of the 14th International Conference on Pattern Recognition (ICPR)</span>, pages 1153--1156, Brisbane, Australia, August 1998.
+    </p>
+<p class="bib">
+<a id="Chen:1997:handwriting"></a>
+<span class="title">Piecewise linear modulation model of handwriting</span>
+<a class="paperformat" href="icdar1997.pdf">PDF</a>
+<a class="paperformat" href="icdar1997.ps">PS</a>
+<a class="paperformat" href="icdar1997-abs.txt">Abstract</a>
+<a href="paper.html#Chen:1997:handwriting">BibLaTeX</a>
+<span class="author">Hao Chen, Oscar E. Agazzi, and Ching Y. Suen</span>
+<span class="booktitle">Proceedings of the 4th International Conference on Document Analysis and Recognition (ICDAR)</span>, pages 363--367, Ulm, Germany, August 1997.
+    </p>
+<footer>
+<hr style="clear: both;"/>
+<div style="float:left">
+<address>
+	  Hao Chen &lt;<code>chen</code> AT <code>ucdavis.edu</code>&gt;
+	</address>
+	Last modified: 2018-11-01
+      </div>
+<div style="float:right">
+<a href="http://validator.w3.org/check?uri=referer">
+<img alt="Valid HTML 5!" src="/~hchen/image/html5-40.png"/>
+</a>
+</div>
+</footer>
+</body>

@@ -1,0 +1,187 @@
+https://www.cs.purdue.edu/homes/ninghui/
+<body>
+<a href="/images/ninghui.jpg" style="float: left;display: block;margin: 0 10px 0 0;"><img src="/images/ninghui.jpg"/></a>
+<div>
+<h1>Ninghui Li</h1>
+<h2>Professor/Computer Science</h2>
+<h2><a href="mailto:ninghui@cs.purdue.edu">ninghui@cs.purdue.edu</a></h2>
+<img alt="Name in Chinese" height="49" src="/homes/ninghui/images/name.jpg" width="148"/>
+</div>
+<br style="clear: both;"/>
+<hr/>
+<p><a href="/people/faculty/ninghui">Biographical Information</a></p>
+<strong>Address</strong>
+<pre style="margin: 0 0 1em 2em;padding-top: 0;">
+Purdue University
+Department of Computer Sciences
+305 N. University Street
+West Lafayette, Indiana, 47907-2107
+Office Phone: +1 765-496-6756
+FAX:          +1 765-494-0739
+	</pre>
+<h3><a name="Family">My Family</a></h3>
+<table>
+<tr>
+<td><img alt="Family" height="173" src="/homes/ninghui/images/2015_all.jpg" width="260"/>
+</td>
+<td><img alt="Dad and boys" height="173" src="/homes/ninghui/images/2015_dadboys.jpg" width="260"/>
+</td>
+<td><img alt="Brothers" height="173" src="/homes/ninghui/images/2015_brothers.jpg" width="159"/>
+</td>
+<td><img alt="Mom and boys" height="173" src="/homes/ninghui/images/2015_momboys.jpg" width="260"/>
+</td>
+</tr>
+</table>
+<!--
+	<table>
+	<tr>
+	<td><img src="/homes/ninghui/images/Roland201305b.JPG" width="180" height="270" alt="Dad and Roland" />
+	</td>
+	<td>
+		<table>
+		<tr>
+		<td><img src="/homes/ninghui/images/Patrick201305.JPG" width="198" height="132" alt="Patrick" />
+		</td>
+		</tr>
+		<tr>
+		<td><img src="/homes/ninghui/images/Roland201305.JPG" width="198" height="132" alt="Roland" />
+		</td>
+		</tr>
+		</table>
+	</td>
+
+	<td><img src="/homes/ninghui/images/Brothers201305c.JPG" width="180" height="270" alt="Patrick and Roland" />
+	</td>
+	<td><img src="/homes/ninghui/images/Brothers201305.JPG" width="180" height="270" alt="Patrick and Roland" />
+	</td>
+	
+	<td>
+		<table >
+		<tr>
+		<td><img src="/homes/ninghui/images/Brother201305b.JPG" width="198" height="132" alt="Patrick and Roland" />
+		</td>
+		</tr>
+		<tr>
+		<td><img src="/homes/ninghui/images/Brother201305d.JPG" width="198" height="132" alt="Patrick and Roland" />
+		</td>
+		</tr>
+		</table>
+	</td>
+
+	
+	<td><img src="/homes/ninghui/images/MomAndSons201305.JPG" width="180" height="270" alt="Mom and Sons" />
+	</td>
+	</tr>
+	</table>
+-->
+<h3><a name="Teaching">Teaching</a></h3>
+<ul class="teaching">
+<li> <a href="courses/cp_resources.html">Resources for Competitive Programming</a></li>
+<li> <b>CS 529: Security Analytics (Graudate) </b>
+<a href="/homes/ninghui/courses/Fall18/index.html">Fall 2018</a>,   
+            <a href="/homes/ninghui/courses/Fall17/index.html">Fall 2017</a>
+</li>
+<li> <b>CS 590: Data Security and Privacy (Graudate) </b>
+<a href="/homes/ninghui/courses/Spring18/index.html">Spring 2018</a>
+</li>
+<li>
+<b>CS 526: Information Security (Graduate)</b>: 
+            <a href="/homes/ninghui/courses/526_Fall15/index.html">Fall 2015</a>,   
+            <a href="/homes/ninghui/courses/526_Fall14/index.html">Fall 2014</a>,   
+            <a href="/homes/ninghui/courses/526_Fall13/index.html">Fall 2013</a>,   
+        Fall 2012,   
+        Spring 2012,   
+        Fall 2011,   
+        Spring 2011,   
+        Spring 2009,   
+        Fall 2008
+	</li>
+<li>
+<b>CS 591RS2: Research Seminar for First Year Grad Students</b>: 
+		 <a href="/homes/ninghui/courses/591RS2_16">Fall 2016</a>
+</li>
+<li>
+<b>CS 252: Systems Programming</b>: 
+           Spring 2017,   Spring 2015,   Spring 2014
+	</li>
+<li>
+<b>CS 555: Cryptography (Graduate)</b>: 
+				<a href="/homes/ninghui/courses/555_Spring12/index.html">Spring 2012</a>,  
+				<a href="/homes/ninghui/courses/Fall04/index.html">Fall 2004</a>,   
+				Spring 2004,   
+		</li>
+<li>
+<b>CS 426: Computer Security (Undergraduate)</b>: 
+			<a href="/homes/ninghui/courses/426_Fall10/index.html">Fall 2010</a>,   
+			Fall 2007,   
+			Fall 2006,   
+		</li>
+<li>
+<b>CS 590U: Access Control: Theory and Practice (Graduate)</b>:
+				<a href="/homes/ninghui/courses/Spring06/index.html">Spring 2006</a>,   
+				<a href="/homes/ninghui/courses/Spring05/index.html">Spring 2005</a>,   
+				Fall 2003,    
+		</li>
+<li>
+<b>CS 590N: Logical Methods in Information Security (Graduate)</b>:
+				<a href="/homes/ninghui/courses/590N_Spring08/index.html">Spring 2008</a>
+</li>
+<li>
+<b>CS 655: Advanced Cryptology (Graduate) </b>: 
+				<a href="/homes/ninghui/courses/655_Spring07/index.html">Spring 2007</a>
+</li>
+<li>
+<b>CS 355: Cryptography (Undergraduate)</b>:
+				<a href="/homes/ninghui/courses/Fall05/index.html">Fall 2005</a>
+</li>
+<li>
+<b>CS 591C: Research Seminar for Beginning Graduate Students</b>:
+				<a href="/homes/ninghui/courses/CS591C_Spring2006.html">Spring 2006</a>
+</li>
+<li><b><a href="/homes/ninghui/SecurityReadings.html">A reading list in security</a></b></li>
+</ul>
+<!--	
+	<h3>Research</h3>
+	<li><strong><a href="http://www.cs.purdue.edu/truselab/">The TruSe Lab</a></strong></li> 
+		<ul>
+	  	<li><a href="projects/osac.html">Operating System Access Control</a></li>
+		</ul>
+	<ul class="research">
+	<li><strong><a href="/homes/ninghui/pubs.html">Publications</a></strong></li>
+	</ul>
+-->
+<h3>Current PostDoc</h3>
+<ul>
+<li><a href="https://relentless-warrior.github.io/">Syed Rafiul Hussain</a> (co-supervised with Prof. Elisa Bertino)</li>
+</ul>
+<h3>Current Students</h3>
+<ul>
+<li><a href="https://www.cs.purdue.edu/homes/schau/"> Sze Yiu Chau </a>(co-advised with Prof. Aniket Kate)</li>
+<li><a href="https://www.cs.purdue.edu/people/graduate-students/geh/"> Huangyi Ge</a></li>
+<li><a href="http://tianhao.wang/">Tianhao Wang</a></li>
+<li><a href="https://www.cs.purdue.edu/people/graduate-students/zhan1015/">Wuwei Zhang</a></li>
+<li><a href="https://www.cs.purdue.edu//people/graduate-students/li2490/">Zitao Li</a></li>
+<li>Jiacheng Li</li>
+</ul>
+<h3><a href="/homes/ninghui/forStudents.html">Information for Prospective Graduate Students</a></h3>
+<h3>Former PostDocs</h3>
+<ul>
+<li><a href="https://www.cs.uiowa.edu/people/omar-chowdhury">Omar Chowdhury (PostDoc September 2014 to August 2016), joined University of Iowa)</a></li>
+<li>Zenglin Xu (PostDoc September 2013 to August 2014, joined University of Electronic Science and Technology of China)</li>
+<li><a href="http://people.cis.ksu.edu/~xou/">Xinming Ou</a> (PostDoc September 2005 to May 2006, joined Kansas State University)</li>
+</ul>
+<h3>PhD Graduates</h3>
+<ul>
+<li><a href="http://ece.uwaterloo.ca/People/faculty/tripunitara.html">Mahesh V. Tripunitara</a>  
+                   (Ph.D.  Dec 2005, now with University of Waterloo)</li>
+<li>Jiangtao Li (Ph.D. May 2006, co-advised with Professor Mike Atallah, joined Intel)</li>
+<li>Ji-Won Byun (Ph.D. May 2007, co-advise with <a href="http://www.cs.purdue.edu/people/bertino">Prof. Elisa Bertino</a>), joined Oracle</li>
+<li>Qihua Wang (Ph.D. August 2009, joined IBM Almaden) </li>
+<li>Hong Chen (Ph.D. December 2009, joined Knight Equity Markets)</li>
+<li>Ziqing Mao (Ph.D. December 2009, joined Facebook, Inc.)</li>
+<li>Tiancheng Li (Ph.D. August 2010, joined Google, Inc.)</li>
+<li><a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-molloyim">Ian Molloy</a> (Ph.D. August 2010, joined IBM T.J.Watson Research Center)</li>
+<li>Wahbeh Qardaji (Ph.D. May 2013, joined Google, Inc.)</li>
+<li>Christopher S. Gates (Ph.D. August 2014, joined Symantec)</li>
+<li>Weining Yang (Ph.D. August 2016, joined Google Inc.)</li>
+<li>Dong Su (Ph.D. December 2016), joined IBM T.J.Watson Research Center</li></ul></body>

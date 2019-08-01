@@ -1,0 +1,428 @@
+https://web.cse.ohio-state.edu/~lin.3021/publication.html
+<body>
+<div class="header" id="header">
+<h1>$Id: pub.t2t, v1.0, last updated Thu Jun 13 10:53:43 2019 Exp $</h1>
+</div>
+<div class="toc">
+<ul>
+<li><a href="#toc1">Publications</a>
+</li></ul>
+</div>
+<div class="body" id="body">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1989404-3";
+urchinTracker();
+</script>
+<p>
+Note: these publication materials are presented to ensure a timely dissemination of scholarly and technical work. 
+Copyright and all rights therein are retained by authors or by other copyright holders. All persons 
+copying this information are expected to adhere to the terms and constraints invoked by each paper's 
+copyright (e.g., ACM/IEEE/USENIX/ISOC Copyright Policy). 
+</p>
+<hr noshade="" size="1"/>
+<a name="toc1"></a>
+<h3>Publications</h3>
+<table border="1">
+<tr>
+<th>Venue</th>
+<th>Paper Details</th>
+</tr>
+<tr>
+<th colspan="2">2019</th>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries". Wubing Wang, Yinqian Zhang, and Zhiqiang Lin. In <i>Proceedings of the 22nd International Symposium on Research in Attacks, Intrusions and Defenses</i>, September 2019. <a href="file/RAID19.pdf">[PDF</a>]<a href="file/RAID19-slides.pdf">[Slides</a>]<a href="bib/raid19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends", Omar Alrawi*, Chaoshun Zuo*, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio. (*authors contributed equally)  In <i>Proceedings of the 2019 USENIX Security Symposium</i>, Santa Clara. August 2019. <a href="file/SEC19a.pdf">[PDF</a>]<a href="bib/sec19a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"CONFIRM: Evaluating Compatibility and Relevance of Control-flow Integrity Protections for Modern Software", Xiaoyang Xu, Masoud Ghaffarinia, Wenhao Wang, Kevin W. Hamlen, and Zhiqiang Lin.  In <i>Proceedings of the 2019 USENIX Security Symposium</i>, Santa Clara. August 2019. <a href="file/SEC19b.pdf">[PDF</a>]<a href="bib/sec19b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"Exploiting Unprotected I/O Operations in AMD's Secure Encrypted Virtualization", Mengyuan Li, Yinqian Zhang, Zhiqiang Lin, Yan Solihin. In <i>Proceedings of the 2019 USENIX Security Symposium</i>, Santa Clara. August 2019. <a href="file/SEC19c.pdf">[PDF</a>]<a href="bib/sec19c.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ASIACCS</b></td>
+<td>"Running Language Interpreters Inside SGX: A Lightweight Legacy-Compatible Script Code Hardening Approach". Huibo Wang, Erick Bauman, Vishal Karande, Zhiqiang Lin, Yueqiang Cheng, Yinqian Zhang. In <i>Proceedings of the 14th ACM Asia Conference on Computer and Communications Security</i> (short paper), July 2019. <a href="file/ASIACCS19.pdf">[PDF</a>]<a href="file/ASIACCS19.pdf">[Slides</a>]<a href="bib/asiaccs19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>DSN</b></td>
+<td>"Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users". Jiongyi Chen, Chaoshun Zuo, Wenrui Diao, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, Yinqian Zhang, and Kehuan Zhang. In <i>Proceedings of the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks</i>. June 2019  <a href="file/DSN19.pdf">[PDF</a>]<a href="bib/dsn19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>EUROS&amp;P</b></td>
+<td>"Stealing Intel Secrets from SGX Enclaves via Speculative Execution". Guoxing Chen, Sanchuan Chen, Yuan Xiao, Yinqian Zhang, Zhiqiang Lin, and Ten H. Lai. In <i>Proceedings of the 4th IEEE European Symposium on Security and Privacy</i>, June 2019. <a href="file/EUROSP19.pdf">[PDF</a>]<a href="bib/eurosp19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ICSE</b></td>
+<td>"Probabilistic Disassembly". Kenneth Miller, Yonghwi Kwon, Yi Sun, Zhuo Zhang, Xiangyu Zhang, and Zhiqiang Lin. In <i>Proceedings of 41st ACM/IEEE Internatinoal Conference on Software Engineering</i>, May 2019. <a href="file/ICSE19.pdf">[PDF</a>]<a href="bib/icse19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>S&amp;P</b></td>
+<td>"Why Does Your Data Leak? Uncovering the Data Leakage in Cloud From Mobile Apps". Chaoshun Zuo, Zhiqiang Lin, and Yinqian Zhang. To appear In <i>Proceedings of the 40th IEEE Symposium on Security and Privacy</i>, San Fransisco, CA, May 2019. <a href="file/SP19.pdf">[PDF</a>]<a href="file/sp19-Slides.pdf">[Slides</a>]<a href="bib/oakland19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Geo-locating Drivers: A Study of Sensitive Data Leakagein Ride-Hailing Services". Qingchuan Zhao, Chaoshun Zuo, Giancarlo Pellegrino, and Zhiqiang Lin. In <i>Proceedings of the 26th ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2019. <a href="file/NDSS19.pdf">[PDF</a>]<a href="file/NDSS19-slides.pdf">[Slides</a>]<a href="bib/ndss19.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2018</th>
+</tr>
+<tr>
+<td><b>ACSAC</b></td>
+<td>"A Measurement Study of Authentication Rate-Limiting Mechanisms of Modern Websites". Bo Lu, Xiaokuan Zhang, Ziman Ling, Yinqian Zhang, and Zhiqiang Lin. In <i>Proceedings of the 34th Annual Computer Security Applications Conference</i>, December 2018. (60/299=20.1%)  <a href="file/ACSAC18.pdf">[PDF</a>]<a href="bib/acsac18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"K-Hunt: Pinpointing Insecure Cryptographic Keys from Execution Traces". Juanru Li, Zhiqiang Lin. Juan Caballer, Yuanyuan Zhang, Dawu Gu. In <i>Proceedings of the 25th ACM Conference on Computer and Communications Security</i>, Toronto. November 2018. (134/770=17.4%)  <a href="file/CCS18.pdf">[PDF</a>]<a href="file/CCS18-slides.pdf">[Slides</a>]<a href="bib/ccs18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>FEAST</b></td>
+<td>"Towards Interface-Driven COTS Binary Hardening". âXiaoyang Xu, Wenhao Wang, Kevin W. Hamlen, and Zhiqiang Lin. In <i>Proceedings of the  3rd Workshop on Forming an Ecosystem Around Software Transformation</i>, October 2018. <a href="file/FEAST18.pdf">[PDF</a>]<a href="bib/feast18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"{tauCFI}: Type-Assisted Control Flow Integrity for x86-64 Binaries". Paul Muntean, Matthias Fischer, Gang Tan, Zhiqiang Lin, Jens Grossklags ,and Claudia Eckert. In <i>Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses</i>, September 2018. <a href="file/RAID18.pdf">[PDF</a>]<a href="file/RAID18-slides.pdf">[Slides</a>]<a href="bib/raid18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors", Yazhou Tu, Zhiqiang Lin, Insup Lee and Xiali Hei.  In <i>Proceedings of the 2018 USENIX Security Symposium</i>, Baltimore, MD. August 2018. <a href="file/SEC18a.pdf">[PDF</a>]<a href="bib/sec18a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"Guarder: A Tunable Secure Allocator",  Sam Silvestro, Hongyu Liu, Tianyi Liu, Zhiqiang Lin, and Tongping Liu.  In <i>Proceedings of the 2018 USENIX Security Symposium</i>, Baltimore, MD. August 2018. <a href="file/SEC18b.pdf">[PDF</a>]<a href="bib/sec18b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ASIACCS</b></td>
+<td>"BCD: Decomposing Binary Code Into Components Using Graph-Based Clustering". Vishal Karande, Swarup Chandra, Zhiqiang Lin, Juan Caballero, Latifur Khan, and Kevin Hamlen. In <i>Proceedings of the 13th ACM Asia Conference on Computer and Communications Security</i> (short paper), June 2018. <a href="file/ASIACCS18.pdf">[PDF</a>]<a href="file/ASIACCS18.pdf">[Slides</a>]<a href="bib/asiaccs18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CGO</b></td>
+<td>"SGX-Elide: Enabling Enclave Code Secrecy via Self-Modification". Erick Bauman, Huibo Wang, Mingwei Zhang, and Zhiqiang Lin. In <i>Proceedings of International Symposium on Code Generation and Optimization</i>, Vienna, Austria, February 2018. <a href="file/CGO18.pdf">[PDF</a>]<a href="file/CGO18-slides.pdf">[Slides</a>]<a href="bib/cgo18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Superset Disassembly: Statically Rewriting x86 Binaries Without Heuristics". Erick Bauman, Zhiqiang Lin, and Kevin Hamlen. In <i>Proceedings of the 25th ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2018. <a href="file/NDSS18a.pdf">[PDF</a>]<a href="file/NDSS18a-slides.pdf">[Slides</a>]<a href="bib/ndss18a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing". Jiongyi Chen, Wenrui Diao, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, Kehuan Zhang. In <i>Proceedings of the 25th ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2018. <a href="file/NDSS18b.pdf">[PDF</a>]<a href="file/NDSS18b-slides.pdf">[Slides</a>]<a href="bib/ndss18b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>SIGCSE</b></td>
+<td>"Using Virtual Machine Introspection for Kernel Security Education". Manish Bhatt, Irfan Ahmed, and Zhiqiang Lin. In <i>Proceedings of The 49th ACM Technical Symposium on Computer Science Education</i>, Baltimore, MD, February 2018. <a href="file/SIGCSE18.pdf">[PDF</a>]<a href="file/SIGCSE18-slides.pdf">[Slides</a>]<a href="bib/sigcse18.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2017</th>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"AuthScope: Towards Automatic Discovery of Vulnerable Authorizations in Online Services". Chaoshun Zuo, Qingchuan Zhao, and Zhiqiang Lin. In <i>Proceedings of the 24th ACM Conference on Computer and Communications Security</i>, Dallas, Texas. November 2017. (151/843=17.9%)  <a href="file/CCS17a.pdf">[PDF</a>]<a href="file/CCS17a-slides.pdf">[Slides</a>]<a href="bib/ccs17a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"SGX-BigMatrix: A Practical Encrypted Data Analytic Framework With Trusted Processors". Fahad Shaon, Murat Kantarcioglu, Zhiqiang Lin, and Latifur Khan.  In <i>Proceedings of the 24th ACM Conference on Computer and Communications Security</i>, Dallas, Texas. November 2017. (151/843=17.9%)  <a href="file/CCS17b.pdf">[PDF</a>]<a href="file/CCS17b-slides.pdf">[Slides</a>]<a href="bib/ccs17b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"FreeGuard: A Faster Secure Heap Allocator". Sam Silvestro, Hongyu Liu, Corey Crosser, Zhiqiang Lin, and Tongping Liu. In <i>Proceedings of the 24th ACM Conference on Computer and Communications Security</i>, Dallas, Texas. November 2017. (151/843=17.9%)  <a href="file/CCS17c.pdf">[PDF</a>]<a href="file/CCS17c.pptx">[Slides</a>]<a href="bib/ccs17c.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"Thwarting Controlled Side Channel Attacks via Enclave Verifiable Page Faults". Yangchun Fu, Erick Bauman, Raul Quinonez, and Zhiqiang Lin. In <i>Proceedings of the 20th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Atlanta, Georgia. September 2017 (21/106 = 19.8%). <a href="file/RAID17.pdf">[PDF</a>]<a href="file/RAID17-slides.pdf">[Slides</a>]<a href="bib/raid17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ESORICS</b></td>
+<td>"Securing Data Analytics on SGX With Randomization". Swarup Chandra, Vishal Karande, Zhiqiang Lin, Latifur Khan, Murat Kantarcioglu, and Bhavani Thuraisingham. In <i>Proceedings of the 22nd European Symposium on Research in Computer Security</i>, Oslo, Norway. September, 2017. <a href="file/ESORICS17.pdf">[PDF</a>]<a href="bib/esorics17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>APSYS</b></td>
+<td>"Building a Security OS With Software Defined Infrastructure". Guofei Gu, Hongxin Hu, Eric Keller, Zhiqiang Lin, Donald E. Porter. In <i>The 8th ACM SIGOPS Asia-Pacific Workshop on Systems</i>, Mumbai, India. September, 2017. <a href="file/APSYS17.pdf">[PDF</a>]<a href="bib/apsys17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>WWW</b></td>
+<td>"Exposing Server URLs of Mobile Apps With Selective Symbolic Execution". Chaoshun Zuo, and Zhiqiang Lin. In <i>Proceedings of the 26th World Wide Web Conference</i>, Perth, Australia. April 2017. (164/966=17%)  <a href="file/WWW17.pdf">[PDF</a>]<a href="file/www17-Slides.pdf">[Slides</a>]<a href="bib/www17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ASIACCS</b></td>
+<td>"SGX-Log: Securing System Logs With SGX". Vishal Karande, Erick Buaman, Zhiqiang Lin, and Latifur Khan. In <i>Proceedings of the 12th ACM Asia Conference on Computer and Communications Security</i>, Abu Dhabi. April 2017. <a href="file/ASIACCS17.pdf">[PDF</a>]<a href="file/ASIACCS17.pptx">[Slides</a>]<a href="bib/asiaccs17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CODASPY</b></td>
+<td>"PT-CFI: Transparent Backward-Edge Control Flow Violation Detection Using Intel Processor Trace". Yufei Gu, Qingchuan Zhao, Yinqian Zhang, and Zhiqiang Lin. In <i>Proceedings of the 7th ACM Conference on Data and Application Security and Privacy</i>, Scottsdale, Arizona. March 2017. <a href="file/CODASPY17.pdf">[PDF</a>]<a href="file/CODASPY17-slides.pdf">[Slides</a>]<a href="bib/codaspy17.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2016</th>
+</tr>
+<tr>
+<td><b>ACSAC</b></td>
+<td>"Adaptive Encrypted Traffic Fingerprinting With Bi-Directional Dependence". Khaled Al Naami, Swarup Chandra, Ahmad Mustafa, Latifur Khan, Zhiqiang Lin, Kevin Hamlen, and Bhavani Thuraisingham. In <i>Proceedings of the 32nd Annual Computer Security Applications Conference</i>, Los Angelos, CA, December 2016. (48/210=22.8%)  <a href="file/ACSAC16.pdf">[PDF</a>]<a href="bib/acsac16.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>SYSTEX</b></td>
+<td>"A Case for Protecting Computer Games With SGX". Erick Bauman, and Zhiqiang Lin. In <i>Proceedings of the 1st Workshop on System Software for Trusted Execution</i>, Trento, Italy. December 2016. <a href="file/SYSTEX16.pdf">[PDF</a>]<a href="file/SYSTEX16-slides.pdf">[Slides</a>]<a href="bib/systex16.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"Detecting Stack Layout Corruptions with Robust Stack Unwinding". Yangchun Fu, Jungwhan Rhee, Zhiqiang Lin, Zhichun Li, Hui Zhang, Guofei Jiang. In <i>Proceedings of the 19th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Paris, France. September 2016 (21/81 = 25.9%). <a href="file/RAID16b.pdf">[PDF</a>]<a href="bib/raid16b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"Automatic Uncovering of Tap Points From Kernel Executions". Junyuan Zeng, Yangchun Fu, and Zhiqiang Lin. In <i>Proceedings of the 19th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Paris, France. September 2016 (21/81 = 25.9%). <a href="file/RAID16a.pdf">[PDF</a>]<a href="file/RAID16-slides.pdf">[Slides</a>]<a href="bib/raid16a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CSUR</b></td>
+<td>"Type Inference on Executables'', Juan Caballero  and Zhiqiang Lin. to appear in <i>ACM Computing Surveys</i>, 2016. <a href="file/CSUR16.pdf">[PDF</a>]<a href="bib/csur16.bib">Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CODASPY</b></td>
+<td>"Derandomizing Kernel Address Space Layout for Introspection and Forensics". Yufei Gu, and Zhiqiang Lin. To appear in <i>Proceedings of the 6th ACM Conference on Data and Application Security and Privacy</i>, New Orleans, LA, March 2016. <a href="file/CODASPY16.pdf">[PDF</a>]<a href="file/CODASPY16-slides.pdf">[Slides</a>]<a href="bib/codaspy16.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Automatic Forgery of Cryptographically Consistent Messages to Identify Security Vulnerabilities in Mobile Services"(or How to brute-force user's password when given a mobile app). Chaoshun Zuo, Wubing Wang, Rui Wang, and Zhiqiang Lin. To appear in <i>Proceedings of the 23rd ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2016 (60/389 = 15.4%). <a href="file/NDSS16.pdf">[PDF</a>]<a href="file/NDSS16-slides.pdf">[Slides</a>]<a href="bib/ndss16.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2015</th>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"Towards Automatic Inference of Kernel Object Semantics from Binary Code". Junyuan Zeng and Zhiqiang Lin. In <i>Proceedings of the 18th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Kyoto, Japan. November 2015 (28/147 = 19%). <a href="file/RAID15.pdf">[PDF</a>]<a href="file/RAID15-slides.pdf">[Slides</a>]<a href="bib/raid15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ESEC/FSE</b></td>
+<td>"Automatically Deriving Pointer Reference Expressions From Executions For Memory Dump Analysis".  Yangchun Fu, Zhiqiang Lin, and David Brumley.  In <i>Proceedings of the 10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering</i>.  BERGAMO, ITALY, September 2015. <a href="file/FSE15.pdf">[PDF</a>]<a href="bib/fse15.bib">[Bibtex</a>]<a href="file/FSE15-Slides.pdf">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>CSUR</b></td>
+<td>"A Survey on Hypervisor Based Monitoring: Approaches, Applications, and Evolutions'', Erick Bauman,  Gbadebo Ayoade,  and Zhiqiang Lin. to appear in <i>ACM Computing Surveys</i>, August 2015. <a href="file/CSUR15.pdf">[PDF</a>]<a href="bib/csur15.bib">Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ESORICS</b></td>
+<td>"A Practical Approach for Adaptive Data Structure Layout Randomization". Ping Chen, Jun Xu, Zhiqiang Lin, Dongyan Xu, Bing Mao and Peng Liu. In <i>Proceedings of the 20th European Symposium on Research in Computer Security</i>, Vienna, Austria, September, 2015. <a href="file/ESORICS15.pdf">[PDF</a>]<a href="bib/esorics15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps". Jin Chen, Haibo Chen, Erick Bauman, Zhiqiang Lin, Binyu Zang, Haibing Guan. In <i>Proceedings of the 2015 USENIX Security Symposium</i>, Washington DC. August 2015 (67/426 = 15.7%). <a href="file/SEC15.pdf">[PDF</a>]<a href="bib/sec15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>DSN</b></td>
+<td>"Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization". Seung Hun Kim, Lei Xu, Ziyi Liu, Zhiqiang Lin, Won Woo Ro, and Weidong Shi . In <i>Proceedings of the 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks</i>, Rio De Janeiro, Brazil. June 2015  <a href="file/DSN15.pdf">[PDF</a>]<a href="bib/dsn15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ISPEC</b></td>
+<td>"Half a Century of Practice: Who Is Still Storing Plaintext Passwords?'' Erick Bauman, Yafeng Lu, and Zhiqiang Lin. In <i>Proceedings of the 11th International Conference on Information Security Practice and Experience</i>, Beijing, China. May 2015 <a href="file/ISPEC15.pdf">[PDF</a>]<a href="bib/ispec15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>VEE</b></td>
+<td>"PEMU: A Pin Highly Compatible Out-of-VM Dynamic Binary Instrumentation Framework". Junyuan Zeng, Yangchun Fu, and Zhiqiang Lin. In <i>Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments</i>, Istanbul, Turkey, March 2013 <a href="file/VEE15.pdf">[PDF</a>]<a href="file/vee-15.pdf">[Slides</a>]<a href="bib/vee15.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2014</th>
+</tr>
+<tr>
+<td><b>ACSAC</b></td>
+<td>"MACE: High-Coverage and Robust Memory Analysis For Commodity Operating Systems". Qian Feng, Aravind Prakash, Heng Yin, and Zhiqiang Lin. In <i>Proceedings of the 30th Annual Computer Security Applications Conference</i>, New Orleans, Louisiana, December 2014. (19%)  <a href="file/ACSAC14.pdf">[PDF</a>]<a href="bib/acsac14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>TDSC</b></td>
+<td>"On the Trustworthiness of Memory Analysis---An Empirical Study from the Perspective of Binary Execution", Aravind Prakash, Eknath Venkataramani, Heng Yin, and Zhiqiang Lin. <i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i>, October 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6942280">[PDF</a>]<a href="bib/tdsc14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>SECURECOMM</b></td>
+<td>"A Systematic Study of the Covert-Channel Attacks in Smartphones'' (short paper). Swarup Chandra, Zhiqiang Lin, Ashish Kundu and Latifur Khan. To appear in in <i>Proceedings of the 10th International Conference on Security and Privacy in Communication Networks</i>, Beijing, China. September 2014. <a href="file/securecomm14.pdf">[PDF</a>]<a href="bib/securecomm14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ESORICS</b></td>
+<td>"SigPath: A Memory Graph Based Approach for Program Data Introspection and Modification". David Urbina, Yufei Gu, Juan Caballero, and Zhiqiang Lin. To appear in <i>Proceedings of the 19th European Symposium on Research in Computer Security</i>, Wroclaw, Poland, September, 2014 (58/234 = 24.8%). <a href="file/ESORICS14.pdf">[PDF</a>]<a href="file/ESORICS14-slides.pdf">[Slides</a>]<a href="bib/esorics14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>RAID</b></td>
+<td>"GoldenEye: Efficiently and Effectively Unveiling Malware's Targeted Environment". Zhaoyan Xu, Jialong Zhang, Guofei Gu, and Zhiqiang Lin. To appear in in <i>Proceedings of the 17th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Gothenburg, Sweden. September 2014 (22/113 = 19.5%). <a href="file/RAID14.pdf">[PDF</a>]<a href="file/RAID14-slides.pdf">[Slides</a>]<a href="bib/raid14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"Preventing Cryptographic Key Leakage in Cloud Virtual Machines". Erman Pattuk, Murat Kantarcioglu, Zhiqiang Lin, and Huseyin Ulusoy. To appear in <i>Proceedings of the 2014 USENIX Security Symposium</i>, San Diego, CA, August 2014 (67/350 = 19%). <a href="file/SEC14a.pdf">[PDF</a>]<a href="file/SEC14a-slides.pdf">[Slides</a>]<a href="bib/sec14a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-SEC</b></td>
+<td>"X-Force: Force-Executing Binary Programs for Security Applications". Fei Peng, Zhui Deng, Xiangyu Zhang, Dongyan Xu, Zhiqiang Lin, and Zhendong Su. To appear in <i>Proceedings of the 2014 USENIX Security Symposium</i>, San Diego, CA, August 2014 (67/350 = 19%). <a href="file/SEC14b.pdf">[PDF</a>]<a href="file/SEC14b-slides.pdf">[Slides</a>]<a href="bib/sec14b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>TCC</b></td>
+<td>"Multi-Aspect, Robust, and Memory Exclusive Guest OS Fingerprinting". Yufei Gu, Yangchun Fu, Aravind Prakash, Zhiqiang Lin, and Heng Yin. <i>IEEE Transactions on Cloud Computing</i>. July 2014.  <a href="http://www.computer.org/csdl/trans/cc/preprint/06853383-abs.html">[PDF</a>]<a href="bib/tcc14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>USENIX-ATC</b></td>
+<td>"HyperShell: A Practical Hypervisor Layer Guest OS Shell for Automated In-VM Management". Yangchun Fu, Junyuan Zeng, and Zhiqiang Lin. To appear in <i>Proceedings of the 2014 USENIX Annual Technical Conference</i>, Philadephia, PA, June 2014 (36/205 = 14.9%). <a href="file/ATC14.pdf">[PDF</a>]<a href="file/ATC14-slides.pdf">[Slides</a>]<a href="bib/atc14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>DATE</b></td>
+<td>"Programmable Decoder and Shadow Threads: Tolerate Remote Code Injection Exploits with Diversified Redundancy". Ziyi Liu, Weidong Shi, Shouhuai Xu, and Zhiqiang Lin. To appear in <i>Proceedings of the 2014 Design, Automation and Test in Europe</i>, Dresden, Germany, March 2014 (206/1090 = 23.1%). <a href="file/DATE14.pdf">[PDF</a>]<a href="bib/date14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Hybrid-Bridge: Efficiently Bridging the Semantic-Gap in Virtual Machine Introspection via Decoupled Execution and Training Memoization". Alireza Saberi, Yangchun Fu, and Zhiqiang Lin. To appear in <i>Proceedings of the 21st ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2014 (55/295 = 18.6%). <a href="file/NDSS14a.pdf">[PDF</a>]<a href="file/NDSS14a-slides.pdf">[Slides</a>]<a href="bib/ndss14a.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"SMV-Hunter: Large Scale, Automated Detection of SSL/TLS Man-in-the-Middle Vulnerabilities in Android Apps". David Sounthiraraj, Justin Sahs, Garrett Greenwood, Zhiqiang Lin, and Latifur Khan. To appear in <i>Proceedings of the 21st ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2014 (55/295 = 18.6%). <a href="file/NDSS14b.pdf">[PDF</a>]<a href="file/NDSS14b-slides.pdf">[Slides</a>]<a href="bib/ndss14b.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>TIFS</b></td>
+<td>"Data-Centric OS Kernel Malware Characterization". Junghwan Rhee, Ryan Riley, Zhiqiang Lin, Xuxian Jiang, Dongyan Xu. <i>IEEE Transactions on Information Forensics and Security</i>, Volume 9 Issue 1, January 2014.  <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6671356">[PDF</a>]<a href="bib/tifs14.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2013</th>
+</tr>
+<tr>
+<td><b>VMTJ</b></td>
+<td>"Toward Guest OS Writable Virtual Machine Introspection". Zhiqiang Lin. <i>VMware Technical Journal</i>, 2(2), December 2013. <a href="file/VMTJ13.pdf">[PDF</a>]<a href="http://labs.vmware.com/vmtj/toward-guest-os-writable-virtual-machine-introspection">[HTML</a>]<a href="bib/vmtj13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ACSAC</b></td>
+<td>"Subverting System Authentication with Context-Aware, Reactive Virtual Machine Introspection". Yangchun Fu, Zhiqiang Lin, and Kevin Hamlen. In <i>Proceedings of the 29th Annual Computer Security Applications Conference</i>, New Orleans, Louisiana, December 2013. (19%)  <a href="file/ACSAC13.pdf">[PDF</a>]<a href="file/ACSAC13-slides.pdf">[Slides</a>]<a href="bib/acsac13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"Obfuscation-resilient Binary Code Reuse through Trace-oriented Programming". Junyuan Zeng, Yangchun Fu, Kenneth Miller, Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu. In <i>Proceedings of the 20th ACM Conference on Computer and Communications Security</i>, Berlin, Germany, November 2013. (105/530=19.8%)  <a href="file/CCS13.pdf">[PDF</a>]<a href="file/CCS13-slides.pptx">[Slides</a>]<a href="bib/ccs13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>TISSEC</b></td>
+<td>"Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection". Yangchun Fu, and Zhiqiang Lin. In ACM Transactions on Information and System Security (TISSEC), Volume 16 Issue 2, September 2013. <a href="http://dl.acm.org/citation.cfm?id=2516951">[PDF</a>]<a href="bib/tissec13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ISCA</b></td>
+<td>"CPU Transparent Protection of OS Kernel and Hypervisor Integrity with Programmable DRAM". Ziyi Liu,  Jonghyuk Lee, Junyuan Zeng, Yuanfeng Wen,  Zhiqiang Lin, and Weidong Shi. In <i>Proceedings of the 40th International Symposium on Computer Architecture</i>,  Tel-Aviv, Israel. June 2013.  (56/282=19.9%)  <a href="file/ISCA13.pdf">[PDF</a>]]<a href="bib/isca13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>ICDCS</b></td>
+<td>"AUTOVAC: Towards Automatically Extracting System Resource Constraints and Generating Vaccines for Malware Immunization". Zhaoyan Xu, Jialong Zhang, Guofei Gu, and Zhiqiang Lin. In <i>Proceedings of the 33rd International Conference on Distributed Computing Systems</i>, Philadelphia, USA. July 2013.  (61/464=13%)  <a href="file/ICDCS13.pdf">[PDF</a>]<a href="bib/icdcs13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>DSN</b></td>
+<td>"Manipulating Semantic Values in Kernel Data Structures: Attack Assessments and Implications". Aravind Prakash, Eknath Venkataramani, Heng Yin, and Zhiqiang Lin. In <i>Proceedings of the 43rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN-PDS)</i>, Budapest, Hungary, June 2013  <a href="file/DSN13.pdf">[PDF</a>]<a href="bib/dsn13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>VEE</b></td>
+<td>"Exterior: Using a Dual-VM Based External Shell for Guest-OS Introspection, Configuration, and Recovery". Yangchun Fu, and Zhiqiang Lin. In <i>Proceedings of the 9th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments</i>, Houston, TX, March 2013 <a href="file/VEE13.pdf">[PDF</a>]<a href="file/VEE13-Slides.pdf">[Slides</a>]<a href="bib/vee13.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2012</th>
+</tr>
+<tr>
+<td><b>ACSAC</b></td>
+<td>"Securing Untrusted Code via Compiler-Agnostic Binary Rewriting". Richard Wartel, Vishwath Mohan, Kevin Hamlen, and Zhiqiang Lin. In <i>Proceedings of the 28th Annual Computer Security Applications Conference</i>, Orlando, FL, December 2012. (44/231=19%)  <a href="file/ACSAC12.pdf">[PDF</a>]<a href="file/ACSAC12.pptx">[Slides</a>]<a href="bib/acsac12.bib">[Bibtex</a>]  (<i>Outstanding Student Paper Award</i>)</td>
+</tr>
+<tr>
+<td><b>SOCC</b></td>
+<td>"OS-Sommelier: Memory-Only Operating System Fingerprinting in the Cloud". Yufei Gu, Yangchun Fu, Aravind Prakash, Zhiqiang Lin, and Heng Yin. In <i>Proceedings of the 3rd ACM Symposium on Cloud Computing</i>, San Jose, CA, October 2012. ((21+4)/165=15.3%)  <a href="file/SOCC12.pdf">[PDF</a>]<a href="file/socc12-slides.pdf">[Slides</a>]<a href="bib/socc12.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>CCS</b></td>
+<td>"Binary Stirring: Self-randomizing Instruction Addresses of Legacy x86 Binary Code". Richard Wartel, Vishwath Mohan, Kevin Hamlen, and Zhiqiang Lin. In <i>Proceedings of the 19th ACM Conference on Computer and Communications Security</i>, Raleigh, NC, October 2012. (80/423=18.9%)  <a href="file/CCS12.pdf">[PDF</a>]<a href="file/CCS12.pptx">[Slides</a>]<a href="bib/ccs12.bib">[Bibtex</a>] (This paper wins the <i>2nd place in the NYU-Poly AT&amp;T Best Applied Security Paper</i> of the Year <a href="http://www.poly.edu/csaw2012/csaw-research">2012</a>)</td>
+</tr>
+<tr>
+<td><b>DFRWS</b></td>
+<td>"Bin-Carver: Automatic Recovery of Binary Executable Files". Scott Hand, Zhiqiang Lin, Guofei Gu, and Bhavani Thuraisingham. In <i>Proceedings of the 12th Annual Digital Forensics Research Conference</i>, Washington DC, August 2012 (14/47=29.8%). <a href="file/DFRWS12.pdf">[PDF</a>]<a href="file/BinCarver.pdf">[Slides</a>]<a href="bib/dfrws12.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>S&amp;P</b></td>
+<td>"Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection". Yangchun Fu, and Zhiqiang Lin. In <i>Proceedings of the 33rd IEEE Symposium on Security and Privacy</i>, San Fransisco, CA, May 2012 (40/307=13%). <a href="file/SP12.pdf">[PDF</a>]<a href="file/sp12-Slides.pdf">[Slides</a>]<a href="file/sp12-handout.pdf">[Slides-Handout</a>]<a href="http://www.youtube.com/watch?v=RY4xGfONgYg">[Demo</a>]<a href="bib/oakland12.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"DIMSUM: Discovering Semantic Data of Interest from Un-mappable Memory with Confidence". Zhiqiang Lin, Junghwan Rhee, Chao Wu, Xiangyu Zhang, and Dongyan Xu. In <i>Proceedings of the 19th ISOC Network and Distributed System Security Symposium</i>, San Diego, CA, February 2012 (46/258 = 17.8%). <a href="http://www.internetsociety.org/sites/default/files/10_1.pdf">[PDF</a>]<a href="http://www.internetsociety.org/sites/default/files/P10_1.pdf">[Slides</a>]<a href="bib/ndss12.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<th colspan="2">2011 and Before</th>
+</tr>
+<tr>
+<td><b>AsiaCCS</b></td>
+<td>"Characterizing Kernel Malware Behavior with Kernel Data Access Patterns". Junghwan Rhee, Zhiqiang Lin, and Dongyan Xu. In <i>Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security</i>, Hong Kong, March 2011 (35/217 = 16.1%).<a href="http://friends.cs.purdue.edu/pubs/ASIACCS11.pdf">[PDF</a>] <a href="bib/asiaccs11.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"SigGraph: Brute Force Scanning of Kernel Data Structure Instances Using Graph-based Signatures". Zhiqiang Lin, Junghwan Rhee, Xiangyu Zhang, Dongyan Xu, and Xuxian Jiang. In <i>Proceedings of the 18th Network and Distributed System Security Symposium</i>,  San Diego, CA, February 2011 (28/139 = 20.1%). <a href="ndss11.html">[Abstract</a>]<a href="file/SigGraph_NDSS11.pdf">[PDF</a>]<a href="bib/ndss11.bib">[Bibtex</a>]<a href="file/SigGraph.avi">[Demo</a>]<a href="file/NDSS11.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>ISSTA</b></td>
+<td>"Strict Control Dependence and its Effect on Dynamic Information Flow Analyses". Tao Bao, Yunhui Zheng, Zhiqiang Lin, Xiangyu Zhang and Dongyan Xu. In <i>Proceedings of the 2010 International Symposium on Software Testing and Analysis</i>,Trento, Italy. July 2010 (24/105 = 23%). <a href="bib/issta10.bib">[Bibtex</a>]<a href="file/issta10.pdf">[PDF</a>]</td>
+</tr>
+<tr>
+<td><b>DSN</b></td>
+<td align="right">"Reuse-Oriented Camouflaging Trojan: Vulnerability Detection and Attack Construction". Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu.  In <i>Proceedings of the 40th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN-DCCS)</i>, Chicago, IL, June 2010 (39/168=23.2%). <a href="dsn10.html">[Abstract</a>]<a href="file/DCCS10.pdf">[PDF</a>]<a href="bib/dsn10.bib">[Bibtex</a>]<a href="file/DCCS10.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Automatic Reverse Engineering of Data Structures from Binary Execution. Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu.  <i>In Proceedings of the 17th Network and Distributed System Security Symposium</i>, San Diego, CA, February 2010 (24/156=15.4%). <a href="ndss10.html">[Abstract</a>]<a href="file/Rewards_NDSS10.pdf">[PDF</a>]<a href="bib/ndss10.bib">[Bibtex</a>]<a href="file/NDSS10.ppt">[Slides</a>]<a href="file/rewards_demo.tar.gz">[Demo</a>]  (Note that this paper wins the <i>1st place in the Poster Competition of <a href="http://www.cerias.purdue.edu/site/symposium2010">2010 CERIAS Annual Information Security Symposium</a></i>)</td>
+</tr>
+<tr>
+<td><b>TSE</b></td>
+<td>"Reverse Engineering Input Syntactic Structure from Program Execution and Its Applications". Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu. <i>IEEE Transactions on Software Engineering</i>. 36(5), 2010. <a href="http://www.computer.org/portal/web/csdl/doi/10.1109/TSE.2009.54">[PDF</a>]<a href="bib/tse10.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>DIMVA</b></td>
+<td>"Polymorphing Software by Randomizing Data Structure Layout". Zhiqiang Lin, Ryan Riley, and Dongyan Xu. In <i>Proceedings of the 6th SIG SIDAR Conference on Detection of Intrusions and Malware and Vulnerability Assessment</i>. Milan, Italy, July 2009 ((10+3)/44=29.5%). <a href="dimva09.html">[Abstract</a>]<a href="file/DIMVA09.pdf">[PDF</a>]<a href="bib/dimva09.bib">[Bibtex</a>]<a href="dimva09.html">[Code</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"IntScope: Automatically Detecting Integer Overflow Vulnerability In X86 Binary Using Symbolic Execution". Tielei Wang, Tao Wei, Zhiqiang Lin, and Wei Zou.  In <i>Proceedings of the 16th Network and Distributed System Security Symposium</i>, San Diego, CA, February 2009 (20/171=11.7%). <a href="ndss09.html">[Abstract</a>]<a href="file/IntScope_NDSS09.pdf">[PDF</a>]<a href="bib/ndss09.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>FSE</b></td>
+<td>"Deriving Input Syntactic Structure From Execution". Zhiqiang Lin, and Xiangyu Zhang.  In <i>Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations of Software Engineering</i>. Atlanta, Georgia, USA, November 2008 (31/152=20.5%). <a href="fse08.html">[Abstract</a>]<a href="file/FSE08.pdf">[PDF</a>]<a href="bib/fse08.bib">[Bibtex</a>]<a href="file/FSE08.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>DSN</b></td>
+<td>"Convicting Exploitable Software Vulnerabilities: An Efficient Input Provenance Based Approach". Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu. In <i>Proceedings of the 38th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN-DCCS)</i>, Anchorage, Alaska, USA, June 2008 (34/149=23%). <a href="dsn08.html">[Abstract</a>]<a href="file/DSN08.pdf">[PDF</a>]<a href="bib/dsn08.bib">[Bibtex</a>]<a href="file/DSN08.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>NDSS</b></td>
+<td>"Automatic Protocol Format Reverse Engineering Through Context-Aware Monitored Execution". Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, and Xiangyu Zhang.  In <i>Proceedings of the 15th Network and Distributed System Security Symposium</i>,San Diego, CA, February 2008 (21/118=17.8%) <a href="ndss08.html">[Abstract</a>]<a href="file/AutoFormat_NDSS08.pdf">[PDF</a>]<a href="bib/ndss08.bib">[Bibtex</a>]<a href="file/NDSS08.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>AsiaCCS</b></td>
+<td>"AutoPaG: Towards Automated Software Patch Generation with Source Code Root Cause Identification and Repair". Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, Bing Mao, and Li Xie. In <i>Proceedings of ACM Symposium on InformAtion, Computer and Communications Security</i>, Singapore, March 2007 (Acceptance ratio: 33/188=17.6%). <a href="file/AutoPaG.pdf">[PDF</a>]<a href="bib/autopag_asiaccs07.bib">[Bibtex</a>]<a href="file/ASIACCS07_AutoPaG.ppt">[Slides</a>]</td>
+</tr>
+<tr>
+<td><b>ISC</b></td>
+<td align="right">"Transparent Run-Time Prevention of Format-String Attacks via Dynamic Taint and Flexible Validation". Zhiqiang Lin, Nai Xia, Guole Li, Bing Mao, and Li Xie. In <i>Proceedings of the 9th Information Security Conference</i>. Greece. Sept, 2006 (Acceptance ratio: 38/188=20.2%). <a href="file/ISC06.pdf">[PDF</a>]<a href="bib/isc06.bib">[Bibtex</a>]<a href="file/LibFormat.tar.gz">[Code</a>]</td>
+</tr>
+<tr>
+<td><b>ARES</b></td>
+<td align="right">"A Practical Framework for Dynamically Immunizing Software Security Vulnerabilities". Zhiqiang Lin, Bing Mao, and Li Xie.  In <i>Proceedings of the First International Conference on Availability, Reliability and Security</i>. Austria. April, 2006. <a href="http://www.computer.org/portal/web/csdl/doi/10.1109/ARES.2006.11">[PDF</a>]<a href="bib/ares06.bib">[Bibtex</a>]</td>
+</tr>
+<tr>
+<td><b>IAW</b></td>
+<td align="right">"LibsafeXP: A Practical and Transparent Tool for Run-time Buffer Overflow Preventions". Zhiqiang Lin, Bing Mao, and Li Xie.  In <i>Proceedings of the 7th Annual IEEE Information Assurance Workshop</i>. West Point, NY. USA. June, 2006. <a href="file/IAW06.pdf">[PDF</a>]<a href="bib/iaw06.bib">[Bibtex</a>]<a href="file/LibsafeXP.pdf">[Slides</a>]<a href="file/LibsafeXP.tar.gz">[Code</a>]</td>
+</tr>
+</table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25241459-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<hr noshade="" size="1"/>
+<p>
+<a href="index.html">HOME</a> <a href="publication.t2t">SOURCE</a>
+</p>
+</div>
+<!-- html code generated by txt2tags 2.6 (http://txt2tags.org) -->
+<!-- cmdline: txt2tags -t html publication.t2t -->
+</body>

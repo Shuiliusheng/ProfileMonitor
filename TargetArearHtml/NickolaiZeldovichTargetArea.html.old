@@ -1,0 +1,765 @@
+http://people.csail.mit.edu/nickolai/#pubs
+<body onhashchange="page_hashchange()">
+<div class="facebox">
+<img alt="Picture of Nickolai Zeldovich" height="200" src="nickolai-0.jpg" width="269"/>
+</div>
+<label class="namehdr">Nickolai Zeldovich</label>
+<label class="aff">Professor</label>
+<label class="aff"><a href="https://pdos.csail.mit.edu/">PDOS</a> and
+  <a href="https://css.csail.mit.edu/">CSS</a> research groups</label>
+<label class="aff"><a href="https://www.csail.mit.edu/">Computer Science and
+  Artificial Intelligence Laboratory (CSAIL)</a></label>
+<label class="aff"><a href="https://www.eecs.mit.edu/">Department of Electrical
+  Engineering and Computer Science</a></label>
+<label class="aff"><a href="https://web.mit.edu/">MIT</a></label>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('contact')">Contact</a>
+<div class="boxbody" id="_contact">
+<p>
+  Email:
+  <b><i><span id="_email">nickolai at csail mit edu</span></i></b>
+<p>
+<a href="https://www.csail.mit.edu/about/visit-csail">32 Vassar Street</a>, Room <a href="G994.gif">32-G994</a><br/>
+  Cambridge, MA  02139<br/>
+  (617) 253-6005
+  </p></p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('bio')">Bio</a>
+<div class="boxbody" id="_bio">
+<p>
+  Nickolai Zeldovich is a professor of Electrical Engineering and
+  Computer Science at MIT, and a member of the Computer Science and
+  Artificial Intelligence Laboratory.  He received his PhD from Stanford
+  University in 2008.  His research interests are in building practical
+  secure systems.  Recent projects by Prof. Zeldovich and his students
+  and colleagues include the CryptDB encrypted database, the STACK
+  tool for finding undefined behavior bugs in C programs, the FSCQ
+  formally verified file system, the Algorand cryptocurrency, and the
+  Vuvuzela private messaging system.  He has been involved with several
+  start-up companies, including MokaFive (desktop virtualization),
+  PreVeil (end-to-end encryption), and Algorand (cryptocurrency).
+  Prof. Zeldovich's work has been recognized by best paper awards at the
+  ACM SOSP conference, a Sloan fellowship (2010), an NSF CAREER award
+  (2011), the MIT EECS Spira teaching award (2013), the MIT Edgerton
+  faculty achievement award (2014), the ACM SIGOPS Mark Weiser award
+  (2017), and an MIT EECS Faculty Research Innovation Fellowship (2018).
+
+  </p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('teaching')">Teaching</a>
+<div class="boxbody" id="_teaching">
+<p>
+<table>
+<tr>
+<td align="right">Fall 2019:</td>
+<td><a href="https://6826.csail.mit.edu/2019/">6.826:
+            Principles of Computer Systems</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2019:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.2">Professional
+            Leave</a></i></td>
+</tr>
+<tr>
+<td align="right">Fall 2018:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.2">Professional
+            Leave</a></i></td>
+</tr>
+<tr>
+<td align="right">Spring 2018:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2018/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2018:</td>
+<td><a href="http://6.148.scripts.mit.edu/2018/">6.148:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2017:</td>
+<td><a href="https://6826.csail.mit.edu/2017/">6.826:
+            Principles of Computer Systems</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2017:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2017/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2017:</td>
+<td><a href="http://6.148.scripts.mit.edu/2017/">6.148:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2016:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.1">Sabbatical
+            Leave</a></i></td>
+</tr>
+<tr>
+<td align="right">Spring 2016:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.3">Faculty
+            Teaching Relief</a></i></td>
+</tr>
+<tr>
+<td align="right">IAP 2016:</td>
+<td><a href="http://6.148.scripts.mit.edu/2016/">6.148:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2015:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.1">Sabbatical
+            Leave</a></i></td>
+</tr>
+<tr>
+<td align="right">Spring 2015:</td>
+<td><a href="https://css.csail.mit.edu/6.888/2015/">6.888:
+            Certified Systems Software</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2015:</td>
+<td><a href="http://6.148.scripts.mit.edu/2015/">6.148:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2014:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2014/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2014:</td>
+<td><a href="https://css.csail.mit.edu/6.824/2014/">6.824:
+            Distributed Systems</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2014:</td>
+<td><a href="http://6.470.scripts.mit.edu/2014/">6.470:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2013:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2013/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2013:</td>
+<td><i><a href="https://policies.mit.edu/policies-procedures/70-general-employment-policies/75-leaves-absence-and-faculty-teaching-relief#7.5.1">Junior
+            Faculty Research Leave</a></i></td>
+</tr>
+<tr>
+<td align="right">IAP 2013:</td>
+<td><a href="http://6.470.scripts.mit.edu/2013/">6.470:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2012:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2012/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2012:</td>
+<td><a href="https://web.mit.edu/6.033/2012/wwwdocs/">6.033:
+            Computer Systems Engineering</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2012:</td>
+<td><a href="http://6.470.scripts.mit.edu/2012/">6.470:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2011:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2011/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2011:</td>
+<td><a href="https://web.mit.edu/6.033/2011/wwwdocs/">6.033:
+            Computer Systems Engineering</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2011:</td>
+<td><a href="http://6.470.scripts.mit.edu/2011/">6.470:
+            Web programming competition</a> (faculty sponsor)</td>
+</tr>
+<tr>
+<td align="right">Fall 2010:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2010/">6.858:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2010:</td>
+<td><a href="https://courses.csail.mit.edu/6.857/2010/">6.857:
+            Computer and Network Security</a></td>
+</tr>
+<tr>
+<td align="right">IAP 2010:</td>
+<td><a href="https://projects.csail.mit.edu/beehive/">Introduction
+            to multicore research with Beehive</a></td>
+</tr>
+<tr>
+<td align="right">Fall 2009:</td>
+<td><a href="https://css.csail.mit.edu/6.858/2009/">6.893:
+            Computer Systems Security</a></td>
+</tr>
+<tr>
+<td align="right">Spring 2009:</td>
+<td><a href="https://web.mit.edu/6.033/2009/wwwdocs/">6.033:
+            Computer Systems Engineering</a></td>
+</tr>
+<tr>
+<td align="right">Fall 2008:</td>
+<td><a href="https://pdos.csail.mit.edu/6.828/2008/">6.828:
+            Operating System Engineering</a></td>
+</tr>
+</table>
+</p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('students')">Students</a>
+<div class="boxbody" id="_students">
+<p>
+  I advise a number of undergraduate, M.Eng., and Ph.D. students in the
+  <a href="https://css.csail.mit.edu/">CSS</a> and
+  <a href="https://pdos.csail.mit.edu/">PDOS</a> research groups.
+  </p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('pubs')">Publications</a>
+<div class="boxbody" id="_pubs">
+<p>
+<ul>
+<!-- START PUBS -->
+<p>
+<li><a href="papers/chajed-argosy.pdf">Argosy: Verifying layered storage systems with recovery refinement</a>.<br/>
+        Tej Chajed, Joseph Tassarotti, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)</i>, Phoenix, AZ, June 2019.<br/>
+<p>
+<li><a href="papers/ioannidis-mcqc.pdf">Extracting and optimizing formally verified code for systems programming</a>.<br/>
+        Eleftherios Ioannidis, Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 11th Annual NASA Formal Methods Symposium (NFM)</i>, Houston, TX, May 2019.<br/>
+<p>
+<li><a href="papers/leung-vault.pdf">Vault: Fast Bootstrapping for the Algorand Cryptocurrency</a>.<br/>
+        Derek Leung, Adam Suhl, Yossi Gilad, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 2019 Annual Network and Distributed System Security Symposium (NDSS)</i>, San Diego, CA, February 2019.<br/>
+<p>
+<li><a href="papers/chajed-cspec.pdf">Verifying concurrent software using movers in CSPEC</a>.<br/>
+        Tej Chajed, M. Frans Kaashoek, Butler Lampson, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Carlsbad, CA, October 2018.<br/>
+<p>
+<li><a href="papers/ileri-disksec.pdf">Proving confidentiality in a file system using DiskSec</a>.<br/>
+        Atalay İleri, Tej Chajed, Adam Chlipala, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Carlsbad, CA, October 2018.<br/>
+<p>
+<li><a href="papers/lazar-karaoke.pdf">Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis</a>.<br/>
+        David Lazar, Yossi Gilad, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Carlsbad, CA, October 2018.<br/>
+<p>
+<li><a href="papers/tsai-scr-proof.pdf">A Revised and Verified Proof of the Scalable Commutativity Rule</a>.<br/>
+        Lillian Tsai, Eddie Kohler, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        arXiv:1809.09550 [cs.DC], September 2018.<br/>
+<p>
+<li><a href="papers/leung-vault-eprint.pdf">Vault: Fast Bootstrapping for Cryptocurrencies</a>.<br/>
+        Derek Leung, Adam Suhl, Yossi Gilad, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2018/269, March 2018.<br/>
+<p>
+<li><a href="papers/wang-veil.pdf">Veil: Private Browsing Semantics Without Browser-side Assistance</a>.<br/>
+        Frank Wang, James Mickens, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 2018 Annual Network and Distributed System Security Symposium (NDSS)</i>, San Diego, CA, February 2018.<br/>
+<p>
+<li><a href="papers/chen-dfscq.pdf">Verifying a high-performance crash-safe file system using a tree specification</a>.<br/>
+        Haogang Chen, Tej Chajed, Alex Konradi, Stephanie Wang, Atalay İleri, Adam Chlipala, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP)</i>, Shanghai, China, October 2017.<br/>
+<p>
+<li><a href="papers/tyagi-stadium.pdf">Stadium: A Distributed Metadata-Private Messaging System</a>.<br/>
+        Nirvan Tyagi, Yossi Gilad, Derek Leung, Matei Zaharia, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP)</i>, Shanghai, China, October 2017.<br/>
+<p>
+<li><a href="papers/bhat-scalefs.pdf">Scaling a file system to many cores using an operation log</a>.<br/>
+        Srivatsa S. Bhat, Rasha Eqbal, Austin T. Clements, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP)</i>, Shanghai, China, October 2017.<br/>
+<p>
+<li><a href="papers/gilad-algorand.pdf">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a>.<br/>
+        Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP)</i>, Shanghai, China, October 2017.<br/>
+<p>
+<li><a href="papers/clements-sc-cacm.pdf">The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors</a>.<br/>
+        Austin T. Clements, M. Frans Kaashoek, Eddie Kohler, Robert T. Morris, and Nickolai Zeldovich.<br/>
+<i>Communications of the ACM</i>, 60(8):83–90, August 2017.<br/>
+<p>
+<li><a href="papers/gilad-algorand-eprint.pdf">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a>.<br/>
+        Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2017/454, May 2017.<br/>
+<p>
+<li><a href="papers/chajed-fscq-cacm.pdf">Certifying a file system using Crash Hoare Logic: Correctness in the presence of crashes</a>.<br/>
+        Tej Chajed, Haogang Chen, Adam Chlipala, M. Frans Kaashoek, Nickolai Zeldovich, and Daniel Ziegler.<br/>
+<i>Communications of the ACM</i>, 60(4):75–84, April 2017.<br/>
+<p>
+<li><a href="papers/lazar-alpenhorn-2016-10-26.pdf">Alpenhorn: Bootstrapping Secure Communication Without Leaking Metadata</a>.<br/>
+        David Lazar and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Savannah, GA, November 2016.<br/>
+        (Previous version: <a href="papers/lazar-alpenhorn-2016-10-05.pdf">2016-10-05</a>.)<br/>
+<p>
+<li><a href="papers/lazar-alpenhorn-tr.pdf">Alpenhorn: Bootstrapping Secure Communication Without Leaking Metadata (Extended Technical Report)</a>.<br/>
+        David Lazar and Nickolai Zeldovich.<br/>
+        Technical Report MIT-CSAIL-TR-2016-013, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, October 2016.<br/>
+<p>
+<li><a href="papers/tyagi-stadium-eprint.pdf">Stadium: A Distributed Metadata-Private Messaging System</a>.<br/>
+        Nirvan Tyagi, Yossi Gilad, Derek Leung, Matei Zaharia, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2016/943, September 2016.<br/>
+<p>
+<li><a href="papers/chong-nsf-sfm.pdf">Report on the NSF Workshop on Formal Methods for Security</a>.<br/>
+        Stephen Chong, Joshua Guttman, Anupam Datta, Andrew Myers, Benjamin Pierce, Patrick Schaumont, Tim Sherwood, and Nickolai Zeldovich.<br/>
+        arXiv:1608.00678 [cs.CR], August 2016.<br/>
+<p>
+<li><a href="papers/wang-sieve.pdf">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a>.<br/>
+        Frank Wang, James Mickens, Nickolai Zeldovich, and Vinod Vaikuntanathan.<br/>
+        In <i>Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI)</i>, Santa Clara, CA, March 2016.<br/>
+<p>
+<li><a href="papers/wang-stack-cacm.pdf">A Differential Approach to Undefined Behavior Detection</a>.<br/>
+        Xi Wang, Nickolai Zeldovich, M. Frans Kaashoek, and Armando Solar-Lezama.<br/>
+<i>Communications of the ACM</i>, 59(3):99–106, March 2016.<br/>
+<p>
+<li><a href="papers/vandenhooff-vuvuzela.pdf">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a>.<br/>
+        Jelle van den Hooff, David Lazar, Matei Zaharia, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 25th ACM Symposium on Operating Systems Principles (SOSP)</i>, Monterey, CA, October 2015.<br/>
+<p>
+<li><a href="papers/chen-fscq.pdf">Using Crash Hoare Logic for Certifying the FSCQ File System</a>.  <i>(Best paper award.)</i><br/>
+        Haogang Chen, Daniel Ziegler, Tej Chajed, Adam Chlipala, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 25th ACM Symposium on Operating Systems Principles (SOSP)</i>, Monterey, CA, October 2015.<br/>
+<p>
+<li><a href="papers/popa-cryptdb-guidelines-eprint.pdf">Guidelines for Using the CryptDB System Securely</a>.<br/>
+        Raluca Ada Popa, Nickolai Zeldovich, and Hari Balakrishnan.<br/>
+        Cryptology ePrint Archive, Report 2015/979, October 2015.<br/>
+<p>
+<li><a href="papers/popa-compute-spectrum.pdf">How to Compute With Data You Can't See</a>.<br/>
+        Raluca Ada Popa and Nickolai Zeldovich.<br/>
+<i>IEEE Spectrum</i>, 52(8):42–47, August 2015.<br/>
+<p>
+<li><a href="papers/chen-fscq-hotos.pdf">Specifying Crash Safety for Storage Systems</a>.<br/>
+        Haogang Chen, Daniel Ziegler, Adam Chlipala, M. Frans Kaashoek, Eddie Kohler, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 15th Workshop on Hot Topics in Operating Systems (HotOS)</i>, Kartause Ittingen, Switzerland, May 2015.<br/>
+<p>
+<li><a href="papers/chajed-amber-hotos.pdf">Amber: Decoupling User Data from Web Applications</a>.<br/>
+        Tej Chajed, Jon Gjengset, Jelle van den Hooff, M. Frans Kaashoek, James Mickens, Robert Morris, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 15th Workshop on Hot Topics in Operating Systems (HotOS)</i>, Kartause Ittingen, Switzerland, May 2015.<br/>
+<p>
+<li><a href="papers/gruenwald-hare.pdf">Hare: a file system for non-cache-coherent multicores</a>.<br/>
+        Charles Gruenwald III, Filippo Sironi, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 10th ACM EuroSys Conference</i>, Bordeaux, France, April 2015.<br/>
+<p>
+<li><a href="papers/wang-stack-tocs.pdf">A Differential Approach to Undefined Behavior Detection</a>.<br/>
+        Xi Wang, Nickolai Zeldovich, M. Frans Kaashoek, and Armando Solar-Lezama.<br/>
+<i>ACM Transactions on Computer Systems</i>, 33(1):1:1–29, March 2015.<br/>
+<p>
+<li><a href="papers/bangert-nail-login.pdf">Nail: A Practical Tool for Parsing and Generating Data Formats</a>.<br/>
+        Julian Bangert and Nickolai Zeldovich.<br/>
+<i>USENIX ;login:</i>, 40(1):24–30, February 2015.<br/>
+<p>
+<li><a href="papers/clements-sc-tocs.pdf">The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors</a>.<br/>
+        Austin T. Clements, M. Frans Kaashoek, Nickolai Zeldovich, Robert T. Morris, and Eddie Kohler.<br/>
+<i>ACM Transactions on Computer Systems</i>, 32(4):10:1–47, January 2015.<br/>
+<p>
+<li><a href="papers/vandenhooff-versum.pdf">VerSum: Verifiable Computations over Large Public Logs</a>.<br/>
+        Jelle van den Hooff, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS)</i>, Scottsdale, AZ, November 2014.<br/>
+<p>
+<li><a href="papers/bangert-nail.pdf">Nail: A practical tool for parsing and generating data formats</a>.<br/>
+        Julian Bangert and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Broomfield, CO, October 2014.<br/>
+<p>
+<li><a href="papers/wang-jitk.pdf">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a>.<br/>
+        Xi Wang, David Lazar, Nickolai Zeldovich, Adam Chlipala, and Zachary Tatlock.<br/>
+        In <i>Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Broomfield, CO, October 2014.<br/>
+<p>
+<li><a href="papers/chen-rail.pdf">Identifying information disclosure in web applications with retroactive auditing</a>.<br/>
+        Haogang Chen, Taesoo Kim, Xi Wang, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Broomfield, CO, October 2014.<br/>
+<p>
+<li><a href="papers/boyd-wickizer-oplog-tr.pdf">OpLog: a library for scaling update-heavy data structures</a>.<br/>
+        Silas Boyd-Wickizer, M. Frans Kaashoek, Robert Morris, and Nickolai Zeldovich.<br/>
+        Technical Report MIT-CSAIL-TR-2014-019, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, September 2014.<br/>
+<p>
+<li><a href="papers/popa-mylar-login.pdf">Building Web Applications on Top of Encrypted Data Using Mylar</a>.<br/>
+        Raluca Ada Popa, Emily Stark, Jonas Helfer, Steven Valdez, Nickolai Zeldovich, M. Frans Kaashoek, and Hari Balakrishnan.<br/>
+<i>USENIX ;login:</i>, 29(4):22–27, August 2014.<br/>
+<p>
+<li><a href="papers/lazar-cryptobugs.pdf">Why does cryptographic software fail? A case study and open problems</a>.<br/>
+        David Lazar, Haogang Chen, Xi Wang, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 5th Asia-Pacific Workshop on Systems</i>, Beijing, China, June 2014.<br/>
+<p>
+<li><a href="papers/bangert-nail-langsec.pdf">Nail: A practical interface generator for data formats</a>.<br/>
+        Julian Bangert and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 1st Workshop on Language-Theoretic Security (LangSec)</i>, San Jose, CA, May 2014.<br/>
+<p>
+<li><a href="papers/popa-mylar-2016-08-29.pdf">Building web applications on top of encrypted data using Mylar</a>.<br/>
+        Raluca Ada Popa, Emily Stark, Jonas Helfer, Steven Valdez, Nickolai Zeldovich, M. Frans Kaashoek, and Hari Balakrishnan.<br/>
+        In <i>Proceedings of the 11th USENIX Symposium on Networked Systems Design and Implementation (NSDI)</i>, Seattle, WA, April 2014.<br/>
+        (Previous version: <a href="papers/popa-mylar-2014-02-26.pdf">2014-02-26</a>.)<br/>
+<p>
+<li><a href="papers/beckmann-pika-tr.pdf">Pika: A Network Service for Multikernel Operating Systems</a>.<br/>
+        Nathan Z. Beckmann, Charles Gruenwald III, Christopher R. Johnson, Harshad Kasture, Filippo Sironi, Anant Agarwal, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        Technical Report MIT-CSAIL-TR-2014-002, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, January 2014.<br/>
+<p>
+<li><a href="papers/wang-stack.pdf">Towards Optimization-Safe Systems: Analyzing the Impact of Undefined Behavior</a>.  <i>(Best paper award.)</i><br/>
+        Xi Wang, Nickolai Zeldovich, M. Frans Kaashoek, and Armando Solar-Lezama.<br/>
+        In <i>Proceedings of the 24th ACM Symposium on Operating Systems Principles (SOSP)</i>, Farmington, PA, November 2013.<br/>
+<p>
+<li><a href="papers/chandra-aire.pdf">Asynchronous intrusion recovery for interconnected web services</a>.<br/>
+        Ramesh Chandra, Taesoo Kim, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 24th ACM Symposium on Operating Systems Principles (SOSP)</i>, Farmington, PA, November 2013.<br/>
+<p>
+<li><a href="papers/clements-sc.pdf">The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors</a>.  <i>(Best paper award.)</i><br/>
+        Austin T. Clements, M. Frans Kaashoek, Nickolai Zeldovich, Robert T. Morris, and Eddie Kohler.<br/>
+        In <i>Proceedings of the 24th ACM Symposium on Operating Systems Principles (SOSP)</i>, Farmington, PA, November 2013.<br/>
+<p>
+<li><a href="papers/yang-fpgasec.pdf">Authenticated Storage Using Small Trusted Hardware</a>.<br/>
+        Hsin-Jung Yang, Victor Costan, Nickolai Zeldovich, and Srinivas Devadas.<br/>
+        In <i>Proceedings of the ACM Cloud Computing Security Workshop</i>, Berlin, Germany, November 2013.<br/>
+<p>
+<li><a href="papers/skowyra-rop.pdf">Systematic Analysis of Defenses Against Return-Oriented Programming</a>.<br/>
+        Richard Skowyra, Kelly Casteel, Hamed Okhravi, Nickolai Zeldovich, and William Streilein.<br/>
+        In <i>Proceedings of the 16th International Symposium on Research in Attacks, Intrusions and Defenses</i>, Saint Lucia, October 2013.<br/>
+<p>
+<li><a href="papers/tu-monomi.pdf">Processing Analytical Queries over Encrypted Data</a>.<br/>
+        Stephen Tu, M. Frans Kaashoek, Samuel Madden, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 39th International Conference on Very Large Data Bases (VLDB)</i>, Riva del Garda, Italy, August 2013.<br/>
+<p>
+<li><a href="papers/goldwasser-we.pdf">How to Run Turing Machines on Encrypted Data</a>.<br/>
+        Shafi Goldwasser, Yael Kalai, Raluca Ada Popa, Vinod Vaikuntanathan, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 33rd Annual International Cryptology Conference (CRYPTO)</i>, Santa Barbara, CA, August 2013.<br/>
+<p>
+<li><a href="papers/popa-multikey-eprint.pdf">Multi-Key Searchable Encryption</a>.<br/>
+        Raluca Ada Popa and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2013/508, August 2013.<br/>
+<p>
+<li><a href="papers/chen-vmsec.pdf">Security bugs in embedded interpreters</a>.<br/>
+        Haogang Chen, Cody Cutler, Taesoo Kim, Yandong Mao, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 4th Asia-Pacific Workshop on Systems</i>, Singapore, July 2013.<br/>
+<p>
+<li><a href="papers/kim-tao.pdf">Optimizing unit test execution in large software programs using dependency analysis</a>.<br/>
+        Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 4th Asia-Pacific Workshop on Systems</i>, Singapore, July 2013.<br/>
+<p>
+<li><a href="papers/goldwasser-sfe.pdf">Reusable Garbled Circuits and Succinct Functional Encryption</a>.<br/>
+        Shafi Goldwasser, Yael Kalai, Raluca Ada Popa, Vinod Vaikuntanathan, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 45th Annual ACM Symposium on Theory of Computing (STOC)</i>, Palo Alto, CA, June 2013.<br/>
+<p>
+<li><a href="papers/kim-mbox.pdf">Practical and effective sandboxing for non-root users</a>.<br/>
+        Taesoo Kim and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 2013 USENIX Annual Technical Conference</i>, San Jose, CA, June 2013.<br/>
+<p>
+<li><a href="papers/popa-mope.pdf">An Ideal-Security Protocol for Order-Preserving Encoding</a>.<br/>
+        Raluca Ada Popa, Frank H. Li, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 34th IEEE Symposium on Security and Privacy</i>, San Francisco, CA, May 2013.<br/>
+<p>
+<li><a href="papers/goldwasser-we-eprint.pdf">How to Run Turing Machines on Encrypted Data</a>.<br/>
+        Shafi Goldwasser, Yael Kalai, Raluca Ada Popa, Vinod Vaikuntanathan, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2013/229, April 2013.<br/>
+<p>
+<li><a href="papers/clements-radixvm-2014-08-05.pdf">RadixVM: Scalable address spaces for multithreaded applications</a>.<br/>
+        Austin T. Clements, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 8th ACM EuroSys Conference</i>, Prague, Czech Republic, April 2013.<br/>
+        (Previous version: <a href="papers/clements-radixvm-2013-03-04.pdf">2013-03-04</a>.)<br/>
+<p>
+<li><a href="papers/popa-mope-eprint.pdf">An Ideal-Security Protocol for Order-Preserving Encoding</a>.<br/>
+        Raluca Ada Popa, Frank H. Li, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2013/129, March 2013.<br/>
+<p>
+<li><a href="papers/goldwasser-sfe-eprint.pdf">Succinct Functional Encryption and Applications: Reusable Garbled Circuits and Beyond</a>.<br/>
+        Shafi Goldwasser, Yael Kalai, Raluca Ada Popa, Vinod Vaikuntanathan, and Nickolai Zeldovich.<br/>
+        Cryptology ePrint Archive, Report 2012/733, December 2012.<br/>
+<p>
+<li><a href="papers/wang-kint-2013-06-24.pdf">Improving Integer Security for Systems with Kint</a>.<br/>
+        Xi Wang, Haogang Chen, Zhihao Jia, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Hollywood, CA, October 2012.<br/>
+        (Previous versions: <a href="papers/wang-kint-2012-09-11.pdf">2012-09-11</a>, <a href="papers/wang-kint-2012-09-17.pdf">2012-09-17</a>.)<br/>
+<p>
+<li><a href="papers/kim-poirot.pdf">Efficient patch-based auditing for web application vulnerabilities</a>.<br/>
+        Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Hollywood, CA, October 2012.<br/>
+<p>
+<li><a href="papers/popa-cryptdb-cacm.pdf">CryptDB: Processing Queries on an Encrypted Database</a>.<br/>
+        Raluca Ada Popa, Catherine M. S. Redfield, Nickolai Zeldovich, and Hari Balakrishnan.<br/>
+<i>Communications of the ACM</i>, 55(9):103–111, September 2012.<br/>
+<p>
+<li><a href="papers/kim-dare.pdf">Recovering from intrusions in distributed systems with Dare</a>.<br/>
+        Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 3rd Asia-Pacific Workshop on Systems</i>, Seoul, South Korea, July 2012.<br/>
+<p>
+<li><a href="papers/wang-undef-2012-08-21.pdf">Undefined Behavior: What Happened to My Code?</a><br/>
+        Xi Wang, Haogang Chen, Alvin Cheung, Zhihao Jia, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 3rd Asia-Pacific Workshop on Systems</i>, Seoul, South Korea, July 2012.<br/>
+        (Previous version: <a href="papers/wang-undef-2012-07-12.pdf">2012-07-12</a>.)<br/>
+<p>
+<li><a href="papers/boyd-wickizer-locks.pdf">Non-scalable locks are dangerous</a>.<br/>
+        Silas Boyd-Wickizer, M. Frans Kaashoek, Robert Morris, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the Linux Symposium</i>, Ottawa, Canada, July 2012.<br/>
+<p>
+<li><a href="papers/pesterev-multiaccept.pdf">Improving network connection locality on multicore systems</a>.<br/>
+        Aleksey Pesterev, Jacob Strauss, Nickolai Zeldovich, and Robert T. Morris.<br/>
+        In <i>Proceedings of the 7th ACM EuroSys Conference</i>, Bern, Switzerland, April 2012.<br/>
+<p>
+<li><a href="papers/popa-join-tr.pdf">Cryptographic Treatment of CryptDB's Adjustable Join</a>.<br/>
+        Raluca Ada Popa and Nickolai Zeldovich.<br/>
+        Technical Report MIT-CSAIL-TR-2012-006, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, March 2012.<br/>
+<p>
+<li><a href="papers/clements-bonsai.pdf">Concurrent address spaces using RCU balanced trees</a>.<br/>
+        Austin T. Clements, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, London, United Kingdom, March 2012.<br/>
+<p>
+<li><a href="papers/metreveli-cphash-poster.pdf">CPHash: A Cache-Partitioned Hash Table</a>.<br/>
+        Zviad Metreveli, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 17th ACM Symposium on Principles and Practice of Parallel Programming</i>, New Orleans, LA, February 2012.<br/>
+<p>
+<li><a href="papers/shah-cryptapp.pdf">Language Support for Efficient Computation over Encrypted Data</a>.<br/>
+        Meelap Shah, Emily Stark, Raluca Ada Popa, and Nickolai Zeldovich.<br/>
+        In <i>Off the Beaten Track Workshop: Underrepresented Problems for Programming Language Researchers</i>, Philadelphia, PA, January 2012.<br/>
+<p>
+<li><a href="papers/gupta-cachegenie.pdf">A Trigger-Based Middleware Cache for ORMs</a>.<br/>
+        Priya Gupta, Nickolai Zeldovich, and Samuel Madden.<br/>
+        In <i>Proceedings of the 12th International Middleware Conference</i>, Lisbon, Portugal, December 2011.<br/>
+<p>
+<li><a href="papers/metreveli-cphash-tr.pdf">CPHash: A Cache-Partitioned Hash Table</a>.<br/>
+        Zviad Metreveli, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        Technical Report MIT-CSAIL-TR-2011-051, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, November 2011.<br/>
+<p>
+<li><a href="papers/zeldovich-histar-cacm.pdf">Making Information Flow Explicit in HiStar</a>.<br/>
+        Nickolai Zeldovich, Silas Boyd-Wickizer, Eddie Kohler, and David Mazières.<br/>
+<i>Communications of the ACM</i>, 54(11):93–101, November 2011.<br/>
+<p>
+<li><a href="papers/popa-cryptdb.pdf">CryptDB: Protecting Confidentiality with Encrypted Query Processing</a>.<br/>
+        Raluca Ada Popa, Catherine M. S. Redfield, Nickolai Zeldovich, and Hari Balakrishnan.<br/>
+        In <i>Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP)</i>, Cascais, Portugal, October 2011.<br/>
+<p>
+<li><a href="papers/mao-lxfi.pdf">Software fault isolation with API integrity and multi-principal modules</a>.<br/>
+        Yandong Mao, Haogang Chen, Dong Zhou, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP)</i>, Cascais, Portugal, October 2011.<br/>
+<p>
+<li><a href="papers/chandra-warp.pdf">Intrusion Recovery for Database-backed Web Applications</a>.<br/>
+        Ramesh Chandra, Taesoo Kim, Meelap Shah, Neha Narula, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP)</i>, Cascais, Portugal, October 2011.<br/>
+<p>
+<li><a href="papers/gollakota-tep.pdf">Secure In-Band Wireless Pairing</a>.<br/>
+        Shyamnath Gollakota, Nabeel Ahmed, Nickolai Zeldovich, and Dina Katabi.<br/>
+        In <i>Proceedings of the 20th USENIX Security Symposium</i>, San Francisco, CA, August 2011.<br/>
+<p>
+<li><a href="papers/werther-llctf.pdf">Experiences in Cyber Security Education: the MIT Lincoln Laboratory Capture-the-Flag Exercise</a>.<br/>
+        Joseph Werther, Michael Zhivich, Tim Leek, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 4th Workshop on Cyber Security Experimentation and Test</i>, San Francisco, CA, August 2011.<br/>
+<p>
+<li><a href="papers/wang-rad.pdf">Retroactive auditing</a>.<br/>
+        Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 2nd Asia-Pacific Workshop on Systems</i>, Shanghai, China, July 2011.<br/>
+<p>
+<li><a href="papers/chen-kbugs.pdf">Linux kernel vulnerabilities: State-of-the-art defenses and open problems</a>.<br/>
+        Haogang Chen, Yandong Mao, Xi Wang, Dong Zhou, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 2nd Asia-Pacific Workshop on Systems</i>, Shanghai, China, July 2011.<br/>
+<p>
+<li><a href="papers/boyd-wickizer-scu-tr.pdf">A Software Approach to Unifying Multicore Caches</a>.<br/>
+        Silas Boyd-Wickizer, M. Frans Kaashoek, Robert Morris, and Nickolai Zeldovich.<br/>
+        Technical Report MIT-CSAIL-TR-2011-032, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, June 2011.<br/>
+<p>
+<li><a href="papers/roy-cinder-eurosys.pdf">Energy Management in Mobile Devices with the Cinder Operating System</a>.<br/>
+        Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazières, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 6th ACM EuroSys Conference</i>, Salzburg, Austria, April 2011.<br/>
+<p>
+<li><a href="papers/popa-cryptdb-tr.pdf">CryptDB: A Practical Encrypted Relational DBMS</a>.<br/>
+        Raluca Ada Popa, Nickolai Zeldovich, and Hari Balakrishnan.<br/>
+        Technical Report MIT-CSAIL-TR-2011-005, MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, January 2011.<br/>
+<p>
+<li><a href="papers/curino-relcloud.pdf">Relational Cloud: A Database-as-a-Service for the Cloud</a>.<br/>
+        Carlo Curino, Evan P. C. Jones, Raluca Ada Popa, Nirmesh Malviya, Eugene Wu, Sam Madden, Hari Balakrishnan, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 5th Biennial Conference on Innovative Data Systems Research (CIDR)</i>, Pacific Grove, CA, January 2011.<br/>
+<p>
+<li><a href="papers/kim-retro.pdf">Intrusion Recovery Using Selective Re-execution</a>.<br/>
+        Taesoo Kim, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 9th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Vancouver, Canada, October 2010.<br/>
+<p>
+<li><a href="papers/boyd-wickizer-scaling.pdf">An Analysis of Linux Scalability to Many Cores</a>.<br/>
+        Silas Boyd-Wickizer, Austin T. Clements, Yandong Mao, Aleksey Pesterev, M. Frans Kaashoek, Robert Morris, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 9th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Vancouver, Canada, October 2010.<br/>
+<p>
+<li><a href="papers/kim-userfs.pdf">Making Linux Protection Mechanisms Egalitarian with UserFS</a>.<br/>
+        Taesoo Kim and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 19th USENIX Security Symposium</i>, Washington, DC, August 2010.<br/>
+<p>
+<li><a href="papers/boyd-wickizer-sud.pdf">Tolerating Malicious Device Drivers in Linux</a>.<br/>
+        Silas Boyd-Wickizer and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 2010 USENIX Annual Technical Conference</i>, Boston, MA, June 2010.<br/>
+<p>
+<li><a href="papers/chandra-bstore.pdf">Separating Web Applications from User Data Storage with BStore</a>.  <i>(Best paper award.)</i><br/>
+        Ramesh Chandra, Priya Gupta, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the USENIX Conference on Web Application Development</i>, Boston, MA, June 2010.<br/>
+<p>
+<li><a href="papers/roy-cinder-tr.pdf">Energy Management in Mobile Devices with the Cinder Operating System</a>.<br/>
+        Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazières, and Nickolai Zeldovich.<br/>
+        Technical Report CSTR 2010-02, Department of Computer Science, Stanford University, Stanford, CA, June 2010.<br/>
+<p>
+<li><a href="papers/pesterev-dprof.pdf">Locating cache performance bottlenecks using data profiling</a>.<br/>
+        Aleksey Pesterev, Nickolai Zeldovich, and Robert T. Morris.<br/>
+        In <i>Proceedings of the 5th ACM EuroSys Conference</i>, Paris, France, April 2010.<br/>
+<p>
+<li><a href="papers/rumble-cinder-ccr.pdf">Apprehending Joule Thieves with Cinder</a>.<br/>
+        Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazières, and Nickolai Zeldovich.<br/>
+<i>SIGCOMM Computer Communication Review</i>, 40(1):106–111, January 2010.<br/>
+<p>
+<li><a href="papers/yip-resin.pdf">Improving Application Security with Data Flow Assertions</a>.<br/>
+        Alexander Yip, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 22nd ACM Symposium on Operating Systems Principles (SOSP)</i>, Big Sky, MT, October 2009.<br/>
+<p>
+<li><a href="papers/rumble-cinder.pdf">Apprehending Joule Thieves with Cinder</a>.<br/>
+        Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazières, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the 1st ACM Workshop on Networking, Systems, and Applications on Mobile Handhelds</i>, Barcelona, Spain, August 2009.<br/>
+<p>
+<li><a href="papers/naous-identpp.pdf">Delegating Network Security Through More Information</a>.<br/>
+        Jad Naous, Ryan Stutsman, David Mazières, Nick McKeown, and Nickolai Zeldovich.<br/>
+        In <i>Proceedings of the Workshop on Research on Enterprise Networking</i>, Barcelona, Spain, August 2009.<br/>
+<p>
+<li><a href="papers/dalton-nemesis.pdf">Nemesis: Preventing Authentication and Access Control Vulnerabilities in Web Applications</a>.<br/>
+        Michael Dalton, Nickolai Zeldovich, and Christos Kozyrakis.<br/>
+        In <i>Proceedings of the 18th USENIX Security Symposium</i>, Montreal, Canada, August 2009.<br/>
+<p>
+<li><a href="papers/zeldovich-loki.pdf">Hardware Enforcement of Application Security Policies Using Tagged Memory</a>.<br/>
+        Nickolai Zeldovich, Hari Kannan, Michael Dalton, and Christos Kozyrakis.<br/>
+        In <i>Proceedings of the 8th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, San Diego, CA, December 2008.<br/>
+<p>
+<li><a href="papers/zeldovich-dstar.pdf">Securing Distributed Systems with Information Flow Control</a>.<br/>
+        Nickolai Zeldovich, Silas Boyd-Wickizer, and David Mazières.<br/>
+        In <i>Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation (NSDI)</i>, San Francisco, CA, April 2008.<br/>
+<p>
+<li><a href="papers/zeldovich-phd-thesis.pdf">Securing Untrustworthy Software Using Information Flow Control</a>.<br/>
+        Nickolai Zeldovich.<br/>
+        Ph.D. Thesis, Stanford University, Department of Computer Science, October 2007.<br/>
+<p>
+<li><a href="papers/zeldovich-histar.pdf">Making Information Flow Explicit in HiStar</a>.<br/>
+        Nickolai Zeldovich, Silas Boyd-Wickizer, Eddie Kohler, and David Mazières.<br/>
+        In <i>Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>, Seattle, WA, November 2006.<br/>
+<p>
+<li><a href="papers/chandra-collective.pdf">The Collective: A Cache-Based System Management Architecture</a>.<br/>
+        Ramesh Chandra, Nickolai Zeldovich, Constantine Sapuntzakis, and Monica S. Lam.<br/>
+        In <i>Proceedings of the 2nd USENIX Symposium on Networked Systems Design and Implementation (NSDI)</i>, Boston, MA, May 2005.<br/>
+<p>
+<li><a href="papers/zeldovich-vncplay.pdf">Interactive Performance Measurement with VNCplay</a>.<br/>
+        Nickolai Zeldovich and Ramesh Chandra.<br/>
+        In <i>Proceedings of the 2005 USENIX Annual Technical Conference, FREENIX track</i>, Anaheim, CA, April 2005.<br/>
+<p>
+<li><a href="papers/sapuntzakis-deploying.pdf">Virtual Appliances for Deploying and Maintaining Software</a>.<br/>
+        Constantine Sapuntzakis, David Brumley, Ramesh Chandra, Nickolai Zeldovich, Jim Chow, Monica S. Lam, and Mendel Rosenblum.<br/>
+        In <i>Proceedings of the 17th USENIX Large Installation Systems Administration Conference (LISA)</i>, San Diego, CA, October 2003.<br/>
+<p>
+<li><a href="papers/zeldovich-async-mp.pdf">Multiprocessor Support for Event-Driven Programs</a>.<br/>
+        Nickolai Zeldovich, Alexander Yip, Frank Dabek, Robert T. Morris, David Mazières, and M. Frans Kaashoek.<br/>
+        In <i>Proceedings of the 2003 USENIX Annual Technical Conference</i>, San Antonio, TX, June 2003.<br/>
+<p>
+<li><a href="papers/dabek-event.pdf">Event-driven Programming for Robust Software</a>.<br/>
+        Frank Dabek, Nickolai Zeldovich, M. Frans Kaashoek, David Mazières, and Robert Morris.<br/>
+        In <i>Proceedings of the 10th ACM SIGOPS European Workshop</i>, Saint-Emilion, France, September 2002.<br/>
+<p>
+<li><a href="papers/zeldovich-meng-thesis.pdf">Concurrency Control for Multi-Processor Event-Driven Systems</a>.<br/>
+        Nickolai Zeldovich.<br/>
+        M.Eng. Thesis, Massachusetts Institute of Technology, Department of Electrical Engineering and Computer Science, June 2002.<br/>
+<!-- END PUBS -->
+</li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></li></p></ul>
+</p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('press')">Press</a>
+<div class="boxbody" id="_press">
+<p>
+<ul>
+<li>Vault:
+    <a href="http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124">MIT news</a>,
+    <a href="https://news.ycombinator.com/item?id=19191178">Hacker News</a>.
+
+  <li>Vuvuzela / Alpenhorn:
+    <a href="https://news.ycombinator.com/item?id=10668494">Hacker News</a>,
+    <a href="http://news.mit.edu/2015/untraceable-anonymized-communication-guaranteed-1207">MIT news</a>,
+    <a href="http://motherboard.vice.com/read/now-that-its-easy-to-encrypt-our-chats-encrypting-metadata-comes-next">Motherboard</a>,
+    <a href="http://yro.slashdot.org/story/15/12/13/1522224/mit-creates-tor-alternative-that-floods-networks-with-fake-data">Slashdot</a>,
+    <a href="http://www.forbes.com/sites/emmawoollacott/2015/12/09/now-your-metadata-can-be-kept-private-too/">Forbes</a>,
+    <a href="http://arstechnica.com/security/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/">Ars Technica</a>.
+
+  <li>FSCQ:
+    <a href="http://news.mit.edu/2015/crash-tolerant-data-storage-0824">MIT news</a>,
+    <a href="http://tech.slashdot.org/story/15/08/24/1253251/mits-new-file-system-wont-lose-data-during-crashes">Slashdot</a>,
+    <a href="http://www.forbes.com/sites/marcochiappetta/2015/08/28/mit-researchers-create-crash-tolerant-file-system-guaranteed-not-to-lose-data/">Forbes</a>,
+    <a href="https://news.ycombinator.com/item?id=10599165">Hacker News</a>.
+
+  <li>Mylar:
+    <a href="http://www.technologyreview.com/news/525651/new-approach-could-stop-websites-from-leaking-or-stealing-your-data/">Technology Review</a>,
+    <a href="http://arstechnica.com/information-technology/2014/03/mit-creates-a-system-to-prism-proof-websites/">ArsTechnica</a>,
+    <a href="http://yro.slashdot.org/story/14/03/26/0352201/mit-researchers-create-platform-to-build-secure-web-apps-that-never-leak-data">Slashdot</a>.
+
+  <li>Unstable code:
+    <a href="http://web.mit.edu/newsoffice/2013/system-flags-useful-code-compilers-might-discard-1016.html">MIT news</a>,
+    <a href="http://www.itworld.com/security/380406/how-your-compiler-may-be-compromising-application-security">IT world</a>,
+    <a href="http://developers.slashdot.org/story/13/10/29/2150211/how-your-compiler-can-compromise-application-security">Slashdot</a>.
+
+  <li>Functional encryption:
+    <a href="http://web.mit.edu/newsoffice/2013/algorithm-solves-homomorphic-encryption-problem-0610.html">MIT news</a>.
+
+  <li>CryptDB:
+    <a href="http://www.forbes.com/sites/andygreenberg/2011/12/19/an-mit-magic-trick-computing-on-encrypted-databases-without-ever-decrypting-them/">Forbes</a>,
+    <a href="http://it.slashdot.org/story/11/12/19/2140237/mit-software-allows-queries-on-encrypted-databases">Slashdot</a>,
+    <a href="http://gigaom.com/2013/04/05/you-want-to-crunch-top-secret-data-securely-cryptdb-may-be-the-app-for-that/">GigaOm</a>.
+
+  <li>Tamper-evident pairing (TEP):
+    <a href="http://web.mit.edu/newsoffice/2011/secure-wifi-0822.html">MIT news</a>,
+    <a href="https://www.networkworld.com/article/2180467/wireless/mit-researchers-craft-defense-against-wireless-man-in-middle-attacks.html">Network world</a>,
+    <a href="http://mobile.slashdot.org/story/11/08/25/234243/mit-researchers-defend-against-wireless-attacks">Slashdot</a>.
+
+  <li>Retro:
+    <a href="https://www.networkworld.com/article/2227306/security/mit-researchers-tout-network-intrusion-recovery-system.html">Network world</a>.
+
+  <li>Multi-core Linux scalability:
+    <a href="http://hardware.slashdot.org/story/10/09/30/1528229/linux-may-need-a-rewrite-beyond-48-cores">Slashdot</a>.
+
+  <li>Cinder:
+    <a href="https://www.networkworld.com/article/2267358/smartphones/stanford-s-cinder-os-tightens-mobile-power-control.html">Network world</a>,
+    <a href="http://tech.slashdot.org/story/09/04/15/2036230/cinder-mobile-os-lets-users-send-more-power-to-slow-apps">Slashdot</a>.
+
+  <li>Resin:
+    <a href="http://web.mit.edu/newsoffice/2009/virus-blocker.html">MIT news</a>.
+
+  <li>HiStar:
+    <a href="http://soe.stanford.edu/research/profiles/infotech_mazieres.html">Stanford
+    School of Engineering article</a>.
+  </li></li></li></li></li></li></li></li></li></li></li></li></li></ul>
+</p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('calendar')">Calendar</a>
+<div class="boxbody" id="_calendar">
+<p>
+<iframe frameborder="0" height="600" scrolling="no" src="https://www.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;src=nickolai.zeldovich@gmail.com&amp;ctz=America/New_York&amp;bgcolor=%23e0e0ff&amp;showPrint=0&amp;showTitle=0&amp;showCalendars=0" style="border-width:0" width="100%"></iframe>
+</p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('prospective')">Prospective students</a>
+<div class="boxbody" id="_prospective">
+<p>
+<ul>
+<li>If you're an undergraduate student at MIT interested in working on
+      systems or security, send me an email!
+
+  <li>If you're interested in a Ph.D. program, consider 
+      <a href="https://gradapply.mit.edu/eecs/apply/login/">applying to MIT EECS</a>.
+
+  </li></li></ul>
+</p></div>
+</div>
+<div class="textbox">
+<a class="boxhdr" href="javascript:toggle('support')">Support</a>
+<div class="boxbody" id="_support">
+<p>
+  My research has been supported by
+  <a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-awards">Google</a>,
+  <a href="http://www.quantatw.com/">Quanta Computer</a>,
+  <a href="http://www.sloan.org/fellowships">the Alfred P. Sloan Foundation</a>,
+  <a href="http://www.nsf.gov/">NSF</a>,
+  <a href="http://www.darpa.mil/">DARPA</a>, and
+  <a href="http://www.northropgrumman.com/">Northrop Grumman</a>.
+  </p></div>
+</div>
+</body>

@@ -1,0 +1,680 @@
+https://www.cs.unc.edu/~porter/research.html#publications
+<body>
+<table cellpadding="10">
+<tr>
+<td valign="top" width="10%">
+<p>Research</p>
+<p><a href="software.html">Software</a></p>
+<p><a href="doc">Documentation</a></p>
+<br/>
+<p><a href="index.html">Home</a></p>
+</td>
+<td valign="top">
+<h3>Current Projects</h3>
+
+My research develops better abstractions for managing concurrency and
+security, primarily in the operating system, and extending these abstractions to other portions of the
+technology stack as appropriate.
+<br>
+<h3>Projects</h3>
+<ul>
+<li><a href="http://oscar.cs.stonybrook.edu/projects/betrfs">BetrFS</a> -
+A write-optimized, general purpose Linux file system.</li>
+<li><a href="http://www.cs.stonybrook.edu/~porter/hoss">HOSS</a> -
+A pedagogical hypervisor.</li>
+<li><a href="http://graphene.cs.stonybrook.edu">Graphene</a> -
+A rich Linux library OS, including support for multi-process applications.</li>
+<li><a href="http://protego.cs.stonybrook.edu">Protego</a> -
+Practical techniques to obviate setuid-to-root binaries on Linux.</li>
+<li><a href="txos">TxOS</a> -
+Adding transactions to the system call API.</li>
+<li><a href="http://z.cs.utexas.edu/users/osa/laminar">Laminar</a> -
+Practical, fine-grained decentralized information flow control (DIFC)
+support in both the JVM and Linux kernel.</li>
+<li><a href="http://syncchar.code.csres.utexas.edu">Syncchar</a> -
+Analyzing and tuning the performance of transactional memory workloads.</li>
+<li><a href="http://z.cs.utexas.edu/users/osa/metatm/">MetaTM/TxLinux</a>
+- Using hardware transactional memory in the OS kernel.
+</li></ul>
+<h3><a name="publications">Publications</a></h3>
+(Presented in reverse chronological order, horizonal lines separate years).
+<ul>
+<li>
+<b>Filesystem Aging: Itâs more Usage than Fullness</b><br/>
+<a href="https://ajhconway.com/">Alex Conway</a>,
+    Eric Knorr,
+    <a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.williams.edu/~jannen/">William Jannen</a>,
+<a href="https://research.vmware.com/researchers/rob-johnson">Rob
+  Johnson</a>,
+Donald E. Porter,
+and
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<br/>
+(PDF)
+<br/>Proceedings of the 11th USENIX Workshop on Hot Topics in Storage and File Systems (<a href="https://www.usenix.org/conference/hotstorage19">HotStorage '19</a>), Renton, WA, July 2019.
+</li>
+<br/>
+<li>
+<b>Apps Can Quickly Destroy Your Mobile's Flash: Why They Don't, and
+  How to Keep It That Way</b><br/>
+<a href="http://www.cs.unc.edu/~zhtao/">Tao Zhang</a>,
+<a href="http://www.cs.technion.ac.il/~aviadzuc/">Aviad Zuck</a>,
+Donald E. Porter, and
+<a href="http://www.cs.technion.ac.il/~dan/">Dan Tsafrir</a>
+<br/>
+(<a href="pubs/fbrick-mobisys-2019.pdf">PDF</a>)
+<br/>Proceedings of the 17th ACM International Conference on Mobile
+Systems, Applications, and Services (<a href="https://www.sigmobile.org/mobisys/2019/">MobiSys
+  '19</a>), Seoul, South Korea, June 2019.
+</li>
+<br/>
+<li>
+<b>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</b><br/>
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="https://ajhconway.com/">Alex Conway</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<a href="http://www.cs.williams.edu/~jannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+<a href="https://research.vmware.com/researchers/rob-johnson">Rob
+  Johnson</a>,
+    Eric Knorr,
+Sara McAllister,
+Nirjhar Mukherjee,
+<a href="https://prashantpandey.github.io/">Prashant Pandey</a>,
+Donald E. Porter,
+<a href="http://www.csis.pace.edu/~jyuan2/">Jun Yuan</a>,
+and
+<a href="http://www.cs.unc.edu/~yzhan/">Yang Zhan</a>,
+<br/>
+(PDF)
+<br/>Proceedings of the 31st ACM Symposium on Parallelism in
+Algorithms and Architectures (<a href="https://spaa.acm.org/2019/">SPAA '19</a>), Phoenix, AZ, June 2019.
+</li>
+<br/>
+<li>
+<b>x86-64 Instruction Usage among C/C++ Applications</b><br/>
+<a href="http://aakshintala.com/">Amogh Akshintala</a>,
+<a href="http://www.cs.unc.edu/~bhushan/">Bhushan Jain</a>,
+<a href="http://chiachetsai.com/">Chia-Che Tsai</a>,
+<a href="http://www.cs.stonybrook.edu/~mferdman/">Michael Ferdman</a>,
+and Donald E. Porter,
+<br/>
+(PDF)
+<br/>Proceedings of the 12th ACM International Systems and Storage Conference (<a href="http://www.systor.org/2019">SYSTOR '19</a>), Haifa, Israel, June 2019.
+</li>
+<br/>
+<li>
+<b> Why and How to Increase SSD Performance Transparency</b><br/>
+<a href="http://www.cs.technion.ac.il/~aviadzuc/">Aviad Zuck</a>,
+<a href="http://www.futureware.at/ephilipp.htm">Philipp Gühring</a>,
+    <a href="http://www.cs.unc.edu/~zhtao/">Tao Zhang</a>,
+Donald E. Porter, and
+<a href="http://www.cs.technion.ac.il/~dan/">Dan Tsafrir</a>
+<br/>
+(<a href="pubs/frvrs-hotos-2019.pdf">PDF</a>)
+<br/>Proceedings of the 17th ACM Workshop on Hot Topics in Operating
+Systems (<a href="https://hotos19.sigops.org/">HotOS
+  '19</a>), Bertinoro, Italy, May 2019.
+</li>
+<br/>
+<hr/>
+<li>
+<b>
+    Efficient Directory Mutations in a Full-Path-Indexed File System
+  </b><br/>
+<a href="http://www.cs.unc.edu/~yzhan/">Yang Zhan</a>,
+<a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+Donald E. Porter,
+<a href="https://ajhconway.com/">Alex Conway</a>,
+    Eric Knorr,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael A. Bender</a>,
+    <a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+    <a href="http://www.cs.stonybrook.edu/~wjannen/">William
+      Jannen</a>,
+    and
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>
+<br/>
+(PDF)
+<br/><a href="http://tos.acm.org">ACM Transactions on Storage</a>, Volume 14, No 3, Article 22, November 2018.
+<br/>
+</li>
+<br/>
+<li>
+<b>Supporting I/O and IPC via Fine-Grained OS Isolation for
+Mixed-Criticality Real-Time Tasks</b><br/>
+<a href="http://www.cs.unc.edu/~namhoonk/">Namhoon Kim</a>,
+    Stephen Tang,
+    Nathan Otterness,
+    <a href="http://www.cs.unc.edu/~anderson/">James H. Anderson</a>,
+    <a href="http://www.cs.unc.edu/~smithfd/">F. Donelson Smith</a>,
+    and Donald E. Porter
+<br/>
+(PDF)
+<br/>
+Proceedings of the 26th
+International Conference on Real-Time Networks and Systems (<a href="https://rtns2018.ensma.fr/">RTNS '18</a>),
+Poitiers, France, October 2018.
+<br/>
+<b>Awarded Best Paper</b>
+</li>
+<br/>
+<li>
+<b> Talk to My Neighbors Transport: Decentralized Data Transfer and
+  Scheduling Among Accelerators</b><br/>
+<a href="http://aakshintala.com/">Amogh Akshintala</a>,
+<a href="https://www.cs.utexas.edu/~vance/">Vance Miller</a>,
+Donald E. Porter, and
+<a href="http://www.cs.utexas.edu/~rossbach/">Christopher J. Rossbach</a>
+<br/>
+(PDF)
+<br/>Proceedings of the 9th Workshop on Systems for Multi-core and
+Heterogeneous Architectures
+(<a href="https://sites.google.com/site/sfma2018eurosys/">SFMA
+  '18</a>), Porto, Portugal, April 2018.
+</li>
+<br/>
+<li>
+<b> SteeringWheel: A Locality-Preserving Magnification Interface for
+  Low Vision Web Browsing</b><br/>
+<a href="http://www.cs.stonybrook.edu/~sbillah/">Syed Masum Billah</a>,
+<a href="http://www3.cs.stonybrook.edu/~vganjiguntea/">Vikas Ashok</a>,
+Donald E. Porter, and
+<a href="http://www.cs.stonybrook.edu/~ram/">I.V. Ramakrishnan</a>
+<br/>
+(ACM, <a href="pubs/pn1132-billahA.pdf">PDF</a>)
+<br/>Proceedings of the ACM CHI Conference on Human Factors in
+Computing Systems (<a href="https://chi2018.acm.org/">CHI '18</a>), Montreal, Canada, April 2018.
+</li>
+<br/>
+<li>
+<b>The Full Path to Full-Path Indexing</b><br/>
+<a href="http://www.cs.unc.edu/~yzhan/">Yang Zhan</a>,
+<a href="https://ajhconway.com/">Alex Conway</a>,
+    <a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+    Eric Knorr,
+    <a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+ Donald E. Porter, and
+    <a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+<br/>
+(<a href="pubs/fast18-final129.pdf">PDF</a>)
+<br/>Proceedings of the 16th USENIX Conference on File and Storage Technologies (<a href="https://www.usenix.org/conference/fast18">FAST '18</a>), Oakland, CA, February 2018.
+<br/>
+<b>Nominated for Best Paper</b>
+</li>
+<br/>
+<li>
+<b>Stash in a Flash</b><br/>
+<a href="http://www.cs.technion.ac.il/~aviadzuc/">Aviad Zuck</a>,
+    <a href="http://www.paradise.caltech.edu/~yli/">Yue Li</a>
+<a href="http://www.paradise.caltech.edu/bruck.html">Jehoshua
+      Bruck</a>,
+    Donald E. Porter, and
+    <a href="http://www.cs.technion.ac.il/~dan/">Dan Tsafrir</a>
+<br/>
+(<a href="pubs/fast18-final52.pdf">PDF</a>)
+<br/>Proceedings of the 16th USENIX Conference on File and Storage Technologies (<a href="https://www.usenix.org/conference/fast18">FAST '18</a>), Oakland, CA, February 2018.
+</li>
+<br/>
+<hr/>
+<li>
+<b> Challenges For Scaling Applications Across Enclaves</b><br/>
+<a href="https://jbeekman.nl/">Jethro G. Beekman</a>
+and Donald E. Porter
+<br/>
+(<a href="pubs/systex17-final.pdf">PDF</a>)
+<br/>Proceedings of the 2nd Workshop on System Software for Trusted
+Execution (<a href="https://systex17.ibr.cs.tu-bs.de/">SysTEX '17</a>),
+	      Shanghai, China, October 2017.
+</li>
+<br/>
+<li>
+<b> Speed-Dial: A Surrogate Mouse for Non-Visual Web Browsing</b><br/>
+<a href="http://www.cs.stonybrook.edu/~sbillah/">Syed Masum Billah</a>,
+<a href="http://www3.cs.stonybrook.edu/~vganjiguntea/">Vikas Ashok</a>,
+Donald E. Porter, and
+<a href="http://www.cs.stonybrook.edu/~ram/">I.V. Ramakrishnan</a>
+<br/>
+(<a href="http://dl.acm.org/authorize?N41468">ACM</a>, <a href="pubs/p110-billah.pdf">PDF</a>)
+<br/>Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (<a href="http://assets17.sigaccess.org/">ASSETS '17</a>), Baltimore, Maryland, October 2017.
+</li>
+<br/>
+<li>
+<b>UIWear: Easily Adapting User Interfaces for Wearable Devices</b><br/>
+<a href="http://www3.cs.stonybrook.edu/~jianxu1/">Jian Xu</a>,
+    <a href="https://cscao.com/about/">Qingqing Cao</a>,
+    Aditya Prakash,
+    <a href="http://www.cs.stonybrook.edu/~arunab/">Aruna Balasubramanian</a>,
+    and Donald E. Porter
+<br/>
+(<a href="pubs/uiwear.pdf">PDF</a>)
+<br/>
+Proceedings of the 23rd Annual International Conference on Mobile
+    Computing and Networking (<a href="https://dsc17.cs.nctu.edu.tw/">MobiCom '17</a>),
+Snowbird, Utah, October 2017.
+</li>
+<br/>
+<li>
+<b>Supporting Mode Changes while Providing Hardware Isolation in
+      Mixed-Criticality Multicore Systems</b><br/>
+    Micaiah Chisholm
+    <a href="http://www.cs.unc.edu/~namhoonk/">Namhoon Kim</a>,
+    Stephen Tang,
+    Nathan Otterness,
+    <a href="http://www.cs.unc.edu/~anderson/">James H. Anderson</a>,
+    <a href="http://www.cs.unc.edu/~smithfd/">F. Donelson Smith</a>,
+    and Donald E. Porter
+<br/>
+(<a href="pubs/rtns17a.pdf">PDF</a>)
+<br/>
+Proceedings of the 25th
+International Conference on Real-Time Networks and Systems (<a href="http://www.rtns17.org/">RTNS '17</a>),
+Grenoble, France, October 2017.
+</li>
+<br/>
+<li>
+<b>Building a Security OS With Software Defined Infrastructure</b><br/>
+<a href="http://faculty.cs.tamu.edu/guofei/">Guofei Gu</a>,
+    <a href="https://people.cs.clemson.edu/~hongxih/">Hongxin Hu</a>,
+    <a href="http://ngn.cs.colorado.edu/~ekeller/">Eric Keller</a>,
+    <a href="https://www.utdallas.edu/~zxl111930/">Zhiqiang Lin</a>,
+    and Donald E. Porter
+<br/>
+(<a href="http://dl.acm.org/authorize?N41467">ACM</a>, <a href="pubs/a4-Gu.pdf">PDF</a>)
+<br/>
+Proceedings of the 2017 ACM Asia-Pacific Workshop on Systems
+(<a href="http://ap-sys.org/apsys2017">APSys '17</a>),
+Mumbai, India, September 2017.
+</li>
+<br/>
+<li>
+<b>dm-x: Protecting Volume-level Integrity for Cloud Volumes and
+    Local Block Devices</b><br/>
+<a href="http://www3.cs.stonybrook.edu/~anchakrabort/">Anrin Chakraborti</a>,
+    <a href="http://www.cs.unc.edu/~bhushan/">Bhushan Jain</a>,
+    Jan Kasiak,
+    <a href="http://www.cs.unc.edu/~zhtao/">Tao Zhang</a>,
+    Donald E. Porter,
+    and
+    <a href="https://zxr.io/">Radu Sion</a>
+<br/>
+(<a href="http://dl.acm.org/authorize?N41466">ACM</a>, <a href="pubs/a16-Chakraborti.pdf">PDF</a>)
+<br/>
+Proceedings of the 2017 ACM Asia-Pacific Workshop on Systems
+(<a href="http://ap-sys.org/apsys2017">APSys '17</a>),
+Mumbai, India, September 2017.
+</li>
+<br/>
+<li>
+<b>The Dose Makes the Poison---Leveraging Uncertainty for
+      Effective Malware Detection</b><br/>
+<a href="http://plaza.ufl.edu/gracesrm/">Ruimin Sun</a>,
+    Xiaoyong Yuan,
+Andrew Lee,
+<a href="http://nob.cs.ucdavis.edu/bishop/">Matt Bishop</a>,
+Donald E. Porter,
+Xiaolin Li, Andre Gregio,
+and
+<a href="http://www.daniela.ece.ufl.edu/Home.html">Daniela Oliveira</a>
+<br/>
+(<a href="pubs/DSC-no-copyright.pdf">PDF</a>)
+<br/>
+Proceedings of the 2017 IEEE Conference on Dependable and Secure
+Computing (<a href="https://dsc17.cs.nctu.edu.tw/">DSC '17</a>),
+Taipei, Taiwan, August 2017.
+</li>
+<br/>
+<li>
+<b>Graphene-SGX: A Practical Library OS for Unmodified Applications
+  on SGX</b><br/>
+<a href="http://www.cs.stonybrook.edu/~chitsai/">Chia-Che Tsai</a>,
+Donald E. Porter, and Mona Vij
+<br/>
+(<a href="pubs/graphene-sgx.pdf">PDF</a>)
+<br/>Proceedings of the 2017 USENIX Annual Technical Conference
+(<a href="https://www.usenix.org/conference/atc17">ATC
+  '17</a>), Santa Clara, California, July 2017.
+</li>
+<br/>
+<li>
+<b>How to Age Your File System</b><br/>
+<a href="https://ajhconway.com/">Alex Conway</a>,
+    <a href="http://aineshbakshi.com/">Ainesh Bakshi</a>,
+    <a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+    <a href="http://www.cs.unc.edu/~yzhan/">Yang Zhan</a>,
+    <a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+    <a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+ Donald E. Porter,
+    <a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+and
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<br/>
+(<a href="https://www.usenix.org/system/files/login/articles/login_summer17_02_conway.pdf">USENIX
+  Site</a>, <a href="pubs/login_summer17_02_conway.pdf">Local PDF</a>)
+<br/>
+In <a href="https://www.usenix.org/publications/login">:login; magazine</a>, Volume 42, Number 2, pages 6--11, Summer 2017.
+</li>
+<br>
+<li>
+<b> A Clairvoyant Approach to Evaluating Software (In)security</b><br>
+<a href="http://www.cs.unc.edu/~bhushan/">Bhushan Jain</a>,
+<a href="http://www.cs.stonybrook.edu/~chitsai/">Chia-Che Tsai</a>,
+and Donald E. Porter
+<br>
+(<a href="pubs/hotos17-final38.pdf">PDF</a>)
+<br/>Proceedings of the 16th ACM Workshop on Hot Topics in Operating
+Systems (<a href="https://www.sigops.org/hotos/hotos17/">HotOS
+  '17</a>), Whistler, British Columbia, Canada, May 2017.
+</br></br></li>
+<br/>
+<li>
+<b> Preserving Hidden Data with an Ever-Changing Disk</b><br/>
+<a href="http://www.cs.technion.ac.il/~aviadzuc/">Aviad Zuck</a>,
+Udi Shriki,
+Donald E. Porter, and
+<a href="http://www.cs.technion.ac.il/~dan/">Dan Tsafrir</a>
+<br/>
+(<a href="pubs/hotos17-final30.pdf">PDF</a>)
+<br/>Proceedings of the 16th ACM Workshop on Hot Topics in Operating
+Systems (<a href="https://www.sigops.org/hotos/hotos17/">HotOS
+  '17</a>), Whistler, British Columbia, Canada, May 2017.
+</li>
+<br/>
+<li>
+<b> Flash Lifespan *is* a Problem</b><br/>
+<a href="http://www.cs.unc.edu/~zhtao/">Tao Zhang</a>,
+<a href="http://www.cs.technion.ac.il/~aviadzuc/">Aviad Zuck</a>,
+Donald E. Porter, and
+<a href="http://www.cs.technion.ac.il/~dan/">Dan Tsafrir</a>
+<br/>
+(<a href="pubs/hotos17-final29.pdf">PDF</a>)
+<br/>Proceedings of the 16th ACM Workshop on Hot Topics in Operating
+Systems (<a href="https://www.sigops.org/hotos/hotos17/">HotOS
+  '17</a>), Whistler, British Columbia, Canada, May 2017.
+</li>
+<br/>
+<li>
+<b> Ubiquitous Accessibility for Users with Visual Impairments: Are
+  We There Yet?</b><br/>
+<a href="http://www.cs.stonybrook.edu/~sbillah/">Syed Masum Billah</a>,
+<a href="http://www3.cs.stonybrook.edu/~vganjiguntea/">Vikas Ashok</a>,
+Donald E. Porter, and
+<a href="http://www.cs.stonybrook.edu/~ram/">I.V. Ramakrishnan</a>
+<br/>
+(<a href="http://dl.acm.org/authorize?N30182">ACM</a>, <a href="pubs/p5862-billah.pdf">PDF</a>)
+<br/>Proceedings of the ACM CHI Conference on Human Factors in
+Computing Systems (<a href="https://chi2017.acm.org/">CHI '17</a> (Note)), Denver, Colorado, May 2017.
+</li>
+<br/>
+<li>
+<b> Writes Wrought Right, and Other Adventures in File System
+  Optimization</b><br/>
+<a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a>,
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~ppandey/">Prashant Pandey</a>,
+<a href="http://www.cs.stonybrook.edu/~aakshintala/">Amogh Akshintala</a>,
+<a href="http://www.cs.stonybrook.edu/~kchandnani/">Kanchan Chandnani</a>,
+<a href="https://sites.google.com/site/poojadeo1991/">Pooja Deo</a>,
+Zardosht Kasheff,
+Leif Walsh,
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+and Donald E. Porter
+<br/>
+(<a href="http://dl.acm.org/authorize?N30181">ACM</a>, <a href="pubs/a3-yuan.pdf">PDF</a>)
+<br/><a href="http://tos.acm.org">ACM Transactions on Storage</a>, Volume 13, No 1, Article 3, March 2017.
+</li>
+<br/>
+<li>
+<b> File Systems Fated for Senescence?  Nonsense, Says Science!</b><br/>
+<a href="https://ajhconway.com/">Alex Conway</a>,
+    <a href="http://aineshbakshi.com/">Ainesh Bakshi</a>,
+    <a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+    <a href="http://www.cs.unc.edu/~yzhan/">Yang Zhan</a>,
+    <a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+    <a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+ Donald E. Porter,
+    <a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+and
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>
+<br/>
+(<a href="pubs/fast17.pdf">PDF</a>, <a href="https://www.usenix.org/conference/fast17/technical-sessions/presentation/conway">Presentation</a>)
+<br/>Proceedings of the 15th USENIX Conference on File and Storage Technologies (<a href="https://www.usenix.org/conference/fast17">FAST '17</a>), Santa Clara, CA, February 2017.
+</li>
+<br/>
+<hr/>
+<li>
+<b> A Platform Agnostic Remote Desktop System for Screen Reading</b><br/>
+<a href="http://www.cs.stonybrook.edu/~sbillah/">Syed Masum Billah</a>,
+<a href="http://www3.cs.stonybrook.edu/~vganjiguntea/">Vikas Ashok</a>,
+Donald E. Porter, and
+<a href="http://www.cs.stonybrook.edu/~ram/">I.V. Ramakrishnan</a>
+<br/>
+(<a href="pubs/sinter_asset_demo_final_16.pdf">PDF</a>)
+<br/>Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (<a href="http://assets16.sigaccess.org/">ASSETS '16</a> (Demo Paper)), Reno, Nevada, October 2016.
+</li>
+<br/>
+<li>
+<b>Bear: A Framework for Understanding Application Sensitivity to OS (Mis)Behavior</b><br/>
+<a href="http://plaza.ufl.edu/gracesrm/">Ruimin Sun</a>,
+Andrew Lee,
+Aokun Chen,
+<a href="http://www.psych.ufl.edu/~ebner">Natalie Ebner</a>,
+Donald E. Porter,
+<a href="http://nob.cs.ucdavis.edu/bishop/">Matt Bishop</a>,
+and
+<a href="http://www.daniela.ece.ufl.edu/Home.html">Daniela Oliveira</a>
+<br/>
+(<a href="pubs/issre-camera-ready.pdf">PDF</a>)
+<br/>Proceedings of the 27th IEEE International Symposium on Software Reliability Engineering (<a href="http://issre.net/">ISSRE '16</a>), Ottawa, Canada, October 2016.
+</li>
+<br/>
+<li>
+<b>What to Support when You're Supporting: A Study of Linux API Usage and Compatibility</b><br/>
+<a href="http://www.cs.stonybrook.edu/~chitsai/">Chia-Che Tsai</a>,
+<a href="http://www.cs.unc.edu/~bhushan/">Bhushan Jain</a>,
+<a href="http://www.cs.stonybrook.edu/~nabdul/">Nafees Ahmed Abdul</a>,
+and Donald E. Porter
+<br/>
+(<a href="https://www.usenix.org/publications/login/fall2016/tsai">USENIX
+  Site</a>, <a href="pubs/login-fall16.pdf">PDF</a>)
+<br/>
+In <a href="https://www.usenix.org/publications/login">:login; magazine</a>, Volume 41, Number 3, pages 13--19, Fall 2016.
+</li>
+<br>
+<li>
+<b> Lazy Analytics: Let Other Queries Do the Work For You</b><br>
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+and Donald E. Porter
+<br>
+(<a href="pubs/hotstorage16-final30.pdf">PDF</a>)
+<br/>Proceedings of the 8th USENIX Workshop on Hot Topics in Storage and File Systems (<a href="https://www.usenix.org/conference/hotstorage16">HotStorage '16</a>), Denver, CO, June 2016.
+</br></br></li>
+<br/>
+<li>
+<b> Versioned programming: A simple technique
+for implementing efficient, lock-free, and composable data structures.</b><br/>
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a> and
+Donald E. Porter
+<br/>
+(<a href="http://dl.acm.org/authorize?N15279">ACM</a>, <a href="pubs/systor16-final.pdf">PDF</a>)
+<br/>Proceedings of the 9th ACM International Systems and Storage Conference (<a href="http://www.systor.org/2016/index.html">SYSTOR '16</a>), Haifa, Israel, June 2016.
+</li>
+<br/>
+<li>
+<b> Sinter: Low-Bandwidth Remote Access for the Visually-Impaired</b><br/>
+<a href="http://www.cs.stonybrook.edu/~sbillah/">Syed Masum Billah</a>,
+Donald E. Porter, and
+<a href="http://www.cs.stonybrook.edu/~ram/">I.V. Ramakrishnan</a>
+<br/>
+(<a href="http://dl.acm.org/authorize?N15271">ACM</a>, <a href="pubs/sinter16.pdf">PDF</a>)
+<br/>Proceedings of the 11th ACM European Conference on Computer Systems (<a href="http://eurosys16.doc.ic.ac.uk/">EuroSys '16</a>), London, UK, April 2016.
+</li>
+<br/>
+<li>
+<b>A Study of Modern Linux API Usage and Compatibility: What to Support When You're Supporting</b><br/>
+<a href="http://www.cs.stonybrook.edu/~chitsai/">Chia-Che Tsai</a>,
+<a href="http://www.cs.stonybrook.edu/~bpjain/">Bhushan Jain</a>,
+<a href="http://www.cs.stonybrook.edu/~nabdul/">Nafees Ahmed Abdul</a>,
+and Donald E. Porter
+<br/>
+(<a href="http://dl.acm.org/authorize?N15270">ACM</a>, <a href="pubs/syspop16.pdf">PDF</a>)
+<br/>Proceedings of the 11th ACM European Conference on Computer Systems (<a href="http://eurosys16.doc.ic.ac.uk/">EuroSys '16</a>), London, UK, April 2016.
+</li>
+<br/>
+<li>
+<b> Optimizing Every Operation in a Write-Optimized File System</b><br/>
+<a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a>,
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~ppandey/">Prashant Pandey</a>,
+<a href="http://www.cs.stonybrook.edu/~aakshintala/">Amogh Akshintala</a>,
+<a href="http://www.cs.stonybrook.edu/~kchandnani/">Kanchan Chandnani</a>,
+<a href="https://sites.google.com/site/poojadeo1991/">Pooja Deo</a>,
+Zardosht Kasheff,
+Leif Walsh,
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+and Donald E. Porter
+<br/>
+(<a href="pubs/fast16-final.pdf">PDF</a>)
+<br/>Proceedings of the 14th USENIX Conference on File and Storage Technologies (<a href="https://www.usenix.org/conference/fast16">FAST '16</a>), Santa Clara, CA, February 2016.
+</li>
+<br/>
+<hr/>
+<br/>
+<li>
+<b> BetrFS: Write-Optimization in a Kernel File System</b><br>
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a>,
+<a href="http://www.cs.stonybrook.edu/~aakshintala/">Amogh Akshintala</a>,
+John Esmet,
+<a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+<a href="http://www.cs.stonybrook.edu/~anmittal/">Ankur Mittal</a>,
+<a href="http://www.cs.stonybrook.edu/~ppandey/">Prashant Pandey</a>,
+Phaneendra Reddy,
+Leif Walsh,
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+and Donald E. Porter
+<br/>
+(<a href="http://dl.acm.org/authorize?N07768">ACM</a>, <a href="pubs/a18-jannen.pdf">PDF</a>)
+<br/><a href="http://tos.acm.org">ACM Transactions on Storage</a>, Volume 11, No 4, Article 18, October 2015.
+</br></li>
+<br/>
+<li>
+<b>How to Get More Value From Your File System Directory Cache </b><br/>
+<a href="http://www.cs.stonybrook.edu/~chitsai/">Chia-Che Tsai</a>,
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a>,
+Jayashree Reddy,
+<a href="http://www.cs.stonybrook.edu/~yjiao/">Yizheng Jiao</a>,
+<a href="http://www.cs.stonybrook.edu/~zhtao/">Tao Zhang</a>,
+and Donald E. Porter
+<br>
+(<a href="http://dl.acm.org/authorize?N15272">ACM</a>, <a href="pubs/sosp15-final.pdf">PDF</a>, <a href="pubs/sosp15-final-onecol.pdf">Single Column PDF</a>)
+<br/>Proceedings of the 25th ACM Symposium on Operating Systems Principles (<a href="http://www.ssrc.ucsc.edu/sosp15">SOSP '15</a>), Monterey, CA, October 2015.
+</br></li>
+<br/>
+<li>
+<b>An Introduction to B<sup>ε</sup>-Trees and Write-Optimization</b><br/>
+<a href="http://www.cs.stonybrook.edu/~bender/">Michael Bender</a>,
+<a href="http://www.cs.rutgers.edu/~farach/">Martin Farach-Colton</a>,
+<a href="http://www.cs.stonybrook.edu/~wjannen/">William Jannen</a>,
+<a href="http://www.cs.stonybrook.edu/~rob/">Rob Johnson</a>,
+<a href="http://people.csail.mit.edu/bradley/">Bradley C. Kuszmaul</a>,
+Donald E. Porter,
+<a href="http://www.cs.stonybrook.edu/~junyuan/">Jun Yuan</a>,
+and
+<a href="http://www.cs.stonybrook.edu/~yazhan/">Yang Zhan</a>
+<br/>
+(<a href="https://www.usenix.org/publications/login/oct15/bender">USENIX Site</a>)
+<br/>
+In <a href="https://www.usenix.org/publications/login">:login; magazine</a>, Volume 40, Number 5, pages 22--28, October 2015.
+</li>
+<br>
+<li>
+<b>The Case for Unpredictability and Deception as OS Features</b><br/>
+<a href="http://plaza.ufl.edu/gracesrm/">Ruimin Sun</a>,
+<a href="http://nob.cs.ucdavis.edu/bishop/">Matt Bishop</a>,
+<a href="http://www.psych.ufl.edu/~ebner">Natalie C. Ebner</a>,
+<a href="http://www.daniela.ece.ufl.edu/Home.html">Daniela Oliveira</a>,
+and
+Donald E. Porter
+<br/>
+(<a href="https://www.usenix.org/publications/login/aug15/sun">USENIX Site</a>)
+<br/>
+In <a href="https://www.usenix.org/publications/login">:login; magazine</a>, Volume 40, Number 4, pages 12--17, August 2015.
+</li>
+<br>
+<li>
+<b>Containing the Hype</b><br/>
+Kavita Agarwal,
+<a href="http://www.cs.stonybrook.edu/~bpjain/">Bhushan Jain</a>,
+and Donald E. Porter
+<br>
+(<a href="pubs/APSys-CameraReady-v2.pdf">PDF</a>)
+<br/>
+In Proceedings of the
+<a href="http://www.sslab.ics.keio.ac.jp/apsys2015/">
+6th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys '15)</a>,
+Tokyo, Japan, July
+2015.</br></li>
+<br>
+<li>
+<b>The Case for Less Predictable Operating System Behavior</b><br/>
+<a href="http://plaza.ufl.edu/gracesrm/">Ruimin Sun</a>,
+Donald E. Porter
+<a href="http://www.daniela.ece.ufl.edu/Home.html">Daniela Oliveira</a>,
+and
+<a href="http://nob.cs.ucdavis.edu/bishop/">Matt Bishop</a>
+<br/>
+(<a href="pubs/hotos15-final.pdf">PDF</a>)
+<br/>
+In Proceedings of the
+<a href="http://www.usenix.org/conference/hotos15/">
+15th Workshop on Hot Topics in Operating Systems (HotOS '15)</a>,
+Kartause Ittingen, Switzerland, May
+2015.</li>
+<br>
+<li>
+<b>Introspections on the Semantic Gap</b><br/>
+<a href="http://www.cs.stonybrook.edu/~bpjain/">Bhushan Jain</a>,
+<a href="http://www.cs.stonybrook.edu/~mbaig/">Mirza Basim Baig</a>,
+<a href="http://www.cs.stonybrook.edu/~dozhang/">Dongli Zhang</a>,
+Donald E. Porter,
+and <a href="http://www.cs.stonybrook.edu/~sion/">Radu Sion</a>
+<br/>
+In <a href="http://www.computer.org/web/computingnow/securityandprivacy">IEEE Security and Privacy</a>, March/April 2015, Volume 13, No. 2, pages 48--55.
+</li>
+<br>
+<li>
+<b>Teaching Virtualization by Building a Hypervisor</b><br/>
+Abhinand Palicherla,
+<a href="http://www.cs.stonybrook.edu/~zhtao/">Tao Zhang</a>,
+and Donald E. Porter
+<br/>
+(<a href="pubs/jos-vm.pdf">PDF</a>)
+<br/>
+In the Proceedings of the <a href="http://sigcse2015.sigcse.org"> 46th SIGCSE Technical Symposium on Computer
+Science Education</a></li></br></br></br></br></br></br></br></ul></br></td></tr></table></body>

@@ -1,0 +1,39 @@
+http://kaichen.org/Publication.html
+<body class="subpage">
+<div id="page-wrapper">
+<!-- Header -->
+<div id="header-wrapper">
+<header class="container" id="header">
+<div class="row">
+<div class="12u">
+<!-- Logo -->
+<h1><a href="http://www.kaichen.org/" id="logo">Kai Chen</a></h1>
+<!-- Nav -->
+<nav id="nav">
+<a href="index.html">Home</a>
+<a href="Research.html">Research</a>
+<a href="Publication.html">Publication</a>
+<a href="People.html">People</a>
+<a href="News.html">News</a>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<!-- Content -->
+<div id="content-wrapper">
+<div id="content">
+<div class="container">
+<div class="row">
+<div class="9u 12u(mobile)">
+<!-- Main Content -->
+<section>
+<header>
+<h2>Papers (over 60)</h2>
+</header>
+<h3>2019</h3>
+<p>
+                                                1. [USENIX Security] Y. Chen, L. Xing, Y. Qin, X. Liao, X. Wang, K. Chen, W. Zou, "Devils in the Guidance: Predicting Logic Vulnerabilities in Payment Syndication Services through Automated Documentation Analysis", USENIX Security 2019
+											</p>
+												2. [S&amp;P] Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan, Fnu Suya, Yuan Tian, Kai Chen, XiaoFeng Wang, Wei Zou, "Demystifying Hidden Privacy Settings in Mobile Apps", IEEE S&amp;P 2019
+											</section></div></div></div></div></div></div></body>

@@ -1,0 +1,546 @@
+https://tsg.ece.cornell.edu/publications/
+<body class="page-template-default page page-id-11 et_divi_builder wp-featherlight-captions better-responsive-menu wide et-pb-theme-ample et-db">
+<div class="hfeed site" id="page">
+<header class="site-header" id="masthead" role="banner">
+<div class="header">
+<div class="main-head-wrap inner-wrap clearfix">
+<div id="header-left-section">
+<div class="" id="header-text">
+<p id="site-title">
+<a href="https://tsg.ece.cornell.edu/" rel="home" title="Suh Research Group">Suh Research Group</a>
+</p>
+<p id="site-description">Cornell University | School of Electrical and Computer Engineering</p>
+</div>
+</div><!-- #header-left-section -->
+<div id="header-right-section">
+<nav class="main-navigation" id="site-navigation" role="navigation">
+<p class="menu-toggle"></p>
+<div class="menu-menu-1-container"><ul class="menu menu-primary-container" id="menu-menu-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-17" id="menu-item-17"><a href="https://tsg.ece.cornell.edu/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80" id="menu-item-80"><a href="https://tsg.ece.cornell.edu/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19" id="menu-item-19"><a href="https://tsg.ece.cornell.edu/people/">People</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52" id="menu-item-52"><a href="https://tsg.ece.cornell.edu/people/g-edward-suh/">G. Edward Suh</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-20" id="menu-item-20"><a aria-current="page" href="https://tsg.ece.cornell.edu/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21" id="menu-item-21"><a href="https://tsg.ece.cornell.edu/research/">Research</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42" id="menu-item-42"><a href="https://tsg.ece.cornell.edu/research/verifiably-secure-hardware-and-its-applications-to-secure-autonomous-driving/">Verifiably Secure Hardware and Its Applications to Secure Autonomous Driving</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41" id="menu-item-41"><a href="https://tsg.ece.cornell.edu/research/automated-cross-layer-customization/">Automated Cross-Layer Customization</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43" id="menu-item-43"><a href="https://tsg.ece.cornell.edu/research/past-projects/">Past Projects</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22" id="menu-item-22"><a href="https://tsg.ece.cornell.edu/teaching/">Teaching</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120" id="menu-item-120"><a href="https://tsg.ece.cornell.edu/contact-2/">Contact</a></li>
+</ul></div> </nav>
+<i aria-hidden="true" class="fa fa-search search-top"></i>
+<div class="search-form-top">
+<form action="https://tsg.ece.cornell.edu/" class="search-form searchform clearfix" method="get">
+<div class="search-wrap">
+<label class="screen-reader-text" for="ample-search-label">Search</label>
+<input class="s field" id="ample-search-label" name="s" placeholder="Search" type="search"/>
+<button class="search-icon" type="submit"><span class="screen-reader-text" search<="" span=""></span></button>
+</div>
+</form><!-- .searchform --> </div>
+</div>
+</div><!-- .main-head-wrap -->
+</div><!-- .header -->
+</header><!-- end of header -->
+<div class="main-wrapper">
+<div class="header-post-title-container clearfix">
+<div class="inner-wrap">
+<div class="post-title-wrapper">
+<h1 class="header-post-title-class entry-title">Publications</h1>
+</div>
+</div>
+</div>
+<div class="single-page clearfix">
+<div class="inner-wrap">
+<div id="primary">
+<div id="content" role="main">
+<article class="post-11 page type-page status-publish hentry" id="post-11">
+<div class="entry-content">
+<div class="no_bullets" id="toc_container"><p class="toc_title">Contents</p><ul class="toc_list"><li><a href="#Conference_and_Journal_Publications"><span class="toc_number toc_depth_1">1</span> Conference and Journal Publications</a></li><li><a href="#Book_Chapters"><span class="toc_number toc_depth_1">2</span> Book Chapters</a></li><li><a href="#MS_ThesesPhD_Dissertations"><span class="toc_number toc_depth_1">3</span> M.S. Theses/Ph.D. Dissertations</a></li><li><a href="#Technical_Reports_and_arXiv_Articles"><span class="toc_number toc_depth_1">4</span> Technical Reports and arXiv Articles</a></li><li><a href="#ACM_and_IEEE-mandated_Copyright_Notice"><span class="toc_number toc_depth_1">5</span> ACM and IEEE-mandated Copyright Notice</a></li></ul></div>
+<h2><span class="toc-anchor" id="Conference_and_Journal_Publications">Conference and Journal Publications</span></h2>
+<h3>2019</h3>
+<ul>
+<li><strong>Channel Gating: A New Approach to CNN Acceleration by Exploiting Dynamic Sparsity</strong><br/>
+Weizhe Hua, Yuan Zhou, Christopher De Sa, <span class="il">Zhiru</span> Zhang, and G. Edward Suh<br/>
+<em>To appear in Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (<span class="il">MICRO</span>)</em>, October 2019.</li>
+<li><strong>Using Information Flow to Design an ISA That Controls Timing Channels</strong><br/>
+Drew Zagieboylo, G. Edward Suh, and Andrew C. Myers<br/>
+<em>Proceedings of the 32nd IEEE Computer Security Foundations Symposium, June 2019.<br/>
+</em>[ <a href="https://tsg.ece.cornell.edu/files/2019/06/hyperisa-csf2019.pdf">PDF</a> ]</li>
+<li><strong>TWiCe: Preventing Row-hammering by Exploiting Time Window Counters</strong><br/>
+Eojin Lee, Ingab Kang, Sukhan Lee, G. Edward Suh, and Jung Ho Ahn<br/>
+<em>Proceedings of the 46th International Symposium on Computer Architecture (ISCA)</em>, June 2019.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2019/06/isca19-334.pdf">PDF</a> ]</li>
+<li><strong><b>Designing Secure Cryptographic Accelerators with Information Flow Enforcement: A Case Study on AES</b></strong><br/>
+Zhenghong Jiang, Hanchen Jin, G. Edward Suh, and Zhiru Zhang<br/>
+<em>Proceedings of <span class="s4">the 56</span><span class="s17">th </span><span class="s4">Design Automation Conference (DAC), June 2019</span></em>.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/aes_dac2019-1jm2q4y.pdf">PDF</a> ]</li>
+</ul>
+<h3>2018</h3>
+<ul>
+<li><strong>High-Level Synthesis with Static Timing-Sensitive Information Flow Enforcement</strong><br/>
+Zhenghong Jiang, Steve Dai, G. Edward Suh and Zhiru Zhang<br/>
+<em>Proceedings of the 2018 International Conference On Computer Aided Design (ICCAD)</em>, November 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/assure-iccad2018-2fi44co.pdf">PDF</a> ]</li>
+<li><strong>An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware</strong><br/>
+Tao Chen, Shreesha Srinath, Christopher Batten, and G. Edward Suh<br/>
+<em>Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (<span class="il">MICRO</span>)</em>, October 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/parallelxl-micro2018-10bi0tp.pdf">PDF</a> ]</li>
+<li><strong>Secure Autonomous Cyber-Physical Systems Through Verifiable Information Flow Control</strong><br/>
+Jed Liu, Joe Corbett-Davies, Andrew Ferraiuolo, Alexander Ivanov, Mulong Luo, G. Edward Suh, Andrew C. Myers, and Mark Campbell<br/>
+<em>Proceedings of the ACM Workshop on Cyber-Physical Systems Security &amp; Privacy (CPS-SPC)</em>, October 2018.<br/>
+Best Paper Award.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/secureCPS-spc18-1mb6ojj.pdf">PDF</a> ]</li>
+<li><strong>HyperFlow: A Processor Architecture for Nonmalleable, Timing-Safe Information Flow Security</strong><br/>
+Andrew Ferraiuolo, Mark Zhao, Andrew C. Myers, and G. Edward Suh<br/>
+<em>Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS)</em>, October 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/hyperflow-ccs18-2f2hcfn.pdf">PDF</a> ]</li>
+<li><strong>Quantitative Overhead Analysis for Python</strong><br/>
+Mohamed Ismail and G. Edward Suh<br/>
+<em>Proceedings of the IEEE International Symposium on Workload Characterization (IISWC 2018)</em>, September 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/iiswc18-revised-1fjavbb.pdf">PDF</a> ] (This version includes slightly updated experimental results in Section IV.C.1, which correct errors in the conference publication. The update does not change any major findings or conclusions in the conference version.)</li>
+<li><strong>Hardware-Software Co-Optimization of Garbage Collection for Efficient Memory Management in Dynamic Languages<br/>
+</strong>Mohamed Ismail and G. Edward Suh<br/>
+<em>Proceedings of the 2018 International Symposium on Memory Management (ISMM)</em>, June 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/ismm18-p13-2eqod0t.pdf">PDF</a> ]</li>
+<li><span class="s4"><strong>Reverse Engineering Convolutional Neural Networks Through Side-channel Information Leaks</strong><br/>
+</span><span class="s4">Weizhe Hua, Zhiru Zhang, and G. Edward Suh<br/>
+</span><em><span class="s4">Proceedings of the 55</span><span class="s17">th </span></em><span class="s4"><em>Design Automation Conference (DAC)</em>, June 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/dac2018-1bpq8lg.pdf">PDF</a> ]</span></li>
+<li><span class="s4"><strong>FPGA-Based Remote Power Side-Channel Attacks</strong><br/>
+Mark Zhao and G. Edward Suh<br/>
+</span><em><span class="s4">Proceedings of the IEEE Symposium on Security and</span></em><span class="s4"><em> Privacy</em>, May 2018</span><span class="s4">.<br/>
+Distinguished Practical Paper Award.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2018/04/SP2018-FPGA-2m12dnp.pdf">PDF</a> ]</span></li>
+<li><strong>TWiCe: Time Window Counter Based Row Refresh to Prevent Row-hammering<br/>
+</strong>Eojin Lee, Sukhan Lee, G. Edward Suh, and Jung Ho Ahn<strong><br/>
+</strong><em>IEEE Computer Architecture Letters, </em>2018.</li>
+</ul>
+<h3>2017</h3>
+<ul>
+<li><strong>Komodo: Using Verification to Disentangle Secure-Enclave Hardware from Software<br/>
+</strong>Andrew Ferraiuolo, Andrew Baumann, Chris Hawblitzel, Bryan Parno<strong><br/>
+</strong><em>Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP), </em>October 2017.</li>
+<li><strong>Secure Information Flow Verification with Mutable Dependent Types</strong>
+<div class="pub-authors">Andrew Ferraiuolo, Weizhe Hua, Andrew C. Myers, G. Edward Suh</div>
+<div class="pub-publication"><em>Proceedings of the 54th Design Automation Conference (DAC)</em>, June 2017.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/ferraiuolo-dac-17-1g6xcme.pdf">PDF</a> ]</div>
+</li>
+<li><strong>Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis</strong><br/>
+Andrew Ferraiuolo, Rui Xu, Danfeng Zhang, Andrew C. Myers, and G. Edward Suh<br/>
+<em>Proceedings of the 22nd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), </em>April 2017.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/secverilog-asplos17.pdf" title="pubs:secverilog-asplos17.pdf">PDF</a> ]</li>
+<li><strong>Secure Dynamic Memory Scheduling Against Timing Channel Attacks</strong><br/>
+Yao Wang, Benjamin Wu, and G. Edward Suh<br/>
+<em>Proceedings of the 23rd International Symposium on High-Performance Computer Architecture (HPCA)</em>, February 2017.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/secmc-hpca17.pdf" title="pubs:secmc-hpca17.pdf">PDF</a> ]</li>
+</ul>
+<h3>2016</h3>
+<ul>
+<li><strong>Efficient Data Supply for Hardware Accelerators with Prefetching and Access/Execute Decoupling</strong><br/>
+Tao Chen and G. Edward Suh<br/>
+<em>Proceedings of the 49th Annual International Symposium on Microarchitecture (MICRO)</em>, October 2016.</li>
+<li><strong>Prediction-Guided Performance-Energy Trade-off with Continuous Run-Time Adaptation</strong><br/>
+Taejoon Song, Daniel Lo, and G. Edward Suh<br/>
+<em>Proceedings of the International Symposium on Low Power Electronics and Design (ISLPED)</em>, August 2016.</li>
+<li><strong>SecDCP: Secure Dynamic Cache Partitioning for Efficient Timing Channel Protection</strong><br/>
+Yao Wang, Andrew Ferraiuolo, Danfeng Zhang, Andrew C. Myers, and G. Edward Suh<br/>
+<em>Proceedings of the 53rd Design Automation Conference (DAC)</em>, June 2016.</li>
+<li><strong>Lattice Priority Scheduling: Low-Overhead Timing Channel Protection for a Shared Memory Controller</strong><br/>
+Andrew Ferraiuolo, Yao Wang, Danfeng Zhang, Andrew C. Myers, and G. Edward Suh<br/>
+<em>Proceedings of the 22nd International Symposium on High-Performance Computer Architecture (HPCA)</em>, February 2016.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/tp-hpca16.pdf" title="pubs:tp-hpca16.pdf">PDF</a> ]</li>
+</ul>
+<h3>2015</h3>
+<ul>
+<li><strong>Execution Time Prediction for Energy-Efficient Hardware Accelerators<br/>
+</strong>Tao Chen, Alex Rucker, and G. Edward Suh<br/>
+<em>Proceedings of the 48th Annual International Symposium on Microarchitecture (MICRO)</em>, December 2015.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/hwdvfs-micro2015.pdf" title="pubs:hwdvfs-micro2015.pdf">PDF</a> ]</li>
+<li><strong>Prediction-Guided Performance-Energy Trade-off for Interactive Applications<br/>
+</strong>Daniel Lo, Taejoon Song, and G. Edward Suh<br/>
+<em>Proceedings of the 48th Annual International Symposium on Microarchitecture (MICRO)</em>, December 2015.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/swdvfs-micro2015.pdf" title="pubs:swdvfs-micro2015.pdf">PDF</a> ]</li>
+<li><strong>Improving Worst-Case Cache Performance through Selective Bypassing and Register-Indexed Cache</strong><br/>
+Mohamed Ismail, Daniel Lo, and G. Edward Suh<br/>
+<em>Proceedings of the the 52nd Design Automation Conference (DAC)</em>, June 2015.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/wcet-dac2015.pdf" title="pubs:wcet-dac2015.pdf">PDF</a> ]</li>
+<li><strong>A Hardware Design Language for Timing-Sensitive Information-Flow Security</strong><br/>
+Danfeng Zhang, Yao Wang, G. Edward Suh, and Andrew C. Myers<br/>
+<em>Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</em>, March 2015.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?N90655" rel="nofollow" title="http://dl.acm.org/authorize?N90655">ACM-Authorize</a> ]</li>
+<li><strong>Run-Time Monitoring with Adjustable Overheads Using Dataflow-Guided Filtering</strong><br/>
+Daniel Lo, Tao Chen, Mohamed Ismail, and G. Edward Suh<br/>
+<em>Proceedings of the 21st International Symposium on High Performance Computer Architecture (HPCA)</em>, February 2015.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flex-hpca15.pdf" title="pubs:flex-hpca15.pdf">PDF</a> ]</li>
+</ul>
+<h3>2014</h3>
+<ul>
+<li><strong>Author Retrospective: Analytical Cache Models With Applications to Cache Partitioning</strong><br/>
+G. E. Suh, G. Kurian, S. Devadas, and L. Rudolph<br/>
+<em>International Conference on Supercomputing 25th Anniversary Volume</em>, 2014.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?N90656" rel="nofollow" title="http://dl.acm.org/authorize?N90656">ACM-Authorize</a> ]</li>
+<li><strong>Author Retrospective: AEGIS: Architecture for Tamper-Evident and Tamper-Resistant Processing</strong><br/>
+G. E. Suh, C. Fletcher, D. Clarke, B. Gassend, M. van Dijk, and S. Devadas<br/>
+<em>International Conference on Supercomputing 25th Anniversary Volume</em>, 2014.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?N90657" rel="nofollow" title="http://dl.acm.org/authorize?N90657">ACM-Authorize</a> ]</li>
+<li><strong>Understanding Sources of Variations in Flash Memory for Physical Unclonable Functions</strong><br/>
+Sarah Q. Xu, Wing-kei Yu, G. Edward Suh, and Edwin C. Kan<br/>
+<em>Proceedings of the 2014 International Memory Workshop (IMW)</em>, May 2014.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/fpuf-imw2014.pdf" title="pubs:fpuf-imw2014.pdf">PDF</a> ]</li>
+<li><strong>Slack-Aware Opportunistic Monitoring for Real-Time Systems</strong><br/>
+Daniel Lo, Mohamed Ismail, Tao Chen, and G. Edward Suh<br/>
+<em>Proceedings of the 20th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)</em>, April 2014.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flex-rtas2014.pdf" title="pubs:flex-rtas2014.pdf">PDF</a> ]</li>
+<li><strong>Timing Channel Protection for Memory Controllers<br/>
+</strong>Yao Wang, Andrew Ferraiuolo, and G. Edward Suh<br/>
+<em>Proceedings of the 20th International Symposium on High Performance Computer Architecture (HPCA)</em>, February 2014.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/tp-hpca2014.pdf" title="pubs:tp-hpca2014.pdf">PDF</a> ]</li>
+<li><strong>Low-Overhead and High Coverage Run-Time Race Detection Through Selective Meta-data Management</strong><br/>
+Ruirui Huang, Erik Halberg, Andrew Ferraiuolo, and G. Edward Suh<br/>
+<em>Proceedings of the 20th International Symposium on High Performance Computer Architecture (HPCA)</em>, February 2014.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/race-hpca14.pdf" title="pubs:race-hpca14.pdf">PDF</a> ]</li>
+</ul>
+<h3>2013</h3>
+<ul>
+<li><strong>Non-Race Concurrency Bug Detection Through Order-Sensitive Critical Sections</strong><br/>
+Ruirui Huang, Erik Halberg, and G. Edward Suh<br/>
+<em>Proceedings of the 40th International Symposium on Computer Architecture (ISCA)</em>, June 2013.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?6824760" rel="nofollow" title="http://dl.acm.org/authorize?6824760">ACM-Authorize</a> ]</li>
+<li><strong>Hiding Information in Flash Memory</strong><br/>
+Yinglei Wang, Wing-kei Yu, Sarah Q. Xu, Edwin Kan, and G. Edward Suh<br/>
+<em>Proceedings of the IEEE Symposium on Security and Privacy</em>, May 2013.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flash-ieeesp2013.pdf" title="pubs:flash-ieeesp2013.pdf">PDF</a> ]</li>
+<li><strong>Quardrisection-Based Task Mapping on Many-Core Processors for Energy-Efficient On-Chip Communication</strong><br/>
+Nithin Michael, Yao Wang, Kevin Tang and G. Edward Suh<br/>
+<em>Proceedings of the 7th ACM/IEEE International Symposium on Networks-on-Chip (NOCS)</em>, April 2013.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/nocs13.pdf" title="pubs:nocs13.pdf">PDF</a> ]</li>
+<li><strong>Optimal and Heuristic Application-Aware Oblivious Routing</strong><br/>
+Michel Kinsy, Myong Hyon Cho, Keun Sup Shim, Mieszko Lis, G. Edward Suh, and Srinivas Devadas<br/>
+<em>IEEE Transactions on Computers</em>, vol.62, no.1, pp.59–73, January 2013.<br/>
+[ <a class="urlextern" href="http://dx.doi.org/10.1109/TC.2011.219" rel="nofollow" title="http://dx.doi.org/10.1109/TC.2011.219">IEEE</a> ]</li>
+</ul>
+<h3>2012</h3>
+<ul>
+<li><strong>Fast Development of Hardware-Based Run-Time Monitors Through Architecture Framework and High-Level Synthesis<br/>
+</strong>Mohamed Ismail and G. Edward Suh<br/>
+<em>Proceedings of the 30th International Conference on Computer Design (ICCD)</em>, October 2012.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flex-iccd2012.pdf" title="pubs:flex-iccd2012.pdf">PDF</a> ]</li>
+<li><strong>High-Performance Parallel Accelerator for Flexible and Efficient Instruction-Grained Run-Time Monitoring</strong><br/>
+Daniel Y. Deng and G. Edward Suh<br/>
+<em>Proceedings of the 42nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2012)</em>, June 2012.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flex-dsn2012.pdf" title="pubs:flex-dsn2012.pdf">PDF</a> ]</li>
+<li><strong>Worst-Case Execution Time Analysis for Parallel Run-Time Monitoring</strong><br/>
+Daniel Lo and G. Edward Suh<br/>
+<em>Proceedings of the 49th Design Automation Conference (DAC)</em>, June 2012.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?6778608" rel="nofollow" title="http://dl.acm.org/authorize?6778608">ACM-Authorize</a> ]</li>
+<li><strong>Efficient Timing Channel Protection for On-Chip Networks</strong><br/>
+Yao Wang and G. Edward Suh<br/>
+<em>Proceedings of the 6th ACM/IEEE International Symposium on Networks-on-Chip (NOCS)</em>, May 2012.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/nocs2012.pdf" title="pubs:nocs2012.pdf">PDF</a> ]</li>
+<li><strong>Flash Memory for Ubiquitous Hardware Security Functions: True Random Number Generation and Device Fingerprints</strong><br/>
+Yinglei Wang, Wing-kei Yu, Shuo Wu, Greg Malysa, G. Edward Suh, and Edwin Kan<br/>
+<em>Proceedings of the IEEE Symposium on Security and Privacy</em>, May 2012.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/flash-ieeesp2012.pdf" title="pubs:flash-ieeesp2012.pdf">PDF</a> ]</li>
+<li><strong>On the Performance of Averaged Optimal Routing</strong><br/>
+Nithin Michael, Ao Tang, and G. Edward Suh<br/>
+<em>Proceedings of the 46th Annual Conference on Information Sciences and Systems (CISS)</em>, March 2012.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/ciss2012.pdf" title="pubs:ciss2012.pdf">PDF</a> ]</li>
+</ul>
+<h3>2011</h3>
+<ul>
+<li><strong>Precise Exception Support for Decoupled Run-Time Monitoring Architectures<br/>
+</strong>Daniel Y. Deng and G. Edward Suh<br/>
+<em>Proceedings of the 29th International Conference on Computer Design (ICCD)</em>, September 2011.<br/>
+[ <a class="urlextern" href="http://dx.doi.org/10.1109/ICCD.2011.6081438" rel="nofollow" title="http://dx.doi.org/10.1109/ICCD.2011.6081438">IEEE</a> ]</li>
+<li><strong>FlexCache: Field Extensible Cache Controller Architecture Using On-Chip Reconﬁgurable Fabric</strong><br/>
+Daniel Lo, Greg Malysa and G. Edward Suh<br/>
+<em>Proceedings of the 21st International Conference on Field Programmable Logic and Applications (FPL)</em>, September 2011.<br/>
+[ <a class="urlextern" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6044772" rel="nofollow" title="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6044772">IEEE</a> ]</li>
+<li><strong>A Non-Volatile Microcontroller with Integrated Floating-Gate Transistors</strong><br/>
+Wing-kei Yu, Shantanu Rajwade, Sung-En Wang, Bob Lian, G. Edward Suh, Edwin Kan<br/>
+<em>Proceedings of the 5th Workshop on Dependable and Secure Nanocomputing (WDSN)</em>, June 2011.<br/>
+[ <a class="urlextern" href="http://dx.doi.org/10.1109/DSNW.2011.5958839" rel="nofollow" title="http://dx.doi.org/10.1109/DSNW.2011.5958839">IEEE</a> ]</li>
+<li><strong>Systematic Security Assessment at an Early Processor Design Stage</strong><br/>
+Ruirui Huang, David Grawrock, David C. Doughty, G. Edward Suh<br/>
+<em>Proceedings of the 4th International Conference on Trust and Trustworthy Computing (TRUST)</em>, June 2011.<br/>
+[ <a class="urlextern" href="http://www.springerlink.com/content/np4w86n66382w778/" rel="nofollow" title="http://www.springerlink.com/content/np4w86n66382w778/">LNCS</a> ]</li>
+<li><strong>Extracting Device Fingerprints from Flash Memory Exploiting Physical Variations</strong><br/>
+Pravin Prabhu, Ameen Akel, Laura, Wing-Kei S. Yu, G. Edward Suh, Edwin Kan, Steven Swanson<br/>
+<em>Proceedings of the 4th International Conference on Trust and Trustworthy Computing (TRUST)</em>, June 2011.<br/>
+[ <a class="urlextern" href="http://www.springerlink.com/content/f253244134421385/" rel="nofollow" title="http://www.springerlink.com/content/f253244134421385/">LNCS</a> ]</li>
+<li><strong>SRAM-DRAM Hybrid Memory with Applications to Efficient Register Files in Fine-Grained Multi-Threading</strong><br/>
+Wing-kei Yu, Ruirui Huang, Sarah Xu, Sung-En Wang, Edwin Kan, and G. Edward Suh<br/>
+<em>Proceedings of the 38th International Symposium on Computer Architecture (ISCA)</em>, June 2011.<br/>
+[ <a class="urlextern" href="http://dl.acm.org/authorize?445184" rel="nofollow" title="http://dl.acm.org/authorize?445184">ACM-Authorize</a> ]</li>
+<li><strong>Analysis of Application-Aware On-Chip Routing under Traffic Uncertainty</strong><br/>
+Nithin Michael, Milen Nikolov, Ao Tang, G. Edward Suh, and Christopher Batten<br/>
+<em>Proceedings of the 5th ACM/IEEE International Symposium on Networks-on-Chip (NOCS)</em>, May 2011.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/nocs2011.pdf" title="pubs:nocs2011.pdf">PDF</a> ]</li>
+</ul>
+<h3>2010</h3>
+<ul>
+<li><strong>Flexible and Efficient Instruction-Grained Run-Time Monitoring Using On-Chip Reconfigurable Fabric</strong><br/>
+Daniel Y Deng, Daniel Lo, Greg Malysa, Skyler Schneider, and G. Edward Suh<br/>
+<em>Proceedings of the 43rd Annual International Symposium on Microarchitecture (MICRO)</em>, December 2010.<br/>
+[ <a class="urlextern" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5695532" rel="nofollow" title="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5695532">IEEE</a> ]</li>
+<li><strong>Low Power Nonvolatile SRAM Circuit with Integrated Low Voltage Nanocrystal PMOS Flash</strong><br/>
+Shantanu Rajwade, Wing-kei Yu, Sarah Xu, Tuo-Hung Hou, G. Edward Suh, and Edwin Kan<br/>
+<em>Proceedings of the 23rd IEEE International System-On-Chip Conference</em>, September 2010.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/socc2010.pdf" title="pubs:socc2010.pdf">PDF</a> ]</li>
+<li><strong>IVEC: Off-Chip Memory Integrity Protection for Both Security and Reliability</strong><br/>
+Ruirui Huang, and G. Edward Suh<br/>
+<em>Proceedings of the 37th International Symposium on Computer Architecture (ISCA 2010)</em>, June 2010.<br/>
+[ <a class="urlextern" href="http://doi.acm.org/10.1145/1816038.1816015" rel="nofollow" title="http://doi.acm.org/10.1145/1816038.1816015">ACM</a> ]</li>
+<li><strong>Orthrus: Efficient Software Integrity Protection on Multi-Cores</strong><br/>
+Ruirui Huang, Daniel Y. Deng, and G. Edward Suh<br/>
+<em>Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2010)</em>, March 2010.<br/>
+[ <a class="urlextern" href="http://portal.acm.org/citation.cfm?id=1736020.1736062" rel="nofollow" title="http://portal.acm.org/citation.cfm?id=1736020.1736062">ACM</a> ]</li>
+</ul>
+<h3>2009</h3>
+<ul>
+<li><strong>Hardware Authentication Leveraging Performance Limits in Detailed Simulations and Emulations</strong><br/>
+Daniel Y. Deng, Andrew H. Chan, and G. Edward Suh<br/>
+<em>Proceedings of the 46th Design Automation Conference (DAC’09)</em>, July 2009.<br/>
+[ <a class="urlextern" href="http://portal.acm.org/citation.cfm?id=1630090" rel="nofollow" title="http://portal.acm.org/citation.cfm?id=1630090">ACM</a> ]</li>
+<li><strong>Static Virtual Channel Allocation in Oblivious Routing</strong><br/>
+Keun Sup Shim, Myong Hyon Cho, Michel Kinsy, Tina Wen, G. Edward Suh, and Srinivas Devadas<br/>
+<em>Proceedings of the 3rd ACM/IEEE International Symposium on Networks-on-Chip (NOCS)</em>, May 2009.<br/>
+[ <a class="urlextern" href="http://portal.acm.org/citation.cfm?id=1597086" rel="nofollow" title="http://portal.acm.org/citation.cfm?id=1597086">ACM</a> ]</li>
+<li><strong>Application-Aware Deadlock-Free Oblivious Routing</strong><br/>
+Michel Kinsy, Myong Hyon Cho, Tina Wen, Edward Suh, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the 36th Annual International Symposium on Computer Architecture (ISCA)</em>, June 2009.<br/>
+[ <a class="urlextern" href="http://portal.acm.org/citation.cfm?id=1555754.1555782" rel="nofollow" title="http://portal.acm.org/citation.cfm?id=1555754.1555782">ACM</a> ]</li>
+</ul>
+<h3>2008</h3>
+<ul>
+<li><strong>Diastolic Arrays: Throughput-Driven Reconfigurable Computing</strong><br/>
+Myong Hyon Cho, Chih-Chi Cheng, Michel Kinsy, G. Edward Suh, and Srinivas Devadas<br/>
+<em>Proceedings of the IEEE/ACM International Conference on Computer-Aided Design (ICCAD’08)</em>, November 10-23, 2008.<br/>
+[ <a class="urlextern" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4681615" rel="nofollow" title="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4681615">IEEE</a> ]</li>
+<li><strong>Design and Implementation of PUF-Based “Unclonable” RFID ICs for Anti-Counterfeiting and Security Applications</strong><br/>
+Srinivas Devadas, G. Edward Suh, Sid Paral, Richard Sowell, Thomas Ziola, and Vivek Khandelwal<br/>
+<em>Proceedings of the IEEE International Conference on RFID</em>, April 16-17, 2008.<br/>
+[ <a class="urlextern" href="http://www.ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=4519333&amp;arnumber=4519377&amp;count=52&amp;index=43" rel="nofollow" title="http://www.ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=4519333&amp;arnumber=4519377&amp;count=52&amp;index=43">IEEE</a> ]</li>
+</ul>
+<h3>2007</h3>
+<ul>
+<li><strong>AEGIS: A Single-Chip Secure Processor</strong><br/>
+G. Edward Suh, Charles W. O’Donnell, and Srinivas Devadas<br/>
+<em>IEEE Design &amp; Test of Computers</em>, vol.24, no.6, pp.570-580, Nov.-Dec. 2007.<br/>
+[ <a class="urlextern" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=4397167&amp;arnumber=4397182" rel="nofollow" title="http://ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=4397167&amp;arnumber=4397182">IEEE</a> ]</li>
+<li><strong>Memoization Attacks and Copy Protection in Partitioned Applications</strong><br/>
+Charles W. O’Donnell, G. Edward Suh, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the 2007 IEEE Workshop on Information Assurance</em>, West Point, NY, June 2007.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/iaw2007.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/iaw2007.pdf">PDF</a> ]</li>
+<li><strong>Physical Unclonable Functions for Device Authentication and Secret Key Generation</strong><br/>
+G. Edward Suh, and Srinivas Devadas<br/>
+<em>Proceedings of the 44th Design Automation Conference (DAC’07)</em>, San Diego, CA, June 2007.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/dac07.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/dac07.pdf">PDF</a> ]</li>
+</ul>
+<h3>2006</h3>
+<ul>
+<li><strong>Speeding up Exponentiation using an Untrusted Computational Resource</strong><br/>
+Marten van Dijk, Dwaine Clarke, Blaise Gassend, G. Edward Suh, and Srinivas Devadas<br/>
+<em>Designs, Codes and Cryptography</em>, Volume 39, Number 2, Pages 253-273, May 2006.<br/>
+[ <a class="urlextern" href="http://csg.csail.mit.edu/pubs/memos/Memo-469/memo469.pdf" rel="nofollow" title="http://csg.csail.mit.edu/pubs/memos/Memo-469/memo469.pdf">PDF</a> ]</li>
+</ul>
+<h3>2005</h3>
+<ul>
+<li><strong>Extracting Secret Keys from Integrated Circuits</strong><br/>
+Daihyun Lim, Jae W. Lee, Blaise Gassend, G. Edward Suh, Marten van Dijk, and Srinivas Devadas<br/>
+<em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</em>, Volume 13, Issue 10, Pages 1200-1205, October 2005.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/tvlsi05.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/tvlsi05.pdf">PDF</a> ]</li>
+<li><strong>Design and Implementation of the AEGIS Single-Chip Secure Processor Using Physical Random Functions</strong><br/>
+G. Edward Suh, Charles W. O’Donnell, Ishan Sachdev, and Srinivas Devadas<br/>
+<em>Proceedings of the 32nd Annual International Symposium on Computer Architecture (ISCA)</em>, June 2005. (<em class="u">This memo is a slightly updated version</em>)<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/isca05.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/isca05.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/isca05.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/isca05.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/isca05_slides.ppt" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/isca05_slides.ppt">SLIDES(PPT)</a> ]</li>
+<li><strong>Towards Constant Bandwidth Overhead Integrity Checking of Untrusted Data</strong><br/>
+Dwaine Clarke, G. Edward Suh, Blaise Gassend, Ajay Sudan, Marten van Dijk and Srinivas Devadas<br/>
+<em>Proceedings of the 2005 IEEE Symposium on Security and Privacy</em> (<em class="u">This memo is a slightly updated version</em>), 2005.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ieee-sp05.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ieee-sp05.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ieee-sp05.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ieee-sp05.pdf">PDF</a> ]</li>
+</ul>
+<h3>2004</h3>
+<ul>
+<li><strong>Secure Program Execution via Dynamic Information Flow Tracking</strong><br/>
+G. Edward Suh, Jae W. Lee, David X. Zhang, and Srinivas Devadas<br/>
+<em>Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS XI)</em>, pages 85-96, Boston, MA, October 2004.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/asplos04.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/asplos04.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/asplos04.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/asplos04.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/asplos04_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/asplos04_slides.pdf">SLIDES</a> ]</li>
+<li><strong>A Technique to Build a Secret Key in Integrated Circuits for Identification and Authentication Applications</strong><br/>
+Jae W. Lee, Daihyun Lim, Blaise Gassend, G. Edward Suh, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the Symposium on VLSI Circuits</em>, pages 176-179, Honolulu, HI, June 2004.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/vlsi04.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/vlsi04.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/vlsi04.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/vlsi04.pdf">PDF</a> ]</li>
+<li><strong>Dynamic Partitioning of Shared Cache Memory</strong><br/>
+G. Edward Suh, Larry Rudolph, and Srinivas Devadas<br/>
+<em>The Journal of Supercomputing</em>, 28(1), pages 7-26, April 2004.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/jsc04.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/jsc04.pdf">PDF</a> ]</li>
+</ul>
+<h3>2003</h3>
+<ul>
+<li><strong>Efficient Memory Integrity Verification and Encryption for Secure Processors</strong><br/>
+G. Edward Suh, Dwaine Clarke, Blaise Gassend, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the 36th Annual International Symposium on Microarchitecture (MICRO36)</em>, pages 339-350, San Diego, CA, December 2003.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/micro03.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/micro03.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/micro03.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/micro03.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/micro03_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/micro03_slides.pdf">SLIDES</a> ]</li>
+<li><strong>Incremental Multiset Hash Functions and Their Application to Memory Integrity Checking</strong><br/>
+Dwaine Clarke, Srinivas Devadas, Marten van Dijk, Blaise Gassend, and G. Edward Suh<br/>
+<em>Proceedings of the 9th International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt 2003)</em>, Lecture Notes in Computer Science (LNCS), Vol. 2894, pages 188-207, Taipei, Taiwan, November 2003.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/asiacrypt03.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/asiacrypt03.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/asiacrypt03.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/asiacrypt03.pdf">PDF</a> ]</li>
+<li><strong>The AEGIS Processor Architecture for Tamper-Evident and Tamper-Resistant Processing<br/>
+</strong>G. Edward Suh, Blaise Gassend, Dwaine Clarke, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the 17th International Conference on Supercomputing (ICS’03)</em>, pages 160-171, San Francisco, CA, June 2003. (<em class="u">Revised version</em>)<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ics03.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ics03.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ics03.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ics03.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/ics03_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/ics03_slides.pdf">SLIDES</a> ]</li>
+<li><strong>Intelligent SRAM (ISRAM) for Improved Embedded System Performance</strong><br/>
+Prabhat Jain, G. Edward Suh, and Srinivas Devadas<br/>
+<em>Proceedings of the 40th Design Automation Conference (DAC’03)</em>, pages 869-874, Anaheim, CA, June 2003.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/dac03.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/dac03.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/dac03.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/dac03.pdf">PDF</a> ]</li>
+<li><strong>Caches and Hash Trees for Efficient Memory Integrity Verification</strong><br/>
+Blaise Gassend, G. Edward Suh, Dwaine Clarke, Marten van Dijk, and Srinivas Devadas<br/>
+<em>Proceedings of the High Performance Computer Architecture 9 (HPCA9)</em>, pages 295-306, Anaheim, CA, February 2003.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/hpca03.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/hpca03.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/hpca03.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/hpca03.pdf">PDF</a> ]</li>
+</ul>
+<h3>2002</h3>
+<ul>
+<li><strong>A New Memory Monitoring Scheme for Memory-Aware Scheduling and Partitioning</strong><br/>
+G. Edward Suh, Srinivas Devadas, and Larry Rudolph<br/>
+<em>Proceedings of the High Performance Computer Architecture 8 (HPCA8)</em>, pages 117-118, Boston, MA, February 2002.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/hpca02.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/hpca02.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/hpca02.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/hpca02.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/hpca02_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/hpca02_slides.pdf">SLIDES</a> ]</li>
+</ul>
+<h3>2001</h3>
+<ul>
+<li><strong>Effects of Memory Performance on Parallel Job Scheduling</strong><br/>
+G. Edward Suh, Larry Rudolph, and Srinivas Devadas<br/>
+<em>Proceedings of the 7th International Workshop on Job Scheduling Strategies for for Parallel Processing (JSSPP 2001)</em>, Lecture Notes in Computer Science (LNCS), Vol. 2221, pages 116-132, Cambridge, MA, June 2001.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/jsspp01.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/jsspp01.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/jsspp01.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/jsspp01.pdf">PDF</a> ]</li>
+<li><strong>Dynamic Cache Partitioning for Simultaneous Multithreading Systems</strong><br/>
+G. Edward Suh, Larry Rudolph, and Srinivas Devadas<br/>
+<em>Proceedings of the IASTED International Conference on Parallel and Distributed Computing and Systems (PDCS’01)</em>, pages 635-641, Anaheim, CA, August 2001. (<strong>Best paper award</strong>)<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/pdcs01.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/pdcs01.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/pdcs01.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/pdcs01.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/pdcs01_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/pdcs01_slides.pdf">SLIDES</a> ]</li>
+<li><strong>Analytical Cache Models with Application to Cache Partitioning</strong><br/>
+G. Edward Suh, Srinivas Devadas, and Larry Rudolph<br/>
+<em>Proceedings of the 15th International Conference on Supercomputing (ICS’01)</em>, pages 1-12, Sorrento, Italy, June 2001.<br/>
+[ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ics01.ps" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ics01.ps">PS</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/papers/ics01.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/papers/ics01.pdf">PDF</a> ] [ <a class="urlextern" href="http://www.csl.cornell.edu/%7Esuh/slides/ics01_slides.pdf" rel="nofollow" title="http://www.csl.cornell.edu/~suh/slides/ics01_slides.pdf">SLIDES</a> ]</li>
+</ul>
+<h2><span class="toc-anchor" id="Book_Chapters">Book Chapters</span></h2>
+<ul>
+<li>A. Sadeghi, D. Naccache (Eds.), <strong>Towards Hardware-Intrinsic Security</strong>, Springer, 2010. (ISBN: 978-3-642-14451-6)</li>
+</ul>
+<h2><span class="toc-anchor" id="MS_ThesesPhD_Dissertations">M.S. Theses/Ph.D. Dissertations</span></h2>
+<ul>
+<li><strong>Timing-Safe Hardware-Level Information Flow Control</strong><br/>
+Andrew Ferraiuolo<br/>
+Doctoral Dissertation, Cornell University, May 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/Ferraiuolo-PhDThesis2018-1hxshsk.pdf">PDF</a> ]</li>
+<li><strong>Architectural Frameworks for Automated Design and Optimization of Hardware Accelerators</strong><br/>
+Tao Chen<br/>
+Doctoral Dissertation, Cornell University, May 2018.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/TaoChen-PhDThesis2018-1xzddp2.pdf">PDF</a> ]</li>
+<li><strong>Efficient and Verifiable Timing Channel Protection for Multi-Core Processors</strong><br/>
+Yao Wang<br/>
+Doctoral Dissertation, Cornell University, January 2017.<br/>
+[ <a href="https://tsg.ece.cornell.edu/files/2016/08/Yao_Dissertation-1z7tz4x.pdf">PDF</a> ]</li>
+<li><strong>Prediction-Guided Performance-Energy Trade-off with Continuous Run-time Adaptation</strong><br/>
+Taejoon Song<br/>
+M.S. Thesis, Cornell University, May 2016.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/song-msthesis2016.pdf" title="pubs:song-msthesis2016.pdf">PDF</a> ]</li>
+<li><strong>Flexible and Efficient Accelerator Architecture for Runtime Monitoring</strong><br/>
+Danny Y. Deng<br/>
+Doctoral Dissertation, Cornell University, May 2016.<br/>
+[ <a class="media mediafile mf_pdf" href="http://www.csl.cornell.edu/~suh/pubs/deng-phdthesis2016.pdf" title="pubs:deng-phdthesis2016.pdf">PDF</a> ]</li>
+<li><strong>Hybrid Memories for Energy Efficient Computing Systems<br/>
+</strong>Wing-Kei (KK) Yu<br/>
+Doctoral Dissertation, Cornell University, January 2016.</li>
+<li><strong>Information Flow Analysis for Security Verification of Hardware</strong><br/>
+Rui Xu<br/>
+M.S. Thesis, Cornell University, August 2015.</li>
+<li><strong>Hardware Architectures For Secure, Reliable, And Energy-Efficient Real-Time Systems</strong><br/>
+Daniel Lo<br/>
+Doctoral Dissertation, Cornell University, August 2015.<br/>
+[ <a class="urlextern" href="https://ecommons.cornell.edu/handle/1813/40913" rel="nofollow" title="https://ecommons.cornell.edu/handle/1813/40913">eCommons</a> ]</li>
+<li><strong>Detecting and Mitigating Concurrency Bugs</strong><br/>
+Ruirui (Ray) Huang<br/>
+Doctoral Dissertation, Cornell University, May 2013.<br/>
+[ <a class="urlextern" href="https://ecommons.cornell.edu/handle/1813/34120" rel="nofollow" title="https://ecommons.cornell.edu/handle/1813/34120">eCommons</a> ]</li>
+<li><strong>AEGIS: A Single-Chip Secure Processor</strong><br/>
+G. Edward Suh<br/>
+<em><acronym title="Massachusetts Institute of Technology">MIT</acronym> CSAIL CSG-TR-489 (Doctoral Dissertation)</em>, September 2005.<br/>
+[ <a class="urlextern" href="http://csg.csail.mit.edu/pubs/memos/Memo-489/memo489.pdf" rel="nofollow" title="http://csg.csail.mit.edu/pubs/memos/Memo-489/memo489.pdf">PDF</a> ]</li>
+</ul>
+<h2><span class="toc-anchor" id="Technical_Reports_and_arXiv_Articles">Technical Reports and arXiv Articles</span></h2>
+<h3>2018</h3>
+<ul>
+<li><strong>Channel Gating Neural Networks<br/>
+</strong>Weizhe Hua, Christopher De Sa, Zhiru Zhang, and G. Edward Suh,<br/>
+arXiv e-print, arXiv:1805.12549, May 2018<br/>
+[ <a href="https://arxiv.org/abs/1805.12549">arXiv Link</a> ]</li>
+</ul>
+<h3>2017</h3>
+<ul>
+<li><strong>Full-Processor Timing Channel Protection with Applications to Secure Hardware Compartments</strong><br/>
+Andrew, Ferraiuolo, Yao Wang, Rui Xu, Danfeng Zhang, Andrew Myers, G. Edward Suh<br/>
+Cornell Computing and Information Science Technical Report<br/>
+[ <a href="https://ecommons.cornell.edu/handle/1813/41218">eCommons Link</a> ]</li>
+</ul>
+<h2><span class="toc-anchor" id="ACM_and_IEEE-mandated_Copyright_Notice">ACM and IEEE-mandated Copyright Notice</span></h2>
+<p>The documents listed above are posted as a means to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder.</p>
+</div>
+</article>
+</div>
+</div>
+<div class="sidebar" id="secondary">
+<section class="widget widget_recent_entries" id="recent-posts-2"> <h3 class="widget-title">Recent News</h3> <ul>
+<li>
+<a href="https://tsg.ece.cornell.edu/2018/10/30/best-paper-award-at-acm-workshop-on-cyber-physical-systems-security-privacy-cps-spc/">Best Paper Award at ACM Workshop on Cyber-Physical Systems Security &amp; Privacy (CPS-SPC)</a>
+</li>
+<li>
+<a href="https://tsg.ece.cornell.edu/2018/05/23/distinguished-practical-paper-award-at-ieee-security-and-privacy/">Distinguished Practical Paper Award at IEEE Security and Privacy</a>
+</li>
+<li>
+<a href="https://tsg.ece.cornell.edu/2018/04/02/mohamed-ismails-paper-on-hardware-support-for-dynamic-language-gets-accepted-for-publication-at-the-international-symposium-on-memory-management/">Mohamed Ismail’s paper on hardware support for dynamic language gets accepted for publication at the International Symposium on Memory Management</a>
+</li>
+<li>
+<a href="https://tsg.ece.cornell.edu/2018/02/08/will-huas-paper-on-cnn-security-gets-accepted-for-publication-at-the-design-automation-conference-dac/">Will Hua’s paper on CNN security gets accepted for publication at the Design Automation Conference (DAC)</a>
+</li>
+<li>
+<a href="https://tsg.ece.cornell.edu/2018/02/01/mark-zhaos-paper-gets-accepted-for-publication-at-the-ieee-symposium-on-security-and-privacy/">Mark Zhao’s paper on FPGA security gets accepted for publication at the IEEE Symposium on Security and Privacy</a>
+</li>
+</ul>
+</section></div>
+</div><!-- .inner-wrap -->
+</div><!-- .single-page -->
+</div><!-- .main-wrapper -->
+<footer id="colophon" role="complementary">
+<div class="inner-wrap">
+<div class="footer-bottom clearfix">
+<div class="copyright-info">
+<div class="copyright">Copyright © 2019 <a href="https://tsg.ece.cornell.edu/" title="Suh Research Group"><span>Suh Research Group</span></a>. Powered by <a href="http://wordpress.org" target="_blank" title="WordPress"><span>WordPress</span></a>. Theme: Ample by <a href="http://themegrill.com/themes/ample" rel="designer" target="_blank" title="ThemeGrill"><span>ThemeGrill</span></a>.</div> </div>
+<div class="footer-nav">
+</div>
+</div>
+</div>
+<a href="#masthead" id="scroll-up"><i aria-hidden="true" class="fa fa-angle-up"></i><span class="screen-reader-text">Back To Top</span></a>
+</footer>
+</div><!-- #page -->
+<script type="text/javascript">
+</script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/themes/ample/js/theme-custom.js?ver=5.1.1" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/themes/ample/js/navigation.js?ver=5.1.1" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/jquery.fitvids.js?ver=2.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/waypoints.min.js?ver=2.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/jquery.magnific-popup.js?ver=2.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.21.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/tsg.ece.cornell.edu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/tsg.ece.cornell.edu\/wp-content\/themes\/ample\/images","builder_images_uri":"https:\/\/tsg.ece.cornell.edu\/wp-content\/plugins\/divi-builder\/includes\/builder\/images","et_frontend_nonce":"500c7078e2","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"4affe2efb2","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"11","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/includes/builder/scripts/frontend-builder-scripts.js?ver=2.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=3.21.4" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.2.0" type="text/javascript"></script>
+<script src="https://tsg.ece.cornell.edu/wp-includes/js/wp-embed.min.js?ver=5.1.1" type="text/javascript"></script>
+</body>

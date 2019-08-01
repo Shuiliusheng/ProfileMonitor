@@ -1,0 +1,126 @@
+http://jianh.web.engr.illinois.edu/
+<body onload="collectTabs();">
+<div background="white" class="container" id="main-container" style="padding:-10px;">
+<div class="row">
+<table class="table" style="margin: -10px auto; color= white;">
+<tbody>
+<tr>
+<tr></tr>
+<td align="center">
+<p>
+</p>
+<p></p>
+<img height="210" length="210" src="images/jian-uiuc-b-2.jpg"/>
+</td>
+<td align="left">
+<h2 style="color:black;">Jian Huang</h2>
+<p>Assistant Professor<br/>
+   Department of Electrical and Computer Engineering <br/>
+   Department of Computer Science (Affiliate) <br/>
+   University of Illinois at Urbana-Champaign (UIUC) <br/>
+</p>
+<p>Office: CSL 212, 1308 W Main St, Urbana, IL 61801 <br/>
+   Email: jianh at illinois dot edu, Phone: 217-300-3104<br/>
+</p>
+<p>
+<a href="https://csl.illinois.edu/">CSL</a> / <a href="https://ece.illinois.edu/">ECE</a> / <a href="https://cs.illinois.edu/">CS</a> / <a href="http://illinois.edu/">UIUC</a> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+<img height="100" length="100" src="images/ui-logo.png"/>
+</td>
+</tr>
+</tbody></table>
+<br/>
+</div>
+<div id="skew-menu">
+<ul id="list">
+<li><a class="selected" href="#Main">Main</a></li>
+<li><a href="#Research">Research</a></li>
+<li><a href="#Students">Students</a></li>
+<li><a href="#Teaching">Teaching</a></li>
+<li><a href="#Awards">Awards</a></li>
+<li><a href="#Services">Services</a></li>
+</ul>
+</div>
+<style>
+  p-new {  
+      text-indent: 2.0em;  
+    }  
+</style>
+<div class="col-md-12" id="Main">
+<br/>
+<p style="margin-left:1em; margin-right:2em;">I enjoy building systems. My research interests lie in the areas of computer systems, including memory/storage systems, operating systems, systems architecture, systems security, distributed systems, and especially the intersections of them. </p>
+<p style="margin-left:1em; margin-right:2em;">I lead the <b>Systems and Platform Research Group</b> at UIUC.  </p>
+<p style="margin-left:1em; margin-right:2em;">Before I joined UIUC in January 2018, I worked on a startup company. I received my Ph.D. in Computer Science from Georgia Tech in August 2017. During my Ph.D study, I specialized in building memory and storage systems that have benefited platforms spanning from wearables to mobiles to large-scale data centers. </p>
+<p style="margin-left:1em; margin-right:2em; margin-bottom:2em"><b>I am always looking for talented Ph.D. students. If you also enjoy building systems, please contact me with your CV.</b> </p>
+<h4 style="margin-left:1em; color:#E84A27"><b>Recent Research Highlights</b></h4>
+<ul>
+<li> <a href="./papers/securefs-apsys19.pdf">FS Vulnerability Study</a> presents an empirical study of the most common security vulnerabilities in file systems <a href="https://icsr.zju.edu.cn/apsys2019/">(APSys'19)</a>. </li>
+<li><a href="./papers/TimeSSD-eurosys2019.pdf">Project Almanac</a> receives popular media coverage, such as <a href="https://cacm.acm.org/news/237252-csl-researchers-add-time-travel-feature-to-solid-state-drives-to-fight-ransomware-attacks/fulltext">ACM CACM, </a><a href="https://techxplore.com/news/2019-05-time-travel-feature-ransomware.html">TechXplore, </a><a href="https://www.sciencedaily.com/releases/2019/05/190529180234.htm">ScienceDaily, </a><a href="https://hitinfrastructure.com/news/researchers-modify-flash-based-ssd-to-thwart-ransomware-attacks">Health IT Infrastructure</a></li>
+<li> <a href="./papers/iswitch-isca2019.pdf">iSwitch</a> proposes an In-Switch Computing system architecture to accelerate distributed reinforcement learning <a href="https://iscaconf.org/isca2019/index.html">(ISCA'19)</a>. </li>
+<li> <a href="./papers/halo-isca2019.pdf">Halo</a> presents a near-cache accelerator solution to scale the flow classification and packet processing for NFV <a href="https://iscaconf.org/isca2019/index.html">(ISCA'19)</a>. </li>
+<li> <a href="./papers/evr-isca2019.pdf">EVR</a> proposes an energy-efficient system architecture to accelerate the 360-degree video processing for VR <a href="https://iscaconf.org/isca2019/index.html">(ISCA'19)</a>. </li>
+<li> <a href="./papers/sdc-ics2019.pdf">SDC</a> proposes a software-defined cache archtecture for efficient data indexing with a generic simple abstraction<a href="https://ics19.eecis.udel.edu/">(ICS'19)</a>. </li>
+<li> I received the Google Faculty Research Award to support our research on memory/storage systems. Thank you <a href="https://ai.google/research/outreach/faculty-research-awards/recipients/">Google</a>!</li>
+<li> <a href="./papers/autopersist-pldi2019.pdf">AutoPersist</a> creates a new programming model and an ease-of-use NVM framework for Java programming language <a href="https://conf.researchr.org/home/pldi-2019">(PLDI'19)</a>. </li>
+<li> <a href="./papers/eurosys19-timessd.pdf">Project Almanac</a> presents a new flash-based solid-state drive that provides the firmware-isolated time-traveling property <a href="https://www.eurosys2019.org/">(EuroSys'19)</a>. </li>
+<li> <a href="./papers/flatflash.pdf">FlatFlash</a> presents a unified memory and storage architecture to exploit the byte-accessibility of solid-state drives <a href="https://asplos-conference.org/">(ASPLOS'19)</a>. </li>
+<li> <a href="./papers/quickcheck.pdf">QuickCheck</a> uses speculation to reduce the performance overhead of checking persistent objects in NVM frameworks <a href="https://conf.researchr.org/home/vee-2019">(VEE'19)</a>. </li>
+<!--<li> <a href="">LL-PCM</a> proposes a new low-latency and energy-efficient phase-change memory architecture <a href="https://www.dac.com/">(DAC'19)</a>. </li><-->
+<li> A sole-PI grant is awarded from NSF CRII to support my research on storage systems. Thank you <a href="https://www.nsf.gov/">NSF</a>!</li>
+<li> I received the Intel gift fund to support our research on networked computing systems. Thank you <a href="https://www.intel.com/content/www/us/en/research/overview.html">Intel</a>!</li>
+<li> I received the NetApp Faculty Fellowship Award to support our research on storage systems. Thank you <a href="https://www.netapp.com/us/index.aspx">NetApp</a>!</li>
+<li> <a href="./papers/apsys18.pdf">SVR</a> is a semantic-aware video streaming system for Virtual Reality platform <a href="https://apsys18.kaist.ac.kr/">(APSys'18)</a>. </li>
+<li> <a href="./papers/flashguard-ccs17-jian.pdf">FlashGuard</a> proposes a lightweight and low-cost solution with SSD hardware to defend against encryption ransomware <a href="https://www.sigsac.org/ccs/CCS2017/index.html">(CCS'17)</a>. </li>
+<li> <a href="./papers/flashblox-fast17.pdf">FlashBlox</a> achieves both performance isolation and uniform lifetime for virtualized SSDs in large-scale data centers <a href="https://www.usenix.org/conference/fast17">(FAST'17)</a>. </li>
+<li> <a href="./papers/fastpath-asplos17.pdf">Pallas</a> helps developers find deep bugs in fast path in various system software (e.g., memory manager) with static analysis <a href="http://novel.ict.ac.cn/ASPLOS2017/">(ASPLOS'17)</a>. </li>
+<li> <a href="./papers/atc16-paper-huang.pdf">Memory Manager Study</a> summarizes the development of the Linux memory management over the last five years <a href="https://www.usenix.org/conference/atc16">(USENIX ATC'16)</a>. </li>
+<li> <a href="./papers/atc15-paper-jian.pdf">WearDrive</a> is a fast and energy-efficient in-memory distributed storage system for wearables <a href="https://www.usenix.org/conference/atc15">(USENIX ATC'15, Best Paper Award)</a>.
+</li>
+<li> <a href="./papers/flashmap-isca15.pdf">FlashMap</a> enables unified address translation for memory-mapped SSDs <a href="http://www.ece.cmu.edu/calcm/isca2015/">(ISCA'15, Micro Top Picks Honorable Mention)</a>.
+</li>
+<li> <a href="./papers/jian-vldb15.pdf">NVLogging</a> proposes cost-effective ways of using non-volatile memory in transactional systems <a href="http://www.vldb.org/2015/">(VLDB'15)</a>.
+</li>
+<li> <a href="./papers/jian-socc15.pdf">HPatchDB</a> is the outcome of our study on the bug correlations in large-scale distributed Big Data analytics platform Hadoop <a href="http://acmsocc.github.io/2015/">(SoCC'15)</a>.
+</li>
+</ul>
+</div>
+<div class="col-md-12 hide" id="Research">
+<br/>
+<p style="margin-left:1em; margin-right:0.5em; "> The goal of my research is to build practical, reliable, secure and high-performance systems, and to bridge all layers of the system stack from hardware platforms to applications. In my research group, we conduct systems research for a variety of computing platforms spanning from IoT devices to Virtual Reality to mobiles to large-scale data centers, and build systems that support and enable new and emerging data-intensive applications. </p>
+<p style="margin-left:1em; margin-right:0.5em; "> 
+	Our research contributions have been published at top-tier systems, architecture, and security conferences, some of them are being transferred into products and have been featured by CACM, the Register, CBR, PCWorld, ZDNet, and many other media agencies. </p>
+<p style="margin-left:1em; margin-right:0.5em; margin-bottom:2em;"> 
+	Our research is supported in part by NSF, NetApp, SK Hynix, Intel, Google, and IBM Research. </p>
+<h4 style="margin-left:1em; color:#E84A27;"><b>Publications</b></h4>
+<ul>
+<li><a href="./papers/securefs-apsys19.pdf">Understanding Security Vulnerabilities in File Systems</a><br/>
+Miao Cai, Hao Huang, <font><u>Jian Huang</u></font><br/>
+<font> To appear in Proceedings of the 10th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys'19)</font><br/>
+<br/></li>
+<li><a href="./papers/iswitch-isca2019.pdf">Accelerating Distributed Reinforcement Learning with In-Switch Computing</a><br/>
+Youjie Li, Iou-Jen Liu, Deming Chen, Alexander Schwing, <font><u>Jian Huang</u></font><br/>
+<font> Proceedings of the 46th International Symposium on Computer Architecture (ISCA'19)</font><br/>
+<br/></li>
+<li><a href="./papers/halo-isca2019.pdf">Halo: Accelerating Flow Classification for Scalable Packet Processing in NFV</a><br/>
+Yifan Yuan, Yipeng Wang, Ren Wang, <font><u>Jian Huang</u></font><br/>
+<font> Proceedings of the 46th International Symposium on Computer Architecture (ISCA'19)</font><br/>
+<br/></li>
+<li><a href="./papers/evr-isca2019.pdf">Energy-Efficient Video Processing for Virtual Reality</a><br/>
+Yue Leng*, Chi-chun Chen*, Qiuyue Sun, <font><u>Jian Huang</u></font>, Yuhao Zhu<br/>
+<font> Proceedings of the 46th International Symposium on Computer Architecture (ISCA'19)</font><br/>
+* co-primary authors.<br/>
+<br/></li>
+<li><a href="./papers/autopersist-pldi2019.pdf">AutoPersist: An Easy-To-Use Java NVM Framework Based on Reachability</a><br/>
+Thomas Shull, <font><u>Jian Huang</u></font>, Josep Torrellas<br/>
+<font> Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI'19)</font><br/>
+<br/></li>
+<li><a href="./papers/eurosys19-timessd.pdf">Project Almanac: A Time-Traveling Solid-State Drive</a><br/>
+Xiaohao Wang, You Zhou, Chance C. Coats, <font><u>Jian Huang</u></font><br/>
+<font> Proceedings of the 14th European Conference on Computer Systems (EuroSys'19)</font><br/>
+[<a href="./papers/TimeSSD-eurosys2019.pdf">slides</a> | <a href="https://www.youtube.com/watch?v=PO5BrKIf8cg&amp;t=9s">video</a>]<br/>
+<font><b>Press:</b> <a href="https://technews.acm.org/archives.cfm?fo=2019-06-jun/jun-03-2019.html">ACM TechNews, </a><a href="https://cacm.acm.org/news/237252-csl-researchers-add-time-travel-feature-to-solid-state-drives-to-fight-ransomware-attacks/fulltext">ACM CACM, </a><a href="https://techxplore.com/news/2019-05-time-travel-feature-ransomware.html">TechXplore, </a><a href="https://www.sciencedaily.com/releases/2019/05/190529180234.htm">ScienceDaily, </a><a href="https://hitinfrastructure.com/news/researchers-modify-flash-based-ssd-to-thwart-ransomware-attacks">HIT Infrastructure, </a><a href="https://www.livemint.com/technology/tech-news/-time-travel-feature-in-flash-storage-drives-may-fight-ransomware-attacks-1559211221600.html">LiveMint, </a><a href="https://www.cybersecurity-insiders.com/ssds-or-flash-drives-might-save-victims-from-ransomware-attacks/">Cybersecurity Insiders, </a> <a href="https://www.steelbuildershs.com/engineering/illinois-researchers-add-time-travel-feature-to-drives-to-fight-ransomware-attacks/">SteelBuilders, </a><a href="https://www.helpnetsecurity.com/2019/05/31/researchers-fight-ransomware/">HelpNetSecurity, </a><a href="https://www.eurekalert.org/pub_releases/2019-05/uoic-ira052919.php">EurekAlert, </a><a href="https://cyware.com/news/illinois-researchers-add-time-travel-feature-to-drives-to-fight-ransomware-attacks-6f782afe">Cyware, </a><a href="https://www.expresscomputer.in/news/can-ransomware-attacks-be-fought-by-adding-time-travel-feature-to-drives/36289/">Express Computer, </a><a href="https://worldnewsbuz.com/time-travel-feature-added-to-drives-to-fight-ransomware-attacks-sciencedaily/">World News Buz, </a><a href="https://travelwirenews.com/time-travel-feature-in-flash-storage-drives-may-fight-ransomware-attacks-1432858/">TravelWireNews, </a><a href="https://news.hitb.org/content/researchers-add-time-travel-feature-drives-fight-ransomware-attacks">HitbSecNews, </a><a href="https://worldindustrialreporter.com/illinois-time-travel-feature-helps-ward-off-ransomware-attacks/">World Industrial Reporter, </a><a href="https://pharmajobs.co/illinois-researchers-add-time-travel-feature-to-drives-to-fight-ransomware-attacks/">PharmaJobs, </a><a href="https://www.indiafinancenews.com/time-travel-feature-in-flash-storage-drives-may-fight-ransomware-attacks/">India Finance News, </a><a href="https://longroom.com/discussion/1505842/time-travel-feature-added-to-drives-to-fight-ransomware-attacks">LongRoom News, </a><a href="https://edgy.app/researchers-develop-time-traveling-solid-state-drive-to-fight-ransomware-attacks?pfrom=tech&amp;fp=a8">Edgy.App, </a><a href="https://www.myce.com/news/time-travel-feature-added-to-flash-based-drives-can-address-ransomware-attacks-87360/">myce.com, </a><a href="https://rbfirehose.com/2019/06/01/eurekalert-illinois-researchers-add-time-travel-feature-to-drives-to-fight-ransomware-attacks/">Rbfirehose.com, </a><a href="https://sciencetechynews.blogspot.com/2019/05/sciencetechynews-illinois-researchers.html">Science News, </a><a href="https://www.atmarkit.co.jp/ait/articles/1906/05/news058.html">Atmarkit (Japanese)</a>
+<br/></font></li>
+<br/></ul></div></div></body>

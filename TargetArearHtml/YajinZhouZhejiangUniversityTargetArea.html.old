@@ -1,0 +1,130 @@
+https://yajin.org/
+<body>
+<!-- Fixed navbar -->
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+<a class="navbar-brand" href="#"></a>
+<button aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarCollapse" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item active">
+<a class="nav-link" href="http://yajin.org">Home <span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="navbarDropdown" role="button">Teaching</a>
+<div aria-labelledby="navbarDropdown" class="dropdown-menu">
+<a class="dropdown-item" href="/os2018fall/">OS (2018 Fall)</a>
+<a class="dropdown-item" href="/seclab2019summer/">Security Lab (2019 Summer)</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://scholar.google.com/citations?user=N1oeOPwAAAAJ">Google Scholar</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://github.com/yajin">GitHub</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://zhuanlan.zhihu.com/c_1022809299793190912">知乎专栏</a>
+</li>
+</ul>
+</div>
+</nav>
+<!-- Begin page content -->
+<main class="container" role="main">
+<!-- <h1 class="mt-5">Sticky footer with fixed navbar</h1> -->
+<p> </p>
+<p>
+        My name is Yajin Zhou
+        <span>(周亚金)</span>. I am a ZJU100 Young Professor (since 2018), with both the College of Computer Science and Technology and the Institute of Cyberspace Research at <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, China. I earned my Ph.D. (2015) in Computer Science from
+        <a href="http://www.ncsu.edu/">North Carolina State University</a>, and then worked as a senior security researcher at <a href="https://www.360totalsecurity.com/en/about/">Qihoo 360</a>. 
+        <!-- You can find my PGP key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDDC1E8B734C81449">here</a>. -->
+        I have published more than 20 papers, with 5700+ citations (Google Scholar). Two of my papers have been selected to the list of <a href="https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html">normalized Top-100 security papers since 1981</a>.</p>
+<p> My current focus is on identifying real-world threats (how to hack) and building practical solutions (how to defend), in the context of software security of embedded systems (or IoT devices). I am also interested in emerging threats, e.g., security of smart contracts. I usually leverage the knowledge from other areas, including program/binary analysis, operating systems, computer architecture. My Research has been supported by <a href="http://www.nsfc.gov.cn/english/site_1/index.html">National Natural Science Foundation of China</a> (NSFC), and Alibaba Group. </p>
+<p> I am serving the program committee and/or organizing for the following conferences. Please consider submitting your paper and/or attending the conference. </p>
+<p>
+<!-- <a href="http://asiaccs2019.blogs.auckland.ac.nz">ACM ASIACCS 2019</a> | 
+            <a href="http://theory.utdallas.edu/ICDCS2019/">IEEE ICDCS 2019</a> |  -->
+<a href="https://icsr.zju.edu.cn/apsys2019/">ACM APSys 2019</a> | 
+            <a href="https://www.sigsac.org/ccs/CCS2019/index.php/organization/program-committee/">ACM CCS 2019</a> | 
+            <a href="https://conference.cs.cityu.edu.hk/dsc2019/">IEEE IDSC 2019</a> | 
+            <a href="https://asiaccs2020.cs.nthu.edu.tw/">ACM ASIACCS 2020</a> |
+            <a href="http://www.codaspy.org/2020/">ACM CODASPY 2020</a>
+</p>
+<p> <b>I'm looking for motivated Ph.D./master/undergraduate students, postdocs and (visiting) research students who have a solid background in systems and/or security. If you enjoy building and/or hacking systems, we should talk. <script type="text/javascript">
+                  var string1 = "eWFqaW5femhvdQ==";
+                  var string2 = "@";
+                  var string3 = "emp1LmVkdS5jbg==";
+                  var string4 = Base64.decode(string1) + string2 + Base64.decode(string3);
+                  document.write("(" + string4 + ")");
+                </script> </b></p>
+<hr/>
+<h2>Publications</h2>
+<p>
+<b>
+<i>2019</i>
+</b>
+</p>
+<p>[9] Different is Good: Detecting the Use of Uninitialized Variables through Differential Replay [<a href="#">Paper</a>]
+            <br/> Mengchen Cao, Xiantong Hou, Tao Wang, Hunter Qu, <b>Yajin Zhou</b>, Xiaolong Bai, Fuwei Wang
+            <br/> Proceedings of the 26th ACM Conference on Computer and Communications  (<a href="https://www.sigsac.org/ccs/CCS2019/">ACM CCS 2019</a>)
+            <br/>
+</p>
+<p>[8] LightBox: Full-stack Protected Stateful Middlebox at Lightning Speed [<a href="#">Paper</a>]
+            <br/>Huayi Duan, Cong Wang, Xingliang Yuan, <b>Yajin Zhou</b>, Qian Wang, Kui Ren
+            <br/> Proceedings of the 26th ACM Conference on Computer and Communications  (<a href="https://www.sigsac.org/ccs/CCS2019/">ACM CCS 2019</a>)
+            <br/>
+</p>
+<p>[7] <a href="/research/siren.html">Towards a First Step to Understand the Cryptocurrency Stealing Attack on Ethereum</a> [<a href="/papers/raid19.pdf">Paper</a>]
+            <br/> Zhen Cheng*, Xinrui Hou*, Runhuai Li, <b>Yajin Zhou</b>, Xiapu Luo, Jinku Li, Kui Ren
+            <br/> Proceedings of the 22nd International Symposium on Research in Attacks, Intrusions and Defenses (<a href="http://www.raid-2019.org/index.html">RAID 2019</a>)
+            <br/>
+            (*The names of the first two authors are in alphabetical order)
+            <br/>
+</p>
+<p>[6] SPEED: Accelerating Enclave Applications via Secure Deduplication [<a href="#">Paper</a>]
+            <br/> Helei Cui, Huayi Duan, Zhan Qin, Cong Wang, <b>Yajin Zhou</b>
+<br/> Proceedings of the 39th IEEE International Conference on Distributed Computing Systems (<a href="https://theory.utdallas.edu/ICDCS2019/">IEEE ICDCS 2019</a>)
+            <br/>
+</p>
+<p>[5] <a href="/research/scambots.html">Dating with Scambots: Understanding the Ecosystem of Fraudulent Dating Applications</a> [<a href="https://ieeexplore.ieee.org/document/8680707/">Paper</a>]
+            <br/> Yangyu Hu, Haoyu Wang, <b>Yajin Zhou</b>, Yao Guo, Li Li, Bingxuan Luo, Fangren Xu
+            <br/> IEEE Transactions on Dependable and Secure Computing (<a href="https://www.computer.org/web/tdsc">TDSC</a>)
+            <br/>
+</p>
+<p>[4] Adaptive Call-site Sensitive Control Flow Integrity (<font color="red">Best Paper Award</font>) [<a href="/papers/eurosp19.pdf">Paper</a> | <a href="https://github.com/mustakcsecuet/CFI-LB">Code</a>]
+            <br/> Mustakimur Khandaker, Abu Naser, Wenqing Liu, Zhi Wang, <b>Yajin Zhou</b>, Yueqiang Cheng
+            <br/> Proceedings of the 4th IEEE European Symposium on Security and Privacy (<a href="https://www.ieee-security.org/TC/EuroSP2019/">IEEE EuroS&amp;P 2019</a>)
+            <br/>
+</p>
+<p>[3] NDroid: Towards Tracking Information Flows Across Multiple Android Contexts [<a href="https://ieeexplore.ieee.org/document/8443386">Paper</a>]
+            <br/> Lei Xue, Chenxiong Qian, Hao Zhou, Xiapu Luo, <b>Yajin Zhou</b>, Yuru Shao and Alvin T.S. Chan
+            <br/> IEEE Transactions on Information Forensics &amp; Security (<a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security">TIFS</a>), Volume: 14, Issue: 3, pp. 814–828, March 2019
+            <br/>
+</p>
+<p>
+<b>
+<i>2018</i>
+</b>
+</p>
+<p>
+            [2] <a href="/research/ppmdroid.html">Towards Privacy-Preserving Malware Detection Systems for Android</a> (<font color="red">Best Paper Award</font>) [<a href="/papers/icpads18_ppmdroid.pdf">Paper</a>]
+            <br/> Helei Cui, <b>Yajin Zhou</b>, Cong Wang, Qi Li, Kui Ren
+            <br/> Proceedings of the 24th International Conference on Parallel and Distributed Systems (<a href="https://icpads.sg/">IEEE ICPADS 2018</a>)
+            <br/>
+</p>
+<p>[1] AdCapsule: Practical Confinement of Advertisements in Android Applications [<a href="/papers/adcapsule_tdsc18.pdf">Paper</a>]
+            <br/> Xiaonan Zhu, Jinku Li, <b>Yajin Zhou</b>, Jianfeng Ma
+            <br/> IEEE Transactions on Dependable and Secure Computing (<a href="https://www.computer.org/web/tdsc">TDSC</a>)
+            <br/>
+</p>
+<br/>
+<h4>Before 2018</h4>
+<hr/>
+<p>
+<b>
+<i>2017</i>
+</b>
+</p>
+<p>
+            [21] When Program Analysis Meets Mobile Security: An Industrial Study of Misusing Android Internet Sockets [<a href="/papers/esecfse17industry-security.pdf">Paper</a>]</p></main></body>

@@ -1,0 +1,54 @@
+http://www.cs.wayne.edu/fengwei/publications.html
+<body>
+<div class="main">
+<h1><font face="arial">Publications</font></h1>
+Authors with a star * are students advised or mentored by me at Wayne State University
+
+<h2><font face="arial">Peer-Reviewed Conference and Workshop Publications</font></h2>
+<ul class="paper">
+<ol type="1">
+<li>
+<div class="s2">
+<scan class="title"><strong><a href="">Nighthawk: Transparent System Introspection from Ring -3</a></strong></scan>  [<a href="">bib</a>]<br/>
+<scan class="author">Lei Zhou*, Jidong Xiao, Kevin Leach, Westley Weimer, <scan class="myname">Fengwei Zhang</scan>, and Guojun Wang</scan><br/>
+                To Appear In Proceedings of The <scan class="conference">24th European Symposium on Research in Computer Security (<scan class="shortconfname">ESORICS'19</scan>)</scan>, Luxembourg, September, 2019.<br/>
+</div>
+</li>
+<br/>
+<li>
+<div class="s1">
+<scan class="title"><strong><a href="paper/trafficsignalsystem-dimva19.pdf">Understanding the Security of Traffic Signal Infrastructure</a></strong></scan>  [<a href="paper/trafficsignalsystem-dimva19.bib">bib</a>]<br/>
+<scan class="author">Zhenyu Ning*, <scan class="myname">Fengwei Zhang</scan>, and Stephen Remias</scan><br/>
+                In Proceedings of The <scan class="conference">16th Conference on Detection of Intrusions and Malware &amp; Vulnerability Assessment (<scan class="shortconfname">DIMVA'19</scan>)</scan>, Gothenburg, Sweden, June, 2019.<br/>
+</div>
+</li>
+<br/>
+<li>
+<div class="s2">
+<scan class="title"><strong><a href="paper/nailgun-sp19.pdf">Understanding the Security of ARM Debugging Features</a></strong></scan>  [<a href="paper/nailgun-sp19.bib">bib</a>]<br/>
+<scan class="author">Zhenyu Ning* and <scan class="myname">Fengwei Zhang</scan></scan><br/>
+                In Proceedings of The <scan class="conference">40th IEEE Symposium on Security &amp; Privacy (<scan class="shortconfname">S&amp;P'19</scan>)</scan>, San Francisco, California, May, 2019.<br/>
+<font color="red">Nailgun project is online!</font> [<a href="https://compass.cs.wayne.edu/nailgun/">Web</a>] [<a href="https://github.com/ningzhenyu/nailgun">PoC</a>] [<a href="https://youtu.be/dlKK_69HJnk">Video1</a>] [<a href="https://youtu.be/5ioyneewFYQ">Video2</a>]
+                <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18068">CVE-2018-18068</a>.
+            </div>
+</li>
+<br/>
+<li>
+<div class="s2">
+<scan class="title"><strong><a href="paper/tee-edgesp18.pdf">Preliminary Study of Trusted Execution Environments on Heterogeneous Edge Platforms</a></strong></scan>  [<a href="paper/tee-edgesp18.bib">bib</a>]<br/>
+<scan class="author"> Zhenyu Ning*, Jinghui Liao*, <scan class="myname">Fengwei Zhang</scan>, and Weisong Shi</scan><br/>
+                 In Proceedings of The <scan class="conference">1st ACM/IEEE Workshop on Security and Privacy in Edge Computing (<scan class="shortconfname">EdgeSP'18</scan>)</scan>, in conjunction with The <scan class="conference">3rd ACM/IEEE Symposium on Edge Computing (<scan class="shortconfname">SEC'18</scan>)</scan>, Bellevue, WA, October, 2018.
+            </div>
+</li>
+<br/>
+<li>
+<div class="s1">
+<scan class="title"><strong><a href="paper/sgxsev-hasp18.pdf">A Comparison Study of Intel SGX and AMD Memory Encryption Technology</a></strong></scan>  [<a href="paper/sgxsev-hasp18.bib">bib</a>]<br/>
+<scan class="author"> Saeid Mofrad*, <scan class="myname">Fengwei Zhang</scan>, Shiyong Lu, and Weidong Shi</scan><br/>
+                In Proceedings of The <scan class="conference">Hardware and Architectural Support for Security and Privacy (<scan class="shortconfname">HASP'18</scan>)</scan>, in conjunction with The <scan class="conference">45th International Symposium on Computer Architecture (<scan class="shortconfname">ISCA'18</scan>)</scan>, Los Angeles, California, June, 2018.
+            </div>
+</li>
+<br/>
+<li>
+<div class="s2">
+<scan class="title"><strong><a href="paper/dexlego-dsn18.pdf">DexLego: Reassembleable Bytecode Extraction for Aiding Static Analysis</a></strong></scan></div></li></ol></ul></div></body>

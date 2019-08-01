@@ -1,0 +1,1100 @@
+http://www.cse.psu.edu/~trj1/pubs.html
+<body>
+<div id="wrapper">
+<div id="header">
+<div id="logo">
+<h1><a href="#">Publications</a></h1>
+</div>
+</div>
+<!-- stuff -->
+<div id="welcome">
+<div class="entry">
+<hr/>
+<h2>2019</h2><p>
+<b>“EnTrust: Regulating Sensor Access by Cooperating Programs via Delegation Graphs”</b><br/>
+by Giuseppe Petracca, Yuqiong Sun andn Ahmad-Atamli Reineh, Jens Grossklags, Patrick McDaniel, and Trent Jaeger.<br/>
+In <em>Proceedings of the 28th USENIX Security Symposium</em>, Aug. 2019.<br/>
+<a href="papers/usenix19-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Using Safety Properties to Generate Vulnerability Patches”</b><br/>
+by Zhen Huang, David Lie, Gang Tan, and Trent Jaeger.<br/>
+In <em>Proceedings of the 40th IEEE Symposium on Security and Privacy</em>, May 2019.<br/>
+<a href="papers/oakland19-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/oakland19.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Building a Trustworthy Execution Environment to Defeat Exploits from both Cyber Space and Physical Space for ARM”</b><br/>
+by Le Guan, Peng Liu, Xinyu Xing, Xinyang Ge, Shengzhi Zhang, Meng Yu, and Trent Jaeger.<br/>
+<em>IEEE Transactions on Depenadable and Secure Computing (IEEE TDSC)</em>, vol. 16, no. 3, May/June 2019, pp. 438-453.<br/>
+<a href="papers/tdsc19-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="https://ieeexplore.ieee.org/document/8423674"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“FIXER: Flow Integrity Extensions for Embedded RISC-V”</b><br/>
+by Asmit De, Aditya Basu, Trent Jaeger, and Swaroop Ghosh.<br/>
+In <em>Proceedings of the Design, Automation, and Test in Europe Conference &amp; Exhibition (DATE)</em>, Mar. 2019.<br/>
+<a href="papers/date19-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/date19.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Exploitation Techniques and Defenses for Data-Oriented Attacks”</b><br/>
+by Long Cheng, Hans Liljestrand, Thomas Nyman, Yu Tsung Lee, Danfeng Yao, Trent Jaeger, and N. Asokan.<br/>
+<em>CoRR</em>, vol. abs/1902.08359, Feb. 2019.<br/>
+<a href="papers/arxiv19-abstract.html"><font color="99FFFF">Details&gt;</font></a>.
+Download:
+<a href="https://arxiv.org/abs/1902.08359"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2>2018</h2><p>
+<p>
+<b>“Block Oriented Programming: Automating Data-Only Attacks”</b><br/>
+by Kyriakos Ispoglou, Bader Al Bassam, Trent Jaeger, and Mathias Payer.<br/>
+In <em>Proceedings of the 25th ACM Conference on Computer and Communications Security (ACM CCS)</em>, Oct. 2018.<br/>
+<a href="papers/ccs18-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs18.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Security Namespace: Making Linux Security Frameworks
+Available to Containers”</b><br/> by Yuqiong Sun, David
+Safford, Mimi Zohar, Dimitrios Pendarakis, Zhongshu Gu, and Trent
+Jaeger.<br/>  In <em>Proceedings of the 27th USENIX Security
+Symposium</em>, Aug. 2018.  <font color="red">Available on
+github <a href="https://git.kernel.org/pub/scm/linux/kernel/git/zohar/linux-
+integrity.git/log/?h=next-namespacing-experimental"><font color="99FFFF">here</font><a></a></a></font><br/>
+<a href="papers/usenix18-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix18.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout”</b><br/>
+by Sayed M. Saghaian, Thomas La Porta, Trent Jaeger, Z. Berkay Celik, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2018 International Conference on Security and Privacy in Communication Networks (SecureComm)</em>, Aug. 2018. <br/><font color="red">Best Paper Award</font> <br/>
+<a href="papers/securecomm18-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/securecomm18.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications”</b><br/>
+by Amit Kumar Sikder, Giuseppe Petracca, Hidayet Aksu, Trent Jaeger, and A. Selcuk Uluagac.<br/>
+<em>CoRR</em>, vol. abs/1802.02041, Feb. 2018.<br/>
+<a href="papers/arxiv18-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="https://arxiv.org/abs/1802.02041"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2>2017</h2><p>
+<p>
+<b>“Long-Span Program Behavior Modeling and Attack Detection”</b><br/>
+by Xiaokui Shu, Naren Ramakrishnan, Danfeng (Daphne) Yao, and Trent Jaeger.<br/>
+<em>ACM Transactions on on Privacy and Security (ACM TOPS)</em>, October 2017.<br/>
+<a href="papers/tops-shu-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tops-shu.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Taming the Costs of Trustworthy Provenance through Policy Reduction”</b><br/>
+by Adam Bates, Dave (Jing) Tian, Grant Hernandez, Kevin Butler, Trent Jaeger, and Thomas Moyer.<br/>
+<em>ACM Transactions on Internet Technology (ACM TOIT)</em>, September 2017.<br/>
+<a href="papers/bates_toit17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/toit17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Towards Network Intrusion Detection at ISP Scale”</b><br/> 
+by Azeem Aqil, Karim Khalil, Ahmed O.F. Atya,
+Evangelos E. Papalexakis, Srikanth V. Krishnamurthy, Trent Jaeger,
+K.K. Ramakrishnan, Paul Yu, and Ananthram Swami.<br/>
+In <em>Proceedings of the 13th International Conference on Emerging
+Networking EXperiments and Technologies (CoNEXT)</em>, Dec. 2017.<br/>
+<a href="papers/conext17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/conext17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“CFG Construction Soundness in Control-Flow Integrity”</b><br/>
+by Gang Tan and Trent Jaeger.<br/>
+In <em>Proceedings of the ACM SIGSAC Workshop on Programming Languages and Analysis for Security (PLAS)</em>, Oct. 2017.<br/>
+<a href="papers/plas17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/plas17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“PtrSplit: Supporting General Pointers in Automatic Program Partitioning”</b><br/>
+by Gang Tan and Trent Jaeger.<br/>
+In <em>Proceedings of the 24th ACM Conference on Computer and Communications Security (ACM CCS)</em>, Oct. 2017.<br/>
+<a href="papers/ccs17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download: 
+<a href="papers/ccs17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Aware: Preventing Abuse of Privacy-Sensitive Sensors via Operation Bindings”</b><br/>
+by Giuseppe Petracca, Ahmad-Atamli Reineh, Yuqiong Sun, Jens Grossklags, and Trent Jaeger.<br/>
+In <em>Proceedings of the 26th USENIX Security Symposium (USENIX Security)</em>, Aug. 2017.<br/>
+<a href="papers/usenix17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Building on the Success of Building Security In”</b><br/>
+by Archer Batcheller, Summer Craze Fowler, Robert Cunningham, Dinara
+Doyle, Trent Jaeger, and Ulf Lindqvist.<br/>
+In <em>IEEE Security &amp; Privacy,</em>, 15(4), July/August 2017.<br/>
+<a href="papers/ieeesp17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ieeesp17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“TrustShadow: Secure Execution of Unmodified Applications with ARM TrustZone”</b><br/>
+by Le Guan, Peng Liu, Xinyu Xing, Xinyang Ge, Shengzhi Zhang, Meng Yu, and Trent Jaeger.<br/>
+In <em>Proceedings of the 15th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)</em>, June 2017.<br/>
+<a href="papers/mobisys17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/mobisys17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“On Risk in Access Control Enforcement”</b><br/>
+by Giuseppe Petracca, Frank Capobianco, Christian Skalka, and Trent Jaeger.<br/>
+In <em>Proceedings of the 22nd ACM Symposium on Access Control Models and Technologies</em>, June 2017.<br/>
+<a href="papers/sacmat17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“AccessProv: Tracking the Provenance of Access Control
+Decisions”</b><br/> by Frank Capobianco, Christian Skalka, and
+Trent Jaeger.<br/>  In <em>Proceedings of the 9th International
+Workshop on Theory and Practice of Provenance</em>, June
+2017. <font color="red">Vulnerabilities confirmed in OpenMRS.</font>
+<br/>
+<a href="papers/tapp17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tapp17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Adversarial Network Forensics in Software Defined Networking”</b><br/>
+by Stefan Achleitner, Thomas La Porta, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2017 ACM Symposium on SDN Research</em>, Apr. 2017.  <font color="red">Selected as "Best Student Paper."</font><br/>
+<a href="papers/sosr17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sosr17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“GRIFFIN: Guarding Control Flows Using Intel Processor
+Trace”</b><br/> by Xinyang Ge, Weidong Cui, and Trent
+Jaeger.<br/>  In <em>Proceedings of the 22nd ACM International
+Conference on Architectural Support for Programming Languages and
+Operating Systems (ASPLOS)</em>,
+Apr. 2017.  <font color="red">In collaboration with MSR's work on Intel PT.</font><br/>
+<a href="papers/asplos17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/asplos17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“An Evil Copy: How the Loader Betrays You”</b><br/>
+by Xinyang Ge, Mathias Payer, and Trent Jaeger.<br/>
+In <em>Proceedings of the ISOC Network and Distributed Systems Security Symposium (NDSS)</em>, Mar. 2017.  <font color="red">Led to patches to LLVM, GNU binutils.</font><br/>
+<a href="papers/ndss17-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ndss17.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2>2016</h2><p>
+<b>“Pileus: Protecting User Resources from Vulnerable Cloud Services”</b><br/>
+by Yuqiong Sun, Giuseppe Petracca, Xinyang Ge, and Trent Jaeger.<br/>
+In <em>Proceedings of the 32nd Annual Computer Security Applications Conference (ACSAC)</em>, Dec. 2016.<br/>
+<a href="papers/acsac16-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac16.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Leveraging Data Provenance to Enhance Cyber Resilience”</b><br/>
+by Thomas Moyer, Patrick Cable, Karishma Chada, Robert Cunningham, Nabil Schear, Warren Smith, Adam Bates, Kevin Butler, Frank Capobianco, and Trent Jaeger.<br/>
+In <em>Proceedings of the 1st IEEE Cybersecurity Development Conference</em>, Nov. 2016.<br/>
+<a href="papers/secdev16-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/secdev16.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Agility Maneuvers to Mitigate Inference Attacks on Sensed Location Data”</b><br .=""/>
+by Giuseppe Petracca, Lisa Marvel, Ananthram Swami, and Trent Jaeger.<br>
+In <em>Proceedings of the 2016 IEEE Military Communications Conference (MILCOM)</em>, Nov. 2016.<br/>
+<a href="papers/milcom16-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/milcom16.pdf"><font color="99FFFF">PDF</font></a>.
+</br></p>
+<p>
+<b>“Fine-Grained Control-Flow Integrity for Kernel Software”</b><br/>
+by Xinyang Ge, Nirupama Talele, Mathias Payer, and Trent Jaeger.<br/>
+In <em>Proceedings of the IEEE European Symposium on Security and Privacy (Euro S&amp;P)</em>, Mar. 2016, pp. 179-194.<br/>
+<a href="papers/eurosp16-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/eurosp16.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2>2015</h2><p>
+<b>“AuDroid: Preventing Attacks on Audio Channels in Mobile Devices”</b><br/>
+by Giuseppe Petracca, Yuqiong Sun, Trent Jaeger, and Ahmad Atamli.<br/>
+In <em>Proceedings of the 31st Annual Computer Security Applications Conference (ACSAC)</em>, Dec. 2015, pp. 181-190.<br/>
+<a href="papers/acsac15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Security-as-a-Service for Microservices-Based Cloud Applications”</b><br/>
+by Yuqiong Sun, Susanta Nanda, and Trent Jaeger.<br/>
+In <em>Proceedings of the 7th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2015)</em>, Nov. 2015, pp. 50-57.<br/>
+<a href="papers/cloudcom15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/cloudcom15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Designing for Attack Surfaces: Keep Your Friends Close, but Your Enemies Closer”</b><br/>
+by Trent Jaeger, Xinyang Ge, Divya Muthukumaran, Sandra Rueda, Joshua Schiffman, and Hayawardh Vijayakumar.<br/>
+In <em>Proceedings of the 5th International Conference on Security, Privacy, and Applied Cryptography Engineering (SPACE)</em>, Oct. 2015, pp. 55-74.<br/>
+<a href="papers/space15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/space15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Detection of Stealthy TCP-based DoS Attacks”</b><br/>
+by Azeem Aqil, Ahmed Fathy Atya, Trent Jaeger, Srikanth V. Krishnamurthy, Karl Levitt, Patrick McDaniel, Jeff Rowe, and Ananthram Swami.<br/>
+In <em>Proceedings of the 2015 IEEE Military Communications Conference (MILCOM)</em>, Oct. 2015, pp. 348-353.<br/>
+<a href="papers/aqil_milcom15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/aqil_milcom15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“A Diagnosis Based Intrusion Detection Approach”</b><br/>
+by Connor Jackson, Trent Jaeger, Karl Levitt, Jeff Rowe, Srikanth V. Krishnamurthy, and Ananthram Swami.<br/>
+In <em>Proceedings of the 2015 IEEE Military Communications Conference (MILCOM)</em>, Oct. 2015, pp. 929-934.<br/>
+<a href="papers/jackson_milcom15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/jackson_milcom15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Cloud Armor: Protecting Cloud Commands from Compromised Cloud Services”</b><br/>
+by Yuqiong Sun, Giuseppe Petracca, Trent Jaeger, Hayawardh Vijayakumar, and Joshua Schiffman.<br/>
+In <em>Proceedings of the 8th IEEE International Conference on Cloud Computing (IEEE Cloud)</em>, June 2015, pp. 253-260.<br/>
+<a href="papers/cloud15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/cloud15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Producing Hook Placements to Enforce Expected Access Control Policies”</b><br/>
+by Divya Muthukumaran, Nirupama Talele, Trent Jaeger, and Gang Tan.<br/>
+In <em>Proceedings of the 2015 International Symposium on Engineering Secure Software and Systems (ESSoS)</em>, Mar. 2015.<br/>
+<a href="papers/essos15-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/essos15.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2>2014</h2><p>
+<b>“Assurance for Defense in Depth via Retrofitting”</b><br/>
+by Vinod Ganapathy, Trent Jaeger, Christian Skalka, and Gang Tan.<br/>
+In <em>Proceedings of the Layed Assurance Workshop</em>, Dec. 2014.<br/>
+<a href="papers/law14-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/law14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Science and Security of Agility”</b><br/>
+by Patrick McDaniel, Trent Jaeger, Thomas La Porta, Nicolas Papernot, Robert J. Walls, Alexander Kott, Lisa Marvel, Anathram Swami, Prasant Mohapatra, Srikanth Krishnamurthy, and Iulian Neamtiu.<br/>
+In <em>Proceedings of the ACM Moving Target Defense Workshop</em>, Nov. 2014.<br/>
+<a href="papers/mtd14-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/mtd14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Inevitable Failure: The flawed trust assumption in the cloud.”</b><br/>
+by Yuqiong Sun, Giuseppe Petracca, and Trent Jaeger.<br/>
+ In <em>Proceedings of the Cloud Computing Security Workshop (ACM CCSW)</em>, November 2014.<br/>
+<a href="papers/ccsw14-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/ccsw14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“JIGSAW: Protecting resource access by inferring programmer
+  expectations.”</b><br/> by Hayawardh Vijayakumar, Xinyang Ge,
+  Mathias Payer, and Trent Jaeger.<br/>  In <em>Proceedings of the
+  23rd USENIX Security Symposium (USENIX Security)</em>, August
+  2014.  <font color="red">Vulnerabilities confirmed in
+  Apache.</font> <br/>
+<a href="papers/usenix14-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/usenix14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Policy models to protect resource retrieval.”</b><br/>
+by Hayawardh Vijayakumar, Xinyang Ge, and Trent Jaeger.<br/>
+ In <em>Proceedings of the 19th ACM Symposium on Access Control
+  Models and Technologies (ACM SACMAT)</em>, pages 211-222, June 2014.<br/>
+<a href="papers/sacmat14-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/sacmat14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Monitor placement for large-scale systems.”</b><br/>
+by Nirupama Talele, Jason Teutsch, Robert F. Erbacher, and Trent Jaeger.<br/>
+ In <em>Proceedings of the 19th ACM Symposium on Access Control
+  Models and Technologies (ACM SACMAT)</em>, pages 29-40, June 2014.<br/>
+<a href="papers/sacmat14-arl-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/sacmat14-arl.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Sprobes: Enforcing kernel code integrity on the TrustZone
+  architecture.”</b><br/> by Xinyang Ge and Trent Jaeger.<br/>
+  In <em>Proceedings of the Mobile Security Technologies 2014
+  Workshop</em>, 2014.  <font color="red">Samsung Knox implements a
+  similar mechanism.  See their CCS 2014 paper..</font> <br/>
+<a href="papers/most14-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/most14.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Directed multicut with linearly ordered terminals.”</b><br/>
+by Robert F. Erbacher, Trent Jaeger, Nirupama Talele, and Jason Teutsch.<br/>
+<em>CoRR</em>, abs/1407.7498, 2014.<br/>
+<a href="papers/multicut-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/multicut.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2013</font></h2>
+<p>
+<b>“Pitfalls in the automated strengthening of passwords.”</b><br/>
+by David Schmidt and Trent Jaeger.<br/>
+ In <em>Proceedings of the Annual Computer Security Applications
+  Conference (ACSAC)</em>, pages 129-138, December 2013.<br/>
+<a href="papers/acsac_2013-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/acsac13.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Cloud Verifier: Verifiable auditing service for IaaS clouds.”</b><br/>
+by Joshua Schiffman, Yuqiong Sun, Hayawardh Vijayakumar, and Trent Jaeger.<br/>
+ In <em>Proceedings of the IEEE Ninth World Congress on Services</em>,
+  pages 239-246, July 2013.<br/>
+<a href="papers/csaw_2013-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/csaw13.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Process Firewalls: Protecting Processes during Resource Access”</b><br/>
+by Hayawardh Vijayakumar, Joshua Schiffman, and Trent Jaeger.<br/>
+In <em>Proceedings of the 2013 European Conference on Computer Systems (EuroSys)</em>, Apr. 2013.<br/>
+<a href="papers/eurosys_2013-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/eurosys13-firewall.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Using Security Policies to Automate Network Based Intrusion Prevention System Placement”</b><br/>
+by Nirupama Talele, Jason Teutsch, Trent Jaeger, and Robert Erbacher.<br/>
+In <em>Proceedings of the 2013 International Symposium Engineering Secure Software and Systems (ESSoS)</em>, Mar. 2013.<br/>
+<a href="papers/essos_2013-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/essos13.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2012</font></h2><p>
+<p>
+<b>“Lessons from the VAX/SVS for High Assurance VM Systems”</b><br/>
+by Steve Lipner, Trent Jaeger, and Mary Ellen Zurko.<br/>
+<em>IEEE Security &amp; Privacy</em>, vol. 10, no. 6, 2012, pp. 26-35.<br/>
+<a href="papers/ieee-sp-vaxvmm-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/ieee-sp-vaxvmm.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Transforming Commodity Security Policies to Enforce Clark-Wilson Integrity”</b><br/>
+by Divya Muthukumaran, Sandra Rueda, Nirupama Talele, Hayawardh Vijayakumar, Jason Teutsch, Trent Jaeger, and Nigel Edwards.<br/>
+In <em>Proceedings of the 28th Annual Computer Security Applications Conference (ACSAC)</em>, 2012.<br/>
+<a href="papers/acsac12-divya-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/acsac12-divya.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Verifying System Integrity by Proxy”</b><br/>
+by Joshua Schiffman, Hayawardh Vijayakumar, and Trent Jaeger.<br/>
+In <em>Proceedings of the 5th International Conference on Trust and Trustworthy Computing (TRUST)</em>, 2012, pp. 179-201.<br/>
+<a href="papers/trust12-schiffman-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/trust12-schiffman.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Scalable Web Content Attestation”</b><br/>
+by Thomas Moyer, Kevin R. B. Butler, Joshua Schiffman, Patrick McDaniel, and Trent Jaeger.<br/>
+<em>IEEE Trans. Computers</em>, vol. 61, no. 5, 2012, pp. 686-699.<br/>
+<a href="papers/ieee-toc12-moyer-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ieee-toc12-moyer-abstract.html"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“STING: Finding Name Resolution Vulnerabilities in
+Programs”</b><br/> by Hayawardh Vijayakumar, Joshua Schiffman,
+and Trent Jaeger.<br/>  In <em>Proceedings of the 21st USENIX
+Security Symposium (USENIX Security)</em>,
+2012.  <font color="red">Over 20 zero-day Vulnerabilities confirmed.</font>
+<br/>
+<a href="papers/usenix12-sting-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix12-sting.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Leveraging 'Choice' in Authorization Hook Placement”</b><br/>
+by Divya Muthukumaran, Trent Jaeger, and Vinod Ganapathy.<br/>
+In <em>Proceedings of the 19th ACM Conference on Computer and Commumications Security (ACM CCS)</em>, 2012.<br/>
+<a href="papers/choice-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/ccs12-choice.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“The Right Files at the Right Time”</b><br/>
+by Hayawardh Vijayakumar and Trent Jaeger.<br/>
+In <em>Proceedings of the 5th IEEE Symposium on Configuration Analytics and Automation (SafeConfig)</em>, Oct. 2012.<br/>
+<a href="papers/safeconfig12-abstract.html"><font color="99FFFF">Details</font></a>.
+<b>Download:</b>
+<a href="papers/safeconfig12.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Integrity Walls: Finding attack surfaces from mandatory
+access control policies”</b><br/> by Hayawardh Vijayakumar,
+Guruprasad Jakka, Sandra Rueda, Joshua Schiffman, and Trent
+Jaeger.<br/>  In <em>7th ACM Symposium on Information, Computer, and
+Communications Security (ASIACCS)</em>, May 2012.
+<font color="red">Vulnerabilities confirmed from this work.</font>
+<br/>
+<a href="papers/asiaccs12-vijayakumar-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/asiaccs12-vijayakumar.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Scalable Integrity-Guaranteed AJAX”</b><br/>
+by Thomas Moyer, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 14th Asia-Pacific Web Conference (APWeb)</em>, Apr. 2012.<br/>
+<a href="mjm12-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">2011</font></h2><p>
+<p>
+<b>“Reference Monitor”</b><br/>
+by Trent Jaeger.<br/>
+In <em>Encyclopedia of Cryptography and Security (2nd Ed.)</em>, 2011, pp. 1038-1040.<br/>
+<a href="DBLP_reference_crypt_Jaeger11-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Protecting the Integrity of Trusted Applications in Mobile Phone Systems”</b><br/>
+by Divya Muthukumaran, Joshua Schiffman, Mohamed Hassan, Anuj Sawani, Vikhyath Rao, and Trent Jaeger.<br/>
+<em>Security and Communication Networks</em>, vol. 4, no. 6, 2011, pp. 633-650.<br/>
+<a href="papers/scn10a-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/scn10a.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“From Mobile Phones to Responsible Devices”</b><br/>
+by Patrick Traynor, Chaitrali Amrutkar, Vikhyath Rao, Trent Jaeger, Patrick McDaniel, and Thomas F. La Porta.<br/>
+<em>Security and Communication Networks</em>, vol. 4, no. 6, 2011, pp. 719-726.<br/>
+<a href="papers/scn10b-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/scn10b.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“<a href="http://www.sciencedirect.com/science/article/pii/S0167404811001143">Countering Unauthorized Code Execution on Commodity Kernels: A Survey of Common Interfaces Allowing Kernel Code Modification</a>”</b><br/>
+by Trent Jaeger, Paul C. van Oorschot, and Glenn Wurster.<br/>
+<em>Computers &amp; Security</em>, vol. 30, no. 8, Nov. 2011, pp. 571-579.<br/>
+<a href="papers/cs11-wurster-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/cs11-wurster.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“A Rose by Any Other Name or an Insane Root? Adventures in Name Resolution”</b><br/>
+by Hayawardh Vijayakumar, Joshua Schiffman, and Trent Jaeger.<br/>
+In <em>Proc. of 7th European Conference on Computer Network Defense (EC2ND)</em>, Sep. 2011.<br/>
+<a href="papers/ec2nd11-vijayakumar-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ec2nd11-vijayakumar.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Network-based Root of Trust for Installation”</b><br/>
+by Joshua Schiffman, Thomas Moyer, Trent Jaeger, and Patrick McDaniel.<br/>
+<em>IEEE Security &amp; Privacy</em>, Jan/Feb 2011.<br/>
+<a href="papers/ieee-sp11-schiffman-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ieee-sp11-schiffman.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2010</font></h2><p>
+<p>
+<b>“Seeding Clouds with Trust Anchors”</b><br/>
+by Joshua Schiffman, Thomas Moyer, Hayawardh Vijayakumar, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2010 ACM Workshop on Cloud Computing Security (ACM CCSW)</em>, 2010.<br/>
+<a href="papers/ccsw10-schiffman-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccsw10-schiffman.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Cut Me Some Security!”</b><br/>
+by Divya Muthukumaran, Sandra Rueda, Hayawardh Vijayakumar, and Trent Jaeger.<br/>
+In <em>Proceedings of the 3rd ACM Workshop on Assurable and Usable Security Configuration</em>, 2010, pp. 75-78.<br/>
+<a href="mrv+10-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Automating Security Mediation Placement”</b><br/>
+by David H. King, Susmit Jha, Divya Muthukumaran, Trent Jaeger, Somesh Jha, and Sanjit Seshia.<br/>
+In <em>Proceedings of the 19th European Symposium on Programming (ESOP)</em>, 2010, pp. 327-344.<br/>
+<a href="papers/esop10-king-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/esop10-king.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“An Architecture for Enforcing End-to-End Access Control over Web Applications”</b><br/>
+by Boniface Hicks, Sandra Rueda, Dave King, Thomas Moyer, Joshua Schiffman, Yogesh Sreenivasan, Patrick McDaniel, and Trent Jaeger.<br/>
+In <em>Proceedings of the 15th Symposium on Access Control Models and Technologies (ACM SACMAT)</em>, 2010, pp. 163-172.<br/>
+<a href="papers/sacmat10-hicks-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat10-hicks.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“A Logical Specification and Analysis for SELinux MLS Policy”</b><br/>
+by Boniface Hicks, Sandra Rueda, Luke St. Clair, Trent Jaeger, and Patrick McDaniel.<br/>
+<em>ACM Transaction on Information and System Security (ACM TISSEC)</em>, vol. 13, no. 3, 2010.  This paper was recommended for journal publication from the 2010 SACMAT version.<br/>
+<a href="papers/tissec10-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tissec10.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5403158">Cloudy with a Chance of Security Challenges and Improvements</a>”</b><br/>
+by Trent Jaeger and Joshua Schiffman.<br/>
+<em>IEEE Security &amp; Privacy</em>, Jan/Feb 2010.<br/>
+<a href="journals_ieeesp_js10-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">2009</font></h2><p>
+<p>
+<b>“On Cellular Botnets: Measuring the Impact of Malicious Devices on a Cellular Network Core”</b><br/>
+by Patrick Traynor, Michael Lin, Machigar Ongtang, Vikhyath Rao, Trent Jaeger, Patrick McDaniel, and Thomas La Porta.<br/>
+In <em>Proceedings of the 16th ACM Conference on Computer and Communications Security (ACM CCS)</em>, 2009, pp. 223-234.<br/>
+<a href="papers/ccs09-traynor-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs09-traynor.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Scalable Asynchronous Web Content Attestation”</b><br/>
+by Thomas Moyer, Kevin Butler, Joshua Schiffman, Patrick McDaniel, and Trent Jaeger.<br/>
+In <em>Proceedings of the 25th Annual Computer Security Applications Conference (ACSAC)</em>, 2009.  See IEEE Transactions on Computers version in 2012.<br/>
+<a href="mbs+09-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Justifying integrity using a Virtual Machine Verifier”</b><br/>
+by Joshua Schiffman, Thomas Moyer, Christopher Shal, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 25th Annual Computer Security Applications Conference (ACSAC)</em>, 2009.<br/>
+<a href="papers/acsac09-schiffman-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac09-schiffman.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Dynamic Access Control for Multiple Stakeholders”</b><br/>
+by Vikhyath Rao and Trent Jaeger.<br/>
+In <em>Proceedings of <i>14th</i> Symposium on Access Control Models and Technologies</em>, June 2009.<br/>
+<a href="papers/sacmat066-rao-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat066-rao.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Analysis of Virtual Machine System Policies”</b><br/>
+by Sandra Rueda, Hayawardh Vijayakumar, and Trent Jaeger.<br/>
+In <em>Proceedings of <i>14th</i> Symposium on Access Control Models and Technologies</em>, June 2009.<br/>
+<a href="papers/sacmat064-rueda-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat064-rueda.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2008</font></h2><p>
+<p>
+<b><em><a href="http://www.morganclaypool.com/doi/abs/10.2200/S00126ED1V01Y200808SPT001?prevSearch=authorsfield%3A%28Jaeger%2C+Trent%29">Operating System Security</a></em></b> by T. Jaeger, Morgan &amp; Claypool, 2008.  
+<font color="red">Book used in computer security courses around the
+world (South Korea, Switzerland, Saudi Arabia, etc.).</font> <br/>
+<a href="tj_osbook-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“PinUP: Pinning User Files to Known Applications”</b><br/>
+by William Enck, Patrick McDaniel, and Trent Jaeger.<br/>
+In <em>Proceedings of the 2008 Annual Computer Security Applications Conference</em>, Dec. 2008.<br/>
+<a href="papers/acsac08-pinup-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac08-pinup.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Implicit Flows: Can't Live with 'em, Can't Live without 'em”</b><br/>
+by David H. King, Boniface Hicks, Michael Hicks, and Trent Jaeger.<br/>
+In <em>Proceedings of Fourth International Conference on Information Systems Security</em>, Dec. 2008.<br/>
+<a href="papers/iciss08-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/iciss08.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“New Side Channel Attacks Targeted at Passwords”</b><br/>
+by Albert Tannous, Mohamed Hassan, Stephen E. McLaughlin, Jonathan Trostle, and Trent Jaeger.<br/>
+In <em>Proceedings of the 2008 Annual Computer Security Applications Conference</em>, Dec. 2008.<br/>
+<a href="papers/acsac08-side-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac08-side.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Effective Blame for Information-Flow Violations”</b><br/>
+by David H. King, Trent Jaeger, Somesh Jha, and Sanjit Seshia.<br/>
+In <em>Proceedings of the <i>17th</i> ACM SIGSOFT Foundations of Software Engineering</em>, Nov. 2008.<br/>
+<a href="papers/fse08-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/fse08.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Flexible Configuration for Virtual Machines”</b><br/>
+by Sandra Rueda, Yogesh Sreenivasan, and Trent Jaeger.<br/>
+In <em>Proceedings of the <i>2nd</i> ACM Computer Security Architecture Workshop</em>, Oct. 2008.<br/>
+<a href="papers/csaw08-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/csaw08.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Verifying Compliance of Trusted Programs”</b><br/>
+by Sandra Rueda, David H. King, and Trent Jaeger.<br/>
+In <em>Proceedings of the <i>17th</i> USENIX Security Symposium</em>, Aug. 2008, pp. 321-334.<br/>
+<a href="papers/usenix08-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix08.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Measuring Integrity in Mobile Phone Systems”</b><br/>
+by Divya Muthukumaran, Anuj Sawani, Joshua Schiffman, Brian M. Jung, and Trent Jaeger.<br/>
+In <em>Proceedings of the <i>13th</i> ACM Symposium on Access Control Models and Technologies</em>, June 2008, pp. 155-164.<br/>
+<a href="papers/sacmat08-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat08.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2007</font></h2><p>
+<p>
+<b>“Establishing and Sustaining System Integrity via Root of Trust Installation”</b><br/>
+by Luke St. Clair, Joshua Schiffman, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2007 Annual Computer Security Applications Conference</em>, Dec. 2007, pp. 19-29.<br/>
+<a href="papers/acsac07-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac07.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Protecting Users from Themselves”</b><br/>
+by William Enck, Sandra Rueda, Yogesh Sreenivasan, Joshua Schiffman, Luke St. Clair, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the First Computer Security Architectures Workshop</em>, Nov. 2007.<br/>
+<a href="ers+07-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Managing the Risk of Covert Information Flows in Virtual Machine Systems”</b><br/>
+by Trent Jaeger, Reiner Sailer, and Yogesh Sreenivasan.<br/>
+In <em>Proceedings of the 12th ACM Symposium on Access Control Models and Technologies</em>, June 2007, pp. 81-90.<br/>
+<a href="jss07-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“A Logical Specification and Analysis for SELinux MLS Policy”</b><br/>
+by Boniface Hicks, Sandra Rueda, Luke St. Clair, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 12th ACM Symposium on Access Control Models and Technologies</em>, June 2007, pp. 91-100.<br/>
+<a href="papers/sacmat07-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat07.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“From Trusted to Secure: Building and Executing Applications That Enforce Systems Security”</b><br/>
+by Boniface Hicks, Sandra Rueda, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2007 USENIX Annual Technical Conference</em>, May 2007, pp. 205-218.<br/>
+<a href="papers/usenix07-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix07.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Mining Security-Sensitive Operations in Legacy Code Using Concept Analysis”</b><br/>
+by Vinod Ganapathy, David H. King, Trent Jaeger, and Somesh Jha.<br/>
+In <em>Proceedings of the 38th International Conference on Software Engineering</em>, May 2007, pp. 458-467.<br/>
+<a href="papers/icse07-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/icse07.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Integration of SELinux and Security-Typed Languages”</b><br/>
+by Boniface Hicks, Sandra Rueda, Trent Jaeger, and Patrick McDaniel.<br/>
+In <em>Proceedings of the 2007 Security-Enhanced Linux Workshop</em>, Mar. 2007, pp. 85-92.<br/>
+<a href="conf_selinux_hicks07-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">2006</font></h2><p>
+<p>
+<b>“Shamon: A System for Distributed Mandatory Access Control”</b><br/>
+by Jonathon McCune, Stefan Berger, Ramon Caceres, Trent Jaeger, and Reiner Sailer.<br/>
+In <em>Proceedings of the 2006 Annual Computer Security Applications Conference</em>, Dec. 2006, pp. 23-32.<br/>
+<a href="papers/acsac06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Password Exhaustion: Predicting the End of Password Usefulness”</b><br/>
+by Luke St. Clair, Lisa Johansen, William Enck, Matthew Pirretti, Patrick Traynor, Patrick McDaniel, and Trent Jaeger.<br/>
+In <em>Proceedings of 2nd International Conference on Information Systems Security (ICISS)</em>, Dec. 2006, pp. 37-55.<br/>
+<a href="conf_iciss_stclair06-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Shame on Trust in Distributed Systems”</b><br/>
+by Trent Jaeger, Patrick McDaniel, Luke St. Clair, Ramon Caceres, and Reiner Sailer.<br/>
+In <em>Proceedings of the 2006 Workshop on Hot Topics in Security</em>, Aug. 2006.<br/>
+<a href="papers/hotsec06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/hotsec06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Leveraging IPsec for Mandatory Access Control across
+Systems”</b><br/> by Trent Jaeger, Kevin Butler, David H. King,
+Serge Hallyn, Joy Latten, and Xiaolan Zhang.<br/>  In <em>Proceedings
+of the Second International Conference on Security and Privacy in
+Communication Networks</em>, Aug. 2006. <font color="red">Integrated
+into mainline Linux kernel.</font> <br/>
+<a href="papers/securecomm06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/securecomm06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“The Case for Analysis Preserving Language Transformations”</b><br/>
+by Xiaolan Zhang, Larry Koved, Marco Pistoia, Sam Weber, Trent Jaeger, and Guillaume Marceau.<br/>
+In <em>Proceedings of the 2006 International Symposium on Software Testing and Analysis</em>, July 2006, pp. 191-201.<br/>
+<a href="papers/issta06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/issta06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“PRIMA: Policy-Reduced Integrity Measurement Architecture”</b><br/>
+by Trent Jaeger, Reiner Sailer, and Umesh Shankar.<br/>
+In <em>Proceedings of the 11th ACM Symposium on Access Control Models and Technologies</em>, June 2006, pp. 19-28.<br/>
+<a href="papers/sacmat06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Retrofitting Legacy Code for Authorization Policy Enforcement”</b><br/>
+by Vinod Ganapathy, Trent Jaeger, and Somesh Jha.<br/>
+In <em>Proceedings of the 2006 IEEE Symposium on Security and Privacy</em>, May 2006, pp. 214-229.<br/>
+<a href="papers/oakland06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/oakland06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“SELinux Protected Paths Revisited”</b><br/>
+by Trent Jaeger.<br/>
+In <em>Proceedings of the 2006 Security-Enhanced Linux Workshop</em>, Mar. 2006, pp. 35-40.<br/>
+<a href="conf_selinux_jaeger06-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Towards Automated Authorization Policy Enforcement”</b><br/>
+by Vinod Ganapathy, Trent Jaeger, and Somesh Jha.<br/>
+In <em>Proceedings of the 2006 Security-Enhanced Linux Workshop</em>, Mar. 2006, pp. 7-11.<br/>
+<a href="conf_selinux_vinod06-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Toward Automated Information-Flow Integrity Verification for Security-Critical Applications”</b><br/>
+by Umesh Shankar, Trent Jaeger, and Reiner Sailer.<br/>
+In <em>Proceedings of the 2006 Network and Distributed Systems Security Symposium</em>, Feb. 2006, pp. 267-280.<br/>
+<a href="papers/ndss06-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ndss06.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2005</font></h2><p>
+<p>
+<b>“Building a MAC-Based Security Architecture for the Xen Open-Source Hypervisor”</b><br/>
+by Reiner Sailer, Trent Jaeger, Enriquillo Valdez, Ramon Caceres, Ronald Perez, Stefan Berger, John Linwood Griffin, and Leendert van Doorn.<br/>
+In <em>Proceedings of the 2005 Annual Computer Security Applications Conference</em>, Dec. 2005, pp. 276-285.<br/>
+<a href="papers/acsac05_final-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/acsac05_final.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Automatic Placement of Authorization Hooks in the Linux Security Modules Framework”</b><br/>
+by Vinod Ganapathy, Trent Jaeger, and Somesh Jha.<br/>
+In <em>Proceedings of the 12th ACM Conference on Computer and Communications Security</em>, Nov. 2005, pp. 330-339.<br/>
+<a href="papers/ccs05-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs05.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Trusted Virtual Domains: Toward Secure Distributed Services”</b><br/>
+by John Linwood Griffin, Trent Jaeger, Ronald Perez, Reiner Sailer, Leendert van Doorn, and Ramon Caceres architecture.<br/>
+In <em>Proceedings of the First Workshop on Hot Topics in Systems Dependability</em>, Apr. 2005.<br/>
+<a href="GJPSDC2005-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">2004</font></h2><p>
+<p>
+<b>“Resolving Constraint Conflicts”</b><br/>
+by Trent Jaeger, Reiner Sailer, and Xiaolan Zhang.<br/>
+In <em>Proceedings of the 9th ACM Symposium on Access Control Models and Technologies</em>, 2004, pp. 105-114.<br/>
+<a href="papers/sacmat04-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat04.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Design and Implementation of a TCG-based Integrity
+Measurement Architecture”</b><br/> by Reiner Sailer, Xiaolan
+Zhang, Trent Jaeger, and Leendert van Doorn.<br/>  In <em>Proceedings
+of the USENIX Security Symposium</em>, 2004,
+pp. 223-238.  <font color="red">Led to integration into mainline Linux
+kernel.</font> <br/>
+<a href="papers/usenix_sec2004-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix_sec2004.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Consistency analysis of authorization hook placement in the Linux security modules framework”</b><br/>
+by Trent Jaeger, Antony Edwards, and Xiaolan Zhang.<br/>
+<em>ACM Transaction on Information and System Security</em>, vol. 7, no. 2, 2004, pp. 175-205.  This paper was recommended for journal publication from the 2002 ACM CCS version.<br/>
+<a href="papers/tissec2004-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tissec2004.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Attestation-Based Policy Enforcement for Remote Access”</b><br/>
+by Reiner Sailer, Trent Jaeger, Xiaolan Zhang, and Leendert van Doorn.<br/>
+In <em>ACM Conference on Computer and Communications Security</em>, 2004, pp. 308-317.<br/>
+<a href="papers/ccs04-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs04.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2003</font></h2><p>
+<p>
+<b>“Policy Management Using Access Control Spaces”</b><br/>
+by Trent Jaeger, Xiaolan Zhang, and Antony Edwards.<br/>
+<em>ACM Transaction on Information and System Security</em>, vol. 6, no. 3, 2003, pp. 327-364.  This paper was recommended for journal publication from the 2001 SACMAT version.<br/>
+<a href="papers/tissec2003-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tissec2003.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Analyzing Integrity Protection in the SELinux Example Policy”</b><br/>
+by Trent Jaeger, Reiner Sailer, and Xiaolan Zhang.<br/>
+In <em>Proceedings of the 11th USENIX Security Symposium</em>, Aug. 2003, pp. 59-74.<br/>
+<a href="papers/usenix2003-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix2003.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2002</font></h2><p>
+<p>
+<b>“Using CQUAL for Static Analysis of Authorization Hook
+Placement”</b><br/> by Xiaolan Zhang, Antony Edwards, and Trent
+Jaeger.<br/>  In <em>Proceedings of the 11th USENIX Security
+Symposium</em>, 2002, pp. 33-48. <font color="red">Led to Linux kernel
+patches.</font><br/>
+<a href="papers/usenix_sec2002-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/usenix_sec2002.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Runtime Verification of Authorization Hook Placement for the
+Linux Security Modules Framework”</b><br/> by Antony Edwards,
+Trent Jaeger, and Xiaolan Zhang.<br/>  In <em>Proceedings of the 9th
+ACM Conference on Computer and Communications Security</em>, 2002,
+pp. 225-234.  <font color="red">Led to Linux kernel
+patches.</font><br/>
+<a href="papers/ccs02-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs02.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Secure Coprocessor-Based Intrusion Detection”</b><br/>
+by Xiaolan Zhang, Leendert van Doorn, Trent Jaeger, Ron Perez, and Reiner Sailer.<br/>
+In <em>Proceedings of the Tenth ACM SIGOPS European Workshop</em>, Sep. 2002.<br/>
+<a href="ZhDoJaPeSa2002-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">2001</font></h2><p>
+<p>
+<b>“The SawMill Framework for Virtual Memory Diversity”</b><br/>
+by Mohit Aron, Jochen Liedtke, Kevin Elphinstone, Yoonho Park, Trent Jaeger, and Luke Deller.<br/>
+In <em>Proceedings of the 2001 Australian Computer Systems Architecture Conference</em>, 2001, pp. 3-10.<br/>
+<a href="conf_aPcsac_AronLEPJD01-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Practical safety in flexible access control models”</b><br/>
+by Trent Jaeger and Jonathon Tidswell.<br/>
+<em>ACM Transaction on Information and System Security</em>, vol. 4, no. 2, 2001, pp. 158-190.  This paper was recommended for journal publication from the 2000 ACM CCS version.<br/>
+<a href="papers/tissec2001-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tissec2001.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Managing Access Control Complexity Using Metrics”</b><br/>
+by Trent Jaeger.<br/>
+In <em>Proceedings of the Sixth ACM Symposium on Access Control Models and Technologies (SACMAT-01)</em>, May 2001, pp. 131-152.<br/>
+<a href="papers/sacmat01-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/sacmat01.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">2000</font></h2><p>
+<p>
+<b>“The SawMill Multiserver Approach”</b><br/>
+by Alain Gefflaut, Trent Jaeger, Yoonho Park, Jochen Liedtke, Kevin Elphinstone, Volkmar Uhlig, Jonathon Tidswell, Luke Deller, and Lars Reuther.<br/>
+In <em>Proceedings of the ACM SIGOPS European Workshop</em>, 2000, pp. 109-114.<br/>
+<a href="conf_sigopsE_GefflautJPLEUTDR00-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Synchronous IPC over Transparent Monitors”</b><br/>
+by Trent Jaeger, Jonathon Tidswell, Alain Gefflaut, Yoonho Park, Kevin Elphinstone, and Jochen Liedtke.<br/>
+In <em>Proceedings of the ACM SIGOPS European Workshop</em>, 2000, pp. 189-194.<br/>
+<a href="conf_sigopsE_JaegerTGPEL00-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“An Access Control Model for Simplifying Constraint Expression”</b><br/>
+by Jonathon Tidswell and Trent Jaeger.<br/>
+In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>, 2000, pp. 154-163.<br/>
+<a href="papers/ccs00-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/ccs00.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Integrated Constraints and Inheritance in DTAC”</b><br/>
+by Jonathan F. Tidswell and Trent Jaeger.<br/>
+In <em>Proceedings of the 5th ACM Workshop on Role-Based Access Control (RBAC-00)</em>, July 2000, pp. 93-102.<br/>
+<a href="papers/rbac00-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/rbac00.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<h2><font color="FFFFFF">1999</font></h2><p>
+<p>
+<b>“How To Schedule Unlimited Memory Pinning of Untrusted Processes Or Provisional Ideas about Service-Neutrality”</b><br/>
+by Jochen Liedtke, Volkmar Uhlig, Kevin Elphinstone, Trent Jaeger, and Yoonho Park.<br/>
+In <em>Proceedings of the Workshop on Hot Topics in Operating Systems</em>, 1999, pp. 153-158.<br/>
+<a href="conf_hotos_LiedtkeUEJP99-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Flexible Control of Downloaded Executable Content”</b><br/>
+by Trent Jaeger, Atul Prakash, Jochen Liedtke, and Nayeem Islam.<br/>
+<em>ACM Transaction on Information and System Security</em>, vol. 2, no. 2, 1999, pp. 177-228.<br/>
+<a href="papers/tissec1999-abstract.html"><font color="99FFFF">Details</font></a>.
+Download:
+<a href="papers/tissec1999.pdf"><font color="99FFFF">PDF</font></a>.
+</p>
+<p>
+<b>“Flexible Access Control using IPC Redirection”</b><br/>
+by Trent Jaeger, Kevin Elphinstone, Jochen Liedtke, Vsevolod Panteleenko, and Yoonho Park.<br/>
+In <em>Proceedings of the Workshop on Hot Topics in Operating Systems</em>, 1999, pp. 191-196.<br/>
+<a href="conf_hotos_JaegerELPP99-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Access Control in a Virtual University”</b><br/>
+by Trent Jaeger, Tony Michailidis, and Roy Rada.<br/>
+In <em>Proceedings of the Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises</em>, 1999, pp. 135-140.<br/>
+<a href="conf_wetice_JaegerMR99-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Access Control in Configurable Systems”</b><br/>
+by Trent Jaeger.<br/>
+In <em>Secure Internet Programming</em>, 1999, pp. 289-316.<br/>
+<a href="conf_ecoopw_Jaeger99-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“On the Increasing Importance of Constraints”</b><br/>
+by Trent Jaeger.<br/>
+In <em>Proceedings of the Fourth ACM Workshop on Role-Based Access Control</em>, Oct. 1999, pp. 33-42.<br/>
+<a href="RBAC-99*33-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">1998</font></h2><p>
+<p>
+<b>“Security Architecture for Component-Based Operating Systems”</b><br/>
+by Trent Jaeger, Jochen Liedtke, Vsevolod Panteleenko, Yoonho Park, and Nayeem Islam.<br/>
+In <em>Proceedings of the Ninth ACM SIGOPS European Workshop</em>, 1998, pp. 222-228.<br/>
+<a href="conf_sigopsE_JaegerLPPI98-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Operating System Protection for Fine-Grained Programs”</b><br/>
+by Trent Jaeger, Jochen Liedtke, and Nayeem Islam.<br/>
+In <em>Proceedings of the 7th USENIX Security Symposium</em>, 1998.<br/>
+<a href="Jaeger_1998_OSP-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“High-Performance Caching With the Lava Hit-Server”</b><br/>
+by Jochen Liedtke, Vsevolod Panteleenko, Trent Jaeger, and Nayeem Islam.<br/>
+In <em>Proceedings of the USENIX 1998 Annual Technical Conference</em>, 1998.<br/>
+<a href="Liedtke_1998_HPC-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“An Unconventional Proposal: Using the x86 Architecture as the Ubiquitous Virtual Standard Architecture”</b><br/>
+by Jochen Liedtke, Nayeem Islam, Trent Jaeger, Vsevolod Panteleenko, and Yoonho Park.<br/>
+In <em>Proceedings of the Ninth ACM SIGOPS European Workshop</em>, 1998, pp. 237-241.<br/>
+<a href="conf_sigopsE_LiedtkeIJPP98-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">1997</font></h2><p>
+<p>
+<b>“A Role-Based Access Control Model for Protection Domain Derivation and Management”</b><br/>
+by Trent Jaeger, Frederique Giraud, Nayeem Islam, and Jochen Liedtke.<br/>
+In <em>Proceedings of the 2nd ACM Workshop on Role-Based Access Control (RBAC-97)</em>, Nov. 1997, pp. 95-108.<br/>
+<a href="RBAC97*95-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“A Flexible Security System for Using Internet Content”</b><br/>
+by Nayeem Islam, Rangachari Anand, Trent Jaeger, and Josyula R. Rao.<br/>
+<em>IEEE Software</em>, vol. 14, no. 5, Sep. 1997, pp. 52-59.<br/>
+<a href="Islam_1997_FSS-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Achieved IPC Performance”</b><br/> 
+by Gernot Heiser,
+Jochen Liedtke, Nayeem Islam, Kevin Elphinstone, Trent Jaeger, Herman
+Haertig, Sebastian Schoenberg.<br/>
+In <em>Proceedings of the Workshop on Hot Topics in Operating Systems</em>, 1997.<br/>
+<a href="papers/hotos97-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">1996</font></h2><p>
+<p>
+<b>“Building Systems that Flexibly Control Downloaded Executable Content”</b><br/>
+by Trent Jaeger, Aviel D. Rubin, and Atul Prakash.<br/>
+In <em>Proceedings of the 6th USENIX Security Symposium</em>, July 1996, pp. 131-148.  <font color="red">Awarded "Best Student Paper."</font><br/>
+<a href="jaeger96_building-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Supporting Multi-user, Multi-applet Workspaces in
+CBE.”</b><br/> by Jang Ho Lee, Atul Prakash, Trent Jaeger, and
+Gwobaw Wu.<br/>  In <em>Proceedings of ACM Computer Supported
+Cooperative Work '96 Conference (CSCW)</em>, November 1996. <br/>
+</p>
+<p>
+<b>“Preserving Integrity in Remote File Location and Retrieval”</b><br/> 
+by Trent Jaeger and Aviel D. Rubin.<br/>
+In <em>Proceedings of the Internet Society 1996 Symposium on Network
+and Distributed System Security (NDSS)</em>, February 1996. <br/>
+</p>
+<h2><font color="FFFFFF">1995</font></h2><p>
+<p>
+<b>“Requirements of Role-Based Access Control for Collaborative Systems”</b><br/>
+by Trent Jaeger and Atul Prakash.<br/>
+In <em>Proceedings of the 1st ACM Workshop on Role-Based Access Control</em>, 1995.<br/>
+<a href="conf_rbac_JaegerP95-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<p>
+<b>“Implementation of a Discretionary Access Control Model for Script-based Systems”</b><br/>
+by Trent Jaeger and Atul Prakash.<br/>
+In <em>Proceedings of the Eighth Computer Security Foundations Workshop (CSFW '95)</em>, June 1995, pp. 70-84.<br/>
+<a href="CSFW95*70-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<h2><font color="FFFFFF">1994</font></h2><p>
+<p>
+<b>“Support for the File System Security Requirements of Computational E-Mail Systems”</b><br/>
+by Trent Jaeger and Atul Prakash.<br/>
+In <em>Proceedings of the 2nd ACM Conference on Computer and Communications Security</em>, 1994, pp. 1-9.<br/>
+<a href="conf_ccs_JaegerP94-abstract.html"><font color="99FFFF">Details</font></a>.
+</p>
+<hr/>
+<p>
+<a name="copyright"></a>
+Copyright notice:
+This material is presented to ensure timely dissemination of scholarly and
+technical work. Copyright and all rights therein are retained by authors or
+by other copyright holders. All persons copying this information are
+expected to adhere to the terms and constraints invoked by each author's
+copyright. In most cases, these works may not be reposted without the
+explicit permission of the copyright holder.
+</p>
+<address>
+<a href="./">Trent Jaeger's Home</a>
+</address>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></div>
+</div>
+<!-- end #page -->
+</div>
+<div id="footer">
+<p>Copyright (c) 2012-2019 Trent Jaeger. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+</div>
+<!-- end #footer -->
+</body>

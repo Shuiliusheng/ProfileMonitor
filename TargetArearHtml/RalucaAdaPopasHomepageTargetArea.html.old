@@ -1,0 +1,99 @@
+https://people.eecs.berkeley.edu/~raluca/#Publications
+<body onload="collectTabs();">
+<br/>
+<table cols="3" width="100%">
+<tr>
+<td>
+<img align="left" alt="Raluca Ada Popa" border="0" description="Raluca Ada Popa" hspace="18" id="Raluca Ada Popa" name="Raluca Ada Popa" src="RalucaPreVeil.jpg" width="200"/>
+</td>
+<td class="titleinfo">
+<h1><a name="top">Raluca Ada Popa</a></h1>
+        Assistant professor, UC Berkeley    
+        <br>
+<a href="http://www.eecs.berkeley.edu/">Department of Electrical Engineering and Computer Science</a>
+<br/>
+<a href="http://www.berkeley.edu/">UC Berkeley</a>
+<br/>
+        Address: 729 Soda Hall, Berkeley, CA, 94720
+        <br/>
+        Email: raluca AT eecs DOT berkeley DOT edu
+        <br/>
+<img src="twitter.png" width="20"/> <a href="https://twitter.com/ralucaadapopa">@ralucaadapopa</a>
+<!--   <a href="https://twitter.com/ralucaadapopa" class="twitter-follow-button" data-show-count="false">Follow @ralucaadapopa</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        !-->
+</br></td>
+<td width="20%">
+<img align="right" src="berkeley.gif" width="140px"/>
+<br/>
+<a href="https://rise.cs.berkeley.edu/"><img align="right" src="riselab.gif" vspace="30" width="140px"/><a>
+<!-- <a href="http://www.preveil.com/"> <img align="right" width="120px" src="preveil.jpg"></a> -->
+</a></a></td>
+</tr>
+</table>
+<!--
+ #########
+ MAIN MENU
+ #########
+-->
+<div id="mainmenu">
+<ul id="list">
+<li>
+<a href="#Main">Main</a>
+</li>
+<li>
+<a href="#Research">Research</a>
+</li>
+<li>
+<a href="#Students">Students</a>
+</li>
+<!-- <li>
+        <a href="#Publications">Publications</a>
+    </li>
+    !-->
+<li>
+<a href="#Teaching">Teaching</a>
+</li>
+<li>
+<a href="#Awards">Awards</a>
+</li>
+<li>
+<a href="#Service">Service</a>
+</li>
+<li>
+<a href="#Personal">Personal</a>
+</li>
+</ul>
+</div>
+<br/><br/>
+<!-- 
+ ############  
+ MAIN 
+ ################## 
+-->
+<div class="sectionData" id="Main">
+<br/>
+
+I am an assistant professor at UC Berkeley. I am interested in  security, systems, and applied cryptography.  <br/>
+I co-founded the <a href="https://rise.cs.berkeley.edu/">RISELab</a>, whose aim is to build systems that are secure and intelligent.
+
+<br/><br/>
+
+I am also a co-founder and the CTO of <a href="http://www.preveil.com/">PreVeil</a>, a security startup based on my research. <a href="https://www.preveil.com/"><img src="preveil_logo.png" width="40px"/></a> <br/>
+<br/>
+
+    Before joining UC Berkeley, I did a one-year postdoc at ETH
+   Zürich in the System Security group led by Prof. Srdjan Capkun.
+   Before that, I completed my Ph.D. in computer science at <a href="http://web.mit.edu/">MIT</a>, my thesis being about building practical systems that compute on encrypted data.
+My advisor was <a href="http://people.csail.mit.edu/nickolai/">Professor Nickolai
+  Zeldovich</a>, and I was also fortunate to work closely with: <a href="http://nms.csail.mit.edu/%7Ehari/">Professor Hari Balakrishnan</a> (in systems), <a href="http://people.csail.mit.edu/shafi/">Professor Shafi Goldwasser</a>, <a href="http://research.microsoft.com/en-us/um/people/yael/">Professor Yael Kalai</a>, and <a href="http://www.cs.toronto.edu/~vinodv/">Professor Vinod Vaikuntanathan</a> (in cryptography).
+ <!-- During undergraduate, I also enjoyed working with and learning from  <a href="http://www.pmg.csail.mit.edu/%7Eliskov/">
+  Professor Barbara Liskov</a> and
+  <a href="http://people.csail.mit.edu/rivest/">Professor
+  Ronald L. Rivest</a><span style="color: black">. !-->
+I earned my
+Masters of Engineering in Computer Science in 2010 and my two Bachelors in
+Computer Science and Mathematics in 2009 also from MIT.
+My PhD thesis was awarded a <a href="https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-fall-2014-awards">George M. Sprowls Award</a> for best MIT CS doctoral theses, and I received a <a href="https://news.berkeley.edu/2018/02/15/six-young-faculty-members-named-sloan-research-fellows/">Sloan Research Fellowship</a> as a professor.
+
+</div></body>

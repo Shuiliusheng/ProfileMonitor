@@ -1,0 +1,917 @@
+https://taesoo.kim/
+<body>
+<div id="container">
+<div class="header">
+        Taesoo Kim (김태수)
+        <p></p>
+</div>
+<blockquote>
+<img alt="[me]" id="photo" src="files/imgs/taesoo-200x200.jpg"/>
+
+        Catherine M. and James E. Allchin Early Career <br/>
+        Associate Professor, <br/>
+        School of Computer Science, <br/>
+        College of Computing, <br/>
+        Georgia Tech <br/>
+<ul>
+<li><a href="cv.pdf">CV</a></li>
+<li><a class="email">email</a></li>
+<li><a href="https://github.com/tsgates">https://github.com/tsgates</a> (<span id="star"></span> ★) </li>
+<li><a href="files/pgp.pub">PGP Key</a></li>
+<li><a href="https://gts3.org">SSLab</a> 
+          / <a href="#">GTS3</a>
+          / <a href="https://www.iisp.gatech.edu">IISP</a>
+          / r00timentary
+        </li>
+<li> <a href="https://research.samsung.com/">Samsung Research</a> </li>
+</ul>
+</blockquote>
+<h1>Contacts</h1>
+<blockquote>
+        Room 3142, <br/>
+<a href="https://www.cc.gatech.edu/about/directions">Klaus Advanced Computing Building</a>, <br/>
+        266 Ferst Dr NW, <br/>
+        Atlanta GA 30332-0765 <br/>
+        (404) 385-2934<br/>
+</blockquote>
+<h1>Research Interests</h1>
+<blockquote>
+        Systems Security, Operating Systems, Programming Languages, and Distributed Systems.
+      </blockquote>
+<h1>Teaching</h1>
+<blockquote>
+<table>
+<tr><td class="cat">Fall 2019: </td><td><a href="https://tc.gts3.org/cs6265/2019">Information Security Lab (CS 6265)</a></td></tr>
+<tr><td class="cat">Fall 2018: </td><td><a href="https://tc.gts3.org/cs6265/2018">Information Security Lab (CS 6265)</a></td></tr>
+<tr><td class="cat">Fall 2017: </td><td><a href="https://tc.gts3.org/cs6265/2017">Information Security Lab (CS 6265)</a></td></tr>
+<tr><td class="cat">Fall 2016: </td><td><a href="https://tc.gts3.org/cs6265/2016">Information Security Lab (CS 6265)</a></td></tr>
+<tr><td class="cat">Spring 2016: </td><td><a href="https://tc.gts3.org/cs3210/2016/spring">Design Operating Systems (CS 3210)</a></td></tr>
+<tr><td class="cat">Fall 2015: </td><td><a href="https://tc.gts3.org/cs6265/2015">Information Security Lab (CS 6265)</a></td></tr>
+<tr><td class="cat">Fall 2014: </td><td><a href="https://tc.gts3.org/cs8803/2014">Topics in Building Secure Systems (CS 8803)</a></td></tr>
+</table>
+</blockquote>
+<h1 id="pub">Publications (<a class="pub-link" id="pub-all">all</a>/<a class="pub-link" id="pub-19">19</a>/<a class="pub-link" id="pub-18">18</a>/<a class="pub-link" id="pub-17">17</a>/<a class="pub-link" id="pub-16">16</a>/<a class="pub-link" id="pub-15">15</a>/<a class="pub-link" id="pub-earlier">...</a>)</h1>
+<ol>
+<li class="pub pub-2019" style="display: none">
+<b>Finding Semantic Bugs in File Systems with an Extensible Fuzzing Framework (to appear).</b><br/>
+    Seulbae Kim, Meng Xu, Sanidhya Kashyap, Jungyeon Yoon, Wen Xu, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 2019)</i>,<br/>
+    Ontario, Canada, October 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>Scalable and Practical Locking With Shuffling (to appear).</b><br/>
+    Sanidhya Kashyap, Irina Calciu, Xiaohe Cheng, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 2019)</i>,<br/>
+    Ontario, Canada, October 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>RECIPE: Reusing Concurrent In-Memory Indexes for Persistent Memory (to appear).</b><br/>
+    Se Kwon Lee, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram.<br/>
+    In <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 2019)</i>,<br/>
+    Ontario, Canada, October 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>SplitFS: Reducing Software Overhead in File Systems for Persistent Memory (to appear).</b><br/>
+    Rohan Kadekodi, Se Kwon Lee, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli, and Vijay Chidambaram.<br/>
+    In <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles (SOSP 2019)</i>,<br/>
+    Ontario, Canada, October 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>Breaking Turtles All the Way Down: An Exploitation Chain to Break out of VMware ESXi (to appear).</b><br/>
+    Hanqing Zhao, Yanyu Zhang, Kun Yang, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 13th USENIX Workshop on Offensive Technologies (WOOT)</i>,<br/>
+    Santa Clara, CA, August 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>RAZOR: A Framework for Post-deployment Software Debloating (to appear).</b>
+    [ <a class="ext" href="pubs/2019/qian:razor.pdf">paper</a> ]<br/>
+    Chenxiong Qian, Hong Hu, Mansour A Alharthi, Pak Ho Chung, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 28th USENIX Security Symposium (Security 2019)</i>,<br/>
+    Santa Clara, CA, August 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>Fuzzification: Anti-Fuzzing Techniques (to appear).</b>
+    [ <a class="ext" href="pubs/2019/jung:fuzzification.pdf">paper</a> ]<br/>
+    Jinho Jung, Hong Hu, David Solodukhin, Daniel Pagan, Kyu Hyung Lee, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 28th USENIX Security Symposium (Security 2019)</i>,<br/>
+    Santa Clara, CA, August 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK).</b>
+    [ <a class="ext" href="pubs/2019/park:libmpk.pdf">paper</a>
+    | <a class="ext" href="pubs/2019/park:libmpk-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/libmpk">code</a> ]<br/>
+    Soyeon Park, Sangho Lee, Wen Xu, Hyungon Moon, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2019 USENIX Annual Technical Conference (ATC 2019)</i>,<br/>
+    Renton, WA, July 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2019" style="display: none">
+<b>Fuzzing File Systems via Two-Dimensional Input Space Exploration.</b>
+    [ <a class="ext" href="pubs/2019/xu:janus.pdf">paper</a>
+    | <a class="ext" href="pubs/2019/xu:janus-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/janus">code</a> ]<br/>
+    Wen Xu, Hyungon Moon, Sanidhya Kashyap, Po-Ning Tseng, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 40th IEEE Symposium on Security and Privacy (S&amp;P 2019)</i>,<br/>
+    San Francisco, CA, May 2019.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Stopping Memory Disclosures via Diversification and Replicated Execution.</b>
+    [ <a class="ext" href="pubs/2018/lu:buddy.pdf">paper</a> ]<br/>
+    Kangjie Lu, Meng Xu, Chengyu Song, Taesoo Kim, and Wenke Lee.<br/>
+<i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i>,<br/>
+    October 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Enforcing Unique Code Target Property for Control-Flow Integrity.</b>
+    [ <a class="ext" href="pubs/2018/hu:ucfi.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/hu:ucfi-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/uCFI-GATech">code</a> ]<br/>
+    Hong Hu, Chenxiong Qian, Carter Yagemann, Simon P. Chung, Bill Harris, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 24th ACM Conference on Computer and Communications Security (CCS 2018)</i>,<br/>
+    Toronto, Canada, October 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>SGX-Tor: A Secure and Practical Tor Anonymity Network With SGX Enclaves.</b>
+    [ <a class="ext" href="pubs/2018/kim:sgx-tor2.pdf">paper</a>
+    | <a class="ext" href="https://github.com/KAIST-INA/SGX-Tor">code</a> ]<br/>
+    Seongmin Kim, Juhyeng Han, Jaehyeong Ha, Taesoo Kim, and Dongsu Han.<br/>
+<i>IEEE/ACM Transactions on Networking (ToN), Volumn. 26, No. 5, pp. 2174-2187</i>,<br/>
+    October 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing.</b>
+    [ <a class="ext" href="pubs/2018/yun:qsym.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/yun:qsym-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/qsym">code</a> ]<br/>
+    Insu Yun, Sangho Lee, Meng Xu, Yeongjin Jang, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 27th USENIX Security Symposium (Security 2018)</i>,<br/>
+    Baltimore, MD, August 2018.
+    <span class="meta">
+<span class="note"><a href="https://www.usenix.org/conference/usenixsecurity18">Distinguished Paper Award</a><br/></span>
+<span class="media"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6836">CVE-2017-6836</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8891">CVE-2017-8891</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-12878">CVE-2017-12878</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17080">CVE-2017-17080</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17081">CVE-2017-17081</a>, …</span>
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation.</b>
+    [ <a class="ext" href="pubs/2018/ji:rtag.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/ji:rtag-slides.pdf">slides</a> ]<br/>
+    Yang Ji, Sangho Lee, Mattia Fazzini, Joey Allen, Evan Downing, Taesoo Kim, Alessandro Orso, and Wenke Lee.<br/>
+    In <i>Proceedings of the 27th USENIX Security Symposium (Security 2018)</i>,<br/>
+    Baltimore, MD, August 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Scaling Guest OS Critical Sections with eCS.</b>
+    [ <a class="ext" href="pubs/2018/kashyap:ecs.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/kashyap:ecs-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/ordo">code</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2018 USENIX Annual Technical Conference (ATC 2018)</i>,<br/>
+    Boston, MA, July 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Precise and Scalable Detection of Double-Fetch Bugs in OS Kernels.</b>
+    [ <a class="ext" href="pubs/2018/xu:deadline.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/xu:deadline-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/deadline">code</a> ]<br/>
+    Meng Xu, Chenxiong Qian, Kangjie Lu, Michael Backes, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 39th IEEE Symposium on Security and Privacy (S&amp;P 2018)</i>,<br/>
+    San Francisco, CA, May 2018.
+    <span class="meta">
+<span class="media"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15037">CVE-2017-15037</a></span>
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>A Scalable Ordering Primitive for Multicore Machines.</b>
+    [ <a class="ext" href="pubs/2018/kashyap:ordo.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/kashyap:ordo-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/ordo">code</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, Kangnyeon Kim, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 13rd ACM European Conference on Computer Systems (EuroSys 2018)</i>,<br/>
+    Porto, Portugal, April, 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing.</b>
+    [ <a class="ext" href="pubs/2018/min:solros.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/min:solros-slides.pdf">slides</a> ]<br/>
+    Changwoo Min, Woon-Hak Kang, Mohan Kumar Sanidhya Kashyap, Steffen Maass, Heeseung Jo, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 13rd ACM European Conference on Computer Systems (EuroSys 2018)</i>,<br/>
+    Porto, Portugal, April, 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>LATR: Lazy Translation Coherence.</b>
+    [ <a class="ext" href="pubs/2018/kumar:latr.pdf">paper</a>
+    | <a class="ext" href="pubs/2018/kumar:latr-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/latr">code</a> ]<br/>
+    Mohan Kumar, Steffen Maass, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br/>
+    In <i>Proceedings of the 23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018)</i>,<br/>
+    Williamsburg, VA, March, 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2018" style="display: none">
+<b>Prevention of Cross-update Privacy Leaks on Android.</b>
+    [ <a class="ext" href="pubs/2018/cho:breakup.pdf">paper</a> ]<br/>
+    Beumjin Cho, Sangho Lee, Meng Xu, Sangwoo Ji, Taesoo Kim, and Jong Kim.<br/>
+<i>Computer Science and Information Systems 15(1)</i>,<br/>
+    January 2018.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Designing New Operating Primitives to Improve Fuzzing Performance.</b>
+    [ <a class="ext" href="pubs/2017/xu:os-fuzz.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/xu:os-fuzz-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/perf-fuzz">code</a> ]<br/>
+    Wen Xu, Sanidhya Kashyap, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 23th ACM Conference on Computer and Communications Security (CCS 2017)</i>,<br/>
+    Dallas, TX, October 2017.
+    <span class="meta">
+<span class="media"><a href="https://blog.mozilla.org/blog/2017/05/10/mozilla-awards-nearly-300000-research-grant-winners/">Mozilla Research</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking.</b>
+    [ <a class="ext" href="pubs/2017/ji:rain.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/ji:rain-slides.pdf">slides</a> ]<br/>
+    Yang Ji, Sangho Lee, Evan Downing, Weiren Wang, Mattia Fazzini, Taesoo Kim, Alex Orso, and Wenke Lee.<br/>
+    In <i>Proceedings of the 23th ACM Conference on Computer and Communications Security (CCS 2017)</i>,<br/>
+    Dallas, TX, October 2017.
+    <span class="meta">
+<span class="media"><a href="http://www.rh.gatech.edu/news/598030/instant-replay-computer-systems-shows-cyber-attack-details">GT News Horizons</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Checking Open-Source License Violation and 1-day Security Risk at Large Scale.</b>
+    [ <a class="ext" href="pubs/2017/duan:osspolice.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/duan:osspolice-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/osssanitizer/osspolice">code</a> ]<br/>
+    Ruian Duan, Ashish Bijlani, Meng Xu, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 23th ACM Conference on Computer and Communications Security (CCS 2017)</i>,<br/>
+    Dallas, TX, October 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>SGX-Bomb: Locking Down the Processor via Rowhammer Attack.</b>
+    [ <a class="ext" href="pubs/2017/jang:sgx-bomb.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/jang:sgx-bomb-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/sgx-bomb">code</a> ]<br/>
+    Yeongjin Jang, Jaehyuk Lee, Sangho Lee, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2nd Workshop on System Software for Trusted Execution (SysTEX 2017)</i>,<br/>
+    Shanghai, China, October 2017.
+    <span class="meta">
+<span class="media"><a href="https://news.ycombinator.com/item?id=15743608">Hacker News</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>FLSCHED: A Lockless and Lightweight Approach to OS Scheduler for Xeon Phi.</b>
+    [ <a class="ext" href="pubs/2017/jo:flsched.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/jo:flsched-slides.pdf">slides</a> ]<br/>
+    Heeseung Jo, Woonhak Kang, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 8th Asia-Pacific Workshop on Systems (APSys 2017)</i>,<br/>
+    Mumbai, India, September 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing.</b>
+    [ <a class="ext" href="pubs/2017/lee:sgx-branch-shadow.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/lee:sgx-branch-shadow-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/branch-shadowing">code</a> ]<br/>
+    Sangho Lee, Ming-Wei Shih, Prasun Gera, Taesoo Kim, Hyesoon Kim, and Marcus Peinado.<br/>
+    In <i>Proceedings of the 26th USENIX Security Symposium (Security 2017)</i>,<br/>
+    Vancouver, Canada, August 2017.
+    <span class="meta">
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Hacking in Darkness: Return-oriented Programming against Secure Enclaves.</b>
+    [ <a class="ext" href="pubs/2017/lee:darkrop.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/lee:darkrop-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/sgx-tutorial-ccs17">code</a> ]<br/>
+    Jaehyuk Lee, Jinsoo Jang, Yeongjin Jang, Nohyun Kwak, Yeseul Choi, Changho Choi, Taesoo Kim, Marcus Peinado, and Brent B. Kang.<br/>
+    In <i>Proceedings of the 26th USENIX Security Symposium (Security 2017)</i>,<br/>
+    Vancouver, Canada, August 2017.
+    <span class="meta">
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Efficient Protection of Path-Sensitive Control Security.</b>
+    [ <a class="ext" href="pubs/2017/ding:pittypat.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/ding:pittypat-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/uCFI-GATech">code</a> ]<br/>
+    Ren Ding, Chenxiong Qian, Chengyu Song, Bill Harris, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 26th USENIX Security Symposium (Security 2017)</i>,<br/>
+    Vancouver, Canada, August 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>PlatPal: Detecting Malicious Documents with Platform Diversity.</b>
+    [ <a class="ext" href="pubs/2017/xu:platpal.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/xu:platpal-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/platpal">code</a> ]<br/>
+    Meng Xu and Taesoo Kim.<br/>
+    In <i>Proceedings of the 26th USENIX Security Symposium (Security 2017)</i>,<br/>
+    Vancouver, Canada, August 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically.</b>
+    [ <a class="ext" href="pubs/2017/jung:avpass-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/avpass">code</a> ]<br/>
+    Jinho Jung, Chanil Jeon, Max Wolotsky, Insu Yun, and Taesoo Kim.<br/>
+<i>BlackHat USA 2017</i>,<br/>
+    Las Vegas, NV, Auguest 2017.
+    <span class="meta">
+<span class="media"><a href="https://www.darkreading.com/vulnerabilities---threats/8-hot-hacking-tools-to-come-out-of-black-hat-usa-/d/d-id/1329207?_mc=RSS_DR_EDT&amp;image_number=4">DARK Reading 1</a>/<a href="http://www.darkreading.com/vulnerabilities---threats/cloud-av-can-serve-as-an-avenue-for-exfiltration/d/d-id/1329362">2</a>/<a href="https://www.darkreading.com/vulnerabilities---threats/avpass-sneaks-malware-past-android-antivirus-apps/d/d-id/1329410">3</a>, <a href="https://www.wired.com/story/android-antivirus-malware/">WIRED</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Scalable NUMA-aware Blocking Synchronization Primitives.</b>
+    [ <a class="ext" href="pubs/2017/kashyap:cst.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/kashyap:cst-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/cst-locks">code</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2017 USENIX Annual Technical Conference (ATC 2017)</i>,<br/>
+    Santa Clara, CA, July 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems.</b>
+    [ <a class="ext" href="pubs/2017/kim:cab-fuzz.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/kim:cab-fuzz-slides.pdf">slides</a> ]<br/>
+    Su Yong Kim, Sangho Lee, Insu Yun, Wen Xu, Byoungyoung Lee, Youngtae Yun, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2017 USENIX Annual Technical Conference (ATC 2017)</i>,<br/>
+    Santa Clara, CA, July 2017.
+    <span class="meta">
+<span class="media"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-6098">CVE-2015-6098</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0040">CVE-2016-0040</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7219">CVE-2016-7219</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Bunshin: Compositing Security Mechanisms through Diversification.</b>
+    [ <a class="ext" href="pubs/2017/xu:bunshin.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/xu:bunshin-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/bunshin">code</a> ]<br/>
+    Meng Xu, Kangjie Lu, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 2017 USENIX Annual Technical Conference (ATC 2017)</i>,<br/>
+    Santa Clara, CA, July 2017.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Mosaic: Processing a Trillion-Edge Graph on a Single Machine.</b>
+    [ <a class="ext" href="pubs/2017/maass:mosaic.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/maass:mosaic-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/mosaic">code</a> ]<br/>
+    Steffen Maass, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 12st ACM European Conference on Computer Systems (EuroSys 2017)</i>,<br/>
+    Belgrade, Serbia, April, 2017.
+    <span class="meta">
+<span class="note"><a href="http://eurosys2017.org/">Best Student Paper Award</a><br/></span>
+<span class="media"><a href="https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/">The Next Platform</a>, <a href="https://news.ycombinator.com/item?id=14218231">Hacker News 1</a>/<a href="https://news.ycombinator.com/item?id=14443398">2</a>, <a href="http://www.cc.gatech.edu/news/591078/work-speed-graph-processing-earns-best-student-paper-award">GT News</a>, <a href="https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a-single-machine/">The morning paper</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments.</b>
+    [ <a class="ext" href="pubs/2017/kim:sgx-tor.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/kim:sgx-tor-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/KAIST-INA/SGX-Tor">code</a> ]<br/>
+    Seongmin Kim, Juhyeng Han, Jaehyeong Ha, Taesoo Kim, and Dongsu Han.<br/>
+    In <i>Proceedings of the 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2017)</i>,<br/>
+    Boston, MA, March 2017.
+    <span class="meta">
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs.</b>
+    [ <a class="ext" href="pubs/2017/seo:sgx-shield.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/seo:sgx-shield-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/jaebaek/SGX-Shield">code</a> ]<br/>
+    Jaebaek Seo, Byoungyoung Lee, Sungmin Kim, Ming-Wei Shih, Insik Shin, Dongsu Han, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2017 Network and Distributed System Security Symposium (NDSS 2017)</i>,<br/>
+    San Diego, CA, February 2017.
+    <span class="meta">
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2017" style="display: none">
+<b>T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs.</b>
+    [ <a class="ext" href="pubs/2017/shih:tsgx.pdf">paper</a>
+    | <a class="ext" href="pubs/2017/shih:tsgx-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/t-sgx">code</a> ]<br/>
+    Ming-Wei Shih, Sangho Lee, Taesoo Kim, and Marcus Peinado.<br/>
+    In <i>Proceedings of the 2017 Network and Distributed System Security Symposium (NDSS 2017)</i>,<br/>
+    San Diego, CA, February 2017.
+    <span class="meta">
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Fast, Scalable and Secure Onloading of Edge Functions using AirBox.</b>
+    [ <a class="ext" href="pubs/2016/bhardwaj:airbox.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/bhardwaj:airbox-slides.pdf">slides</a> ]<br/>
+    Ketan Bhardwaj, Ming-Wei Shih, Pragya Agarwal, Ada Gavrilovska, Taesoo Kim, and Karsten Schwan.<br/>
+    In <i>Proceedings of the 1st IEEE/ACM Symposium on Edge Computing (SEC 2017)</i>,<br/>
+    Washington, DC, October 2016.
+    <span class="meta">
+<span class="media"><a href="https://patents.google.com/patent/WO2018026841A1">Patent: WO2018026841A1</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages.</b>
+    [ <a class="ext" href="pubs/2016/lu:unisan.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/lu:unisan-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/unisan">code</a> ]<br/>
+    Kangjie Lu, Chengyu Song, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2016)</i>,<br/>
+    Vienna, Austria, October 2016.
+    <span class="meta">
+<span class="media"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5243">CVE-2016-5243</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5244">CVE-2016-5244</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4569">CVE-2016-4569</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4578">CVE-2016-4578</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4569">CVE-2016-4569</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4485">CVE-2016-4485</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4486">CVE-2016-4486</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4482">CVE-2016-4482</a>, AndroidID-28620568, AndroidID-28619338, AndroidID-28620324, AndroidID-28673002, AndroidID-28672819, AndroidID-28672560, AndroidID-28616963, …</span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Breaking Kernel Address Space Layout Randomization with Intel TSX.</b>
+    [ <a class="ext" href="pubs/2016/jang:drk-ccs.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/jang:drk-ccs-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/DrK">code</a> ]<br/>
+    Yeongjin Jang, Sangho Lee, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2016)</i>,<br/>
+    Vienna, Austria, October 2016.
+    <span class="meta">
+<span class="media"><a href="https://news.ycombinator.com/item?id=12796199">Hacker News</a>, <a href="https://lwn.net/Articles/704084/bigpage">LWN</a>, <a href="https://github.com/IOActive/I-know-where-your-page-lives">Attacking Windows 10 by IOActive</a>, <a href="https://googleprojectzero.blogspot.kr/2017/02/lifting-hyper-visor-bypassing-samsungs.html">Google Project Zero</a>, <a href="https://technet.microsoft.com/en-us/mt767986.aspx">Microsoft</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Provably-Secure Remote Memory Attestation for Heap Overflow Protection.</b>
+    [ <a class="ext" href="pubs/2016/boldyreva:notion.pdf">paper</a> ]<br/>
+    Alexandra Boldyreva, Taesoo Kim, Richard J. Lipton, and Bogdan Warinschi.<br/>
+    In <i>Proceedings of the 10th Conference on Security and Cryptography for Networks (SCN 2016)</i>,<br/>
+    Amalfi, Italy, August, 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques.</b>
+    [ <a class="ext" href="pubs/2016/xu:android-survey.pdf">paper</a> ]<br/>
+    Meng Xu, Chengyu Song, Yang ji, Ming-Wei Shih, Kangjie Lu, Cong Zheng, Ruian Duan, Yeongjin Jang, Byoungyoung Lee, Chenxiong Qian, Sangho Lee, and Taesoo Kim.<br/>
+<i>ACM Computing Surveys (CSUR 2016), Volumn 49-2</i>,<br/>
+    August, 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>APISan: Sanitizing API Usages through Semantic Cross-checking.</b>
+    [ <a class="ext" href="pubs/2016/yun:apisan.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/yun:apisan-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/apisan">code</a> ]<br/>
+    Insu Yun, Changwoo Min, Xujie Si, Yeongjin Jang, Taesoo Kim, and Mayur Naik.<br/>
+    In <i>Proceedings of the 25th USENIX Security Symposium (Security 2016)</i>,<br/>
+    Austin, TX, August, 2016.
+    <span class="meta">
+<span class="note"><a href="https://csaw.engineering.nyu.edu/research">Top 10 Finalists, CSAW16</a><br/></span>
+<span class="media"><a href="http://techgadgetcentral.com/2016/08/11/apisan-solution-fight-bugs/">TGC/News</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5636">CVE-2016-5636</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Breaking Kernel Address Space Layout Randomization (KASLR) with Intel TSX.</b>
+    [ <a class="ext" href="pubs/2016/jang:drk-bh.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/jang:drk-bh-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/DrK">code</a> ]<br/>
+    Yeongjin Jang, Sangho Lee, and Taesoo Kim.<br/>
+<i>BlackHat USA 2016</i>,<br/>
+    Las Vegas, NV, Auguest 2016.
+    <span class="meta">
+<span class="media"><a href="https://news.ycombinator.com/item?id=12796199">Hacker News</a>, <a href="https://lwn.net/Articles/704084/bigpage">LWN</a>, <a href="https://github.com/IOActive/I-know-where-your-page-lives">Attacking Windows 10 by IOActive</a>, <a href="https://googleprojectzero.blogspot.kr/2017/02/lifting-hyper-visor-bypassing-samsungs.html">Google Project Zero</a>, <a href="https://technet.microsoft.com/en-us/mt767986.aspx">Microsoft</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Understanding Manycore Scalability of File Systems.</b>
+    [ <a class="ext" href="pubs/2016/min:fxmark.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/min:fxmark-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/fxmark">code</a> ]<br/>
+    Changwoo Min, Sanidhya Kashyap, Steffen Maass, Woonhak Kang, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 2016 USENIX Annual Technical Conference (ATC 2016)</i>,<br/>
+    Denver, CO, June 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Instant OS Updates via Userspace Checkpoint-and-Restart.</b>
+    [ <a class="ext" href="pubs/2016/kashyap:kup.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/kashyap:kup-slides.pdf">slides</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, Byoungyoung Lee, Taesoo Kim, and Pavel Emelyanov.<br/>
+    In <i>Proceedings of the 2016 USENIX Annual Technical Conference (ATC 2016)</i>,<br/>
+    Denver, CO, June 2016.
+    <span class="meta">
+<span class="media"><a href="http://linuxplumbersconf.org/2015/ocw/events/LPC2015/schedule/">Linux Plumbers Conference 2015</a>, <a href="https://criu.org/LPC2015_Checkpoint_Restore_notes">CRIU</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>HDFI: Hardware-Assisted Data-flow Isolation.</b>
+    [ <a class="ext" href="pubs/2016/song:hdfi.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/song:hdfi-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/hdfi">code</a> ]<br/>
+    Chengyu Song, Hyungon Moon, Monjur Alam, Insu Yun, Byoungyoung Lee, Taesoo Kim, Wenke Lee, and Yunheung Paek.<br/>
+    In <i>Proceedings of the 37th IEEE Symposium on Security and Privacy (S&amp;P 2016)</i>,<br/>
+    San Jose, CA, May 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>MetaSync: Coordinating Storage Across Multiple File Synchronization Services.</b>
+    [ <a class="ext" href="pubs/2016/han:metasync2.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/han:metasync2-slides.pdf">slides</a>
+    | <a class="ext" href="http://uwnetworkslab.github.io/metasync">code</a> ]<br/>
+    Seungyeop Han, Haichen Shen, Taesoo Kim, Arvind Krishnamurthy, Thomas Anderson, and David Wetherall.<br/>
+<i>IEEE Internet Computing (IEEE IC 2016)</i>,<br/>
+    May/June 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>S-NFV: Securing NFV States by using SGX.</b>
+    [ <a class="ext" href="pubs/2016/shih:snfv.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/shih:snfv-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/opensgx">code</a> ]<br/>
+    Ming-Wei Shih, Mohan Kumar, Taesoo Kim, Ada Gavrilovska.<br/>
+    In <i>Proceedings of the 1st ACM International Workshop on Security in SDN and NFV</i>,<br/>
+    New Orleans, LA, March 2016.
+    <span class="meta">
+<span class="note">Best paper, invited to present at the <a href="http://www.layer123.com/nfv">NFV World Congress</a><br/></span>
+<span class="media"><a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>OpenSGX: An Open Platform for SGX Research.</b>
+    [ <a class="ext" href="pubs/2016/jain:opensgx.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/jain:opensgx-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/opensgx">code</a> ]<br/>
+    Prerit Jain, Soham Desai, Seongmin Kim, Ming-Wei Shih, JaeHyuk Lee, Changho Choi, Youjung Shin, Taesoo Kim, Brent B. Kang and Dongsu Han.<br/>
+    In <i>Proceedings of the 2016 Network and Distributed System Security Symposium (NDSS 2016)</i>,<br/>
+    San Diego, CA, February 2016.
+    <span class="meta">
+<span class="media"><a href="https://www.wikiwand.com/en/Software_Guard_Extensions">Wikipedia: Software Guard Extensions</a>, <a href="https://software.intel.com/en-us/sgx/academic-research">Intel SGX Research</a></span>
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Enforcing Kernel Security Invariants with Data Flow Integrity.</b>
+    [ <a class="ext" href="pubs/2016/song:kenali.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/song:kenali-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/kenali-kernel">code</a> ]<br/>
+    Chengyu Song, Byoungyoung Lee, Kangjie Lu, William R. Harris, Taesoo Kim and Wenke Lee.<br/>
+    In <i>Proceedings of the 2016 Network and Distributed System Security Symposium (NDSS 2016)</i>,<br/>
+    San Diego, CA, February 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>FlexDroid: Enforcing In-App Privilege Separation in Android.</b>
+    [ <a class="ext" href="pubs/2016/seo:flexdroid.pdf">paper</a>
+    | <a class="ext" href="pubs/2016/seo:flexdroid-slides.pdf">slides</a> ]<br/>
+    Jaebaek Seo, Daehyeok Kim, Donghyun Cho, Taesoo Kim and Insik Shin.<br/>
+    In <i>Proceedings of the 2016 Network and Distributed System Security Symposium (NDSS 2016)</i>,<br/>
+    San Diego, CA, February 2016.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2016" style="display: none">
+<b>Opportunistic Spinlocks: Achieving Virtual Machine Scalability in the Clouds.</b>
+    [ <a class="ext" href="pubs/2016/kashyap:oppspinlocks.pdf">paper</a>
+    | <a class="ext" href="https://lwn.net/Articles/650776/">code</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, and Taesoo Kim.<br/>
+<i>ACM SIGOPS Operating Systems Review (OSR), Volumn 50-1</i>,<br/>
+    January 2016.
+    <span class="meta">
+<span class="media"><a href="https://lwn.net/Articles/650776/">LWN: qspinlock in Linux</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>A First Step Towards Leveraging Commodity Trusted Execution Environments for Network Applications.</b>
+    [ <a class="ext" href="pubs/2015/kim:sgxtor.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/kim:sgxtor-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/opensgx">code</a> ]<br/>
+    Seongmin Kim, Youjung Shin, Jaehyung Ha, Taesoo Kim, and Dongsu Han.<br/>
+    In <i>Proceedings of the 14th ACM Workshop on Hot Topics in Networks (HotNets 2015)</i>,<br/>
+    Philadelphia, PA, November 2015.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>UCognito: Private Browsing without Tears.</b>
+    [ <a class="ext" href="pubs/2015/xu:ucognito.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/xu:ucognito-slides.pdf">slides</a>
+    | <a class="ext" href="https://sslab.gtisc.gatech.edu/pages/ucognito.html">code</a> ]<br/>
+    Meng Xu, Yeongjin Jang, Xinyu Xing, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2015)</i>,<br/>
+    Denver, CO, October 2015.
+    <span class="meta">
+<span class="media"><a href="http://observer.com/2015/11/ucognito-private-browsing/">Observer Innovation</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks.</b>
+    [ <a class="ext" href="pubs/2015/lu:aslrguard.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/lu:aslrguard-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/aslr-guard">code</a> ]<br/>
+    Kangjie Lu, Chengyu Song, Byoungyoung Lee, Simon P. Chung, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2015)</i>,<br/>
+    Denver, CO, October 2015.
+    <span class="meta">
+<span class="media"><a href="http://materials.dagstuhl.de/index.php?semnr=15294">Dagstuhl Seminar</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Breaking and Fixing VoLTE: Exploiting Hidden Data Channels and Mis-implementations.</b>
+    [ <a class="ext" href="pubs/2015/kim:volte.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/kim:volte-slides.pdf">slides</a> ]<br/>
+    Hongil Kim, Dongkwan Kim, Minhee Kwon, Hyungseok Han, Yeongjin Jang, Dongsu Han, Taesoo Kim, and Yongdae Kim.<br/>
+    In <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS 2015)</i>,<br/>
+    Denver, CO, October 2015.
+    <span class="meta">
+<span class="media"><a href="https://source.android.com/security/overview/acknowledgements.html">Android Security</a>, <a href="https://www.kb.cert.org/vuls/id/943167">CERT</a>, <a href="http://www.networkworld.com/article/2995037/is-it-still-possible-to-do-phone-phreaking-yes-with-android-on-lte.html">Networkworld</a>, <a href="http://news.softpedia.com/news/lte-4g-networks-put-android-users-at-risk-of-overbilling-and-phone-number-spoofing-494840.shtml">Softpedia</a>, <a href="http://pocketnow.com/2015/10/19/volte-attacks">pocketnow</a>, <a href="http://media.wix.com/ugd/e33ef9_0f634e7621fb411e82f90ccf2796fc15.pdf">VoIPshield</a>, <a href="http://www.kb.cert.org/vuls/id/943167">VU#943167</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-6614">CVE-2015-6614</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Cross-checking Semantic Correctness: The Case of Finding File System Bugs.</b>
+    [ <a class="ext" href="pubs/2015/min:juxta.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/min:juxta-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/sslab-gatech/juxta">code</a> ]<br/>
+    Changwoo Min, Sanidhya Kashyap, Byoungyoung Lee, Chengyu Song, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 25th ACM Symposium on Operating Systems Principles (SOSP 2015)</i>,<br/>
+    Monterey, CA, October 2015.
+    <span class="meta">
+<span class="media"><a href="http://search.gmane.org/?query=taesoo+changwoo+sanidhya+insu+byoungyoung+chengyu&amp;author=&amp;group=gmane.linux.kernel&amp;sort=relevance&amp;DEFAULTOP=or">Bug Report</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Type Casting Verification: Stopping an Emerging Attack Vector.</b>
+    [ <a class="ext" href="pubs/2015/lee:caver.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/lee:caver-slides.pdf">slides</a>
+    | <a class="ext" href="https://sslab.gtisc.gatech.edu/pages/eshard-extreme-software-hardening.html">code</a> ]<br/>
+    Byoungyoung Lee, Chengyu Song, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 24th USENIX Security Symposium (Security 2015)</i>,<br/>
+    Washington, DC, August 2015.
+    <span class="meta">
+<span class="note"><a href="http://internetdefenseprize.org">2015 Internet Defense Prize ($100k Prize)</a><br/>
+<a href="https://csaw.engineering.nyu.edu/research">Top 10 Finalists, CSAW15</a><br/></span>
+<span class="media"><a href="http://internetdefenseprize.org/">Internet Defense Prize</a>, <a href="https://www.usenix.org/blog/congratulations-winners-2015-internet-defense-prize">USENIX Update</a>, <a href="https://www.facebook.com/notes/protect-the-graph/doubling-the-internet-defense-prize-at-usenix-security-15/1634464803460331">Facebook</a>, <a href="http://www.zdnet.com/article/facebook-issues-internet-defense-prize-for-vulnerability-discovery-tool/">ZDNet</a>, <a href="http://www.welivesecurity.com/2015/08/13/researchers-win-internet-defense-prize-c-detection-tool/%3E">We Live Security</a>, <a href="http://www.science20.com/news_articles/found_11_security_flaws_in_popular_internet_browsers-156850%3E">Science 2.0</a>, <a href="http://phys.org/news/2015-08-team-flaws-popular-internet-browsers.html%3E">hys.org</a>, <a href="http://www.scientificcomputing.com/news/2015/08/new-analysis-method-finds-11-security-flaws-popular-internet-browsers%3E">Scientific Computing</a>, <a href="http://www.itproportal.com/2015/08/14/research-team-discovers-eleven-security-flaws-in-popular-browsers/%3E">IT Pro Portal</a>, <a href="http://www.laboratoryequipment.com/news/2015/08/new-analysis-finds-11-security-flaws-popular-web-browsers%3E">Laboratory Equipment</a>, <a href="http://www.gizbot.com/online/cyber-tool-spots-11-new-security-flaws-internet-browsers-027428.html%3E">Gizbot</a>, <a href="http://www.sciencecodex.com/georgia_tech_finds_11_security_flaws_in_popular_internet_browsers-163358%3E">Science Codex</a>, <a href="http://www.business-standard.com/article/news-ians/cyber-tool-spots-11-new-security-flaws-in-internet-browsers-115081400967_1.html%3E">Business Standard</a>, <a href="http://www.ecnmag.com/news/2015/08/georgia-tech-finds-11-security-flaws-popular-internet-browsers%3E">ECN magazine</a>, <a href="http://timesofindia.indiatimes.com/tech/tech-news/New-tool-finds-11-security-flaws-in-internet-browsers/articleshow/48481858.cms%3E">The Times of India</a>, <a href="http://www.ecnmag.com/news/2015/08/georgia-tech-finds-11-security-flaws-popular-internet-browsers%3E">CanIndia News</a>, <a href="http://www.newindianexpress.com/lifestyle/tech/Cyber-Tool-Spots-11-New-Security-Flaws-in-Internet-Browsers/2015/08/14/article2974323.ece%3E">New Indian Express</a>, <a href="http://www.infosecurity-magazine.com/news/facebook-awards-100k-internet/">InfoSec</a>, <a href="http://www.adweek.com/socialtimes/300k-internet-defense-prize-2015/438980">Social Times</a>, <a href="http://www.theregister.co.uk/2015/08/14/facebook_hands_hackers_100k_for_breaking_browsers/">The Register</a>, <a href="http://www.ctvnews.ca/sci-tech/facebook-awards-internet-defence-prize-to-german-researchers-1.1969401">CTV News</a>, <a href="http://threatpost.com/facebook-awards-100000-for-new-class-of-vulnerabilities-and-detection-tool/114252">Threat Post</a>, <a href="http://thenextweb.com/facebook/2014/10/29/facebook-ups-internet-defense-prize-award-support-online-security-research/">TNW News</a>, <a href="https://securityledger.com/2015/08/facebook-awards-100k-for-fix-to-common-c-flaw/">The Security Ledger</a>, <a href="http://www.news.gatech.edu/2015/08/13/georgia-tech-finds-11-security-flaws-popular-internet-browsers-using-new-analysis-method">Georgia Tech News Center</a>, <a href="http://www.sciencedaily.com/releases/2015/08/150813123434.htm">ScienceDaily</a>, <a href="http://www.miltonstart.com/blog/2015/08/13/georgia-tech-researchers-win-facebooks-top-defense-prize/">Milton Security</a>, <a href="http://cacm.acm.org/news/190912-georgia-tech-finds-11-security-flaws-in-popular-internet-browsers-using-new-analysis-method/fulltext">ACM TECHNEWS</a>, <a href="http://gadgets.ndtv.com/internet/news/new-cyber-security-tool-finds-11-security-flaws-in-internet-browsers-728025">Gadget 360</a>, <a href="http://www.scmagazine.com/georgia-tech-researchers-win-facebooks-100k-internet-defense-prize/article/432503/">SC Magazine</a>, <a href="http://insights.globalspec.com/article/1356/new-analysis-method-finds-internet-browser-security-flaws">IHS Engineering 360</a>, <a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1594">CVE-2014-1594</a>, …</span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Scalability in the Clouds! A Myth or Reality?</b>
+    [ <a class="ext" href="pubs/2015/kashyap:oticket.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/kashyap:oticket-slides.pdf">slides</a>
+    | <a class="ext" href="https://lwn.net/Articles/650776/">code</a> ]<br/>
+    Sanidhya Kashyap, Changwoo Min, and Taesoo Kim.<br/>
+    In <i>Proceedings of the 6th Asia-Pacific Workshop on Systems (APSys 2015)</i>,<br/>
+    Tokyo, Japan, July 2015.
+    <span class="meta">
+<span class="note">Best paper, nominated to <a href="http://www.sigops.org/osr.html">Operating Systems Review (OSR)</a><br/></span>
+<span class="media"><a href="https://lwn.net/Articles/650776/">LWN: qspinlock in Linux</a></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Lightweight Application-Level Crash Consistency on Transactional Flash Storage.</b>
+    [ <a class="ext" href="pubs/2015/min:cfs.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/min:cfs-slides.pdf">slides</a> ]<br/>
+    Changwoo Min, Woon-Hak Kang, Taesoo Kim, Sang-Won Lee, and Young Ik Eom.<br/>
+    In <i>Proceedings of the 2015 USENIX Annual Technical Conference (ATC 2015)</i>,<br/>
+    Santa Clara, CA, July 2015.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>MetaSync: File Synchronization Across Multiple Untrusted Storage Services.</b>
+    [ <a class="ext" href="pubs/2015/han:metasync.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/han:metasync-slides.pdf">slides</a>
+    | <a class="ext" href="http://uwnetworkslab.github.io/metasync">code</a> ]<br/>
+    Seungyeop Han, Haichen Shen, Taesoo Kim, Arvind Krishnamurthy, Thomas Anderson, and David Wetherall.<br/>
+    In <i>Proceedings of the 2015 USENIX Annual Technical Conference (ATC 2015)</i>,<br/>
+    Santa Clara, CA, July 2015.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>Preventing Use-after-free with Dangling Pointers Nullification.</b>
+    [ <a class="ext" href="pubs/2015/lee:dangnull.pdf">paper</a>
+    | <a class="ext" href="pubs/2015/lee:dangnull-slides.pdf">slides</a>
+    | <a class="ext" href="https://sslab.gtisc.gatech.edu/pages/eshard-extreme-software-hardening.html">code</a> ]<br/>
+    Byoungyoung Lee, Chengyu Song, Yeongjin Jang, Tielei Wang, Taesoo Kim, Long Lu, and Wenke Lee.<br/>
+    In <i>Proceedings of the 2015 Network and Distributed System Security Symposium (NDSS 2015)</i>,<br/>
+    San Diego, CA, February 2015.
+    <span class="meta">
+<span class="note"><a href="https://csaw.engineering.nyu.edu/research">Best Applied Security Research Paper (CSAW15)</a><br/></span>
+</span>
+</li>
+<li class="pub pub-2015" style="display: none">
+<b>RFVP: Rollback-Free Value Prediction with Safe-to-Approximate Loads.</b>
+    [ <a class="ext" href="pubs/2015/yazdanbakhsh:rfvp.pdf">paper</a> ]<br/>
+    Amir Yazdanbakhsh, Gennady Pekhimenko, Bradley Thwaites, Hadi Esmaeilzadeh, Taesoo Kim, Onur Mutlu, and Todd C Mowry.<br/>
+<i>SCS Technical Report GT-CS-15-01, Georgia Institute of Technology</i>,<br/>
+    Atlanta, GA, January 2015.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2014" style="display: none">
+<b>Identifying Information Disclosure in Web Applications with Retroactive Auditing.</b>
+    [ <a class="ext" href="pubs/2014/chen:rail.pdf">paper</a>
+    | <a class="ext" href="pubs/2014/chen:rail-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/haogang/rail">code</a> ]<br/>
+    Haogang Chen, Taesoo Kim, Xi Wang, M. Frans Kaashoek, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 11th Symposium on Operating Systems Design and Implementation (OSDI 2014)</i>,<br/>
+    Broomfield, CO, October 2014.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2014" style="display: none">
+<b>Abusing Performance Optimization Weaknesses to Bypass ASLR.</b>
+    [ <a class="ext" href="pubs/2014/lee:aslr-slides.pdf">slides</a> ]<br/>
+    Byoungyoung Lee, Yeongjin Jang, Tielei Wang, Chengyu Song, Long Lu, Taesoo Kim, and Wenke Lee.<br/>
+<i>BlackHat USA 2014</i>,<br/>
+    Las Vegas, NV, Auguest 2014.
+    <span class="meta">
+<span class="media"><a href="http://www.phrack.org/papers/modern_objc_exploitation.html">Phrack</a>, <a href="http://www.isssource.com/android-aslr-weakness-found">ISS Source</a>, <a href="http://itresearches.com/old/news/android-security-weaknesses-caused-by-performance-design-identified">IT Researches</a>, <a href="http://www.embedded.com/electronics-blogs/cole-bin/4432536/Securing-Android-on-nextgen-embedded-IoT---mobile-apps">Embedded</a></span>
+</span>
+</li>
+<li class="pub pub-2014" style="display: none">
+<b>Automatic Intrusion Recovery with System-wide History.</b>
+    [ <a class="ext" href="pubs/2014/kim:thesis.pdf">paper</a>
+    | <a class="ext" href="pubs/2014/kim:thesis-slides.pdf">slides</a> ]<br/>
+    Taesoo Kim.<br/>
+<i>Ph.D. Thesis, Massachusetts Institute of Technology, Department of Electrical Engineering and Computer Science</i>,<br/>
+    Cambridge, MA, June 2014.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2014" style="display: none">
+<b>MetaSync: File Synchronization Across Multiple Untrusted Storage Services.</b>
+    [ <a class="ext" href="pubs/2014/han:metasync-tr.pdf">paper</a>
+    | <a class="ext" href="http://uwnetworkslab.github.io/metasync">code</a> ]<br/>
+    Seungyeop Han, Haichen Shen, Taesoon Kim, Arvind Krishnamurthy, Thomas Anderson, and David Wetherall.<br/>
+<i>Technical Report UW-CSE-14-05-02, University of Washington Computer Science and Engineering</i>,<br/>
+    Seattle, WA, May 2014.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2014" style="display: none">
+<b>From Zygote to Morula: Fortifying Weakened ASLR on Android.</b>
+    [ <a class="ext" href="pubs/2014/lee:morula.pdf">paper</a>
+    | <a class="ext" href="pubs/2014/lee:morula-slides.pdf">slides</a>
+    | <a class="ext" href="https://github.com/lifeasageek/morula">code</a> ]<br/>
+    Byoungyoung Lee, Long Lu, Tielei Wang, Taesoo Kim, and Wenke Lee.<br/>
+    In <i>Proceedings of the 35th IEEE Symposium on Security and Privacy (S&amp;P 2014)</i>,<br/>
+    San Jose, CA, May 2014.
+    <span class="meta">
+<span class="media"><a href="https://lwn.net/Articles/675719/">LWN</a>, <a href="https://copperhead.co/blog/2015/05/11/aslr-android-zygote">Copperhead</a></span>
+</span>
+</li>
+<li class="pub pub-2013" style="display: none">
+<b>Asynchronous Intrusion Recovery for Interconnected Web Services.</b>
+    [ <a class="ext" href="pubs/2013/chandra:aire.pdf">paper</a>
+    | <a class="ext" href="pubs/2013/chandra:aire-slides.pdf">slides</a>
+    | <a class="ext" href="http://css.csail.mit.edu/undo">code</a> ]<br/>
+    Ramesh Chandra, Taesoo Kim, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 24th ACM Symposium on Operating Systems Principles (SOSP 2013)</i>,<br/>
+    Farmington, PA, November 2013.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2013" style="display: none">
+<b>Optimizing Unit Test Execution in Large Software Programs using Dependency Analysis.</b>
+    [ <a class="ext" href="pubs/2013/kim:tao.pdf">paper</a>
+    | <a class="ext" href="pubs/2013/kim:tao-slides.pdf">slides</a> ]<br/>
+    Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 4th Asia-Pacific Workshop on Systems (APSys 2013)</i>,<br/>
+    Singapore, July 2013.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2013" style="display: none">
+<b>Security Bugs in Embedded Interpreters.</b>
+    [ <a class="ext" href="pubs/2013/chen:vmsec.pdf">paper</a>
+    | <a class="ext" href="pubs/2013/chen:vmsec-slides.pdf">slides</a> ]<br/>
+    Haogang Chen, Cody Cutler, Taesoo Kim, Yandong Mao, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+    In <i>Proceedings of the 4th Asia-Pacific Workshop on Systems (APSys 2013)</i>,<br/>
+    Singapore, July 2013.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2013" style="display: none">
+<b>Practical and Effective Sandboxing for Non-root Users.</b>
+    [ <a class="ext" href="pubs/2013/kim:mbox.pdf">paper</a>
+    | <a class="ext" href="pubs/2013/kim:mbox-slides.pdf">slides</a>
+    | <a class="ext" href="http://pdos.csail.mit.edu/mbox">code</a> ]<br/>
+    Taesoo Kim and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 2013 USENIX Annual Technical Conference (ATC 2013)</i>,<br/>
+    San Jose, CA, June 2013.
+    <span class="meta">
+<span class="media"><a href="https://news.ycombinator.com/item?id=7214419">Hacker News</a>, <a href="https://en.wikipedia.org/wiki/Seccomp">Wikipedia: seccomp</a>, <a href="http://www.codersgrid.com/2014/02/12/mbox-sandbox-in-command-line-system/">Coders Grid</a>, <a href="http://alternativeto.net/software/mbox/">AlternativeTo</a>, <a href="https://lists.torproject.org/pipermail/tor-dev/2014-May/006911.html">TorProject</a></span>
+</span>
+</li>
+<li class="pub pub-2012" style="display: none">
+<b>Efficient Patch-based Auditing for Web Application Vulnerabilities.</b>
+    [ <a class="ext" href="pubs/2012/kim:poirot.pdf">paper</a>
+    | <a class="ext" href="pubs/2012/kim:poirot-slides.pdf">slides</a>
+    | <a class="ext" href="http://css.csail.mit.edu/undo">code</a> ]<br/>
+    Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 10th Symposium on Operating Systems Design and Implementation (OSDI 2012)</i>,<br/>
+    Hollywood, CA, October 2012.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2012" style="display: none">
+<b>System-Level Protection Against Cache-based Side Channel Attacks in the Cloud.</b>
+    [ <a class="ext" href="pubs/2012/kim:stealthmem.pdf">paper</a>
+    | <a class="ext" href="pubs/2012/kim:stealthmem-slides.pdf">slides</a> ]<br/>
+    Taesoo Kim, Marcus Peinado, and Gloria Mainar-Ruiz.<br/>
+    In <i>Proceedings of the 21st USENIX Security Symposium (Security 2012)</i>,<br/>
+    Bellevue, WA, August 2012.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2012" style="display: none">
+<b>Recovering from Intrusions in Distributed Systems with Dare.</b>
+    [ <a class="ext" href="pubs/2012/kim:dare.pdf">paper</a>
+    | <a class="ext" href="pubs/2012/kim:dare-slides.pdf">slides</a>
+    | <a class="ext" href="http://css.csail.mit.edu/undo">code</a> ]<br/>
+    Taesoo Kim, Ramesh Chandra, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 3rd Asia-Pacific Workshop on Systems (APSys 2012)</i>,<br/>
+    Seoul, South Korea, July 2012.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2011" style="display: none">
+<b>Intrusion Recovery for Database-backed Web Applications.</b>
+    [ <a class="ext" href="pubs/2011/chandra:warp.pdf">paper</a>
+    | <a class="ext" href="pubs/2011/chandra:warp-slides.pdf">slides</a>
+    | <a class="ext" href="http://css.csail.mit.edu/undo">code</a> ]<br/>
+    Ramesh Chandra, Taesoo Kim, Meelap Shah, Neha Narula, and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP 2011)</i>,<br/>
+    Cascais, Portugal, October 2011.
+    <span class="meta">
+</span>
+</li>
+<li class="pub pub-2010" style="display: none">
+<b>Intrusion Recovery using Selective Re-execution.</b>
+    [ <a class="ext" href="pubs/2010/kim:retro.pdf">paper</a>
+    | <a class="ext" href="pubs/2010/kim:retro-slides.pdf">slides</a>
+    | <a class="ext" href="http://css.csail.mit.edu/undo">code</a> ]<br/>
+    Taesoo Kim, Xi Wang, Nickolai Zeldovich, and M. Frans Kaashoek.<br/>
+    In <i>Proceedings of the 9th Symposium on Operating Systems Design and Implementation (OSDI 2010)</i>,<br/>
+    Vancouver, Canada, October 2010.
+    <span class="meta">
+<span class="media"><a href="http://www.networkworld.com/community/blog/mit-researchers-tout-network-intrusion-recove">Network World</a></span>
+</span>
+</li>
+<li class="pub pub-2010" style="display: none">
+<b>Making Linux Protection Mechanisms Egalitarian with UserFS.</b>
+    [ <a class="ext" href="pubs/2010/kim:userfs.pdf">paper</a>
+    | <a class="ext" href="pubs/2010/kim:userfs-slides.pdf">slides</a> ]<br/>
+    Taesoo Kim and Nickolai Zeldovich.<br/>
+    In <i>Proceedings of the 19th USENIX Security Symposium (Security 2010)</i>,<br/>
+    Washington, DC, August 2010.
+    <span class="meta">
+</span>
+</li>
+</ol>
+<a class="footer">Updated: Tue Jul 23 01:30:48 2019</a>
+</div>
+</body>

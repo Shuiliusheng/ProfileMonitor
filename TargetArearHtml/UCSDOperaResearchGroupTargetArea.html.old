@@ -1,0 +1,732 @@
+http://opera.ucsd.edu/pub_chronological.htm
+<body>
+<table cellspacing="10">
+<tr>
+<td valign="middle"><img alt="opera" height="84" src="australiaoperahouse_small2.jpg" width="150"/>
+</td><td valign="middle"><h1><font color="#00016A" size="+3">Opera</font>ting Systems Research Group<br/>
+<font color="#00016A" size="+2">Op</font>erating Systems Research on <font color="#00016A" size="+2">E</font>nergy, 
+	<font color="#00016A" size="+2">R</font>eliability and <font color="#00016A" size="+2">A</font>utonomy</h1>
+<br/>
+</td>
+</tr>
+</table>
+<div id="breadcrumb">
+<a href="pub_chronological.htm">Publications</a>
+</div>
+<div id="page">
+<div id="menu">
+<div><a href="index.html">Home</a></div>
+<div><a href="members.htm">People</a></div>
+<div><a href="pub_chronological.htm">Publications</a></div>
+<div><a href="software_released.htm">Software Released</a></div>
+<!-- <div><a href="projects.htm">Projects</a></div> -->
+<!-- <div><a href="conferences.htm">Conferences</a></div> -->
+<div><a href="ProspectiveStudents.htm">Prospective Students</a></div>
+<div><a href="memberonly.htm">Members Only</a></div>
+</div>
+<div id="content">
+<div class="article-title">
+        		Publications in reverse chronological order
+            </div>
+<!------------------------------------------- pub year 2018 ---------------------------------->
+<div class="section" id="2018">
+<ul><div align="center" class="article-title">2018</div></ul>
+<ul>
+<li class="pub">
+    Xinxin Jin, William Griswold, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    ANEL: Robust Mobile Network Programming Using a Declarative Language.
+    </font>
+    Proceedings of the 5th IEEE/ACM International Conference on Mobile Software Engineering and Systems (<b>MOBILESOFT'18</b>), May 27-28, 2018, Gothenburg, Sweden.
+    [<a href="paper/p202-jin.pdf">PDF</a>]
+    </li>
+</ul>
+</div>
+<!------------------------------------------- pub year 2017 ---------------------------------->
+<div class="section" id="2017">
+<ul><div align="center" class="article-title">2017</div></ul>
+<ul>
+<li class="pub">
+    Tianyin Xu, Han Min Naing, Le Lu, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    How Do System Administrators Resolve Access-Denied Issues in the Real World? 
+    </font> 
+    Proceedings of the 35th Annual CHI Conference on Human Factors in Computing Systems (<b>CHI'17</b>), May 6-11, 2017, Denver, CO, USA.   
+    [<a href="paper/chi17-xu.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Xu Zhao, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, Yuanyuan Zhou.
+    <font color="#0000FF">
+    Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold.
+    </font>
+    The 26th ACM Symposium on Operating Systems Principles (<b>SOSP'17</b>), October 2017, Shanghai, China.
+    [<a href="paper/p565-zhao.pdf">PDF</a>]
+    </li>
+</ul>
+</div>
+<!------------------------------------------- pub year 2016 ---------------------------------->
+<div class="section" id="2016">
+<ul><div align="center" class="article-title">2016</div></ul>
+<ul>
+<li class="pub">
+    Tianyin Xu, Xinxin Jin, Peng Huang, Yuanyuan Zhou, Shan Lu, Long Jin, and Shankar Pasupathy.
+    <font color="#0000FF">
+    Early Detection of Configuration Errors to Reduce Failure Damage. 
+    </font> 
+    Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI'16 Best Paper</b>), Nov. 2-4, 2016, Savannah, GA, USA.   
+    [<a href="paper/osdi16-pcheck.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Peng Huang, Tianyin Xu, Xinxin Jin, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior.
+    </font> 
+    Proceedings of the 14th International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'16</b>), Jun. 26-30, 2016, Singapore.  
+    [<a href="paper/mobisys16-defdroid.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Xinxin Jin, Peng Huang, Tianyin Xu, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Saving Mobile App Developers from Network Disruptions.
+    </font> 
+    Proceedings of the 11th ACM European Conference in Computer Systems (<b>EuroSys'16</b>), Apr. 18-21, 2016, London, UK.  
+    [<a href="paper/eurosys16-nchecker.pdf">PDF</a>]
+    </li>
+</ul></div>
+<!------------------------------------------- pub year 2015 ---------------------------------->
+<div class="section" id="2015">
+<ul><div align="center" class="article-title">2015</div></ul>
+<ul>
+<li class="pub">
+    Tianyin Xu and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Systems Approaches to Tackling Configuration Errors: A Survey.
+    </font> 
+    ACM Computing Surveys (<b>CSUR</b>), Volume 47, Number 4, Article 70, 2015.
+    [<a href="paper/csur15-survey.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Tianyin Xu, Long Jin, Xuepeng Fan, Yuanyuan Zhou, Shankar Pasupathy, and Rukma Talwadker. 
+    <font color="#0000FF">
+    Hey, You Have Given Me Too Many Knobs! Understanding and Dealing with Over-Designed Configuration in System Software.
+    </font> 
+    Proceedings of the 10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (<b>ESEC/FSE'15</b>), Oct. 31-Sep. 4, 2015, Bergamo, Italy.
+    [<a href="paper/fse15-knobs.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Peng Huang, William J. Bolosky, Abhishek Sigh, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    ConfValley: A Systematic Configuration Validation Framework for Cloud Services.
+    </font> 
+    Proceedings of the European Conference on Computer Systems (<b>EuroSys'15</b>), Bordeaux, France, April 2015.
+    [<a href="paper/eurosys15-confvalley.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Xinxin Jin, Soyeon Park, Tianwei Sheng, Rishan Chen, Zhiyong Shan, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    FTXen: Making Hypervisor Resilient to Hardware Faults on Relaxed Cores.
+    </font> 
+    Proceedings of the 21st IEEE International Symposium on High Performance Computer Architecture (<b>HPCA'15</b>), Bay Area, CA, February 2015.
+    [<a href="paper/hpca15-ftxen.pdf">PDF</a>]
+    </li>
+</ul></div>
+<!------------------------------------------- pub year 2014 ---------------------------------->
+<div class="section" id="2014">
+<ul><div align="center" class="article-title">2014</div></ul>
+<ul>
+<li class="pub">
+    Peng Huang, Xiao Ma, Dongcai Shen, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Performance Regression Testing Target Prioritization via Performance Risk Analysis.
+    </font> 
+    Proceedings of the 36th International Conference on Software Engineering (<b>ICSE'14</b>), Hyderabad, India, May 2014. 
+    [<a href="http://opera.ucsd.edu/paper/icse14-perfscope.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Jiaqi Zhang, Lakshminarayanan Renganarayana, Xiaolan Zhang, Niyu Ge, Vasanth Bala, Tianyin Xu, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    EnCore: Exploiting System Environment and Correlation Information for Misconfiguration Detection.
+    </font> 
+    Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS'14</b>), Salt Lake City, UT, USA, March 2014. 
+    [<a href="http://opera.ucsd.edu/paper/asplos14-encore.pdf">PDF</a>]
+    </li>
+</ul></div>
+<!------------------------------------------- pub year 2013 ---------------------------------->
+<div class="section" id="2013">
+<ul><div align="center" class="article-title">2013</div></ul>
+<ul>
+<li class="pub">
+    Michael Lee, Indrajit Roy, Alvin Auyoung, Vanish Talwar, K.R. Jayaram and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Views and Transactional Storage for Large Graphs.
+    </font> 
+    Proceedings of the 14th ACM/IFIP/USENIX International Middleware Conference (Middleware'13), Beijing, China, December 2013. 
+    </li>
+<li class="pub">
+    Tianyin Xu, Jiaqi Zhang, Peng Huang, Jing Zheng, Tianwei Sheng, Ding Yuan, Yuanyuan Zhou, and Shankar Pasupathy.
+    <font color="#0000FF">
+    Do Not Blame Users for Misconfigurations.
+    </font> 
+    Proceedings of the 24th ACM Symposium on Operating Systems Principles (<b>SOSP'13</b>), Nemacolin Woodlands Resort, Pennsylvania, November 2013. 
+    [<a href="http://opera.ucsd.edu/paper/sosp13-spex.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Xiao Ma, Peng Huang, Xinxin Jin, Pei Wang, Soyeon Park, Dongcai Shen, Yuanyuan Zhou, Lawrence K. Saul, and Geoffrey M. Voelker.
+    <font color="#0000FF">
+    eDoctor: Automatically Diagnosing Abnormal Battery Drain Issues on Smartphones.
+    </font> 
+    Proceedings of the 10th ACM/USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI'13</b>), Lombard, IL, April 2013.
+    [<a href="http://opera.ucsd.edu/paper/nsdi13-edoctor.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Lin Tan, Chen Liu, Zhenmin Li, Xuanhui Wang, Yuanyuan Zhou, and Chengxiang Zhai.
+    <font color="#0000FF">
+    Bug Characteristics in Open Source Software.
+    </font> 
+    Springer Journal on Empirical Software Engineering (EMSE), 2013. 
+    </li>
+</ul></div>
+<!------------------------------------------- pub year 2012 ---------------------------------->
+<div class="section" id="2012">
+<ul><div align="center" class="article-title">2012</div></ul>
+<ul>
+<li class="pub">
+    Ding Yuan, Soyeon Park, Peng Huang, Yang Liu, Michael M. Lee, Xiaoming Tang, Yuanyuan Zhou and Stefan Savage.
+    <font color="#0000FF">
+    Be Conservative: Enhancing Failure Diagnosis with Proactive Logging
+    </font> 
+    Proceedings of the 9th ACM/USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI'12</b>), Hollywood, CA, October 2012 (acceptance rate: 11.6% = 25/215).
+    [<a href="http://opera.ucsd.edu/paper/osdi12-errlog.pdf">PDF</a>]
+    [<a href="http://opera.ucsd.edu/errlog.htm">Dataset</a>]
+    [<a href="http://opera.ucsd.edu/paper/osdi12-errlog.bib">BIB</a>]
+    </li>
+<li class="pub">
+    Ding Yuan, Soyeon Park, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Characterising Logging Practices in Open-Source Software.
+    </font> 
+    In the Proceedings of the 34th International Conference on Software Engineering (<b>ICSE'12</b>), Zurich, Switzerland, June 2012 (acceptance rate: 21% = 87/408).
+       [<a href="http://opera.ucsd.edu/paper/log_icse12.pdf">PDF</a>]
+          [<a href="http://opera.ucsd.edu/paper/log_icse12.bib">BIB</a>]
+    </li>
+<li class="pub">
+    Ding Yuan, Jing Zheng, Soyeon Park, Yuanyuan Zhou and Stefan Savage.
+    <font color="#0000FF">
+    Improving Software Diagnosability via Log Enhancement.
+    </font> 
+    ACM Transactions on Computer Systems (<b>TOCS</b>), Vol. 30, No. 1, Article 4, Februray 2012.
+    [<a href="http://opera.ucsd.edu/paper/logenhancer-tocs.pdf">PDF</a>]
+    [<a href="http://opera.ucsd.edu/paper/logenhancer-tocs.ps">PS</a>]
+    [<a href="http://opera.ucsd.edu/paper/logenhancer-tocs.bib">BIB</a>]
+    </li>
+</ul>
+</div>
+<!------------------------------------------- pub year 2011 ---------------------------------->
+<div class="section" id="2011">
+<ul><div align="center" class="article-title">2011</div></ul>
+<ul>
+<li class="pub">
+    Shan Lu, Soyeon Park, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Detecting Concurrency Bugs From the Perspectives of Synchronization Intentions.
+    </font> 
+    IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>).
+    </li>
+<li class="pub">
+    Jiaqi Zhang, Weiwei Xiong, Yang Liu, Soyeon Park, Yuanyuan Zhou and Zhiqiang Ma.
+    <font color="#0000FF">
+    ATDetector: Improving the Accuracy of a Commercial Data Race Detector by Identifying Address Transfer.
+    </font>
+    The 44th Annual IEEE/ACM International Symposium on Microarchitecture 2011 (<b>MICRO'11</b>), December 2011 (acceptance rate: 21% = 44/209).
+    [<a href="http://opera.ucsd.edu/paper/micro44_atdetector.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Zuoning Yin, Xiao Ma, Jing Zheng, Yuanyuan Zhou, Lakshmi N. Bairavasundaram and Shankar Pasupathy.
+    <font color="#0000FF">
+    An Empirical Study on Configuration Errors in Commercial and Open Source Systems.
+    </font>
+    To appear in the proceedings of the 23rd ACM Symposium on Operating Systems Principles (<b>SOSP'11</b>), October 2011 (acceptance rate: 18.3% = 28/153).
+    [<a href="http://opera.ucsd.edu/paper/sosp11-yin.pdf">PDF</a>]
+
+    </li>
+<li class="pub">
+    Zuoning Yin, Ding Yuan, Yuanyuan Zhou, Shankar Pasupathy and Lakshmi N. Bairavasundaram.
+    <font color="#0000FF">
+    How Do Fixes Become Bugs? -- A Comprehensive Characteristic Study on Incorrect Fixes in Commercial and Open Source Operating Systems 
+    </font> 
+    To appear in the proceedings of the 19th ACM SIGSOFT Symposium 
+        on the Foundations of Software Engineering (<b>FSE'11</b>), September 2011. <font color="#FF0000">Distinguished Paper </font> (acceptance rate: 16.7% = 34/203). 
+    [<a href="http://opera.ucsd.edu/paper/fse11.pdf">PDF</a>]
+    [<a href="http://opera.ucsd.edu/paper/fse11.bib">BIB</a>]
+
+    </li>
+<li class="pub">
+    Shan Lu, Soyeon Park, and Yuanyuan Zhou.
+    <font color="#0000FF">
+    Finding Atomicity-Violation Bugs Through Unserializable Interleaving Testing.
+    </font> 
+    IEEE Transactions on Software Engineering (<b>TSE</b>), 22 Mar. 2011  (preprint ISSN: 0098-5589) 
+    </li>
+<li class="pub">
+    Lin Tan, Yuanyuan Zhou and Yoann Padioleau.
+    <font color="#0000FF">
+    aComment: Mining Annotations from Comments and Code to Detect Interrupt-Related Concurrency Bugs.
+    </font> 
+    In the Proceedings of the 31st International Conference on Software Engineering (<b>ICSE'11</b>), Waikiki, Honolulu, Hawaii, May 2011 (acceptance rate: 14.1% = 62/441).
+    [<a href="http://opera.ucsd.edu/paper/aComment-icse11.pdf">PDF</a>]
+    </li>
+<li class="pub">
+    Ding Yuan, Jing Zheng, Soyeon Park, Yuanyuan Zhou and Stefan Savage.
+    <font color="#0000FF">
+    Improving Software Diagnosability via Log Enhancement.
+    </font> 
+    In the Proceedings of Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS'11</b>), Newport Beach, CA, March 2011 (acceptance rate: 21.2% = 32/151).
+       [<a href="http://opera.ucsd.edu/paper/asplos11-logenhancer.pdf">PDF</a>]
+          [<a href="http://opera.ucsd.edu/paper/asplos11-logenhancer.ps">PS</a>]
+          [<a href="http://opera.ucsd.edu/paper/asplos11-logenhancer.bib">BIB</a>]
+   
+</li>
+</ul>
+</div>
+<!------------------------------------------- pub year 2010 ---------------------------------->
+<div class="section" id="2010">
+<ul><div align="center" class="article-title">2010</div></ul>
+<ul>
+<!-- Add new publication here -->
+<li class="pub">
+          Weiwei Xiong, Soyeon Park, Jiaqi Zhang, Yuanyuan Zhou and Zhiqiang Ma.
+          <font color="#0000FF"> 
+          Ad Hoc Synchronization Considered Harmful.
+          </font>
+          In the proceedings of the 9th USENIX Symposium on Operating Systems Design and Implementation
+          (<b>OSDI'10</b>), Vancouver, BC, CA, October 2010 (acceptance rate: 16.1% = 32/199).
+          [<a href="http://opera.ucsd.edu/paper/osdi10-syncfinder.pdf">PDF</a>]
+          [<a href="http://opera.ucsd.edu/paper/osdi10-syncfinder.ps">PS</a>]
+          [<a href="http://opera.ucsd.edu/paper/osdi10-syncfinder.bib">BIB</a>]
+          </li>
+<li class="pub">
+	Yao Shi, Soyeon Park, Zuoning Yin, Shan Lu, Yuanyuan Zhou, Wenguang Chen, and Weimin Zheng.   
+        <font color="#0000FF">
+	Do I Use the Wrong Definition? DefUse: Definition-Use Invariants for Detecting Concurrency and Sequential Bugs.
+        </font>
+        In the proceedings of the International Conference on Object-Oriented Programming, Systems, Languages &amp; Applications 2010 (<b>OOPSLA'10</b>), October 2010 (acceptance rate: 27.4%). 
+          [<a href="http://opera.ucsd.edu/paper/OOPSLA10.pdf">PDF</a>]
+	</li>
+<!--
+	<li class="pub">
+	Zuoning Yin, Matthew Caesar, and Yuanyuan Zhou.&nbsp;  
+        <font color="#0000FF">
+	An Empirical Study of Bug Characteristics in Router Software.
+        </font>
+        In the proceedings of the 18th ACM SIGSOFT Symposium 
+        on the Foundations of Software Engineering (<b>FSE'10</b>), November 2010. 
+	</li>
+	-->
+<li class="pub">
+        Ding Yuan, Haohui Mai, Weiwei Xiong, Lin Tan, Yuanyuan Zhou, and Shankar Pasupathy.
+        <font color="#0000FF">
+        SherLog: Error Diagnosis by Connecting Clues from Run-time Logs
+        </font>
+		In the proceedings of the 15th International 
+		Conference on Architecture Support for Programming Languages 
+		and Operating Systems 
+        (<b>ASPLOS'10</b>), March 2010 (acceptance rate: 17.7% = 32/181).[<a href="paper/asplos10-sherlog.pdf">PDF</a>][<a href="paper/asplos10-sherlog.ps">PS</a>][<a href="paper/asplos-sherlog.bib">BIB</a>]
+
+    	</li>
+</ul>
+</div> <!-- <div class="section" id="2010"> -->
+<!------------------------------------------- pub year 2009 ---------------------------------->
+<div class="section" id="2009">
+<ul><div align="center" class="article-title">2009</div></ul>
+<ul>
+<li class="pub"> Soyeon Park, Weiwei Xiong, Zuoning Yin, Rini Kaushik, Kyu H. Lee, Shan Lu and Yuanyuan Zhou. <font color="#0000FF">PRES: Probabilistic Replay with Execution Sketching on Multiprocessors.</font>
+       In the Proceedings of the 22nd ACM Symposium on Operating
+       Systems Principles (<b>SOSP'09</b>), October 2009 (acceptance rate: 16.4%). [<a href="paper/pres-sosp09.pdf">PDF</a>]
+        <!-- Weihang's ;login: paper -->
+<li class="pub">
+	Weihang Jiang, Chongfeng Hu, Shankar Pasupathy, Arkady Kanevsky and Yuanyuan Zhou.
+
+	<font color="#0000FF">
+        Storage System Problem Troubleshooting and System Logs.
+	</font>
+        ;login: The USENIX Magazine June 2009, Volume 34, Number 3 (<b>;login:'09</b>).
+        [<a href="paper/jiang.pdf">PDF</a>]
+	</li>
+<!-- Weihang's ;login: paper -->
+<li class="pub">
+            Zhe Zhang(NCSU), Amit Kulkarni(NCSU), Xiaosong Ma(NCSU), Yuanyuan Zhou.
+        <font color="#0000FF">
+        Memory Resource Allocation for File System Prefetching -- From a Supply Chain Management Perspective
+        </font>
+<b>Eurosys'09</b>, March 2009 ((Acceptance Rate: 16.9% = 25/148)).
+
+        </li>
+<li class="pub">
+	(Alphabetic order)
+	Yoann Padioleau, Lin Tan and Yuanyuan Zhou.
+	<font color="#0000FF">
+	Listening to Programmers - Taxonomies and Characteristics of Comments in Operating System Code. 
+	</font>
+		In  
+	the proceedings of the 31st International Conference on Software Engineering (<b>ICSE'09</b>), May 2009 
+	(Acceptance Rate: 12.3% = 50/405). 
+<!--    [<a href="http://opera.cs.uiuc.edu/~lintan2/publications/cComment_icse09.pdf" >PDF</a>] -->
+<!--    [<a href="http://opera.cs.uiuc.edu/~lintan2/publications/cComment_icse09.ps" >PS</a>] -->
+<!--    [<a href="http://opera.cs.uiuc.edu/~lintan2/bibtex/cComment_icse09.txt" >BibTex</a>] -->
+       [<a href="paper/cComment_icse09.pdf">PDF</a>]
+       [<a href="paper/cComment_icse09.ps">PS</a>]
+       [<a href="paper/cComment_icse09.txt">BIBTXT</a>]
+	</li>
+<li class="pub">
+	    Soyeon Park, Shan Lu, and Yuanyuan Zhou.
+	<font color="#0000FF">
+	CTrigger: Exposing Atomicity Violation Bugs from Their Hiding Places.
+	</font>
+		In the proceedings of the 14th International 
+		Conference on Architecture Support for Programming Languages 
+		and Operating Systems 
+	(<b>ASPLOS'09</b>), March 2009 (acceptance rate: 25%).
+        [<a href="paper/asplos092-zhou.pdf">PDF</a>]
+	</li>
+<li class="pub">
+	    Joseph Tucek, Weiwei Xiong, and Yuanyuan Zhou.
+	<font color="#0000FF">
+	Efficient on-line validation with delta execution.
+	</font>
+		In the proceedings of the 14th International 
+		Conference on Architecture Support for Programming Languages 
+		and Operating Systems 
+	(<b>ASPLOS'09</b>), March 2009 (acceptance rate: 25%).
+        [<a href="paper/asplos105-tucek.pdf">PDF</a>]
+        [<a href="paper/asplos105-tucek.ps">PS</a>]
+	</li>
+<li class="pub">
+	    Weihang Jiang, Chongfeng Hu, Shankar Pasupathy, Arkady Kanevsky, Zhenmin Li and Yuanyuan Zhou.
+	<font color="#0000FF">
+	Understanding Customer Problem Troubleshooting from Storage System Logs.
+	</font>
+	        In the Proceedings of 6th USENIX Conference on File and Storage Technologies (<b>FAST'09</b>), February, 2009 (acceptance rate: 22.5%).
+                [<a href="paper/weihang+FAST09+final.pdf">PDF</a>]
+	</li>
+</li></ul>
+</div> <!-- <div class="section" id="2009"> -->
+<!------------------------------------------- pub year 2008 ---------------------------------->
+<div class="section" id="2008">
+<ul><div align="center" class="article-title">2008</div></ul>
+<!-- If you want to remove New, remove the table and move the papers inside the list-->
+<ul>
+<!-- Weihang's TOS'08 paper -->
+<li class="pub">
+        Weihang Jiang, Chongfeng Hu, Yuanyuan Zhou and Arkady Kanevsky.
+        <font color="#0000FF">
+        Are Disks the Dominant Contributor for Storage Failures? A Comprehensive Study of Storage Subsystem Failure Characteristic.
+        </font>
+        ACM Transactions on Storage, Vol. 4, No. 3, Article 7, November 2008 (<b>TOS'08</b>)
+        [<a href="paper/tos08.pdf">PDF</a>][<a href="paper/tos08.bib">BibTex</a>]
+        </li>
+<li class="pub">
+	Lin Tan, Xiaolan (Catherine) Zhang, Xiao Ma, Weiwei Xiong and Yuanyuan Zhou.
+	<font color="#0000FF">
+	AutoISES: <u>Auto</u>matically <u>I</u>nferring <u>Se</u>curity <u>S</u>pecifications and Detecting Violations.
+	</font>
+	In the Proceedings of the 17th USENIX Security Symposium (<b>USENIX Security'08</b>), July-August, 2008 
+	(acceptance rate: 15.9% = 27/170).  
+    [<a href="paper/autoises_usenixsecurity08.pdf">PDF</a>]
+    [<a href="paper/autoises_usenixsecurity08.ps">PS</a>]
+    [<a href="paper/autoises_usenixsecurity08.bib">BibTex</a>]
+	</li>
+<li class="pub">
+	Zhe Zhang, Kyuhyung Lee, Xiaosong Ma, and Yuanyuan Zhou.
+	<font color="#0000FF">
+ 	"PFC: Transparent Optimization of Existing Prefetching Strategies for Multi-level Storage Systems".
+	</font>
+	In the Proceedings of the 2008 International Conference on Distributed Computing Systems (<b>ICDCS'08</b>), June 2008 (acceptance rate: 16.0% = 102/638). 
+	</li>
+<li class="pub"> 
+	Man-Lap Li, Pradeep Ramachandran, Swarup Kumar Sahoo, Sarita Adve, Vikram Adve, and Yuanyuan Zhou. 
+	<font color="#0000FF">
+	Trace-Based Diagnosis of Permanent Hardware Faults.
+	</font>
+	In the Proceedings of the International Conference on Dependable Systems and Networks (<b>DSN'08</b>), June 2008 (acceptance rate: 23.5% = 35/149). 
+    [<a href="http://opera.ucsd.edu/paper/DSN08.pdf">PDF</a>]
+	</li>
+<li class="pub"> Swarup Kumar Sahoo, Man-Lap Li, Pradeep Ramachandran, Sarita Adve, Vikram Adve, and Yuanyuan Zhou.
+	<font color="#0000FF"> Using Likely Program Invariants for Hardware Reliability. </font>
+	In the Proceedings of the International Conference on Dependable Systems and Networks (<b>DSN'08</b>), June 2008 (acceptance rate: 23.5% = 35/149).
+    [<a href="http://opera.ucsd.edu/paper/08DSN-Sahoo.pdf">PDF</a>]
+        </li>
+<li class="pub"> Ding Yuan, Kyuhyung Lee, Hong Cheng, Gopal Krishna, Zhenmin Li, Xiao Ma, Yuanyuan Zhou and Jiawei Han. <font color="#0000FF">CISpan: Comprehensive Incremental Mining Algorithms of Closed Sequential Patterns for Multi-Versional Software Mining.</font>
+        In the proceedings of 2008 SIAM Int. Conf. on Data Mining (<b>SDM'08</b>), Atlanta, Georgia, April 2008 (acceptance rate: 14.2% = 40/282). [<a href="paper/sdm172-yuan.pdf">PDF</a>][<a href="paper/sdm172-yuan.bib">BibTex</a>]
+</li>
+<li class="pub"> Weihang Jiang, Chongfeng Hu, Yuanyuan Zhou and Arkady Kanevsky. <font color="#0000FF">Are Disks the Dominant Contributor for Storage Failures? A Comprehensive Study of Storage Subsystem Failure Characteristics. </font>
+        In the proceedings of the 6th USENIX Conference on File and Storage Technologies (<b>FAST'08</b>), February, 2008 (acceptance rate: 22%). [<a href="paper/fast08-weihang.pdf">PDF</a>]
+        </li>
+<li class="pub"> Shan Lu, Soyeon Park, Eunsoo Seo, Yuanyuan Zhou. <font color="#0000FF">Learning from Mistakes --- A Comprehensive Study on Real World Concurrency Bug Characteristics.</font>
+	In the proceedings of the 13th International Conference on 
+	Architecture Support for Programming Languages and Operating Systems 
+	(<b>ASPLOS'08</b>), March 2008 (acceptance rate: 24%).[<a href="paper/asplos122-lu.pdf">PDF</a>][<a href="paper/asplos122-lu.bib">BibTex</a>]
+</li>
+<li class="pub"> Man-Lap Li, Pradeep Ramachandran, Sarita Adve, Vikram 
+       Adve and Yuanyuan Zhou, <font color="#3300FF">Understanding the 
+       propagation of hard faults to software and its implications on Resilient 
+       Systems Design.</font> In 13th International Conference on 
+       Architecture Support for Programming Languages and Operating Systems(<b>ASPLOS'08</b>), 
+       March, 2008 (acceptance rate: 24%).
+    [<a href="http://opera.ucsd.edu/paper/08ASPLOS.pdf">PDF</a>]
+       </li></ul>
+</div> <!-- <div class="section" id="2008"> -->
+<!------------------------------------------- pub year 2008 ---------------------------------->
+<div class="section" id="2007">
+<ul><div align="center" class="article-title">2007</div></ul>
+<!-- If you want to remove New, remove the table and move the papers inside the list-->
+<ul>
+<li class="pub"> Lin Tan, Ding Yuan, Yuanyuan Zhou. <font color="#0000FF">/* iComment: Bugs or Bad Comments? */.</font>
+       In the Proceedings of the 21st ACM Symposium on Operating
+       Systems Principles (<b>SOSP'07</b>), October 2007 (acceptance rate: 19.1% = 25/131). [<a href="paper/icomment_sosp07.pdf">PDF</a>][<a href="paper/icomment_sosp07.ps">PS</a>][<a href="paper/icomment_sosp07.txt">BibTex</a>]</li>
+<li class="pub"> Shan Lu, Soyeon Park, Chongfeng Hu, Xiao Ma, Weihang
+       Jiang, Zhenmin Li, Raluca A. Popa, Yuanyuan Zhou. <font color="#0000FF">MUVI: Automatically Inferring Multi-Variable Access
+       Correlations and Detecting Related Semantic and Concurrency Bugs</font>.
+       In the Proceedings of the 21st ACM Symposium on Operating
+       Systems Principles (<b>SOSP'07</b>), October 2007. (acceptance rate: 19.1% = 25/131)[<a href="paper/sosp061-lu.pdf">PDF</a>][<a href="paper/sosp061-lu.ps">PS</a>][<a href="paper/sosp061-lu.txt">BibTex</a>]</li>
+<li class="pub"> Joseph Tucek, Shan Lu, Chengdu Huang, Spiros Xanthos,
+       and Yuanyuan Zhou.  <font color="#0000FF">Triage: Diagnosing Production
+       Run Failures at the User's Site</font>.  In the Proceedings
+       of the 21st ACM Symposium on Operating Systems Principles
+       (<b>SOSP'07</b>), October 2007 (acceptance rate: 19.1% = 25/131). [<a href="paper/sosp63-tucek.pdf">PDF</a>][<a href="paper/sosp63-tucek.ps">PS</a>][<a href="paper/sosp63-tucek.txt">BibTex</a>]</li>
+<li class="pub"> Shan Lu, Weihang Jiang and Yuanyuan Zhou. 
+       <font color="#0000FF">A Study of Interleaving Coverage Criteria</font>. 
+       In the Proceedings of the 15th ACM SIGSOFT Symposium on the Foundations 
+       of Software Engineering (<b>FSE'07</b>) (short paper), September 2007 (acceptance rate: 17%).
+       [<a href="paper/fp051-lu.pdf">PDF</a>][<a href="paper/fp051-lu.txt">BibTex</a>]</li>
+<li class="pub">
+	Soyeon Park, Weihang Jiang, Yuanyuan Zhou and Sarita Adve.  <font color="#0000FF">Managing Energy-Performance Tradeoffs for Multi-threaded
+    Applications.</font> In the Proceedings of the ACM International
+    Conference on Measurement and Modeling of Computer Systems
+    (<b>SIGMETRICS'07</b>), June 2007 (acceptance rate: 17%). [<a href="paper/metrics118-park.pdf">PDF</a>] [<a href="paper/metrics118-park.bib">BibTex</a>]</li>
+<li class="pub">
+	Xiaodong Li, Ritu Gupta, Sarita V. Adve and Yuanyuan Zhou.
+       <font color="#0000FF">Cross-component energy management: Joint adaptation of processor and memory</font>.
+       In the ACM Transactions on Architecture and Code Optimization (<b>TACO</b>), Volume 4, Issue 3, September 2007.
+       [<a href="paper/li_taco.pdf">PDF</a>]
+       [<a href="paper/li_taco.bib">BibTex</a>]</li>
+<li class="pub">
+	Yuanyuan Zhou, Darko Marinov, William Sanders, Craig Zilles, Marcelo
+    d'Amorim, Steven Lauterburg, Ryan M. Lefever and Joseph Tucek.  <font color="#3300FF">Delta Execution for Software Reliability</font>. The
+    <i>Third Workshop on Hot Topics in System Dependability </i>
+<b><i>(HotDep '07)</i></b>, June, 2007 (acceptance rate: 15%)</li>
+<li class="pub"> Lin Tan, Ding Yuan and Yuanyuan Zhou.  <font color="#0000FF"> HotComments: How to Make Program Comments More Useful?
+       </font>.  In the Proceedings of the 11th Workshop on Hot Topics in
+       Operating Systems (<b>HotOS</b>), May 2007. San Diego, California (acceptance rate: 20.0% = 21/105).
+       [<a href="paper/hotcomments_hotos07.pdf">PDF</a>]
+       [<a href="paper/hotcomments_hotos07.bib">BibTex</a>]</li>
+<li class="pub">
+	Joseph Tucek, James Newsome, Shan Lu, Chengdu Huang, Spiros Xanthos, David Brumley, Yuanyuan Zhou and Dawn Song.
+        <font color="#0000FF">Sweeper: A Lightweight End-to-end System for Defending Against Fast Worms</font>. 
+        In the Proceedings of the<i> 2nd ACM SIGOPS EuroSys</i>
+        (<b>EuroSys'07</b>), March 2007 (acceptance rate: 22.1% = 29/131). [<a href="paper/sweeper-eurosys07.pdf">PDF</a>]
+        [<a href="paper/sweeper-eurosys07.bib">BibTex</a>] </li>
+<li class="pub">
+		Shan Lu, Joe Tucek, Feng Qin, 
+        and Yuanyuan Zhou. <font color="#0000FF">AVIO: Detecting Atomicity Violations via 
+        Access-Interleaving Invariants</font>. In the <b>IEEE Micro </b>
+        Special Issue: <font color="#FF0000"><b>Top Picks</b> <b>from Computer 
+        Architecture Conferences</b></font>, January-February 2007 Issue 
+    [<a href="http://opera.ucsd.edu/paper/micro-27-01-lu.pdf">PDF</a>] 
+              </li>
+<li class="pub">
+		Pin Zhou, Radu Teodorescu and 
+        Yuanyuan Zhou, <font color="#0000FF">HARD: Hardware-Assisted Lockset-based 
+        Race Detection</font>, The Proceedings of the <i>International Symposium on High-Performance 
+        Computer Architecture</i> (<b>HPCA'07</b>), February 2007 (acceptance rate: 14%). [<a href="paper/Hard-HPCA07.pdf">PDF</a>]
+              </li>
+</ul></div> <!-- <div class="section" id="2007"> -->
+<!------------------------------------------- pub year 2006 ---------------------------------->
+<div class="section" id="2006">
+<ul><div align="center" class="article-title">2006</div> </ul>
+<!-- If you want to remove New, remove the table and move the papers inside the list-->
+<ul>
+<li class="pub">
+	    Shan Lu, Pin Zhou, Wei Liu, Yuanyuan Zhou and Josep Torrellas. 
+            <font color="#0000FF">PathExpander: Architectural Support for Increasing the Path Coverage 
+            of Dynamic Bug Detection</font>. The Proceedings of the<font color="#3300ff"><i><b>
+</b></i>
+</font><i>Annual IEEE/ACM International Symposium on Microarchitecture, 2006</i><font color="#3300ff"><i><b>
+</b></i></font><i><b>(Micro'06), </b></i>Dec, 2006 (24%=42/174 
+            acceptance rate) [<a href="paper/214_lu_shan.pdf">PDF</a>][<a href="paper/paper-micro-shan.ps">PS</a>][<a href="paper/214_lu_shan.bib">BibTex</a>]</li>
+<li class="pub">
+	    Feng Qin, Cheng Wang, Zhenmin Li, Ho-seop Kim, Yuanyuan Zhou and 
+            Youfeng Wu. <a href="paper/LIFT-Micro06.pdf">LIFT: A Low-Overhead Practical Information Flow Tracking 
+            System for Detecting General Security Attacks.</a> The Proceedings 
+        of the<font color="#3300ff"><i><b>
+</b></i>
+</font><i>Annual IEEE/ACM International Symposium on Microarchitecture, 2006</i><font color="#3300ff"><i><b>
+</b></i></font><i><b>(Micro'06), </b></i>Dec, 2006 (24%=42/174 
+            acceptance rate) [<a href="paper/LIFT-Micro06.pdf">PDF</a>, <a href="paper/LIFT-Micro06.ps">PS</a>]</li>
+<li class="pub">
+			Shan Lu, Joe Tucek, 
+    		Feng Qin, and Yuanyuan Zhou.  <font color="#0000FF">AVIO: Detecting Atomicity Violations via 
+    		Access-Interleaving Invariants</font>. The Proceedings of the <i>International Conference on 
+    		Architecture Support for Programming Languages and Operating Systems</i> (<b>ASPLOS'06</b>), 
+    		Oct, 2006 (22% acceptance rate) [<a href="paper/asplos062-lu.pdf">PDF</a>][<a href="paper/asplos062-lu.ps">PS</a>][<a href="paper/asplos062-lu.bib">BibTex</a>] </li>
+<li class="pub">
+			Joseph Tucek, Shan Lu, Chengdu Huang, Spiros Xanthos and Yuanyuan Zhou. 
+              <font color="#0000FF">Automatic Online Failure Diagnosis at the End-User Site 
+            (A Position Paper)</font>.  The <i>Second Workshop on Hot Topics in System Dependability
+              </i>
+<b><i>(HotDep '06)</i></b>, Nov, 2006 (15%=8/52 acceptance rate) .
+                            [<a href="http://opera.ucsd.edu/paper/hotdep06-tucek.pdf">PDF</a>]
+            </li>
+<li class="pub">
+			Zhenmin Li, Shan Lu, Suvda Myagmar and Yuanyuan Zhou.  
+            CP-Miner: finding copy-paste and related bugs in large-scale 
+            software code. <i>IEEE Transactions 
+    		on Software Engineering (<b>IEEE-TSE</b>)</i>
+            [<a href="http://opera.ucsd.edu/paper/cp-miner-tse06.pdf">PDF</a>]
+            </li>
+<li>Vivek Pandey, Weihang Jiang, Yuanyuan Zhou and Ricardo 
+            Bianchini. DMA-aware memory energy management for data servers. T<i>he Proceedings of 
+    		the 10th International Symposium on High-Performance Computer Architecture 
+    		(<b>HPCA'06</b>) </i>,  Feb 2006. (15% acceptance rate, 25/172) 
+           [<a href="http://opera.ucsd.edu/paper/vivek-hpca06.pdf">PDF</a>]
+			</li>
+</ul></div> <!-- <div class="section" id="2006"> -->
+<!------------------------------------------- pub year 2005 ---------------------------------->
+<div class="section" id="2005">
+<ul><div align="center" class="article-title">2005</div></ul>
+<ul>
+<li class="pub">Smruti 
+    R. Sarangi, Wei Liu, Josep Torrellas, and Yuanyuan Zhou.
+    <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/micro051.pdf">ReSlice: 
+    Selective Re-Execution of Long-Retired Misspeculated Instructions Using 
+    Forward Slicing </a>. In <i>proceedings of the 38th International Symposium on Microarchitecture (<b>MICRO'05</b>)</i>, November 2005 (acceptance rate: 19.7%).
+    [<a href="http://opera.ucsd.edu/paper/micro051.pdf">PDF</a>]
+    </li>
+<li class="pub">
+   	Feng Qin, Joe Tucek, 
+    Jagadeesan Sundaresan and Yuanyuan Zhou. <font color="#0000FF">R</font>x: 
+    Treating bugs as allergies---a safe method to survive software failure.  
+    In <i>proceedings of the 20th</i> <i><a href="http://www.sosp-20.com/">ACM Symposium on 
+    Operating Systems Principles </a>(</i><b>SOSP'05</b><i>), </i>October 2005. 
+    <font color="#FF0000">Awarded Paper </font>(13% acceptance rate: 20/155).[<a href="paper/Rx-SOSP05.ps">PS</a>, 
+    <a href="paper/Rx-SOSP05.pdf">PDF</a>,
+    <a href="BibEntry/Qin.Rx.SOSP05.htm" target="_blank">BibTex</a>]
+	</li>
+<li class="pub">
+	Qingbo Zhu, Zhifeng 
+    Chen, Lin Tan, Yuanyuan Zhou, Kimberley Keeton and John Wilkes. Hibernator: 
+    Helping disk array sleep through the winter. In <i>proceedings of the 20th <a href="http://www.sosp-20.com/">ACM Symposium on Operating Systems 
+    Principles </a>(</i><b>SOSP'05</b><i>), </i>October 2005. (13% acceptance 
+    rate: 20/155). [<a href="paper/Hibernator-SOSP05.ps">PS</a>,
+    <a href="paper/Hibernator-SOSP05.pdf">PDF</a>, <a href="BibEntry/Zhu.hibernator.SOSP05.htm" target="_blank">
+
+    BibTex</a>]
+	</li>
+<li class="pub">
+	Zhenmin Li and 
+    Yuanyuan Zhou.  PR-Miner: Automatically 
+    Extracting Implicit Programming Rules and Detecting Violations in Large 
+    Software Code. In <i>proceedings of the 13th ACM SIGSOFT Symposium 
+    on the Foundations of Software Engineering (<b>FSE'05</b>), </i>Sept 2005<i>. (</i><a href="http://www.cs.washington.edu/homes/taoxie/seconferences.htm">16%</a>&gt;<i> </i>acceptance rate, 32/201<i>)</i>. [<a href="http://opera.ucsd.edu/~zli4/paper/PRMiner.pdf">PDF</a>,
+    <a href="BibEntry/Li.PRMiner.FSE05.htm" target="_blank">BibTex</a>]
+	</li>
+<li>
+  	Feng Qin, Joseph Tucek 
+    and Yuanyuan Zhou. Treating bugs as allergies: A safe method for surviving 
+    software failures.  The proceedings of <i>USENIX Tenth Workshop on Hot Topics 
+	in Operating Systems (<b>HOTOS'05</b>), </i>June 2005 (acceptance rate: 19.5% = 24/123)).[<a href="paper/Rx-HotOS05.ps">PS</a>,
+	<a href="paper/Rx-HotOS05.pdf">PDF</a>,
+    <a href="BibEntry/Qin.HOTOS05.htm" target="_blank">BibTex</a>].
+	</li>
+<li>
+	Zhifeng Chen, Yan Zhang, Yuanyuan Zhou, Heidi 
+    Scott and Berni Schiefer. Empirical evaluation of Multi-level Buffer Cache 
+    Collaboration for Storage System.  The proceedings of A<i>CM International 
+    Conference on Measurement and Modeling of Computing Systems</i> (<b>SIGMETRICS'05</b>), 
+    June 2005. (13% acceptance rate, 31/237)[<a href="paper/SIGMETRICS05-Chen.ps">PS</a>,
+    <a href="paper/SIGMETRICS05-Chen.pdf">PDF</a>,
+    <a href="BibEntry/Chen.SIGMETRICS05.htm" target="_blank">BibTex</a>].<br>
+</br></li>
+<li>
+	Zhenmin Li, Zhifeng 
+    Chen and Yuanyuan Zhou. Mining Block Correlations 
+    to Improve Storage Performance.
+    <i>Published in ACM Transactions on Storage</i> (<b>ACM-TOS</b>), 
+    pp. 213-245, Vol. 1, No. 2, May 2005 [<a href="BibEntry/Li.mining.TOS05.htm" target="_blank">BibTex</a>,
+           <a href="http://opera.ucsd.edu/paper/p213-li.pdf">PDF</a>]
+	</li>
+<li>
+	Xiaodong Li, 
+    Zhenmin Li, Yuanyuan Zhou and Sarita Adve .  Performance Directed Energy 
+    Management for Main Memory and Disks.
+    <i>Published in ACM Transactions on Storage
+    </i>(<b>ACM-TOS</b>), 
+    pp. 346-380, Vol. 1, No. 3, August 2005 [<a href="BibEntry/Li.performance.TOS05.htm" target="_blank">BibTex</a>,
+           <a href="http://opera.ucsd.edu/paper/p346-li.pdf">PDF</a>]
+	</li>
+<li>
+	Yuanyuan Zhou, Pin 
+    Zhou, Feng Qin, Wei Liu and Josep Torrellas. Efficient and Flexible 
+    Architectural Support for Dynamic Monitoring. Published in <i>ACM Transactions on Architecture and Code 
+    Generation</i> (<b>ACM-TACO</b>), 2005 [<a href="http://opera.ucsd.edu/paper/tacodec04.pdf">PDF</a>]
+	</li>
+<li>
+	Qingbo Zhu and 
+    Yuanyuan Zhou. <a href="http://opera.ucsd.edu/paper/TC05.pdf">Power Aware Storage Cache Management</a>. 
+    Published in<i> IEEE 
+    Transactions on Computers (<b>IEEE-TC</b>), </i>p587-602, Vol. 54, No. 5,
+     <i>2005.</i> (16 pages) [<a href="http://opera.ucsd.edu/paper/TC05.pdf">PDF</a>,
+    <a href="BibEntry/Zhu.TC05.htm" target="_blank">BibTex</a>]
+	</li>
+<li>
+  	Feng Qin, Shan Lu and Yuanyuan Zhou.
+    <a href="paper/HPCA05-SafeMem.pdf">SafeMem: 
+    Exploiting ECC-Memory for Detecting Memory Leaks and Memory Corruption 
+    During Production Runs.</a> T<i>he Proceedings of 
+    the 11th International Symposium on High-Performance Computer Architecture 
+    (<b>HPCA'05</b>) </i>,  Feb, 2005. (15% acceptance 
+	rate, 28/181) [<a href="paper/HPCA05-SafeMem.ps">PS</a>, <a href="paper/HPCA05-SafeMem.pdf">PDF</a>,
+    <a href="BibEntry/Qin.SafeMem.HPCA05.htm" target="_blank">BibTex</a>]
+	</li>
+</ul>
+</div> <!-- <div class="section" id="2005"> -->
+<!------------------------------------------- pub year 2004 ---------------------------------->
+<div class="section" id="2004">
+<ul><div align="center" class="article-title">2004</div> </ul>
+<ul>
+<li>
+  	Pin Zhou, Wei Liu, Fei Long, Shan Lu, Feng Qin, 
+    Yuanyuan Zhou, Sam Midkiff and Josep Torrellas. 
+    <a href="paper/Micro04-AccMon.pdf">AccMon: Automatically 
+    Detecting Memory-Related Bugs via Program Counter-based Invariants</a>. The Proceedings of <i>37th Annual IEEE/ACM International Symposium 
+    ON Micro-architecture (<b>Micro'04</b>), </i>December, 2004 (18% acceptance 
+    rate, 29/158) [<a href="paper/Micro04-AccMon.pdf">PDF</a>,
+    <a href="BibEntry/Zhou.AccMon.MICRO04.htm" target="_blank">BibTex</a>]
+	</li>
+<li>
+  	Zhenmin Li, Shan Lu, Suvda Myagmar and Yuanyuan 
+    Zhou. <a href="paper/OSDI04-CPMiner.pdf">CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating 
+    System Code</a>.  The <i>Proceedings of the Sixth Symposium on 
+    Operating System Design and Implementation (<b>OSDI'04</b>),</i> December, 
+    2004 (14% acceptance rate, 27/193) [<a href="paper/OSDI04-CPMiner.pdf">PDF</a>,
+    <a href="BibEntry/Li.CPMiner.OSDI04.htm" target="_blank">BibTex</a>]
+	</li>
+<li>
+	Pin Zhou, Feng Qin, Wei Liu, Yuanyuan Zhou and 
+    Josep Torrellas. <a href="paper/iWatcher-MicroToppicks.pdf">iWatcher: Simple, General Architectural Support for 
+    Software Debugging</a>.  <i>The IEEE Micro Special Issue on 
+    <font color="#FF0000"><b>Top Picks</b></font> 
+    from Microarchitecture Conferences</i>, Dec. 2004 [<a href="paper/iWatcher-toppicks.pdf">PDF</a>,
+    <a href="BibEntry/Zhou.iWatcher.MicroTopPicks04.htm" target="_blank">BibTex</a>]
+	</li>
+<li>Xiaodong Li, Zhenmin Li,  Pin 
+    Zhou, Yuanyuan Zhou, Sarita Adve and Sanjeev Kumar. 
+    <a href="paper/PerfDirected-MicroToppicks.pdf">Performance-Directed 
+    Energy Management for Storage Systems</a>. <i>The IEEE Micro Special Issue 
+    on <font color="#FF0000"><b>Top Picks</b></font> from Microarchitecture Conferences</i>, Dec. 2004 [<a href="paper/PerfDirected-MicroToppicks.pdf">PDF</a>,
+    <a href="BibEntry/Li.performance.MicroTP04.htm" target="_blank">BibTex</a>]
+	</li>
+<li>
+	Pin Zhou, Vivek Pandey, Jagadeesan 
+    Sundaresan, Anand Raghuraman, Yuanyuan Zhou and Sanjeev Kumar.
+    <a href="paper/ASPLOS04-Zhou.pdf">Dynamically Tracking Miss-Ratio-Curve for Memory Management</a>. 
+    The <i>Proceedings of the </i></li></ul></div></div></div></body>

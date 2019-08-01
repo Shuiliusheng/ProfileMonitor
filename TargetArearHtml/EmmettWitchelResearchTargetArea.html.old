@@ -1,0 +1,1347 @@
+https://www.cs.utexas.edu/users/witchel/research.html
+<body>
+<div id="wrapper">
+<div id="header">
+<div id="logo"> <h1>Emmett Witchel</h1> </div>
+<!-- BEGIN menu -->
+<div id="menu">
+<ul>
+<li class="first current_page_item"><a href="index.html">   Home   </a></li>
+<li><a href="research.html">   Research   </a></li>
+<li><a href="teaching.html">   Teaching   </a></li>
+<li><a href="service.html">   Service   </a></li>
+</ul>
+</div>
+<!-- END menu -->
+</div>
+<div id="page" style="background: #FFFFFF;padding: 35px 35px 35px 35px;">
+<h3>Complete publications, most recent first
+          <small>(<a href="projects.html">Projects</a>,
+                <a href="funding.html">Funding</a>)</small>
+<br/>
+<small><a href="https://www.cs.utexas.edu/users/witchel/pubs/ew.bib.txt">
+                Publication list in bibtex format
+              </a>
+</small>
+</h3>
+<hr size="1" width="100%"/>
+<!-- ACM DL Article: TxFS: Leveraging File-system Crash Consistency to Provide ACID Transactions -->
+<div class="acmdlitem" id="item3318159"><img alt="ACM DL Author-ize service" border="0" height="25" src="//dl.acm.org/images/oa.gif" style="vertical-align:middle" width="25"/><a href="https://dl.acm.org/authorize?N686584" title="TxFS: Leveraging File-system Crash Consistency to Provide ACID Transactions">TxFS: Leveraging File-system Crash Consistency to Provide ACID Transactions</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=99658643728">Yige Hu</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659096101">Zhiting Zhu</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659305680">Ian Neal</a>, <a href="http://dl.acm.org/author_page.cfm?id=99658993517">Youngjin Kwon</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659306485">Tianyu Cheng</a>, <a href="http://dl.acm.org/author_page.cfm?id=81490666459">Vijay Chidambaram</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100230582">Emmett Witchel</a><br>ACM Transactions on Storage (TOS), 2019</br></div></div>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ethunt/">Tyler Hunt</a>,
+     Zhipeng Jia,
+     Vance Miller,
+     Christopher J. Rossbach,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+     <a href="http://hotos19.sigops.org/program.html">
+    HotOS 19</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hunt19hotos-isolation.pdf">
+<b>
+       Isolation and Beyond: Challenges for System Security
+   </b></a>
+    (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/hunt19hotos-isolation-slides.pdf"></a>PDF)
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<!-- ACM DL Article: Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data -->
+<div class="acmdlitem" id="item3231594"><img alt="ACM DL Author-ize service" border="0" height="25" src="//dl.acm.org/images/oa.gif" style="vertical-align:middle" width="25"/><a href="https://dl.acm.org/authorize?N678100" title="Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data">Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=99659015847">Tyler Hunt</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659096101">Zhiting Zhu</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659333394">Yuanzhong Xu</a>, <a href="http://dl.acm.org/author_page.cfm?id=81350579209">Simon Peter</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100230582">Emmett Witchel</a><br>ACM Transactions on Computer Systems (TOCS), 2018</br></div></div>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyige/">Yige Hu</a>,
+    Zhiting Zhu, Ian Neal,
+    <a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+    Tianyu Cheng,
+    <a href="https://www.cs.utexas.edu/%7Evijay/">Vijay Chidambaram</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+    [<a href="https://www.usenix.org/conference/atc18/presentation/hu">best paper</a>]
+     <a href="https://www.usenix.org/conference/atc18/technical-sessions">
+    ATC 18</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hu18atc-txfs.pdf">
+<b>
+       TxFS: Leveraging File-System Crash Consistency to Provide ACID Transactions 
+   </b></a>
+    (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/hu18atc-txfs-slides.pdf">PDF</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ethunt/">Tyler Hunt</a>,
+      Congzheng Song,
+      Reza Shokri,
+      <a href="https://www.cs.cornell.edu/%7Eshmat/">Vitaly Shmatikov</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+    [<a href="https://www.zdnet.com/article/can-we-teach-machine-learning-privacy/">ZDNet</a>]
+      <a href="https://arxiv.org/abs/1803.05961">Arxiv</a>
+</div>
+<p class="tab">
+<a href="https://arxiv.org/pdf/1803.05961.pdf">
+<b>
+       Chiron: Privacy-preserving Machine Learning as a Service
+   </b></a>
+</p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+Henrique Fingler,
+  <a href="https://www.cs.utexas.edu/%7Ethunt/">Tyler Hunt</a>,
+<a href="https://www.cs.utexas.edu/%7Esimon/">Simon Peter</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+<a href="https://www.cs.washington.edu/people/faculty/tom/">Thomas Anderson</a>
+<br/>
+<div class="float-right">
+<a href="https://www.sigops.org/sosp/sosp17/program.html">
+    SOSP 17</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon17sosp-strata.pdf">
+<b>
+     Strata: A Cross Media File System
+   </b></a></p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+Hangchen Yu,
+<a href="https://www.cs.utexas.edu/%7Esimon/">Simon Peter</a>,
+<a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="https://dl.acm.org/citation.cfm?id=3139659">
+    OSR 17</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon17osr-ingens.pdf">
+<b>
+     Ingens: Huge Page Support for the OS and Hypervisor
+   </b></a></p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyige/">Yige Hu</a>,
+    <a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+    <a href="https://www.cs.utexas.edu/%7Evijay/">Vijay Chidambaram</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="https://www.sigops.org/hotos/hotos17/">
+    HotOS 17</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hu17hotos-txfs.pdf">
+<b>
+   From Crash Consistency to Transactions
+   </b></a>
+         (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/hu17hotos-txfs-slides.pdf">PDF</a>)
+   </p>
+</li>
+<li>
+    Zhiting Zhu,
+    <a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+    Yuri Rozhanski,
+    <a href="https://www.cs.utexas.edu/%7Eyige/">Yige Hu</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://gpgpu10.athoura.com/GPGPU-10-Program.pdf">
+      GPGPU-10</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/zhu17gpgpu-security.pdf">
+<b>Understanding The Security of Discrete GPUs</b>
+</a>
+      (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/zhu17gpgpu-security-slides.pdf">PDF</a>)</p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ethunt/">Tyler Hunt</a>,
+  Zhiting Zhu,
+  <a href="http://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>,
+  <a href="https://www.cs.utexas.edu/%7Esimon/">Simon Peter</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+      [<a href="https://www.usenix.org/conference/osdi16/technical-sessions/presentation/hunt">best paper</a>]
+      <a href="https://www.usenix.org/conference/osdi16/program">
+      OSDI 16</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hunt16osdi-ryoan.pdf">
+<b>Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data</b>
+</a>
+      (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/hunt16osdi-ryoan-slides.pdf">PDF</a>, <a href="https://www.cs.utexas.edu/users/witchel/pubs/hunt16osdi-ryoan-slides.pptx">pptx</a>)
+    <a href="https://www.usenix.org/conference/osdi16/technical-sessions/presentation/hunt">usenix</a>
+</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+Hangchen Yu,
+<a href="https://www.cs.utexas.edu/%7Esimon/">Simon Peter</a>,
+<a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="https://www.usenix.org/conference/osdi16/program">
+    OSDI 16</a>
+</div>
+<p class="tab">
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16osdi-ingens.pdf">
+<b>
+     Coordinated and Efficient Huge Page Management with Ingens
+   </b></a>
+         (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16osdi-ingens-slides.pdf">PDF</a>, <a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16osdi-ingens-slides.key">key</a>)
+    <a href="https://www.usenix.org/conference/osdi16/technical-sessions/presentation/kwon">usenix</a>
+</p>
+</li>
+<li>
+<a href="https://sites.google.com/site/silbersteinmark/">Mark Silberstein</a>,
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="http://dblp.uni-trier.de/pers/hd/h/Huh:Seonggu/">Seonggu Huh</a>,
+<a href="http://dblp.uni-trier.de/pers/hd/z/Zhang:Xinya.html">Xinya Zhang</a>,
+ <a href="https://www.cs.utexas.edu/%7Eyige/">Yige Hu</a>,
+Amir Watad,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+     [Improved from OSDI 14]   
+     <a href="https://dl.acm.org/citation.cfm?id=2963098">TOCS 16</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/silberstein16tocs-gpunet.pdf">
+    GPUnet: Networking Abstractions for GPU Programs</a></b></p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+    <a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+    <a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+    <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>
+<a href="https://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a><br/>
+<div class="float-right">
+<a href="https://www.ece.cmu.edu/calcm/asplos2016/">ASPLOS 16</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16asplos-sego.pdf">    
+    Sego: Pervasive Trusted Metadata for Efficiently Verified Untrusted System Services</a></b>
+   (slides
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16asplos-sego-slides.pdf">PDF</a>, <a href="https://www.cs.utexas.edu/users/witchel/pubs/kwon16asplos-sego-slides.key">key</a>)</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>,
+<a href="https://www.cs.utexas.edu/%7Ethunt/">Tyler Hunt</a>,
+<a href="https://www.cs.utexas.edu/%7Eyjkwon/">Youngjin Kwon</a>,
+<a href="https://www.cs.utexas.edu/%7Egeorgiev/">Martin Georgiev</a>,
+<a href="https://www.cs.cornell.edu/%7Eshmat/">Vitaly Shmatikov</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a><br/>
+<div class="float-right">
+<a href="https://www.usenix.org/conference/nsdi16">NSDI 16</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/xu16nsdi-earp.pdf">
+      Earp: Principled Storage, Sharing, and Protection for Mobile Apps
+      </a>
+</b>
+   (slides <a href="pubs/xu16nsdi-earp-slides.pdf">PDF</a>,
+  <a href="pubs/xu16nsdi-earp-slides.key">key</a>
+  )</p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>, 
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="http://eurosys2015.labri.fr/">EuroSys 15</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu15eurosys-maxoid.pdf">
+       Maxoid: Transparently Confining Mobile Applications with Custom Views of State
+       </a>
+</b>
+ (slides 
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu15eurosys-maxoid-slides.pdf">
+PDF</a>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu15eurosys-maxoid-slides.key.zip"> key</a>)
+</p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://sites.google.com/site/silbersteinmark/Home/">Mark Silberstein</a>, 
+
+<a href="http://www.brynosaurus.com/">Bryan Ford</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="http://cacm.acm.org/magazines/2014/12/180783-gpufs/abstract">CACM 14</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/silberstein14cacm-gpufs.pdf">
+    GPUfs: The Case for Operating System Services on GPUs
+    </a></b></p></li>
+<!-- ACM DL Article: GPUfs: the case for operating system services on GPUs -->
+<div class="acmdlitem"><img alt="ACM DL Author-ize service" border="0" height="25" src="https://dl.acm.org/images/oa.gif" style="vertical-align:middle" width="25"/><a href="https://dl.acm.org/author_page.cfm?id=81100347907">Mark Silberstein</a>, <a href="https://dl.acm.org/author_page.cfm?id=81100262251">Bryan Ford</a>, <a href="https://dl.acm.org/author_page.cfm?id=81100230582">Emmett Witchel</a></div>
+<div id="item2656206" style="margin-left:30px"><a href="https://dl.acm.org/authorize?N84038" title="GPUfs: the case for operating system services on GPUs"><b>GPUfs: the case for operating system services on GPUs</b></a>
+</div>
+<!-- ACM DL Bibliometrics: GPUfs: the case for operating system services on GPUs-->
+<span style="line-height:0em;">
+<div class="acmdlstat" id="stats2656206"><iframe frameborder="0" height="0" scrolling="no" src="https://dl.acm.org/authorizestats?N84038" width="100%">frames are not supported</iframe></div></span>
+<li>
+<a href="http://www3.cs.stonybrook.edu/~porter/">Donald E. Porter</a>,
+<a href="http://web.cse.ohio-state.edu/~mikebond/">Michael D. Bond</a>,
+<a href="http://www.hpl.hp.com/people/indrajitr/">Indrajit Roy</a>,
+ <a href="http://research.microsoft.com/en-us/people/mckinley/">Kathryn S. McKinley</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+Witchel</a>
+<br/>
+<div class="float-right">
+     [Improved version of PLDI 09]  
+     TOPLAS 14
+   </div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter14toplas-laminar.pdf">
+    Practical Fine-Grained Information Flow Control Using Laminar
+    </a></b></p></li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="http://dblp.uni-trier.de/pers/hd/h/Huh:Seonggu/">Seonggu Huh</a>,
+
+ <a href="https://www.cs.utexas.edu/%7Eyige/">Yige Hu</a>,
+<a href="http://dblp.uni-trier.de/pers/hd/z/Zhang:Xinya.html">Xinya Zhang</a>,
+Amir Watad,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+Witchel</a>
+<a href="https://sites.google.com/site/silbersteinmark/">Mark Silberstein</a>
+<br/>
+<div class="float-right">
+<a href="https://www.usenix.org/conference/osdi14/technical-sessions/">OSDI 14</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kim14osdi-gpunet.pdf">
+    GPUnet: Networking Abstractions for GPU Programs</a></b>
+ (<a href="https://www.cs.utexas.edu/users/witchel/pubs/kim14osdi-gpunet-slides.pdf">slides</a>)</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+ <a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="http://www.cs.umd.edu/~jkatz/">Jonathan Katz</a>,
+<a href="https://www.cs.utexas.edu/%7Ebwaters/">Brent Waters</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6678363">S&amp;P Magazine 14</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/lee14ieeesp-anon-pass.pdf">
+    Anon-Pass: Practical Anonymous Subscriptions
+  </a></b></p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>
+<a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+ <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+ <a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+ <a href="http://scholar.google.com/citations?user=cjjKkWMAAAAJ&amp;hl=en/"> Syed Akbar Mehdi</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="https://www.usenix.org/conference/atc14/">USENIX ATC 14</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu14atc-dcac.pdf">
+       Application-Defined Decentralized Access Control
+     </a></b>
+ (slides 
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu14atc-dcac-slides.pptx">
+pptx</a>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/xu14atc-dcac-slides.pdf">
+ PDF</a>)
+(<a href="https://github.com/ut-osa/dcac/">code</a>)
+</p>
+</li>
+<li>
+<a href="https://sites.google.com/site/silbersteinmark/Home/">Mark Silberstein</a>, 
+
+<a href="http://www.brynosaurus.com/">Bryan Ford</a>,
+<a href="http://webee.technion.ac.il/~idish/">Idit Keidar</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+     TOCS 14
+   </div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/silberstein14tocs-gpufs.pdf">
+    GPUfs: Integrating a File System with GPUs
+    </a></b></p></li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+ <a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="http://www.cs.umd.edu/~jkatz/">Jonathan Katz</a>,
+<a href="https://www.cs.utexas.edu/%7Ebwaters/">Brent Waters</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="http://www.ieee-security.org/TC/SP2013/program.html">IEEE S&amp;P 13</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/lee13oak-anon-pass.pdf">
+    Anon-Pass: Practical Anonymous Subscriptions
+  </a></b>
+ (slides 
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/lee13oak-anon-pass-slides.pdf">
+ PDF</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/lee13oak-anon-pass-slides.pptx">
+  pptx</a>)</p>
+</li>
+<li> <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S.
+Hofmann</a>, <a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="http://asplos13.rice.edu/programme/">ASPLOS 13</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hofmann13asplos-inktag.pdf">
+    InkTag: Secure Applications on an Untrusted Operating System
+  </a></b>
+    (<a href="https://www.cs.utexas.edu/users/witchel/pubs/hofmann13asplos-inktag-slides.pdf">slides</a>)
+   </p>
+</li>
+<li>
+<a href="https://sites.google.com/site/silbersteinmark/Home/">Mark Silberstein</a>, 
+
+<a href="http://www.brynosaurus.com/">Bryan Ford</a>,
+<a href="http://webee.technion.ac.il/~idish/">Idit Keidar</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+     [Runner-up
+    <a href="http://asplos13.rice.edu/">best paper</a>]
+     <a href="http://asplos13.rice.edu/programme/">ASPLOS 13</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/silberstein13asplos-gpufs.pdf">
+  GPUfs: Integrating a File System with GPUs
+</a></b>
+    (<a href="https://www.cs.utexas.edu/users/witchel/pubs/silberstein13asplos-gpufs-slides.pdf">slides</a>)
+   </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+<a href="https://www.cs.utexas.edu/%7Esuman/">Suman Jana</a>,
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="https://sites.google.com/site/silbersteinmark/Home/">Mark Silberstein</a>, 
+<a href="https://www.cs.utexas.edu/%7Eyxu/">Yuanzhong Xu</a>,
+<a href="https://www.cs.utexas.edu/%7Eshmat/">Vitaly Shmatikov</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+    [Runner-up <a href="http://petsymposium.org/2013/award/">PET</a> award]
+    <a href="https://www.usenix.org/conference/osdi12/tech-schedule/osdi-12-program/">OSDI 12</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/dunn12osdi-lacuna.pdf">
+    Eternal Sunshine of the Spotless Machine: Protecting Privacy with Ephemeral Channels
+    </a></b></p></li>
+<p class="tab">(slides 
+<a class="style2" href="https://www.cs.utexas.edu/users/witchel/pubs/dunn12osdi-lacuna-slides.pdf">PDF</a>,
+    <a class="style2" href="https://www.cs.utexas.edu/users/witchel/pubs/dunn12osdi-lacuna-slides.pptx">pptx</a>)
+    (<a href="https://www.usenix.org/conference/osdi12/technical-sessions/presentation/dunn">video</a>)
+    </p>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+    Keynote <a href="http://www.research.ibm.com/haifa/conferences/systor2012/program.shtml">SYSTOR 12</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/witchel12systor-keynote-acid.pdf">
+    ACID: The Wrong Way To Think About Concurrency
+  </a></b> 
+  (<a href="https://www.cs.utexas.edu/users/witchel/pubs/witchel12systor-keynote-acid.pptx">pptx</a>)
+  </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="https://www.cs.utexas.edu/%7Emzlee/">Michael Z. Lee</a>,
+<a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>, 
+<a href="http://www.cs.sunysb.edu/~wang9/"> Xuan Wang</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+ <a href="http://www.cs.sunysb.edu/~porter/">Donald E. Porter</a>
+<br/>
+<div class="float-right">
+<a href="http://eurosys2012.unibe.ch/">EuroSys 12</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kim12eurosys-txos+.pdf">
+    Improving Server Applications with System Transactions
+  </a></b>
+ (slides
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/kim12eurosys-txos+-slides.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/kim12eurosys-txos+-slides.pptx">pptx</a>)
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="http://research.microsoft.com/en-us/people/crossbac/">Christopher J. Rossbach</a>, 
+<a href="http://research.microsoft.com/en-us/people/jcurrey/">Jon Currey</a>, 
+<a href="https://sites.google.com/site/silbersteinmark/Home/">Mark Silberstein</a>, 
+<a href="http://dolphin.ece.utexas.edu/Home.html/">Baishakhi Ray</a>, 
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+  Witchel</a><br/>
+<div class="float-right">
+<a href="http://sosp2011.gsd.inesc-id.pt/">SOSP 11</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/sosp11rossbach-ptask.pdf">
+    PTask: Operating System Abstractions To Manage GPUs as Compute Devices
+  </a></b>
+   (<a href="https://www.cs.utexas.edu/users/witchel/pubs/sosp11rossbach-ptask-1col.pdf">one-col</a>)
+ 
+(slides
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach11sosp-ptask-slides.pdf">PDF</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach11sosp-ptask-slides.pptx">pptx</a>)
+</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>, 
+<a href="https://www.cs.utexas.edu/%7Ebwaters/">Brent Waters</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a><br/>
+<div class="float-right">
+<a href="http://www.usenix.org/events/sec11/index.html">USENIX Security 11</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/dunn11usenix-sec-tpm-malware.pdf">
+     Cloaking Malware with the Trusted Platform Module
+   </a></b>
+ (slides 
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/dunn11usenix-sec-tpm-malware-slides.pdf">PDF</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/dunn11usenix-sec-tpm-malware-slides.pptx">pptx</a>)
+</p></li>
+<li>
+<a href="http://research.microsoft.com/en-us/people/crossbac/">Christopher J. Rossbach</a>, 
+<a href="http://research.microsoft.com/en-us/people/jcurrey/">Jon Currey</a>, 
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+  Witchel</a><br/>
+<div class="float-right">
+<a href="http://www.usenix.org/event/hotos11/">HotOS 11</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach11hotos.pdf">
+      Operating Systems Must Support GPU Abstractions
+    </a></b>
+ (slides
+<a class="style2" href="https://www.cs.utexas.edu/users/witchel/pubs/hotos11-talk-final.pdf">PDF</a>,
+<a class="style2" href="https://www.cs.utexas.edu/users/witchel/pubs/hotos11-talk-final.pptx"> pptx</a>)
+</p>
+</li>
+<li> <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S.
+Hofmann</a>, <a href="https://www.cs.utexas.edu/%7Eadunn/">Alan M. Dunn</a>,
+<a href="https://www.cs.utexas.edu/%7Esangmank/">Sangman Kim</a>,
+<a href="http://www.hpl.hp.com/people/indrajitr/">Indrajit Roy</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+   Witchel</a><br/>
+<div class="float-right">
+<a href="http://asplos11.cs.ucr.edu/program.html/">ASPLOS 11</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/asplos201-hofmann.pdf">
+   Ensuring Operating System Kernel Integrity with OSck
+ </a></b>
+ (slides 
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/asplos11-osck.pdf">
+  PDF</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/asplos11-osck.pptx">
+  pptx</a>)
+</p>
+</li>
+<hr size="1" width="100%"/>
+<li><a href="http://www.cs.sunysb.edu/~porter/">Donald E. Porter
+</a>, 
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+  Witchel</a><br/>
+<div class="float-right">
+<a href="https://www.kernel.org/doc/ols/2010/">Linux Symposium 10</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter10ols-txos.pdf">
+      Transactional System Calls on Linux
+    </a></b></p>
+</li>
+<li> <a href="https://www.cs.utexas.edu/users/indrajit/">Indrajit Roy</a>,
+  <a href="https://www.cs.utexas.edu/%7Esrinath/">Srinath Setty</a>,
+    <a href="https://www.cs.utexas.edu/%7Eakilzer/">Ann Kilzer</a>, <a href="https://www.cs.utexas.edu/%7Eshmat/">Vitaly Shmatikov</a>, <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+      Witchel</a><br/>
+<div class="float-right">
+<a href="http://www.usenix.org/events/nsdi10/">NSDI 10</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/roy10nsdi-airavat.pdf">
+   Airavat: Security and Privacy for MapReduce
+ </a></b>
+(slides <a href="https://www.cs.utexas.edu/users/witchel/pubs/roy10nsdi-airavat-slides.pdf">PDF</a>,
+      <a href="https://www.cs.utexas.edu/users/witchel/pubs/roy10nsdi-airavat-slides.pptx">pptx</a>)
+      </p>
+</li>
+<li> <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald
+E. Porter</a>, <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+      Witchel</a><br/>
+<div class="float-right">
+<a href="http://ispass.org/ispass2010/">ISPASS 10</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter10ispass.pdf">
+   Understanding Transactional Memory Performance
+ </a></b>
+ (slides <a <a="" href="https://www.cs.utexas.edu/users/witchel/pubs/porter10ispass-tm-slides.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/porter10ispass-tm-slides.pptx">pptx</a>)
+    </p>
+</li>
+<li>
+<a href="http://scott.wolchok.org/"> Scott Wolchok</a>*, <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>*, <a href="http://www.cs.princeton.edu/%7Enadiah/"> Nadia Heninger</a>, <a href="http://www.cs.princeton.edu/%7Efelten/"> Edward W. Felten</a>, <a href="http://www.cse.umich.edu/%7Ejhalderm/"> J. Alex Halderman</a>, <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher
+J. Rossbach</a>, <a href="https://www.cs.utexas.edu/%7Ebwaters/">Brent
+Waters</a>, <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+      Witchel</a>
+         * Both authors contributed equally<br/>
+<div class="float-right">
+<a href="http://www.isoc.org/isoc/conferences/ndss/10/">NDSS 10</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/unvanish-ndss10-web.pdf">
+  Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs
+</a></b>
+ (slides 
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/unvanish10ndss.pdf">PDF</a>,
+ <a href="https://www.cs.utexas.edu/users/witchel/pubs/unvanish10ndss.pptx">pptx</a>)
+</p></li>
+<p class="tab"> This work was reported in the <a href="http://www.nytimes.com/2009/09/22/science/22decode.html">New
+York Times</a>, a <a href="http://www.utexas.edu/news/2009/09/29/digital_security_program">
+UT press release</a>, and <a href="http://cacm.acm.org/news/43680-researchers-break-vanish-security-system/fulltext">
+Communications of the ACM</a>. </p>
+<li>
+<a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://polaris.cs.uiuc.edu/ppopp10/">PPoPP 10</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach10ppopp.pdf">
+    Is Transactional Memory Programming Actually Easier?
+  </a></b>
+ (slides 
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ppopp10.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ppopp10.pptx">pptx</a>)
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/%7Eabenn1/">Alex Benn</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.sigops.org/sosp/sosp09/">SOSP 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter09sosp-txos.pdf">
+        Operating System Transactions
+      </a></b>
+     (slides
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/porter09sosp.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/porter09sosp.pptx">pptx</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ece.wisc.edu/%7Ewddd/2009/">WDDD 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach09wddd.pdf">
+        Is Transactional Memory Programming Actually Easier?
+      </a></b>
+     (slides
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/wddd09-rossbach.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/wddd09-rossbach.pptx">pptx</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ece.wisc.edu/%7Ewddd/2009/">WDDD 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/witchel09wddd.pdf">
+      Considerations for Mondriaan-like Systems
+    </a></b>
+ (slides <a href="https://www.cs.utexas.edu/users/witchel/pubs/wddd09-witchel.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/wddd09-witchel.pptx">pptx</a>) 
+</p></li>
+<li>
+<a href="https://www.cs.utexas.edu/users/indrajit/">Indrajit Roy</a>,
+  <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Emikebond/">Michael D. Bond</a>,
+  <a href="https://www.cs.utexas.edu/users/mckinley/">Kathryn S. McKinley</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www-plan.cs.colorado.edu/%7Epldi09/">PLDI 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/roy09pldi.pdf">
+      Laminar: Practical Fine-Grained Decentralized Information Flow
+      Control
+    </a></b>
+     (slides
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/pldi09-roy.pdf">PDF</a>,    
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/pldi09-roy.pptx">pptx</a>)
+</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.usenix.org/events/hotos09/">HotOS 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter09hotos.pdf">
+        Operating Systems Should Provide Transactions
+      </a></b>
+ (<a href="https://www.cs.utexas.edu/users/witchel/pubs/porter09hotos.html">html</a>)
+     (slides
+     <a href="https://www.cs.utexas.edu/users/witchel/pubs/hotos09-slides-public.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/hotos09-slides-public.pptx">pptx</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eosh/">Owen S.Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.cs.virginia.edu/asplos09/">ASPLOS 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/hofmann09asplos.pdf">
+   Maximum Benefit from a Minimal HTM
+ </a></b>
+    (slides
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/asplos09_slides.pdf">PDF</a>,
+   <a href="https://www.cs.utexas.edu/users/witchel/pubs/asplos09_slides.pptx">pptx</a>)
+   )
+   </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/%7Ewitchel">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://transact09.cs.washington.edu/">TRANSACT 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="/users/witchel/pubs/ramadan09transact.pdf">
+      The Xfork in the Road to Coordinated Sibling Transactions
+    </a></b>
+     (slides
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ramadan-transact09final.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ramadan-transact09final.ppt">ppt</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/users/indrajit/">Indrajit Roy </a>,
+  <a href="http://www.cs.brown.edu/%7Emph/"> Maurice Herlihy</a>,
+  <a href="https://www.cs.utexas.edu/%7Ewitchel">Emmett Witchel</a><br/>
+<div class="float-right">
+<a href="http://ppopp09.rice.edu/PPoPP_2009.html">PPoPP 09</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/ppopp121-ramadan.pdf">
+      Committing Conflicting Transactions in an STM
+    </a></b>
+     (slides
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ramadan-ppopp09.pdf">PDF</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/pubs/ramadan-ppopp09.ppt">ppt</a>)
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eramadan/">Hany E. Ramadan</a>,
+    <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach </a>,
+    <a href="https://www.cs.utexas.edu/%7Ewitchel">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.microarch.org/micro41/">MICRO 08</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/ramadan08micro.pdf">
+          Dependence-Aware Transactions for Increased Concurrency
+        </a></b>
+ (slides
+ <a href="https://www.cs.utexas.edu/users/witchel/pubs/tx-micro08-slides.pdf">PDF</a>,
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/tx-micro08-slides.ppt">ppt</a>)
+</p>
+</li>
+<p class="tab">Christopher J. Rossbach  gave the talk.
+      </p>
+<li><a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher
+J.
+Rossbach</a>, <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S.
+Hofmann</a>, <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald
+E. Porter</a>,  <a href="https://www.cs.utexas.edu/users/ramadan/">Hany
+E.
+Ramadan</a>, <a href="https://www.cs.utexas.edu/%7Ebhandari/">Aditya
+Bhandari</a>, <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+      Witchel</a><br/>
+<div class="float-right">
+        CACM 08
+      </div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach08cacm.pdf">            TxLinux and MetaTM: Transactional Memory and the Operating System
+      </a></b></p>
+</li>
+<!--
+<ul>
+  <li><a href="https://www.cs.utexas.edu/%7Ejwildstr">Jonathan
+Wildstrom</a>, <a href="https://www.cs.utexas.edu/%7Epstone">Peter
+Stone</a>, <a href="https://www.cs.utexas.edu/%7Ewitchel">Emmett
+Witchel</a><br>
+    <b> CARVE: a cognitive agent for resource value estimation</b>.&nbsp;<br>
+(<a
+ href="https://www.cs.utexas.edu/users/witchel/pubs/wildstrom08icac.pdf">PDF</a>
+paper)<br>
+In <i>The Fifth International
+Conference on Autonomic Computing (<a
+ href="http://www.acis.ufl.edu/%7Eicac2008/">ICAC</a>)</i>, <span
+ class="SubTitle">Chicago, IL </span>June 2008. </li>
+</ul>
+-->
+<li><a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+    <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J.
+Rossbach</a>, <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald
+E. Porter</a>, <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S.
+Hofmann</a>, <a href="https://www.cs.utexas.edu/%7Ebhandari/">Aditya
+Bhandari</a>, <a href="https://www.cs.utexas.edu/users/witchel/">Emmett
+      Witchel</a><br/>
+<div class="float-right">
+<a href="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/mags/mi/&amp;toc=comp/mags/mi/2008/01/mmi01toc.xml"> IEEE Micro Top Picks 08</a>
+</div>
+<p class="tab">
+<b>
+<a href="https://www.cs.utexas.edu/users/witchel/pubs/micro-final-ramadan.pdf">
+   MetaTM/TxLinux: Transactional Memory For An Operating System
+   </a></b></p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+    <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+    <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+    <a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+    <a href="https://www.cs.utexas.edu/%7Ebhandari/">Aditya Bhandari</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+      [Audience choice award]   <a href="http://www.sosp2007.org/">SOSP 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="/users/witchel/pubs/sosp2007-fp56-rossbach.pdf">
+        TxLinux: Using and Managing Transactional Memory in an Operating System
+      </a></b>
+       (slides
+      <a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach07sosp-txlinux.pdf">PDF</a>,
+      <a href="https://www.cs.utexas.edu/users/witchel/pubs/rossbach07sosp-txlinux.ppt">ppt</a>)
+      </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ejlbrick/">Justin Brickell</a>,
+  <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Eshmat/">Vitaly Shmatikov</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/"> Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.acm.org/sigs/sigsac/ccs/CCS2007/">CCS 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/ccs034-brickell.pdf">
+      Privacy-Preserving Remote Diagnostics
+      </a></b>
+     (slides
+    <a href="pubs/brickell-ccs07-trees.pdf">PDF</a>,
+    <a href="pubs/brickell-ccs07-trees.ppt">ppt</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.cs.rochester.edu/meetings/TRANSACT07/">TRANSACT 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/hofmann07transact-simple_htm.pdf">
+<span style="font-weight: bold;">Solving Difficult HTM Problems
+      Without Difficult Hardware
+    </span></a></b>
+       (slides
+      <a href="pubs/hofmann07transact.pdf">PDF</a>,
+      <a href="pubs/hofmann07transact.ppt">ppt</a>)
+      </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/%7Ebhandari/">Aditya Bhandari</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.cse.ucsd.edu/isca2007/">ISCA 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/isca07ramadan.pdf">
+      MetaTM/TxLinux: Transactional Memory For An Operating System
+    </a></b>
+     (slides
+    <a href="pubs/ramadan07isca-metatm-txlinux-slideonly.pdf">PDF</a>,
+    <a href="pubs/ramadan07isca-metatm-txlinux-slideonly.ppt">ppt</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/habals/">Jungwoo Ha</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/users/jdavis/">Jason V. Davis</a>,
+  <a href="https://www.cs.utexas.edu/users/indrajit/">Indrajit Roy</a>,
+  <a href="https://www.cs.utexas.edu/%7Edlcc/">David L. Chen</a>,
+  <a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://ties.ucsd.edu/PLDI/">PLDI 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/clarify-pldi07.pdf">
+        Improved Error Reporting for Software that Uses Black-Box Components
+      </a></b>
+     (slides
+    <a href="pubs/ha07pldi-clarify-slidesonly.pdf">PDF</a>,
+    <a href="pubs/Clarify-Pldi07-slidesonly.ppt">ppt</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Eporterde/">Donald E. Porter</a>,
+  <a href="https://www.cs.utexas.edu/%7Eosh/">Owen S. Hofmann</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.usenix.org/events/hotos07/">HotOS 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/porter07hotos-sync.pdf">
+        Is The Optimism in Optimistic Concurrency Warranted?
+        </a></b>
+     (slides
+    <a href="pubs/hotos07-slides.pdf">PDF</a>,
+    <a href="pubs/hotos07clean.key.tar.bz2">key</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ejwildstr">Jonathan Wildstrom</a>,
+  <a href="https://www.cs.utexas.edu/%7Epstone">Peter Stone</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="https://www.cs.utexas.edu/%7Edahlin">Mike Dahlin</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ijcai2007.org">IJCAI 07</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/wildstrom07IJCAI-reconfig.pdf">
+        Machine Learning for On-Line Hardware Reconfiguration
+      </a></b></p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/users/jdavis/">Jason V. Davis</a>,
+    <a href="https://www.cs.utexas.edu/users/habals/">Jungwoo Ha</a>,
+    <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+    <a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ecmlpkdd2006.org/">ECML 06</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/davis-ecml06.pdf">
+  Cost-Sensitive Decision Tree Learning for Forensic Classification
+</a></b> (short paper)</p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/ramadan/">Hany E. Ramadan</a>,
+  <a href="https://www.cs.utexas.edu/%7Erossbach/">Christopher J. Rossbach</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://odin.cs.uiuc.edu/WTW/">
+      Transactional Memory Workloads 06</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/wtw06ramadan.pdf">
+      The Linux Kernel: A Challenging Workload for Transactional Memory
+</a></b>
+     (slides <a href="pubs/wtwPresFinal.pdf">PDF</a>,
+    <a href="pubs/wtwPresFinal.ppt">ppt</a>)
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+    <a href="https://www.cs.utexas.edu/users/jhrhee/">Junghwan Rhee</a>,
+    <a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>
+<br/>
+<div class="float-right">
+<a href="http://www.sosp-20.com/">SOSP 05</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/witchel05sosp-mondrix.pdf">
+          Mondrix: Memory Isolation for Linux using Mondriaan Memory Protection
+        </a></b>
+       (slides <a href="pubs/mmp-sosp-2005-slideonly.pdf">PDF</a>,
+      <a href="pubs/mmp-sosp-2005-slideonly.ppt">ppt</a>)
+      </p>
+</li>
+<li>
+    Andrew Ayers,
+    <a href="http://cdmetcalf.home.comcast.net/">Chris Metcalf</a>,
+    <a href="https://www.cs.utexas.edu/users/jhrhee/">Junghwan Rhee</a>,
+    Richard Schooler,
+    <a href="http://www.cag.lcs.mit.edu/%7Eagarwal/"> Anant Agarwal</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+<a href="http://research.ihost.com/pldi2005/program.html">PLDI 05</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/pldi05ayers.pdf">
+          TraceBack: First Fault Diagnosis by Reconstruction of Distributed Control Flow
+          </a></b>
+       (slides
+      <a href="pubs/traceback_pldi_06_14_05_slidesonly.pdf">PDF</a>,
+      <a href="pubs/traceback_pldi_06_14_05_slidesonly.ppt">ppt</a>)
+      </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/%7Ejwildstr">Jonathan Wildstrom</a>,
+    <a href="https://www.cs.utexas.edu/%7Epstone">Peter Stone</a>,
+    <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+    <a href="https://www.cs.utexas.edu/%7Emooney">Raymond J. Mooney</a>,
+    <a href="https://www.cs.utexas.edu/%7Edahlin">Mike Dahlin</a>
+<br/>
+<div class="float-right">
+<a href="http://www.caip.rutgers.edu/%7Eparashar/icac2005/">ICAC 05</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/ICAC05.pdf">
+        Towards Self-Configuring Hardware for Distributed Computer Systems
+        </a></b></p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+        Ph.D. dissertation, MIT 04
+      </div>
+<p class="tab">
+<b>
+<a href="http://www.cag.lcs.mit.edu/scale/papers/witchel-phd.pdf">
+        Mondriaan Memory Protection
+      </a></b></p>
+<p class="tab"> Honorable Mention, <a href="http://www.acm.org/awards/dd_citation/2004_w.html">ACM
+Doctoral Dissertation Award</a>
+</p>
+<p class="tab">Winner of the MIT
+        <a href="https://news.mit.edu/2005/awards-eecs-0601">
+        George M. Sprowls award </a> for
+        outstanding doctoral dissertation.
+      </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>
+<br/>
+<div class="float-right">
+<a href="http://www.usenix.org/events/hotos03/program.html">HotOS 03</a>
+</div>
+<p class="tab">
+<b>
+<a href="http://www.cag.lcs.mit.edu/scale/papers/mmp-hotos2003.pdf">
+        Hardware Works, Software Doesn't: Enforcing Modularity with Mondriaan Memory Protection
+      </a></b>
+     (slides
+    <a href="/users/witchel/pubs/mmp-hotos2003-slides.pdf">PDF</a>,
+    <a href="/users/witchel/pubs/mmp-hotos2003-slides.ppt">ppt</a>
+    )
+    </p>
+</li>
+<hr size="1" width="100%"/>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="http://www.pdos.lcs.mit.edu/%7Ecates">Josh Cates</a>,
+  <a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>
+<br/>
+<div class="float-right">
+<a href="http://www.cs.wisc.edu/asplos-X/program.html">ASPLOS 02</a>
+</div>
+<p class="tab">
+<b>
+<a href="/users/witchel/pubs/mmp-asplos2002.pdf">
+        Mondrian Memory Protection
+      </a></b>
+     (slides
+    <a href="http://www.cag.lcs.mit.edu/scale/papers/mmp-asplos2002-slides.pdf">PDF</a>,
+    <a href="http://www.cag.lcs.mit.edu/scale/papers/mmp-asplos2002-slides.ppt">ppt</a>)
+    </p>
+</li>
+<li>
+<a href="http://www.cag.lcs.mit.edu/%7Eslarsen">Sam Larsen</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="http://www.cag.lcs.mit.edu/%7Esaman">Saman Amarasinghe</a>
+<br/>
+<div class="float-right">
+<a href="http://moss.csc.ncsu.edu/~mueller/pact02/program.html"> PACT 02
+      </a></div>
+<p class="tab">
+<b>
+<a href="http://www.cag.lcs.mit.edu/slp/Congruence-PACT-2002.pdf">
+      Increasing and Detecting Memory Address Congruence.
+    </a></b></p>
+</li>
+<li>
+<a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>,
+  <a href="http://www.cag.lcs.mit.edu/%7Emhampton">Mark Hampton</a>,
+  <a href="http://www.cag.lcs.mit.edu/%7Eronny">Ronny Krashinsky</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>
+<br/>
+<div class="float-right">
+      Chapter from
+      <a href="http://www.wkap.nl/prod/b/0-306-46786-0">Power Aware Computing</a>
+</div>
+<p class="tab">
+<b>
+<a href="http://www.cag.lcs.mit.edu/scale/papers/eeisa-paccbook.pdf">
+      Energy-Exposed Instruction Sets
+    </a></b></p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="http://www.cag.lcs.mit.edu/%7Eslarsen">Sam Larsen</a>,
+  <a href="http://www.cag.lcs.mit.edu/%7Ecananian">C. Scott Ananian</a>,
+  <a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>
+<br/>
+<div class="float-right">
+<a href="http://www.microarch.org/micro34/">MICRO 01</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/dacache-micro2001.pdf">
+      Direct Addressed Caches for Reduced Power Consumption
+    </a></b>
+     (<a href="pubs/dacache-micro2001-slides.pdf">slides</a>)
+    </p>
+</li>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="https://people.eecs.berkeley.edu/%7Ekrste/">Krste Asanovìc</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ece.rochester.edu/~albonesi/wced01/program.html">
+        ISCA Workshop on Complexity Effective Design
+      </a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/witchel-spancache-wced2001.pdf">
+      The Span Cache: Software Controlled Tag Checks and Cache Line Size
+    </a></b></p>
+</li>
+<li>
+  David Mazières,
+  Michael Kaminsky,
+  M. Frans Kaashoek,
+  Emmett Witchel.<br/>
+<div class="float-right">
+<a href="http://www.diku.dk/sosp99/">SOSP 99</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/sfs_sosp99.pdf">
+      Separating key management from file system security
+    </a></b></p>
+</li>
+<li>
+Emmett Witchel,
+M. Frans Kaashoek.
+<br/>
+<div class="float-right">
+    MIT Tech Report
+  </div>
+<p class="tab">
+<b>
+<a href="/%7Ewitchel/pubs/MIT-LCS-TR-878.pdf">
+    Using Software-Extended Architectures
+for Software Simultaneous Multithreading</a></b>
+     (<a href="https://www.cs.utexas.edu/users/witchel/pubs/sea.html">notes</a>)
+  </p>
+</li>
+<hr size="1" width="100%"/>
+<p>While getting my masters, and
+  for a year after, I worked for
+  <a href="https://profiles.stanford.edu/mendel-rosenblum">Mendel
+Rosenblum</a>, in
+the
+<a href="http://simos.stanford.edu/">SimOS</a>
+simulation
+group, which is part of the <a href="http://www-flash.stanford.edu">FLASH</a>
+project at <a href="http://www.stanford.edu/">Stanford
+university</a>,
+where
+I helped write these papers. They deal with fast machine simulation via
+dynamic binary translation, a characterization of operating system
+services based on the machine simulation technology, and a paper about
+the entire machine simulation system, not just the part I wrote.
+</p>
+<li>
+<a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+    <a href="https://profiles.stanford.edu/mendel-rosenblum">Mendel Rosenblum</a>
+<br/>
+<div class="float-right">
+<a href="http://www.cs.wm.edu/sigmetrics96.html">SIGMETRICS 96</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/SIGMetrics96-embra.pdf">
+    Embra: Fast and Flexible Machine Simulation
+  </a></b></p>
+<p class="tab">
+  Visit the archive of the <a href="https://web.archive.org/web/20110718070957/http://www-flash.stanford.edu/Embra/">Embra</a>
+  website. </p>
+</li>
+<li>
+<a href="https://profiles.stanford.edu/mendel-rosenblum">Mendel Rosenblum</a>,
+  <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Edouard_Bugnion">Edouard Bugnion</a>,
+  <a href="http://dblp.uni-trier.de/pers/hd/h/Herrod:Stephen_Alan">Stephen A. Herrod</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="http://dblp.uni-trier.de/pers/hd/g/Gupta:Anoop">Anoop Gupta</a>
+<br/>
+<div class="float-right">
+<a href="http://www.ubiq.com/SOSP/SOSPhome.html">SOSP 95</a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/SOSP95-oschar.pdf">
+      The Impact of Architectural Trends on Operating System Performance
+    </a></b></p>
+</li>
+<li>
+<a href="https://profiles.stanford.edu/mendel-rosenblum">Mendel Rosenblum</a>,
+  <a href="http://dblp.uni-trier.de/pers/hd/h/Herrod:Stephen_Alan">Stephen A. Herrod</a>,
+  <a href="https://www.cs.utexas.edu/users/witchel/">Emmett Witchel</a>,
+  <a href="http://dblp.uni-trier.de/pers/hd/g/Gupta:Anoop">Anoop Gupta</a>
+<br/>
+<div class="float-right">
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=473612">
+        IEEE Parallel and Distributed Technology
+        </a>
+</div>
+<p class="tab">
+<b>
+<a href="pubs/simos95ieee.pdf">
+    Complete Computer Simulation: The SimOS Approach
+    </a></b></p>
+</li>
+<hr style="width: 100%; height: 2px;"/>
+<a href="http://web.archive.org/web/20041130125320/cag.lcs.mit.edu/%7Ewitchel/">My
+graduate student web site.</a><br/>
+<!-- END recent publicaitons -->
+</div> <!-- end id="page" -->
+</div> <!-- end id="wrapper" -->
+</body>

@@ -1,0 +1,124 @@
+http://people.cs.uchicago.edu/~shanlu/publications.html
+<body alink="#0000ff" bgcolor="#ffffff" leftmargin="0" link="#000099" marginheight="0" marginwidth="0" text="#000000" topmargin="0" vlink="#000099">
+<!-- ------------------------ TOP TABLE ------------------------- -->
+<!-- ------------------------ TOP TABLE ------------------------- -->
+<!-- ------------------------ TOP TABLE ------------------------- -->
+<table border="0" cellpadding="0" cellspacing="0" height="48" width="100%">
+<tbody>
+<!-- ================ LOGO ================ -->
+<tr bgcolor="black">
+<td align="left" valign="middle">
+<a href="http://www.cs.uchicago.edu">
+<br/><img class="logo" src="ilogo/text-black.jpg"/><br/><br/>
+</a>
+</td>
+<td align="right" valign="middle">
+<a href="http://www.uchicago.edu">
+<img class="logo" src="ilogo/logo-black.jpg"/></a>
+   
+</td>
+</tr>
+<!-- =============== HORIZONTAL LINKS =================== -->
+<tr bgcolor="white"><td colspan="2">
+<img src="imisc/spacer.gif"/></td></tr>
+<tr bgcolor="#800000">
+<td align="left" colspan="2" nobreak="" valign="bottom" width="500">
+      
+<a class="toplinks" href="#pubs">Publications      |</a>    
+<a class="toplinks" href="#teaching">Teaching      |</a>    
+<a class="toplinks" href="#research">Research</a>
+</td></tr>
+<tr bgcolor="#ffffff"><td colspan="2">
+<img src="imisc/spacer.gif"/></td></tr>
+<tr bgcolor="#800000"><td colspan="2">
+<img src="imisc/spacer.gif"/>
+</td></tr>
+</tbody>
+</table>
+<!-- ------------------------ TOP TABLE ENDS ------------------------- -->
+<!-- ------------------ 2ND TABLE BEGINS ------------------ -->
+<!-- ------------------ 2ND TABLE BEGINS ------------------ -->
+<!-- ------------------ 2ND TABLE BEGINS ------------------ -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr valign="top">
+<!-- =============== CENTER COLUMUN =================== -->
+<!-- =============== CENTER COLUMUN =================== -->
+<!-- =============== CENTER COLUMUN =================== -->
+<td>
+<table cellpadding="20" cellspacing="0" width="100%">
+<tbody><tr valign="top"><td valign="top">
+<!-- picture and bio -->
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td valign="top">
+<img alt="Shan Lu" border="1" src="img/me/shanlu.jpg" width="120"/>
+</td>
+<td valign="top">
+<a class="normal" href=""></a>
+<font size="+1">  
+<b> Shan Lu</b></font>
+<br/>   
+Associate Professor
+<br/>   
+<a href="http://www.sloan.org/sloan-research-fellowships/">Alfred P. Sloan Research Fellow</a>
+<br/>   
+<i>Email: shanlu @ cs.uchicago.edu</i>
+<br/>   
+Crerar Library 343
+<br/>   
+5730 S. Ellis Ave., Chicago, IL 60637
+<br/><br/>
+
+   
+<b>CV:</b> <a href="about/cv/CV_ShanLu.pdf">[pdf]</a>
+   
+<b>Bio:</b> <a href="about/bio_ShanLu.html">[html]</a>
+<br/><br/>
+<i>
+</i></td></tr></table>
+<!-- ##################### PUBLICATIONS ################## -->
+<a name="pubs"></a>
+<h1 class="box">Publications</h1>
+<ul>
+<br/><br/>
+<b><font color="maroon">2019</font></b>
+<br/>
+<ul>
+<a name="sosp19a"></a>
+<li><i>
+<font color="maroon">
+Efficient and Scalable Thread-Safety Violation Detection ---
+              Finding thousands of concurrency bugs during testing
+</font></i>
+<br/> Guangpu Li, Shan Lu, Madan Musuvathi, Suman Nath, and Rohan Padhye.
+<br/> 
+The Symposium on Operating Systems Principles
+(<b>SOSP'19</b>).
+<br/>
+</li>
+</ul>
+<br/>
+<ul>
+<a name="sosp19b"></a>
+<li><i>
+<font color="maroon">
+Generuk: Thin Computation over Big Native Data Using
+              Speculative Program Transformation
+</font></i>
+<br/> 
+Cheng Cai, Christian Navasca, Khanh Nguyen, Brian Demsky, Shan Lu, Miryung Kim, and Guoqing Harry Xu.
+<br/> 
+The Symposium on Operating Systems Principles
+(<b>SOSP'19</b>).
+<br/>
+</li>
+</ul>
+<br/>
+<ul>
+<a name="hotos19"></a>
+<li><i>
+<font color="maroon">
+<a href="paper/hotos19_azure.pdf">
+What Bugs Cause Production Cloud Incidents?
+</a></font></i> </li></ul></ul></td></tr></tbody></table></td></tr></tbody></table></body>

@@ -1,0 +1,52 @@
+https://engineering.tamu.edu/cse/profiles/guofei.html
+<body>
+<a class="button skip-nav" href="#profiledetails" style="">Skip To Profile Details</a>
+<a class="button skip-nav" href="#duties" style="">Skip To Main Job Duties</a>
+<a class="button skip-nav" href="#educationbackground" style="">Skip To Educational Background</a>
+<a class="button skip-nav" href="#researchinterest" style="">Skip To Research Interests</a>
+<a class="button skip-nav" href="#certifications" style="">Skip To Certifications</a>
+<a class="button skip-nav" href="#awards" style="">Skip To Honors and Awards</a>
+<a class="button skip-nav" href="#publications" style="">Skip To Selected Publications</a>
+<a class="button skip-nav" href="#otherpubs" style="">Skip To Other Publications</a>
+<a aria-labelledby="maincontent" class="button skip-nav" href="#maincontent" role="navigation">Skip To Main Content</a>
+<header class="main-header">
+<div class="main-header__utility">
+<nav aria-label="Utility Menu Containing Links to Departments, Information for Students and Search" class="global-utility-nav">
+<div class="utility__menus"><button aria-controls="departments" aria-expanded="false" aria-haspopup="true" aria-pressed="false" data-megamenu="departments"> Departments <svg aria-hidden="" class="icon button__trailing-icon"> <use xlink:href="../../_assets/images/sprites/svg-sprite-custom-symbol.svg#design--angle-right-double" xmlns:xlink="http://www.w3.org/1999/xlink"> </use> </svg> </button> <button aria-controls="info-for" aria-expanded="false" aria-haspopup="true" aria-pressed="false" class="" data-megamenu="info-for"> Info For <svg aria-hidden="" class="icon button__trailing-icon"> <use xlink:href="../../_assets/images/sprites/svg-sprite-custom-symbol.svg#design--angle-right-double" xmlns:xlink="http://www.w3.org/1999/xlink"> </use> </svg> </button></div>
+<div class="utility__contact-search"><a href="../../giving/index.html" title="Giving">Giving</a> <a href="../../contact/index.html" title="Contact">Contact</a> <button aria-controls="search" aria-expanded="false" aria-pressed="false" class="toggleSearch" data-megamenu="search"> <svg class="icon" title="Search"> <use xlink:href="../../_assets/images/sprites/svg-sprite-custom-symbol.svg#design--search" xmlns:xlink="http://www.w3.org/1999/xlink"> </use> </svg> <span class="show-for-sr">Search</span> </button></div>
+<div aria-label="Utility Menu Listing All Departments" class="megamenu megamenu--utility" id="departments">
+<div class="megamenu__wrapper">
+<div class="megamenu__content">
+<ul class="megamenu__links" role="menubar">
+<li role="menuitem"><a class="link--has-icon" href="../../aerospace/index.html" title="Aerospace"> <span>Aerospace</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="https://baen.tamu.edu" rel="noopener" target="_blank" title="Biological &amp; Agriculture"> <span>Biological &amp; Agriculture</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../biomedical/index.html" role="menuitem" title="Biomedical"> <span>Biomedical</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../chemical/index.html" title="Chemical"> <span>Chemical</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../civil/index.html" title="Civil &amp; Environmental Engineering">Civil &amp; Environmental</a></li>
+<li role="menuitem"><a class="link--has-icon" href="../index.html" title="Computer Science &amp; Engineering"> <span>Computer Science &amp; Engineering</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../electrical/index.html" title="Electrical and Computer"> <span>Electrical &amp; Computer</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../etid/index.html" title="Engineering Technology &amp; Industrial Distribution"> <span>Engineering Technology &amp; Industrial Distribution</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../industrial/index.html" title="Industrial and Systems"> <span>Industrial &amp; Systems</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../materials/index.html" title="Materials Science and Engineering"> <span>Materials Science &amp; Engineering</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../mechanical/index.html" title="Mechanical"> <span>Mechanical</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../nuclear/index.html" title="Nuclear"> <span>Nuclear</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../ocean/index.html" title="Ocean"> <span>Ocean</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../../petroleum/index.html" title="Petroleum"> <span>Petroleum</span> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div aria-label="Utility Menu option listing all items for different user categories" class="megamenu megamenu--utility" id="info-for" role="menu">
+<div class="megamenu__wrapper">
+<div class="megamenu__content">
+<ul class="megamenu__links" role="menubar">
+<li role="menuitem"><a class="link--has-icon" href="../prospective-students.html" title="Computer Science and Engineering Prospective Students"> <span>Prospective Students</span> </a></li>
+<li role="menuitem"><a class="link--has-icon" href="../current-students.html" title="Computer Science and Engineering Current Students"> <span>Current Students</span> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div aria-label="Utility Menu Option allowing visitors to search" class="megamenu megamenu--search" id="search" role="search">
+<div class="megamenu__wrapper">
+<div class="megamenu__content">
+<div class="search-bar"> </div></div></div></div></nav></div></header></body>

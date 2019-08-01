@@ -1,0 +1,377 @@
+http://soc1024.ece.illinois.edu/
+<body>
+<div class="page">
+<div class="preview-page" data-autorefresh-url="" id="preview-page">
+<div class="main-content" role="main">
+<div class="container new-discussion-timeline experiment-repo-nav">
+<div class="repository-content">
+<div class="readme boxed-group clearfix announce instapaper_body md" id="readme">
+<h3>
+<span class="octicon octicon-book"></span>
+                  Andrew Miller @ UIUC
+                </h3>
+<article class="markdown-body entry-content" id="grip-content" itemprop="text">
+<h1>
+<a aria-hidden="true" class="anchor" href="#andrew-miller" id="user-content-andrew-miller"><span aria-hidden="true" class="octicon octicon-link"></span></a>Andrew Miller</h1>
+<p>I'm an Assistant Professor at the University of Illinois, Urbana-Champaign, in <a href="https://www.ece.illinois.edu/" rel="nofollow">Electrical and Computer Engineering</a> and affiliate in <a href="https://cs.illinois.edu/" rel="nofollow">Computer Science</a>.
+I'm also an Associate Director of the <a href="http://initc3.org/" rel="nofollow">Initiative for Cryptocurrencies and Contracts (IC3)</a> and a board member of the <a href="http://z.cash.foundation/" rel="nofollow">Zcash Foundation</a> and <a href="https://entethalliance.org/" rel="nofollow">Ethereum Enterprise Alliance</a>. I received my Ph.D. from the University of Maryland <a href="http://www.cyber.umd.edu" rel="nofollow">Cybersecurity Center</a>.</p>
+<p>My research interests are broadly in computer security, and focused on the design of secure decentralized systems and cryptocurrencies. I combine techniques from programming languages, cryptography, and distributed computing.</p>
+<p><a href="ElR2yer.jpg" rel="noopener noreferrer" target="_blank"><img src="ElR2yer.jpg" style="max-width:100%;" width="100"/></a></p>
+<p>Click here for my calendar:
+<a href="https://calendar.google.com/calendar/embed?src=socrates1024%40gmail.com&amp;src=soc1024%40illinois.edu&amp;ctz=America/Chicago" rel="nofollow"><img data-canonical-src="https://calendar.google.com/googlecalendar/images/html.gif" src="https://camo.githubusercontent.com/180903af96a89ccc23ee77a3c629fa24c3635913/68747470733a2f2f63616c656e6461722e676f6f676c652e636f6d2f676f6f676c6563616c656e6461722f696d616765732f68746d6c2e676966" style="max-width:100%;"/></a></p>
+<h2>
+<a aria-hidden="true" class="anchor" href="#teaching" id="user-content-teaching"><span aria-hidden="true" class="octicon octicon-link"></span></a>Teaching</h2>
+<ul>
+<li>Fall 2019: <a href="http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2019/" rel="nofollow">ECE498AC: Applied Cryptography</a> at UIUC</li>
+<li>Spring 2019: <a href="https://courses.engr.illinois.edu/ece391/sp2019/" rel="nofollow">ECE391: Computer Systems Engineering</a> at UIUC</li>
+<li>Fall 2018: <a href="http://soc1024.ece.illinois.edu/teaching/ece498ac/fall2018/" rel="nofollow">ECE498AC: Applied Cryptography</a> at UIUC</li>
+<li>Spring 2018 (2nd half): <a href="http://soc1024.ece.illinois.edu/teaching/ece398sc/spring2018/" rel="nofollow">ECE398SC: Smart Contracts and Blockchain Security</a> at UIUC</li>
+<li>Fall 2017: <a href="http://soc1024.ece.illinois.edu/teaching/ece498am/fall2017/" rel="nofollow">ECE498AM/CS498AM: Applied Cryptography</a> at UIUC</li>
+<li>Spring 2017: <a href="https://courses.engr.illinois.edu/cs461/sp2017" rel="nofollow">ECE422/CS461: Introduction to Computer Security</a> at UIUC</li>
+<li>Fall 2016: <a href="http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/" rel="nofollow">ECE/CS 598AM: Cryptocurrency Security</a> <a href="https://www.ece.illinois.edu/academics/courses/profile/ECE598AM-120168" rel="nofollow">(catalog)</a> at UIUC</li>
+<li>2014-2015: <a href="https://www.coursera.org/course/bitcointech" rel="nofollow">Bitcoin and Cryptocurrency Technologies - Coursera MOOC.</a>, with Arvind Narayanan, Joseph Bonneau, and Ed Felten.</li>
+<li>Spring 2015: <a href="http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html" rel="nofollow">CMSC 818I: Science of Crypto-Currency.</a> with Elaine Shi.</li>
+<li>
+<a href="https://mc2-umd.github.io/ethereumlab/" rel="nofollow">[Course materials]</a> on Smart Contract Programming</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#computer-security-and-cryptocurrency-research" id="user-content-computer-security-and-cryptocurrency-research"><span aria-hidden="true" class="octicon octicon-link"></span></a>Computer Security and Cryptocurrency Research</h2>
+<p>Selected publications (peer-reviewed):</p>
+<ul>
+<li>
+<a href="https://eprint.iacr.org/2019/402" rel="nofollow"><strong>ILC: a calculus for composable, computational cryptography.</strong></a> Kevin Liao, Matthew Hammer, and Andrew Miller. (PLDI 2019)</li>
+<li>
+<a href="https://dl.acm.org/citation.cfm?id=3313665" rel="nofollow">Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild.</a> Amin Kharraz, Zane Ma, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Nikita Borisov, Manos Antonakakis, Michael Bailey. (WWW 2019)</li>
+<li>
+<a href="https://arxiv.org/abs/1804.05141" rel="nofollow">Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution</a> Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. (Euro S&amp;P 2019)</li>
+<li>
+<a href="https://fc19.ifca.ai/preproceedings/58-preproceedings.pdf" rel="nofollow">TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions.</a> Sergi Delgado-Segura, Surya Bakshi, Cristina Pérez-Solà, James Litton, Andrew Pachulski, Andrew Miller, and Bobby Bhattacharjee (FC 2019)</li>
+<li>
+<a href="https://fc19.ifca.ai/preproceedings/185-preproceedings.pdf" rel="nofollow">Sprites and State Channels: Payment Networks that Go Faster than Lightning.</a>
+Andrew Miller, Iddo Bentov, Surya Bakshi, Ranjit Kumaresan, and Patrick McCorry (FC 2019)</li>
+<li>
+<a href="http://www.ifca.ai/fc19/preproceedings/180-preproceedings.pdf" rel="nofollow">Short Paper: I Can’t Believe It’s Not Stake! Resource Exhaustion Attacks on PoS.</a> Sanket Kanjalkar, Joseph Kuo, Yunqi Li, and Andrew Miller. (FC 2019)</li>
+<li>
+<a href="https://eprint.iacr.org/2018/160" rel="nofollow"><strong>DelegaTEE: Brokered Delegation Using Trusted Execution Environments</strong></a> Sinisa Matetic and Moritz Schneider and Andrew Miller and Ari Juels and Srdjan Capkun. USENIX Security 2018.</li>
+<li>
+<a href="https://www.usenix.org/conference/usenixsecurity18/presentation/zhou" rel="nofollow"><strong>Erays: Reverse Engineering Ethereum's Opaque Smart Contracts.</strong></a>
+Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey, University of Illinois, Urbana-Champaign. USENIX Security 2018.</li>
+<li>
+<a href="https://arxiv.org/abs/1805.11060" rel="nofollow"><strong>Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees.</strong></a> Giulia Fanti, Surya Bakshi, Shaileshh Bojja Venkatakrishnan, Andrew Miller, Bradley Denby, Shruti Bhargava, Pramod Viswanath. ACM SIGMETRICS 2018.</li>
+<li>
+<a href="https://ieeexplore.ieee.org/document/8406557/" rel="nofollow">Authenticated Data Structures for Privacy-Preserving Monero Light Clients.</a> Kevin Lee and Andrew Miller. IEEE Security &amp; Privacy on the Blockchain (IEEE S&amp;B 2018).</li>
+<li>
+<a href="https://dl.acm.org/citation.cfm?id=3278542" rel="nofollow">Measuring Ethereum Network Peers.</a> Seoung Kyun Kim and Zane Ma and Siddharth Murali  and Joshua Mason and Andrew Miller and Michael Bailey. IMC '18</li>
+<li>
+<a href="https://arxiv.org/pdf/1704.04299/" rel="nofollow"><strong>An Empirical Analysis of Traceability in the Monero Blockchain.</strong></a> Malte Möser, Kyle Soska, Ethan Heilman, Kevin Lee, Henry Heffan, Shashvat Srivastava, Kyle Hogan, Jason Hennessey, Andrew Miller, Arvind Narayanan, and Nicolas Christin. PETS 2018 <a href="http://monerolink.com/" rel="nofollow">(website)</a>
+</li>
+<li>
+<a href="https://arxiv.org/abs/1701.06726" rel="nofollow"><strong>Instantaneous Decentralized Poker.</strong></a> Iddo Bentov, Ranjit Kumaresan, and Andrew Miller. AsiaCrypt 2017.</li>
+<li>
+<a href="http://homepages.cs.ncl.ac.uk/patrick.mc-corry/atomically-trading-roger.pdf" rel="nofollow">Atomically Trading with Roger: Gambling on the success of a hardfork.</a> Patrick McCorry, Ethan Heilman, Andrew Miller. Data Privacy Management, International Workshop on
+Cryptocurrencies and Blockchain Technology - CBT'17.</li>
+<li>Towards an Accountable Software-Defined Networking Architecture. Benjamin Ujcich, Adam Bates, Andrew Miller, William H. Sanders. NETSOFT 2017.</li>
+<li>
+<a href="http://fc17.ifca.ai/wtsc/SmartCast%20-%20An%20Incentive%20Compatible%20Consensus%20Protocol%20Using%20Smart%20Contracts.pdf" rel="nofollow">SmartCast: An Incentive Compatible Consensus Protocol Using Smart Contracts.</a> Abhiram Kothapalli, Andrew Miller, and Nikita Borisov. 1st Workshop on Trusted Smart Contracts, April 2017.</li>
+<li>
+<a href="https://arxiv.org/abs/1612.05390v1" rel="nofollow">Zero-Collateral Lotteries in Bitcoin and Ethereum.</a> Iddo Bentov and Andrew Miller. Security and Privacy on the Blockchain, April 2017.</li>
+<li>
+<a href="http://eprint.iacr.org/2016/199" rel="nofollow"><strong>The Honey Badger of BFT Protocols.</strong></a> Andrew Miller, Yu Xia, Kyle Croman, Elaine Shi, and Dawn Song. CCS 2016</li>
+<li>
+<a href="http://eprint.iacr.org/2015/675" rel="nofollow"><strong>Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts.</strong></a> Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. IEEE Security &amp; Privacy <strong>(Oakland)</strong>, May 2016. <a href="https://www.youtube.com/watch?v=ZpXGOy3kRXE" rel="nofollow">(Video!)</a> <strong>[Top 2 cited Security paper in <a href="https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_2010s.html" rel="nofollow">2016</a>!]</strong>
+</li>
+<li>
+<a href="http://eprint.iacr.org/2015/796" rel="nofollow"><strong>Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack.</strong></a> Kartik Nayak, Srijan Kumar, Andrew Miller, Elaine Shi. IEEE <strong>Euro S&amp;P</strong>. 2016.</li>
+<li>
+<a href="http://cs.umd.edu/~amiller/nonoutsourceable_full.pdf" rel="nofollow"><strong>Non-outsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.</strong></a> Andrew Miller, Elaine Shi, Ahmed Kosba, and Jonathan Katz. ACM Computer and Communications Security <strong>(CCS)</strong>, October 2015.</li>
+<li>
+<a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf" rel="nofollow"><strong>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies.</strong></a> Joseph Bonneau, Andrew Miller, Jeremy Clark, Arvind Narayanan, Joshua A. Kroll, Edward W. Felten. IEEE Security &amp; Privacy <strong>(Oakland)</strong>, May 2015. <strong>[Top cited Security paper in <a href="https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_2010s.html" rel="nofollow">2015</a>!]</strong>
+</li>
+<li>
+<a href="http://cs.umd.edu/~amiller/permacoin.pdf" rel="nofollow"><strong>Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation.</strong></a> Andrew Miller, Ari Juels, Elaine Shi, Bryan Parno, Jonathan Katz. IEEE Security &amp; Privacy <strong>(Oakland)</strong>, May 2014.</li>
+<li>
+<a href="http://www.cs.umd.edu/~amiller/gpads/" rel="nofollow"><strong>Authenticated Data Structures, Generically.</strong></a>
+Andrew Miller, Michael Hicks, Jonathan Katz, Elaine Shi. ACM Symposium on Principles of Programming Languages <strong>(POPL)</strong>. January, 2014.
+<a href="http://amiller.github.io/lambda-auth/" rel="nofollow">(project webpage)</a>
+</li>
+<li>
+<a href="https://cs.umd.edu/~amiller/shadow-bitcoin.pdf" rel="nofollow">Shadow-Bitcoin: Scalable Simulation via Direct Execution of Multi-threaded Applications.</a>. Andrew Miller, Rob Jansen.
+USENIX CSET Workshop, 2015. <a href="https://github.com/shadow/shadow-plugin-bitcoin">(code)</a>
+</li>
+<li>
+<a href="http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf" rel="nofollow"><strong>On Scaling Decentralized Blockchains (A Position Paper).</strong></a>
+Kyle Croman, Christian Decker, Ittay Eyal, Adem Efe Gencer, Ari Juels, Ahmed Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gun Sirer, Dawn Song, Roger Wattenhofer. 3rd Workshop on Bitcoin and Blockchain Research. 3rd Workshop on Bitcoin and Blockchain Research. March 2016.</li>
+<li>
+<a href="https://eprint.iacr.org/2015/460" rel="nofollow">Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab.</a> Kevin Delmolino, Mitchell Arnett, Ahmed Kosba, Andrew Miller, and Elaine Shi. 3rd Workshop on Bitcoin and Blockchain Research. March 2016 <a href="http://mc2-umd.github.io/ethereumlab/" rel="nofollow">(website)</a>
+</li>
+<li>
+<a href="http://www.robgjansen.com/publications/tears-hotpets2014.pdf" rel="nofollow">From Onions to Shallots: Rewarding Tor Relays with TEARS.</a> Rob Jansen, Andrew Miller, Paul Syverson, and Bryan Ford. HotPETs. July 2014.</li>
+<li>
+<a href="http://users.encs.concordia.ca/~clark/papers/2014_weis.pdf" rel="nofollow">On Decentralizing Prediction Markets and Order Books.</a> Joseph Bonneau, Jeremy Clark, Edward Felten, Joshua Kroll, Andrew Miller and Arvind Narayanan. WEIS 2014. June 2014.</li>
+<li>
+<a href="http://www.jbonneau.com/doc/BM14-SPW-fawkescoin.pdf" rel="nofollow">FawkesCoin: Bitcoin without public-key crypto.</a> Joseph Bonneau and Andrew Miller. 19th International Workshop on Security Protocols. Cambridge, UK, Mar 21 2014.</li>
+<li>
+<a href="http://eprint.iacr.org/2014/077" rel="nofollow">Mixcoin: Anonymity for Bitcoin with accountable mixes.</a>
+Arvind Narayanan, Joseph Bonneau, Andrew Miller, Jeremy Clark, Joshua Kroll. Financial Cryptography and Data Security. March 2014.</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#preprints-and-tech-reports" id="user-content-preprints-and-tech-reports"><span aria-hidden="true" class="octicon octicon-link"></span></a>Preprints and Tech Reports</h2>
+<ul>
+<li>
+<a href="https://arxiv.org/abs/1902.06095" rel="nofollow">Brief Note: Asynchronous Verifiable Secret Sharing with Optimal Resilience and Linear Amortized Overhead.</a> Aniket Kate, Andrew Miller, and Tom Yurek. ONLINE PREPRINT. 2019.</li>
+<li>
+<a href="https://eprint.iacr.org/2018/582" rel="nofollow">Pisa: Arbitration Outsourcing for State Channels.</a>. Patrick McCorry, Surya Bakshi, Iddo Bentov, Sarah Meiklejohn, Andrew Miller. ONLINE PREPRINT. 2019</li>
+<li>
+<a href="https://nms.kcl.ac.uk/patrick.mccorry/battleship.pdf" rel="nofollow">You sank my battleship! A case study to evaluate state channels as a scaling solution for cryptocurrencies</a> Patrick McCorry, Chris Buckland, Surya Bakshi, Karl Wuest, and Andrew Miller. ONLINE PREPRINT. 2018</li>
+<li>
+<a href="https://eprint.iacr.org/2017/963" rel="nofollow"><strong>Non-interactive proofs of proof-of-work.</strong></a> Aggelos Kiayias, Andrew Miller, Dionysis Zindros. ONLINE PREPRINT. 2017</li>
+<li>
+<a href="http://eprint.iacr.org/2015/1093" rel="nofollow">How to use SNARKs in Universally Composable Protocols.</a> Ahmed Kosba, Zhichao Zhao, Andrew Miller, Hubert Chan, Charalampos Papamanthou, Rafael Pass, abhi shelat, Elaine Shi. ONLINE PREPRINT. 2015</li>
+<li>
+<a href="http://cs.umd.edu/projects/coinscope/" rel="nofollow">Discovering Bitcoin's Network Topology and Influential Nodes.</a> Andrew Miller, James Litton, Andrew Pachulski, Neal Gupta, Dave Levin, Neil Spring, Bobby Bhattacharjee. ONLINE PREPRINT. 2015</li>
+<li>
+<a href="http://eprint.iacr.org/2014/857" rel="nofollow">Pseudonymous Secure Computation from Time-Lock Puzzles.</a> Jonathan Katz, Andrew Miller, and Elaine Shi. ONLINE PREPRINT. October 2014.</li>
+<li>
+<a href="https://socrates1024.s3.amazonaws.com/consensus.pdf" rel="nofollow">Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin.</a> Andrew Miller and Joseph J. LaViola Jr. University of Central Florida. Tech Report, CS-TR-14-01. April, 2014.</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#invited-talks" id="user-content-invited-talks"><span aria-hidden="true" class="octicon octicon-link"></span></a>Invited talks</h2>
+<ul>
+<li>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-03427-6_22" rel="nofollow">Smart Contracts and Opportunities for Formal Methods.</a> ISoLA 2018: Leveraging Applications of Formal Methods, Verification and Validation. Andrew Miller, Zhicheng Cai, Somesh Jha.</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#advised-theses" id="user-content-advised-theses"><span aria-hidden="true" class="octicon octicon-link"></span></a>Advised theses</h2>
+<ul>
+<li>[masters thesis] <a href="http://hdl.handle.net/2142/99319" rel="nofollow">Simulating high-throughput cryptocurrency payment channel networks</a>. Christopher Neal Cordi. 2017.</li>
+<li>[masters thesis] Privacy preserving outsourcing of state channel arbitration in microraiden. Surya Bakshi. 2017.</li>
+<li>[masters thesis] <a href="http://hdl.handle.net/2142/101567" rel="nofollow">Improved authenticated data structures for blockchain synchronization</a>. Xiaoyao Qian. 2018.</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#awards" id="user-content-awards"><span aria-hidden="true" class="octicon octicon-link"></span></a>Awards</h2>
+<ul>
+<li>2018 IEEE Security &amp; Privacy Distinguished Reviewer Award</li>
+<li>2016 Larry S. Davis Doctoral Dissertation Award (University of Maryland)</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#activities" id="user-content-activities"><span aria-hidden="true" class="octicon octicon-link"></span></a>Activities</h2>
+<ul>
+<li>(Program Committee member) IEEE Security and Privacy, 2019</li>
+<li>(Program Committee member) IEEE Security and Privacy, 2018</li>
+<li>(Program Committee member) ACM CCS, 2017</li>
+<li>(Program Committee member) NDSS, 2017</li>
+<li>(Program Committee member) Usenix Security, 2017</li>
+<li>(Steering Committee member) Financial Cryptography, 2018</li>
+<li>(Program Committee chair) <a href="http://fc17.ifca.ai/bitcoin" rel="nofollow">4th Bitcoin Research Workshop, 2017</a>
+</li>
+<li>(Program Committee member) Financial Cryptography, 2017</li>
+<li>(Program Committee member) IEEE Symposium on Security and Privacy, 2017</li>
+<li>(Program Committee member) Networked and Distributed Systems Security, 2017</li>
+<li>(Program Committee member) Scaling Bitcoin Workshop 2015</li>
+<li>(Program Committee member) ESP-DGC 2015</li>
+<li>(Program Committee member) <a href="http://acns2015.cs.columbia.edu/" rel="nofollow">13th International Conference on Applied Cryptography and Network Security</a>
+</li>
+<li>(Program Committee member) Bitcoin Research Workshop 2014-2016</li>
+<li>(Program Committee member) International Conference on Information and Computer Security (ICICS) 2014.</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#other-research" id="user-content-other-research"><span aria-hidden="true" class="octicon octicon-link"></span></a>Other research</h2>
+<p>Blog posts:</p>
+<ul>
+<li>
+<a href="http://hackingdistributed.com/p/2016/06/16/finding-unchecked-send-in-live-ethereum-contracts/" rel="nofollow">Scanning Live Ethereum Contracts for the "Unchecked-Send" Bug</a> (coauthored with Zikai Alex Wen)</li>
+<li>
+<a href="https://freedom-to-tinker.com/blog/randomwalker/bitcoin-faces-a-crossroads-needs-an-effective-decision-making-process/" rel="nofollow">Bitcoin faces a crossroads, needs an effective decision-making process</a> (coauthored with Arvind Narayanan)</li>
+<li>
+<a href="https://freedom-to-tinker.com/blog/randomwalker/why-the-cornell-paper-on-bitcoin-mining-is-important/" rel="nofollow">Why the Cornell Paper on Bitcoin Mining is Important</a> (coauthored with Arvind Narayanan)</li>
+</ul>
+<p>Commissioned security reports:</p>
+<ul>
+<li><a href="https://cs.umd.edu/~amiller/BTCRelayAudit.pdf" rel="nofollow">Report: Security Audit of BTC Relay implementation</a></li>
+<li>
+<a href="https://github.com/LeastAuthority/ethereum-analyses">Ethereum Analysis: Gas Economics and Proof of Work</a> (with Least Authority)</li>
+</ul>
+<p>Forum posts:</p>
+<ul>
+<li><a href="https://bitcointalk.org/index.php?topic=312668.0" rel="nofollow">Feather-forks: enforcing a blacklist with sub-50% hash power</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=101734.0" rel="nofollow">Storing UTXOs in a Balanced Merkle Tree (zero-trust nodes with O(1)-storage)</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=193281.msg3315031#msg3315031" rel="nofollow">an explanation of TierNolan's atomic cross transaction technique</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=305781.0" rel="nofollow">Bitcoin as Lottery, Prospect Theory, and Unprofitable Mining</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=99631.0" rel="nofollow">Bitcoin Theory (Byzantine Generals and Beyond)</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=309073.0" rel="nofollow">A Non-Outsourceable puzzle to prevent hosted mining</a></li>
+<li><a href="https://forum.ethereum.org/discussion/1317/reentrant-contracts" rel="nofollow">Reentrant [Ethereum] Contracts</a></li>
+</ul>
+<p>Masters degree in computer science @ University of Central Florida:</p>
+<ul>
+<li>
+<a href="http://www.eecs.ucf.edu/isuelab/publications/pubs/vr2014.pdf" rel="nofollow">(Short Paper) The Effectiveness of an AR-based Context-Aware Assembly Support System in Object Assembly.</a> Bui Minh Kuong, Kiyoshi Kiyokawa, Andrew Miller, Joseph J. LaViola Jr., Tomohiro Mashita, and Haruo Takemura. IEEE Virtual Reailty 2014.</li>
+<li>
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6165147&amp;tag=1" rel="nofollow"><strong>Interactive 3D Model Acquisition and Tracking of Building Block Structures.</strong></a>
+Andrew Miller, Brandyn White, Emiko Charbonneau, Zach Kanzler, Joseph J. LaViola Jr., IEEE Transactions on Visualization and Computer Graphics, and IEEE Virtual Reality. March 2012 <a href="http://www.eecs.ucf.edu/isuelab/research/3dui.php#guided" rel="nofollow">(project website)</a> <a href="https://github.com/amiller/blockplayer">(on github)</a>.</li>
+<li>
+<a href="http://dl.acm.org/citation.cfm?id=2071477" rel="nofollow">Teach Me to Dance: Exploring Player Experience and Performance in Full Body Dance Games.</a> Emiko Charbonneau, Andrew Miller, Joseph J. LaViola Jr.  ACM Advances in Computer Entertainment Technology 2011. (ACE ‘11) (best paper award)</li>
+<li>
+<a href="http://dl.acm.org/citation.cfm?id=1866080" rel="nofollow">VizWiz: Nearly Real-time Answers to Visual Questions.</a> Bigham, Jayant, Li, Little, Miller, Miller, Miller, Tatarowicz, White, White, and Yeh. ACM International Cross Disciplinary Conference on Web Accessibility, 2010. (best paper award)</li>
+<li>
+<a href="http://vision.eecs.ucf.edu/projects/ugvintersection.htm" rel="nofollow">A Vision-Based System for a UGV to Handle a Road Intersection.</a> Javed Ahmed, Andrew Miller, Mubarak Shah, and Don Harper. AAAI 2009.</li>
+<li>Landing a UAV on a Runway using Image Registration. Andrew Miller, Mubarak Shah, and Don Harper. ICRA 2008.</li>
+<li>
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4285027&amp;tag=1" rel="nofollow">Foreground Segmentation in Surveillance Scenes Containing a Door.</a> Andrew Miller and Mubarak Shah. IEEE Conference on Multimedia and Expo (ICME). Beijing, July 2007</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#contact-references-links" id="user-content-contact-references-links"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact, references, links</h2>
+<ul>
+<li>email <a href="mailto:soc1024@illinois.edu">soc1024@illinois.edu</a>
+</li>
+<li>personal twitter (usually about research) <a href="https://twitter.com/socrates1024" rel="nofollow">Follow @socrates1024</a>
+</li>
+<li>personal webpage <a href="http://soc1024.com/" rel="nofollow">http://soc1024.com/</a>
+</li>
+<li>cv <a href="https://docs.google.com/document/d/1NisBse-Pm-DaHJCOH4Nu5nS1zq0wQO3Af_NBNcT3Huw/edit?authkey=CI3ZgNgF" rel="nofollow">(google doc)</a>
+</li>
+<li>I also do computer vision consulting work With Dapper Vision Inc., including <a href="http://www.openshades.com" rel="nofollow">OpenShades</a> (tools for google glass)</li>
+</ul>
+<p>Stickwheel - a completely practical, yet unusual, 1-wheeled electric vehicle. Compared to a Segway, it uses 50% fewer wheels. <a href="https://www.youtube.com/watch?v=6zgBfzQqMHI" rel="nofollow">(youtube video)</a></p>
+<h2>
+<a aria-hidden="true" class="anchor" href="#news" id="user-content-news"><span aria-hidden="true" class="octicon octicon-link"></span></a>News</h2>
+<ul>
+<li>(Motherboard) <a href="https://motherboard.vice.com/en_us/article/gy8yn7/power-tau-zcash-radioactive-toxic-waste" rel="nofollow">Radioactive Material From Chernobyl Will Help Secure the Next Version of Zcash</a>
+</li>
+<li>(Scientific American) <a href="https://www.scientificamerican.com/article/the-imperfect-crime-how-the-wannacry-hackers-could-get-nabbed/" rel="nofollow">The Imperfect Crime: How the WannaCry Hackers Could Get Nabbed</a>
+</li>
+<li>(CoinTelegraph) <a href="https://cointelegraph.com/news/monero-transactions-history-can-be-revealed-and-exposed-research" rel="nofollow">Monero Transactions History Can Be Revealed and Exposed: Research</a> April 16, 2017</li>
+<li>(ACM Queue) <a href="https://queue.acm.org/detail.cfm?id=3043967" rel="nofollow">Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts</a> January 2017. With Arvind Narayanan.</li>
+<li>(Coindesk) <a href="http://www.coindesk.com/faster-than-lightning-sprite-proposes-new-design-for-bitcoin-payments/" rel="nofollow">Faster Than Lightning? 'Sprite' Paper Envisions New Bitcoin Payments</a> February 23, 2017</li>
+<li>(Wired Magazine, quoted in) <a href="https://www.wired.com/2017/03/forget-bitcoin-blockchain-reveal-whats-true-today-tomorrow/" rel="nofollow">Forget Bitcoin. The Blockchain Could Reveal What’s True Today and Tomorrow</a> March 22, 2017</li>
+<li>Textbook released, July 2016 <a href="http://bitcoinbook.cs.princeton.edu/" rel="nofollow">http://bitcoinbook.cs.princeton.edu/</a>
+</li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#outside-consulting" id="user-content-outside-consulting"><span aria-hidden="true" class="octicon octicon-link"></span></a>Outside consulting</h2>
+<p>I am a technical advisor (or previously advised) the following cryptocurrency or blockchain related projects and companies:</p>
+<ul>
+<li><a href="">Tezos</a></li>
+<li><a href="https://www.smartcontract.com/link" rel="nofollow">SmartContract</a></li>
+<li>(2015-2017) Zerocoin Electric Coin Company (aka, the Zcash Company)</li>
+</ul>
+<p>I'm currently a board member of:</p>
+<ul>
+<li><a href="http://z.cash.foundation" rel="nofollow">Zcash Foundation</a></li>
+<li><a href="https://entethalliance.org/" rel="nofollow">Ethereum Enterprise Alliance</a></li>
+</ul>
+<h2>
+<a aria-hidden="true" class="anchor" href="#talks-not-updated-frequently" id="user-content-talks-not-updated-frequently"><span aria-hidden="true" class="octicon octicon-link"></span></a>Talks (not updated frequently):</h2>
+<ul>
+<li>Ethereum isn't Turing complete and it doesn't matter anyway. IC3 New York City Meetup. Aug 2016 <a href="http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/232621022/" rel="nofollow">(meetup)</a> <a href="https://www.youtube.com/watch?v=cGFOKTm_8zk" rel="nofollow">(video)</a>
+</li>
+<li>Provable Security for Cryptocurrencies -- Thesis Defense for University of Maryland. July 19, 2016. <a href="https://www.youtube.com/watch?v=3XN8ANmQxro" rel="nofollow">(youtube)</a>
+</li>
+<li>Epicenter Bitcoin interview. Dec 2015 <a href="https://epicenterbitcoin.com/podcast/111/" rel="nofollow">(podcast)</a>
+</li>
+<li>MIT Bitcoin Expo, Mar 8, 2015. <a href="https://www.youtube.com/watch?v=96ULlHhia_Q#t=2h7m20s" rel="nofollow">(video)</a>
+</li>
+<li>Nonoutsourceable puzzles. DCAPS, Mar 5, 2015. <a href="https://drive.google.com/open?id=18muEn2s6AdxgcAnzVIjTlqJzzk2qq9TAe2aCcE45hi0&amp;authuser=0" rel="nofollow">(slides)</a>
+</li>
+<li>Game Theory at Hasher's United Conference. Las Vegas, October 2014. <a href="https://www.youtube.com/watch?v=aHX34MbXuOk#t=5h32m25s" rel="nofollow">(video)</a>
+</li>
+<li>From Onions to Shallots: Rewarding Tor Relays with TEARS. HotPETS. Amsterdam, July 2014. <a href="https://docs.google.com/presentation/d/11fx8eKRxJF5dTWW94nH3OoFVds-W0XtoIui4L_NV6B0" rel="nofollow">(slides)</a>
+</li>
+<li>Using the Shadow Simulator for Bitcoin analysis and attacks. PETS (rump session). Amsterdam, July 2014.</li>
+<li>Pool Busting with "Nonoutsourceable" Bitcoin Puzzles. Workshop on Economics and Information Security (rump session). State College, PA, July 2014 <a href="https://docs.google.com/presentation/d/1Y7nkPUbzpSHAzQzjtZkHAAoEcfJEPtMfJk1tTgeowhk" rel="nofollow">(slides)</a>
+</li>
+<li>Panel at <a href="https://citp.princeton.edu/event/bitcoin/" rel="nofollow">Princeton Bitcoin and Cryptocurrency Research Conference</a> on <a href="http://vid.ly/7h6w6m" rel="nofollow">"Building collaborations between Bitcoin developers and researchers"</a>
+</li>
+<li>Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. DCAPS. Georgetown, DC, May 2014. <a href="https://docs.google.com/presentation/d/1yDH-DXIEz7Q6rfZjDVFsl_FUR0Wr72-roESZrqIDHNw" rel="nofollow">(slides)</a>
+</li>
+<li>Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. IEEE Security and Privacy. San Jose, May 2014. <a href="https://docs.google.com/presentation/d/1G8_aZPQ5gHHdGQ7FDEDnxdBLiUYjOIchq4UEkwJipFs" rel="nofollow">(slides)</a>
+</li>
+<li>Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. San Francisco Ethereum Meetup. San Francisco, May 2014. <a href="https://docs.google.com/presentation/d/1yDH-DXIEz7Q6rfZjDVFsl_FUR0Wr72-roESZrqIDHNw" rel="nofollow">(slides)</a> <a href="https://www.youtube.com/watch?v=gIJim7JKW_M" rel="nofollow">(video)</a>
+</li>
+<li>Towards a Better Concurrency Framework. UMD Crypto Reading Group. April 2014. <a href="https://docs.google.com/presentation/d/14SkmrOS8-EOHad-OKyIVAZ5JQMwO4k5Sw8tqe0_u7Rk" rel="nofollow">(slides)</a>
+</li>
+<li>Scratch-Off Puzzles with Side Effects and More. Princeton Bitcoin Research Workshop. March 2014 <a href="https://docs.google.com/presentation/d/1e-EdyxhKP1gBIARy8-pvSZTTaV0g3rlinYX3S_eE67U" rel="nofollow">(slides)</a>
+</li>
+<li>Why Wasn't Bitcoin Invented 15 Years Ago? Financial Cryptography (rump session). Barbados, March 2014. <a href="https://docs.google.com/presentation/d/16eKuSM2cYffWWs72TWlO0fuu-nh-p1l6uFmmuxYAb_k" rel="nofollow">(slides)</a>
+</li>
+<li>Authenticated Data Structures, Generically + Bitcoin. Guest Lecture, UMD Cloud Security class. February 2014. <a href="https://docs.google.com/presentation/d/13tbGlqp9VASXkx1L4FSo79pF_XT_wETc6C0x6Dh4yzk" rel="nofollow">(slides)</a>
+</li>
+<li>Authenticated Data Structures, Generically. POPL. San Diego, January 2014. <a href="https://docs.google.com/presentation/d/1Ycqpsm6an-jvQk3SEHB130JlyGiWJEDZ7Zj-eVMe3ss" rel="nofollow">(slides)</a>
+</li>
+<li>Intro to Bitcoin Research. UMD Crypto Reading Group. December 2013. <a href="https://docs.google.com/presentation/d/18vYfllTNgUet9Od-j9trulA5B-wq0pbthfWeH0hMEQY" rel="nofollow">(slides)</a>
+</li>
+<li>Computational Puzzles. UMD Systems Chat. February 2013. <a href="https://docs.google.com/presentation/d/1HRwABS7qBX_kpYQnuewssnu9C033kMuzTzFSezN_rNQ" rel="nofollow">(slides)</a>
+</li>
+</ul>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+</div><script>
+    function showCanonicalImages() {
+      var images = document.getElementsByTagName('img');
+      if (!images) {
+        return;
+      }
+      for (var index = 0; index < images.length; index++) {
+        var image = images[index];
+        if (image.getAttribute('data-canonical-src') && image.src !== image.getAttribute('data-canonical-src')) {
+          image.src = image.getAttribute('data-canonical-src');
+        }
+      }
+    }
+
+    function scrollToHash() {
+      if (location.hash && !document.querySelector(':target')) {
+        var element = document.getElementById('user-content-' + location.hash.slice(1));
+        if (element) {
+           element.scrollIntoView();
+        }
+      }
+    }
+
+    function autorefreshContent(eventSourceUrl) {
+      var initialTitle = document.title;
+      var contentElement = document.getElementById('grip-content');
+      var source = new EventSource(eventSourceUrl);
+      var isRendering = false;
+
+      source.onmessage = function(ev) {
+        var msg = JSON.parse(ev.data);
+        if (msg.updating) {
+          isRendering = true;
+          document.title = '(Rendering) ' + document.title;
+        } else {
+          isRendering = false;
+          document.title = initialTitle;
+          contentElement.innerHTML = msg.content;
+          showCanonicalImages();
+        }
+      }
+
+      source.onerror = function(e) {
+        if (e.readyState === EventSource.CLOSED && isRendering) {
+          isRendering = false;
+          document.title = initialTitle;
+        }
+      }
+    }
+
+    window.onhashchange = function() {
+      scrollToHash();
+    }
+
+    window.onload = function() {
+      scrollToHash();
+    }
+
+    showCanonicalImages();
+
+    var autorefreshUrl = document.getElementById('preview-page').getAttribute('data-autorefresh-url');
+    if (autorefreshUrl) {
+      autorefreshContent(autorefreshUrl);
+    }
+  </script>
+</body>

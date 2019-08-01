@@ -1,0 +1,144 @@
+https://www.cs.ucr.edu/~csong/publications.html
+<body>
+<div class="hide-on-mobile" id="menu">
+<div id="name">
+<a href="index.html">Chengyu Song</a>
+</div>
+<div id="nav">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="publications.html">Publications</a></li>
+<li><a href="CV.pdf">CV</a></li>
+</ul>
+</div>
+</div>
+<div class="main" id="paper">
+<h4><a href="https://scholar.google.com/citations?hl=en&amp;user=EoypoXAAAAAJ">My Google Scholar</a></h4>
+<h4>Journal</h4>
+<ol reversed="">
+<li><strong>Stopping Memory Disclosures via Diversification and Replicated Execution</strong>
+    [ <a href="tdsc18-buddy.pdf">Paper</a> ] <br/>
+    Kangjie Lu, Meng Xu, Chengyu Song, Taesoo Kim, and Wenke Lee.
+    IEEE Transactions on Dependable and Secure Computing (TDSC), 2018.
+    </li>
+<li><strong>Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques</strong>
+    [ <a href="csur16-android.pdf">Paper</a> ] <br/>
+    Meng Xu, Chengyu Song, Yang ji, Ming-Wei Shih, Kangjie Lu, Cong Zheng, Ruian Duan, Yeongjin Jang, Byoungyoung Lee, Chenxiong Qian, Sangho Lee, and Taesoo Kim.
+    ACM Computing Surveys (CSUR) 49(2), August 2016.
+    </li>
+</ol>
+<h4>Conference and Workshop</h4>
+<ol reversed="">
+<li><strong>Principled Unearthing of TCP Side Channel Vulnerabilities</strong>
+    (to appear) <br/>
+    Yue Cao, Zhongjie Wang, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, and Paul Yu <br/>
+    In Proceedings of the 26th ACM Conference on Computer and Communications Security (CCS'19), <br/>
+    London, UK, November 2019.
+    </li>
+<li><strong>Be Sensitive and Collaborative: Analyzing Impact of Coverage Metrics in Greybox Fuzzing</strong>
+    (to appear) [ <a href="https://www.cs.ucr.edu/~heng/pubs/afl-sensitive.pdf">Paper</a> |
+      <a href="https://github.com/bitsecurerlab/afl-sensitive">Code</a> ] <br/>
+    Jinghan Wang, Yue Duan, Wei Song, Heng Yin, and Chengyu Song <br/>
+    In Proceedings of the 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID'19), <br/>
+    Beijing, China, September 2019.
+    </li>
+<li><strong>Firm-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation</strong>
+    (to appear) [ <a href="https://www.cs.ucr.edu/~heng/pubs/FirmAFL.pdf">Preprint</a> ] <br/>
+    Yaowen Zheng, Ali Davanian, Heng Yin, Chengyu Song, Hongsong Zhu, and Limin Sun <br/>
+    In Proceedings of the 28th USENIX Security Symposium (Security'19), <br/>
+    Santa Clara, CA, August 2019.
+    </li>
+<li><strong>SafeSpec: Banishing the Spectre of a Meltdown with Leakage-Free Speculation</strong>
+    [ <a href="dac19-safespec.pdf">Paper</a> | <a href="https://arxiv.org/pdf/1806.05179.pdf">Preprint</a> ] <br/>
+    Khaled Khasawneh, Esmaeil M. Koruyeh, Chengyu Song, Dmitry Evtyushkin, Dmitry Ponomarev, and Nael Abu-Ghazaleh <br/>
+    In Proceedings of the 2019 Design Automation Conference (DAC'19), <br/>
+    Las Vegas, NV, June 2019.
+    </li>
+<li><strong>Figment: Fine-grained Permission Management for Mobile Apps</strong>
+    [ <a href="infocom19-figment.pdf">Paper</a> ] <br/>
+    Ioannis Gasparis, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Rajiv Gupta, and Paul Yu <br/>
+    In Proceedings of IEEE International Conference on Computer Communications (INFOCOM'19), <br/>
+    Paris, France, April 2019.
+    </li>
+<li><strong>Stealthy Adversarial Perturbations Against Real-Time Video Classification Systems</strong>
+    [ <a href="ndss19-video.pdf">Paper</a> ] <br/>
+    Shasha Li, Ajaya Neupane, Sujoy Paul, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy Chowdhury, and Ananthram Swami <br/>
+    In Proceedings of the 2019 Network and Distributed System Security Symposium (NDSS'19), <br/>
+    San Diego, CA, February 2019.
+    </li>
+<li><strong>IoTSan: Fortifying the Safety of IoT Systems</strong>
+    [ <a href="conext18-iotsan.pdf">Paper</a> | <a href="https://github.com/dangtunguyen/IoTSan">Code</a> ] <br/>
+    Dang Tu Nguyen, Chengyu Song, Zhiyun Qian, Srikanth V. Krishnamurthy, Edward J. M. Colbert, and Patrick McDaniel <br/>
+    In Proceedings of the 14th International Conference on emerging Networking EXperiments and Technologies (CoNext'18),
+    Heraklion/Crete, Greece, December 2018.
+    </li>
+<li><strong>IAC: On the Feasibility of Utilizing Neural Signals for Access Control</strong>
+    [ <a href="acsac18-iac.pdf">Paper</a> ] <br/>
+    Md Lutfor Rahman, Ajaya Neupane, and Chengyu Song <br/>
+    In Proceedings of the 2018 Annual Computer Security Applications Conference (ACSAC'18), <br/>
+    San Juan, Puerto Rico, December 2018.
+    </li>
+<li><strong>Learning Tensor-based Representations from Brain-Computer Interface Data for Cybersecurity</strong>
+    [ <a href="pkdd18-bci.pdf">Paper</a> ] <br/>
+    Md Lutfor Rahman*, Sharmistha Bardhan*, Ajaya Neupane, Evangelos E. Papalexakis, and Chengyu Song <br/>
+    In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'18),
+    Dublin, Ireland, September 2018.
+    </li>
+<li><strong>Spectre Returns! Speculation Attacks using the Return Stack Buffer</strong>
+    [ <a href="https://www.usenix.org/system/files/conference/woot18/woot18-paper-koruyeh.pdf">Paper</a> ] <br/>
+    Esmaiel M. Koruyeh, Khaled Khasawneh, Chengyu Song, and Nael Abu-Ghazaleh <br/>
+    In Proceedings of the 12th USENIX Workshop on Offensive Technologies (WOOT'18), <br/>
+    Baltimore, MD, August 2018.
+    ( <a href="https://www.usenix.org/conference/woot18/workshop-program">Best Paper</a> )
+    </li>
+<li><strong>Droid M+: Developer Support for Imbibing Android’s New Permission Model</strong>
+    [ <a href="asiaccs18-droidm.pdf">Paper</a> ] <br/>
+    Ioannis Gasparis, Azeem Aqil, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Rajiv Gupta, and Edward Colbert <br/>
+    In Proceedings of the 13th ACM ASIA Conference on Information, Computer and Communications Security (AsiaCCS'18), <br/>
+    Incheon, Korea, June 2018.
+    </li>
+<li><strong>Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing</strong>
+    [ <a href="https://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_05A-5_Han_paper.pdf">Paper</a> |
+      <a href="https://github.com/purdue-secomp-lab/MEDS">Code</a> ] <br/>
+    Wookhyun Han, Byunggill Joe, Byoungyoung Lee, Chengyu Song, and Insik Shin <br/>
+    In Proceedings of the 2018 Network and Distributed System Security Symposium (NDSS'18), <br/>
+    San Diego, CA, February 2018.
+    </li>
+<li><strong>Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship</strong>
+    [ <a href="https://conferences.sigcomm.org/imc/2017/papers/imc17-final59.pdf">Paper</a> |
+      <a href="https://github.com/seclab-ucr/INTANG">Code</a> ] <br/>
+    Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy <br/>
+    In ACM Internet Measurement Conference (IMC'17), <br/>
+    London, UK, November 2017.
+    </li>
+<li><strong>Detecting Android Root Exploits by Learning from Root Providers</strong>
+    [ <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-gasparis.pdf">Paper</a> ] <br/>
+    Ioannis Gasparis, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy <br/>
+    In Proceedings of the 26th USENIX Security Symposium (Security'17), <br/>
+    Vancouver, Canada, August 2017.
+    </li>
+<li><strong>Efficient Protection of Path-Sensitive Control Security</strong>
+    [ <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ding.pdf">Paper</a> ] <br/>
+    Ren Ding, Chenxiong Qian, Chengyu Song, Bill Harris, Taesoo Kim, and Wenke Lee <br/>
+    In Proceedings of the 26th USENIX Security Symposium (Security'17), <br/>
+    Vancouver, Canada, August 2017.
+    </li>
+<li><strong>UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages</strong>
+    [ <a href="ccs16-unisan.pdf">Paper</a> |
+      <a href="https://github.com/sslab-gatech/unisan">Code</a> ] <br/>
+    Kangjie Lu, Chengyu Song, Taesoo Kim, and Wenke Lee <br/>
+    In Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS'16), <br/>
+    Vienna, Austria, October 2016.
+    </li>
+<li><strong>HDFI: Hardware-Assisted Data-flow Isolation</strong>
+    [ <a href="https://www.ieee-security.org/TC/SP2016/papers/0824a001.pdf">Paper</a> |
+      <a href="https://github.com/sslab-gatech/hdfi">Code</a> ] <br/>
+    Chengyu Song, Hyungon Moon, Monjur Alam, Insu Yun, Byoungyoung Lee, Taesoo Kim, Wenke Lee, and Yunheung Paek <br/>
+    In Proceedings of the 37th IEEE Symposium on Security and Privacy (Oakland'16), <br/>
+    San Jose, CA, May 2016.
+    </li>
+<li><strong>Enforcing Kernel Security Invariants with Data Flow Integrity</strong>
+    [ <a href="https://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/enforcing-kernal-security-invariants-data-flow-integrity.pdf">Paper</a> |
+      <a href="https://github.com/sslab-gatech/kenali-kernel">Kernel</a> |
+      <a href="https://github.com/sslab-gatech/kernel-analyzer">Analyzer</a> ] </li></ol></div></body>

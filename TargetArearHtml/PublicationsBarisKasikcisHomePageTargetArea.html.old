@@ -1,0 +1,131 @@
+https://web.eecs.umich.edu/~barisk/publications/
+<body class="theme-base-0d">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67903900-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="sidebar">
+<div class="container sidebar-sticky">
+<div class="sidebar-about">
+<p>
+<img alt="Baris Kasikci" src="/~barisk/pictures/profile.jpg"/>
+</p>
+<h1>
+       Baris Kasikci
+</h1>
+      I am interested in making computer systems more reliable, secure, and efficient | <a href="/~barisk/public/cv.pdf">CV</a>
+<hr/>
+
+barisk@umich.edu | <a href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&amp;op=index" target="_blank">GPG</a>
+<hr/>
+</div>
+<nav class="sidebar-nav">
+<a class="sidebar-nav-item" href="/~barisk/">Home</a>
+<a class="sidebar-nav-item" href="/~barisk/research">Research</a>
+<!--            <a class="sidebar-nav-item" href="/~barisk/team">Team</a> -->
+<a class="sidebar-nav-item active" href="/~barisk/publications">Publications</a>
+<a class="sidebar-nav-item" href="/~barisk/teaching">Teaching</a>
+<a class="sidebar-nav-item" href="/~barisk/contact">Contact</a>
+</nav>
+</div>
+</div>
+<div class="content container">
+<div class="page">
+<h1 class="page-title">Publications</h1>
+<h3 id="conference-papers">Conference Papers</h3>
+<hr>
+<ol>
+<li>
+<p><a href="/~barisk/public/nda.pdf">NDA: Preventing Speculative Execution Attacks at Their Source</a> [<a href="/~barisk/public/nda.bib">bib</a>], Ofir Weisse, Ian Neal, Kevin Loughlin, Thomas Wenisch, <b> Baris Kasikci </b>, <em>International Symposium on Microarchitecture (<a href="https://www.microarch.org/micro52/"><strong>MICRO</strong></a>)</em>, Columbus, OH, Oct 2019.</p>
+</li>
+<li>
+<p>I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols Haojun Ma, Aman Goel, Jean-Baptiste Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah. <em>Symposium on Operating Systems Principles (<a href="https://sosp19.rcs.uwaterloo.ca/"><strong>SOSP</strong></a>)</em>, Canada, Oct 2019</p>
+</li>
+<li>
+<p><a href="/~barisk/public/huron.pdf">Huron: Hybrid False Sharing Detection and Repair</a> [<a href="https://github.com/efeslab/huron">code</a>], Tanvir Ahmed Khan, Yifan Zhao, Gilles Pokam, Barzan Mozafari, <b> Baris Kasikci </b>, Conference on Programming Language Design and Implementation (<a href="https://conf.researchr.org/home/pldi-2019"><strong>PLDI</strong></a>), Phoenix, AZ, June 2019</p>
+</li>
+<li>
+<p><a href="/~barisk/public/morpheus.pdf">Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn</a> [<a href="https://www.youtube.com/watch?v=G04pYcp3p5o">lightning talk</a>] , International Conference on Architectural Support for Programming Languages and Operating Systems (<a href="https://asplos-conference.org/"><strong>ASPLOS</strong></a>), Mark Gallagher, Lauren Biernacki, Shibo Chen, Zelalem Birhanu Aweke, SalessawiFerede Yitbarek, Misisker Tadesse Aga, Austin Harris, Zhixing Xu, <b> Baris Kasikci </b>, Valeria Bertacco, Sharad Malik, Mohit Tiwari, Todd Austin, Providence, RI, April 2019</p>
+</li>
+<li>
+<p><a href="/~barisk/public/rept.pdf">REPT: Reverse Debugging of Failures in Deployed Software</a>, Weidong Cui, Xinyang Ge, <b> Baris Kasikci </b>, Ben Niu, Upamanyu Sharma, Ruoyu Wang, Insu Yun, <em>Symposium on Operating Systems Design and Implementation (<a href="https://www.usenix.org/conference/osdi18"><strong>OSDI</strong></a>)</em>, <strong>Best Paper Award</strong> Carlsbad, CA, Oct 2018</p>
+</li>
+<li>
+<p><a href="https://foreshadowattack.eu/foreshadow.pdf">Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution</a>, Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, <em>USENIX Security Symposium (<a href="https://www.usenix.org/conference/usenixsecurity18"><strong>Usenix Security</strong></a>)</em>, <strong>IEEE Micro Top Pick</strong>, Baltimore, MD, August 2018</p>
+</li>
+<li>
+<p><a href="/~barisk/public/cntr.pdf">Cntr: Lightweight OS Containers</a>, Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>, <em>USENIX Annual Technical Conference (<a href="https://www.usenix.org/conference/atc18"><strong>Usenix ATC</strong></a>)</em>, Boston, MA, June 2018</p>
+</li>
+<li>
+<p><a href="/~barisk/public/snorlax.pdf">Lazy Diagnosis of In-Production Concurrency Bugs</a> <b> Baris Kasikci </b>, Weidong Cui, Xinyang Ge, Ben Niu. <em>Symposium on Operating Systems Principles (<a href="https://www.sigops.org/sosp/sosp17/index.html"><strong>SOSP</strong></a>)</em>, Shanghai, China, Oct 2017</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/gist.pdf">Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures</a> [<a href="https://www.youtube.com/watch?v=99hXVFe33w8&amp;index=12&amp;list=PLn0nrSd4xjjZKGRyWz0be6a1513z7L6hM">talk video</a> | <a href="/~barisk/public/gist-slides.pdf">slides</a>] <br/>
+<b> Baris Kasikci </b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, George Candea. <br/>
+<em>Symposium on Operating Systems Principles (<a href="http://www.ssrc.ucsc.edu/sosp15/"><strong>SOSP</strong></a>)</em>, Monterey, CA, Oct 2015</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/bfs.pdf">Efficient Tracing of Cold Code Via Bias-Free Sampling</a> [<a href="https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/atc14/kasikci.mp4">talk video</a> | <a href="/~barisk/public/bfs-slides.pdf">slides</a>] <br/>
+<b>Baris Kasikci</b>, Thomas Ball, George Candea, John Erickson, Madanlal Musuvathi <br/>
+<em>USENIX Annual Technical Conference (<a href="https://www.usenix.org/conference/atc14"><strong>Usenix ATC</strong></a>)</em>, Philadelphia, PA, June 2014</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/RaceMob.pdf">RaceMob: Crowdsourced Data Race Detection</a> [<a href="https://www.youtube.com/watch?v=yPpgtTdDzIk">talk video</a> | <a href="/~barisk/public/racemob-slides.pdf">slides</a>] <br/>
+<b>Baris Kasikci</b>, Cristian Zamfir, and George Candea <br/>
+<em>Symposium on Operating Systems Principles (<a href="http://sigops.org/sosp/sosp13/"><strong>SOSP</strong></a>), Nemacolin Woodlands Resort</em>, PA, November 2013</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/portend.pdf">Data Races vs. Data Race Bugs: Telling the Difference with Portend</a> [<a href="/~barisk/public/fs-slides.pdf">slides</a>]<br/>
+<b>Baris Kasikci</b>, Cristian Zamfir, and George Candea <br/>
+<em>Intl. Conference on Architectural Support for Programming Languages and Operating Systems</em> (<a href="http://research.microsoft.com/en-us/um/cambridge/events/asplos_2012/"><strong>ASPLOS</strong></a>), London, UK, March 2012</p>
+</li>
+</ol>
+<h3 id="journal-papers">Journal Papers</h3>
+<hr>
+<ol>
+<li>
+<p><a href="/~barisk/public/foreshadow-toppick.pdf">Breaking Virtual Memory Protection and the SGX Ecosystem with Foreshadow</a>, Jo Van Bulck, Marina Minkin, Ofir Weisse, Daniel Genkin, <b>Baris Kasikci</b>, Frank Piessens, Mark Silberstein, Thomas F. Wenisch, Yuval Yarom, Raoul Strackx, <em>IEEE Micro Top Picks</em>, 2019</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/portend+.pdf">Automated Classification of Data Races for Both Strong and Weak Memory Models</a>, <b>Baris Kasikci</b>, Cristian Zamfir, and George Candea, <em>ACM Transactions of Programming Languages and Systems</em> (<a href="http://toplas.acm.org/"><strong>TOPLAS</strong></a>), 2015</p>
+</li>
+</ol>
+<h3 id="workshop-papers">Workshop Papers</h3>
+<hr/>
+<ol>
+<li>
+<p><a href="/~barisk/public/i4-hotos.pdf">I4: Incremental Inference of Inductive Invariants</a>, Haojun Ma, Aman Goel, Jean Baptistte Jeannin, Manos Kapritsos, <b> Baris Kasikci </b>, Karem Sakallah, <em>Workshop on Hot Topics in Operating Systems</em> (<a href="https://hotos19.sigops.org/"><strong>HotOS</strong></a>), Bertinoro, Italy, May 2019</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/presentation/d/1QeJtKAtLsBbpX9U-llUe_zOLeJpCCq-p8frFMmj9cd4/edit#slide=id.p">HASE: Hardware-Assisted Symbolic Execution</a> Jörg Thalheim, Pramod Bhatotia, Pedro Fonseca, and <b> Baris Kasikci </b>, <em>KLEE Symposium</em>, London, UK, April 2018</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/failure-sketches.pdf">Failure Sketches: A Better Way to Debug</a> [<a href="/~barisk/public/fs-slides.pdf">slides</a>] <br/>
+<b>Baris Kasikci</b>, Benjamin Schubert, Cristiano Pereira, Gilles Pokam, Madan Musuvathi, George Candea <br/>
+<em>Workshop on Hot Topics in Operating Systems</em> (<a href="https://www.usenix.org/conference/hotos15"><strong>HotOS</strong></a>), Kartause Ittingen, Switzerland, May 2015</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/lockout.pdf">Lockout: Efficient Testing for Deadlock Bugs</a> [<a href="/~barisk/public/lockout-slides.pdf">slides</a>] <br/>
+Ali Kheradmand, <b>Baris Kasikci</b>, and George Candea <br/>
+<em>Workshop on Determinism and Correctness in Parallel Programming</em> (<a href="http://wodet.cs.washington.edu/"><strong>WoDet</strong></a>), Salt Lake City, UT March 2014</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/res.pdf">Automated Debugging for Arbitrarily Long Executions</a> [<a href="/~barisk/public/res-slides.pdf">slides</a>] <br/>
+Cristian Zamfir, <b>Baris Kasikci</b>, Johannes Kinder, Edouard Bugnion, and George Candea <br/>
+<em>Workshop on Hot Topics in Operating Systems</em> (<a href="https://www.usenix.org/conference/hotos13"><strong>HotOS</strong></a>), Santa Ana Pueblo, NM, May 2013</p>
+</li>
+<li>
+<p><a href="http://dslab.epfl.ch/pubs/cord-camera-ready.pdf">CORD: A Collaborative Framework for Distributed Data Race Detection</a> [<a href="/~barisk/public/cord-slides.pdf">slides</a>]<br/>
+<b>Baris Kasikci</b>, Cristian Zamfir, and George Candea <br/>
+<em>Workshop on Hot Topics in System Dependability</em> (<a href="http://sigops.org/sosp/sosp13/hotdep.html"><strong>HotDep</strong></a>), Hollywood, USA October 2012</p>
+</li>
+</ol>
+</hr></hr></div>
+</div>
+</body>
