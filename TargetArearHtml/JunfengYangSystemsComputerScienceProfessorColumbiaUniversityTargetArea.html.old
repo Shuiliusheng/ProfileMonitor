@@ -1,4 +1,4 @@
-http://www.cs.columbia.edu/~junfeng/#publications
+http://www.cs.columbia.edu/~junfeng/publications.html
 <body>
 <!----
   <table>
@@ -20,93 +20,406 @@ http://www.cs.columbia.edu/~junfeng/#publications
   </table>
 --->
 <div id="content">
-<table align="center" border="0" cellpadding="10" style="margin-left:4em;" width="95%">
-<tr valign="bottom">
-<td align="left" width="35%">
-<h2> Junfeng Yang </h2> 
-    	Associate Professor <br/>
-        Co-director of <a href="http://systems.cs.columbia.edu">Software Systems Lab</a> <br/>
-<a href="http://www.cs.columbia.edu/"> Department of Computer Science</a><br/>
-<a href="http://www.columbia.edu"> Columbia University</a><br/>
-<br/>
-	500 West 120 Street, 519 CSB<br/>
-	Mail Code 0401 <br/>
-	New York, NY 10027 <br/>
-<br/>
-<img alt="Email of Junfeng Yang" src="email.jpg"/> <br/>
-<br/>
-        Lab: 487 CSB <br/>
-	Phone: (212) 939-7012 <br/>
-	Fax: (212) 666-0140 <br/>
-<br/>
-        [ <a href="http://systems.cs.columbia.edu/lab/news/">News</a>
-        | <a href="#awards">Awards</a>
-        | <a href="#publications">Publications</a>
-        | <a href="#software">Software</a>
-        | <a href="http://systems.cs.columbia.edu/projects/">Projects</a>] <br/>
-        [ <a href="#people">People</a> 
-        | <a href="#press">Press</a>
-        | <a href="#teaching">Teaching</a>
-        | <a href="#support">Support</a> ]
-        <br/>
-<br/>
-</td>
-<td align="left"><img alt="Picture of Junfeng Yang" height="400" src="yang-small.jpg"/></td>
-</tr>
-</table>
-<p> My research centers on making reliable and secure systems.  Some of my
-  current research thrusts are (1) security and robustness of machine
-  learning, (2) tools to better protect, verify, analyze, test, and debug
-  software, and (3) programming and runtime systems for cloud
-  applications.  After getting a BS in Computer Science from
-  <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua
-  University</a>, I earned my PhD in Computer Science at
-  <a href="http://www.stanford.edu/">Stanford</a>, where I created
-  <a href="papers/yang-explode-osdi.pdf">eXplode</a>, a general, lightweight
-  system for effectively finding storage system errors.  This work has led
-  to <a href="http://www.usenix.org/events/osdi04/tech/yang.html">an OSDI
-  best paper award</a>,
-  <a href="http://www.google.com/#q=junfeng+site:lkml.org">numerous bug
-  fixes</a> to real systems such as the Linux kernel, and
-  <a href="http://lwn.net/Articles/210590">a featured article</a> in Linux
-  Weekly news.  In 2008, I worked at Microsoft Research Silicon Valley,
-  extending eXplode to check production distributed systems.
-  <a href="papers/modist-nsdi09.pdf">MoDist</a>, the resultant system, is
-  being transferred to Microsoft product groups.  At Columbia University,
-  my recent work on reliable multithreading was featured in sites such as
-  <a href="http://technews.acm.org/archives.cfm?fo=2011-11-nov/nov-04-2011.html#550214">ACM
-  Tech News</a>.  I won the Sloan Research Fellowship and the AFOSR YIP
-  award, both in 2012; and the NSF CAREER award in 2011.
-
-<p style="font-size: x-large;"><b>I'm looking for a few graduate students,
-  postdocs, and undergraduate interns.  If you know how to build
-  systems/tools, we should talk.</b></p>
-<p style="font-size: x-large;"><b>Columbia undergraduate and master
-  students</b>: the above applies to you, too.  Also, take a look at
-  some <a href="student-projects.html">projects</a> available for academic
-  credits.</p>
-<p> I was on sabbatical in 2016 co-founding a Columbia spin-off called
-  <a href="https://nimbledroid.com">NimbleDroid</a>.  NimbleDroid provides
-  automated, comprehensive app performance analysis to help teams build
-  performant apps.  Its mission is to leverage research breakthroughs to
-  automate mundane tasks in software engineering.  </p>
-<a name="awards"></a>
-<h3> Select Awards</h3>
-<ul>
-<li>Rock Star Award, Association of Chinese Scholars in Computing, 2019</li>
-<li><a href="https://www.sigops.org/sosp/sosp17/program.html">SOSP best
-  paper</a>, 2017</li>
-<li><a href="http://www.sloan.org/fellowships">Sloan research fellowship</a>, 2012</li>
-<li><a href="http://www.eurekalert.org/pub_releases/2012-01/afoo-aag011112.php">Air
-  Force Office of Scientific Research Young Investigator Program Award
-  (AFOSR YIP)</a>, 2012</li>
-<li><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1054906">NSF CAREER</a>, 2011</li>
-<li><a href="http://www.usenix.org/events/osdi04/tech/yang.html">OSDI
-  best paper</a>, 2004</li>
-</ul>
-<a name="drafts"></a>
-<h3>Paper drafts</h3>
-<p> (If you're interested in a paper draft but it isn't available online, please email me for a copy.)</p>
+<div class="section">Complete List of Publications</div>
 <ul class="paper">
-<li> <span class="title"><a href="https://arxiv.org/abs/1712.01785">Towards Practical Verification of Machine Learning: The Case of Computer Vision Systems
-</a></span></li></ul></p></div></body>
+<li>
+<span class="title">DeepXplore: Automated Whitebox Testing of Deep Learning Systems</span>
+<br/>
+<span class="author"><a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, <a href="http://yinzhicao.org">Yinzhi Cao</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">Communications of the ACM (2019)</span><br/>
+<div class="description">CACM research highlight on DeepXplore.</div>
+</li>
+<li>
+<span class="title">DeepXplore: Automated Whitebox Testing of Deep Learning Systems</span>
+<br/>
+<span class="author"><a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, <a href="http://yinzhicao.org">Yinzhi Cao</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">GetMobile: Mobile Comp. and Comm., Volume 22, Issue 3 (January, 2019)</span><br/>
+<div class="description">Invited paper on DeepXplore as a SIGMobile GetMobile highlight paper (<a href="https://dl.acm.org/citation.cfm?id=3308767">https://dl.acm.org/citation.cfm?id=3308767</a>).</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/neuzz-sp19.pdf">NEUZZ: Efficient Fuzzing with Neural Program Smoothing</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/neuzz-sp19.bib">bib</a>]<br/>
+<span class="author">Dongdong She, <a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, Dave Epstein, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Baishakhi Ray, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">Proceedings of the 2019 IEEE Symposium on Security and Privacy (S\&amp;P '19)</span>, 
+2019<br/>
+<div class="description">Describes Neuzz, a fuzzing tool that leverages neural nets to predict which input bytes to mutate to cover many different branches.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yolo-spie19.pdf">YOLO: Frequently Resetting Cyber-Physical Systems for Security</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yolo-spie19.bib">bib</a>]<br/>
+<span class="author">Miguel A. Arroyo, M. Tarek Ibn Ziad, Hidenori Kobayashi, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~simha/">Simha Sethumadhavan</a></span><br/>
+<span class="conference">SPIE Defense and Commercial Sensing</span>, 
+2019<br/>
+<div class="description">Describes YOLO, a system that leverages both cyber security techniques such as rebooting and physical system properties such as inertia to protect cyber physical systems.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/appflow.pdf">AppFlow: Using Machine Learning to Synthesize Robust, Reusable UI Tests</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/appflow.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, Linjie Zhu, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 2018 11th Joint Meeting on Foundations of Software Engineering</span>, 
+2018<br/>
+<div class="description">AppFlow leverages machine learning to recognize UI screens and widgets, enabling developers to write intuitive, robust, and reusable UI tests that refer to canonical UI screens and widgets.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/neurify-nips18.pdf">Efficient Formal Safety Analysis of Neural Networks</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/neurify-nips18.bib">bib</a>]<br/>
+<span class="author">Shiqi Wang, <a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, Justin Whitehouse, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">Proceedings of the Thirty-second Annual Conference on Neural Information Processing Systems (NIPS)</span>, 
+2018<br/>
+<div class="description">Neurify improves upon ReluVal with a tighter approximation of the output bounds via linear relaxation and refines overapproximated intermediate neuron output bounds using a LP solver.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/reluval-security18.pdf">Formal Security Analysis of Neural Networks using Symbolic Intervals</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/reluval-security18.bib">bib</a>]<br/>
+<span class="author">Shiqi Wang, <a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, Justin Whitehouse, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">Proceedings of the 27th USENIX Security Symposium</span>, 
+2018<br/>
+<div class="description">Describes ReluVal, a system that uses symbolic interval analysis and iterative refinement to verify neural networks.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/pos-cav18.pdf">Partial Order Aware Concurrency Sampling</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/pos-cav18.bib">bib</a>]<br/>
+<span class="author"><a href="http://xinhaoyuan.net">Xinhao Yuan</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Ronghui Gu</span><br/>
+<span class="conference">Proceedings of the 30th International Conference On Computer Aided Verification (CAV '18)</span>, 
+2018<br/>
+<div class="description">Presents POS, a concurrency testing approach that aims to uniformly sample the partial order of concurrent programs. Its core is an extremely simple priority-based scheduling algorithm. It provides exponentially better probabilistic guarantee of error detection than state-or-the-art randomized testing methods. Evaluation shows it finds concurrency bugs in real-world programs, such as Firefox's JavaScript engine, much faster than other methods. </div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/causal-unlearn-asiaccs18.pdf">Efficient Repair of Polluted Machine Learning Systems via Causal Unlearning</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/causal-unlearn-asiaccs18.bib">bib</a>]<br/>
+<span class="author"><a href="http://yinzhicao.org">Yinzhi Cao</a>, Alexander Fangxiao Yu, Andrew Aday, Eric Stahl, Jon Merwine, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 13th ACM ASIA Conference on Information, Computer and Communications Security</span>, 
+2018<br/>
+<div class="description">Describes an approach called causal unlearning and a corresponding system called Karma to efficiently repair a polluted learning system.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.pdf">OWL: Understanding and Detecting Concurrency Attacks</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/owl-dsn18.bib">bib</a>]<br/>
+<span class="author">Shixiong Zhao, <a href="http://www.cs.columbia.edu/~ruigu/">Rui Gu</a>, Haoran Qiu, Tsz On Li, Yuexuan Wang, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '18)</span>, 
+2018<br/>
+<div class="description">Presents a study on how real-world concurrency errors can be exploited by attackers and our system Owl for understanding the security implications of concurrency errors and detecting the ones vulnerable to attacks.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf">DeepXplore: Automated Whitebox Testing of Deep Learning Systems</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.bib">bib</a>]  (Best paper award)<br/>
+<span class="author"><a href="https://sites.google.com/site/kexinpeisite/">Kexin Pei</a>, <a href="http://yinzhicao.org">Yinzhi Cao</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~suman">Suman Jana</a></span><br/>
+<span class="conference">Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP '17)</span>, 
+October, 2017<br/>
+<div class="description">We increasingly rely on deep learning and deep neural networks (DNNs) in safety- and security-critical applications such as self-driving, medical diagnosis, face-based identification, and malware detection, but it remains an open challenge to thoroughly test DNNs for robustness and security. We propose Neuron Coverage, the first testing coverage metric to empirically understand how much decision logic a testing input set has exercised in a DNN. We design and build DeepXplore, the first systematic testing framework for DNNs. Given a test input, DeepXplore applies physically realizable transformations (e.g., darkening an image) to the inputs (as opposed to noise in prior adversarial ML work) to generate new inputs to maximize neuron coverage. It found thousands of flaws in state-of-art self-driving and malware detection DNNs and improved their neuron coverage by over 50%. (Also appeared in MLSec '17.)</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/shuffler-osdi16.pdf">Shuffler: Fast and Deployable Continuous Code Re-Randomization</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/shuffler-osdi16.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~dwk/">David Williams-King</a>, Graham Gobieski, Kent Williams-King, James P Blake, <a href="http://xinhaoyuan.net">Xinhao Yuan</a>, Patrick Colp, Vasileios P Kemerlis, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, William Aiello</span><br/>
+<span class="conference">Proceedings of the Twelfth Symposium on Operating Systems Design and Implementation (OSDI '16)</span>, 
+2016<br/>
+<div class="description">Describes Shuffler, a system that continuously randomizes an application's binary code at runtime, defeating code-reuse attacks. Shuffler is fast: it shuffles all code within tens of milliseconds, whereas cutting-edge ROP attacks need 10--100x more time to discover gadgets. Shuffler is egalitarian: leveraging the insight that randomization doesn't require a higher privilege authority, Shuffler shuffles itself, reducing trusted computing base and making the approach applicable to kernels and hypervisors. Shuffler is deployable: its augmented binary analysis requires no modifications to OS, compilers, and linkers.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/grandet-socc16.pdf">Grandet: A Unified, Economical Object Store for Web Applications</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/grandet-socc16.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://xinhaoyuan.net">Xinhao Yuan</a>, Lingmei Weng, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the Seventh ACM Symposium on Cloud Computing</span>, 
+2016<br/>
+<div class="description">Describes Grandet, a storage system that greatly reduces the cost and complexity of deploying web applications in the cloud.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/crash-popl16.pdf">Reducing Crash Recoverability to Reachability</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/crash-popl16.bib">bib</a>]<br/>
+<span class="author">Eric Koskinen, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 39th Annual Symposium on Principles of Programming Languages (POPL '16)</span>, 
+January, 2016<br/>
+<div class="description">We formally specify what it means for a program to be crash-recoverable, build an automated verifier of this spec, and validate that the commit protocols of a number of industrial storage systems are crash-recoverable.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/xinhao-plos15.pdf">Making Lock-free Data Structures Verifiable with Artificial Transactions</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/xinhao-plos15.bib">bib</a>]<br/>
+<span class="author"><a href="http://xinhaoyuan.net">Xinhao Yuan</a>, <a href="http://www.cs.columbia.edu/~dwk/">David Williams-King</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~simha/">Simha Sethumadhavan</a></span><br/>
+<span class="conference">Eighth Workshop on Programming Languages and Operating Systems (PLOS '15)</span>, 
+October, 2015<br/>
+<div class="description">Describes LockIt, a system that makes lock-free data structures easy to verify.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/crane-sosp15.pdf">Paxos Made Transparent</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/crane-sosp15.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~ruigu/">Rui Gu</a>, Cheng Liu, Tianyu Chen, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 25th ACM Symposium on Operating Systems Principles (SOSP '15)</span>, 
+October, 2015<br/>
+<div class="description">Describes Crane, a state machine replication system that replicates general server programs for high availability. It does so transparently without requiring developers to modify their programs. Crane essentially provides Replication-as-a-Service.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/repframe-apsys15.pdf">REPFRAME: An Efficient and Transparent Framework for Dynamic Program Analysis</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/repframe-apsys15.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~ruigu/">Rui Gu</a>, Cheng Liu, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of 6th Asia-Pacific Workshop on Systems (APSys '15)</span>, 
+July, 2015<br/>
+<div class="description">Describes a nice application of Crane (our transparent Paxos system) for making dynamic program analysis more effective</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/unic-atc15.pdf">Secure Deduplication of General Computations</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/unic-atc15.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the USENIX Annual Technical Conference (USENIX ATC '15)</span>, 
+2015<br/>
+<div class="description">Describes UNIC, a system that allows mutually distrusting users to deduplicate computations done by general programs.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/unlearning-sp15.pdf">Towards Making Systems Forget with Machine Unlearning</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/unlearning-sp15.bib">bib</a>]<br/>
+<span class="author"><a href="http://yinzhicao.org">Yinzhi Cao</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 2015 IEEE Symposium on Security and Privacy (S\&amp;P '15)</span>, 
+2015<br/>
+<div class="description">Describes our vision of forgetting systems that quickly and completely forget user data including all derived data for security, privacy, and usability. The paper focuses on making machine learning systems forget (hence the term machine unlearning)</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/appdoctor-eurosys14.pdf">Efficiently, Effectively Detecting Mobile App Bugs with AppDoctor</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/appdoctor-eurosys14.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://xinhaoyuan.net">Xinhao Yuan</a>, <a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 2014 ACM European Conference on Computer Systems (EUROSYS '14)</span>, 
+April, 2014<br/>
+<div class="description">Describes AppDoctor, a powerful tool for detecting bugs in mobile apps.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/smt-cacm.pdf">Determinism Is Not Enough: Making Parallel Programs Reliable with Stable Multithreading</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/smt-cacm.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a></span><br/>
+<span class="conference">Communications of the ACM (2014)</span><br/>
+<div class="description">This paper is geared toward a general audience. If you have time to read just one paper on our concurrency work, this is the paper to read. It describes our vision of stable multithreading (StableMT), a radical approach to making multithreading reliable, and summarizes our last five years of work on designing, building, and applying stable multithreading systems. The final version of this paper will appear in CACM.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/parrot-sosp13.pdf">Parrot: a Practical Runtime for Deterministic, Stable, and Reliable Threads</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/parrot-sosp13.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, Jiri Simsa, Yi-Hong Lin, Hao Li, Ben Blum, Xinan Xu, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Garth A. Gibson, Randal E. Bryant</span><br/>
+<span class="conference">Proceedings of the 24th ACM Symposium on Operating Systems Principles (SOSP '13)</span>, 
+November, 2013<br/>
+<div class="description">Describes Parrot, a simple, deployable thread runtime system for improving reliability with low overhead. This is our most recent and best paper on stable and deterministic multithreading.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/neongoby-fse13.pdf">Effective Dynamic Detection of Alias Analysis Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/neongoby-fse13.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the Ninth Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on Foundations of Software Engineering (ESEC-FSE '13)</span>, 
+August, 2013<br/>
+<div class="description">Describes NeonGoby, a system for effectively detecting errors in alias analysis, one of the most important and widely used program analyses.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/smt-hotpar13.pdf">Determinism Is Overrated: What Really Makes Multithreaded Programs Hard to Get Right and What Can Be Done about It?</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/smt-hotpar13.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a></span><br/>
+<span class="conference">the Fifth USENIX Workshop on Hot Topics in Parallelism (HOTPAR '13)</span>, 
+June, 2013<br/>
+<div class="description">A position paper describing our vision of stable multithreading, a radically new approach to making multithreading reliable.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/woodpecker-asplos13.pdf">Verifying Systems Rules Using Rule-Directed Symbolic Execution</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/woodpecker-asplos13.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Eighteenth International Conference on Architecture Support for Programming Languages and Operating Systems (ASPLOS '13)</span>, 
+2013<br/>
+<div class="description">Describes Woodpecker, a system that leverages path slicing to speed up symbolic execution. It enables users to check systems rules, and avoids checking program paths irrelevant to the rule, drastically reducing the amount of redundant work.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/neongoby-tr.pdf">Effective Dynamic Detection of Alias Analysis Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/neongoby-tr.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Columbia University Technical Report CUCS-003-13</span>
+<div class="description">Technical report version of NeonGoby, a system for effectively detecting errors in alias analysis, one of the most important and widely used program analyses</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/wu-pldi12.pdf">Sound and Precise Analysis of Parallel Programs through Schedule Specialization</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/wu-pldi12.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.ytang.net/">Yang Tang</a>, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the ACM SIGPLAN 2012 Conference on Programming Language Design and Implementation (PLDI '12)</span>, 
+June, 2012<br/>
+<div class="description">Describes a program analysis framework for analyzing multithreaded programs with high precision. The key idea is to statically analyze a multithreaded program w.r.t. only a small set of schedules to improve precision and then enforce these schedules at runtime for soundness.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/con-hotpar12.pdf">Concurrency Attacks</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/con-hotpar12.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Ang Cui, <a href="http://www.cs.columbia.edu/~sal">Sal Stolfo</a>, <a href="http://www.cs.columbia.edu/~simha/">Simha Sethumadhavan</a></span><br/>
+<span class="conference">the Fourth USENIX Workshop on Hot Topics in Parallelism (HOTPAR '12)</span>, 
+June, 2012<br/>
+<div class="description">Studies the security consequences of concurrency errors.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/peregrine-sosp11.pdf">Efficient Deterministic Multithreading through Schedule Relaxation</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/peregrine-sosp11.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.columbia.edu/~jmg2016/">John Gallagher</a>, Huayang Guo, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP '11)</span>, 
+October, 2011<br/>
+<div class="description">Describes Peregrine, a system for efficiently making threads deterministic, addressing a key open challenge within the field of deterministic execution.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/racepro-sosp11.pdf">Pervasive Detection of Process Races in Deployed Systems</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/racepro-sosp11.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~orenl/">Oren Laadan</a>, Nicolas Viennot, Chia-che Tsai, Chris Blinn, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~nieh">Jason Nieh</a></span><br/>
+<span class="conference">Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP '11)</span>, 
+October, 2011<br/>
+<div class="description">Describes RacePro, a system for finding process races (e.g., multiple processes accessing a shared resource such as a file without proper synchronization).</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/demeter-sosp11.pdf">Practical Software Model Checking via Dynamic Interface Reduction</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/demeter-sosp11.bib">bib</a>]<br/>
+<span class="author">Huayang Guo, Ming Wu, Lidong Zhou, <a href="http://www.cs.columbia.edu/~ganghu">Gang Hu</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Lintao Zhang</span><br/>
+<span class="conference">Proceedings of the 23rd ACM Symposium on Operating Systems Principles (SOSP '11)</span>, 
+October, 2011<br/>
+<div class="description">Our most recent and best model checking paper. It describes a new reduction technique that decomposes a full distributed system into components and then explores the executions of these components in a divide-and-conquer way.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/con-tr.pdf">Concurrency Attacks</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/con-tr.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Ang Cui, <a href="http://www.columbia.edu/~jmg2016/">John Gallagher</a>, <a href="http://www.cs.columbia.edu/~sal">Sal Stolfo</a>, <a href="http://www.cs.columbia.edu/~simha/">Simha Sethumadhavan</a></span><br/>
+<span class="conference">Columbia University Technical Report CUCS-028-11</span>
+<div class="description">Studies the security consequences of concurrency errors.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/racepro-hotos11.pdf">Finding Concurrency Errors in Sequential Code---OS-level, In-vivo Model Checking of Process Races</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/racepro-hotos11.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~orenl/">Oren Laadan</a>, Chia-che Tsai, Nicolas Viennot, Chris Blinn, Peter Senyao Du, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.columbia.edu/~nieh">Jason Nieh</a></span><br/>
+<span class="conference">Proceedings of the 131th USENIX workshop on Hot topics in operating systems (HOTOS '11)</span>, 
+2011<br/>
+<div class="description">Argues that process races (e.g., multiple processes accessing a shared resource such as a file without proper synchronization) are bad and that the research community has not given them their due share of attention.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/partition-hotos11.pdf">Optimizing Data Partitioning for Data-Parallel Computing</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/partition-hotos11.bib">bib</a>]<br/>
+<span class="author">Qifa Ke, Vijayan Prabhakaran, Yinglian Xie, Yuan Yu, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the 131th USENIX workshop on Hot topics in operating systems (HOTOS '11)</span>, 
+2011<br/>
+<div class="description">Presents a crucial problem in data-parallel computing: how to evenly partition data, and sketches a solution to this problem. </div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/code-usenix11.pdf">Context-based Online Configuration-Error Detection</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/code-usenix11.bib">bib</a>]<br/>
+<span class="author">Ding Yuan, Yinglian Xie, Rina Panigrahy, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Chad Verbowski, Arunvijay Kumar</span><br/>
+<span class="conference">Proceedings of the USENIX Annual Technical Conference (USENIX '11)</span>, 
+2011<br/>
+<div class="description">Describes CODE, a system for automatically detecting software configuration errors. The key insight is to infer configuration access invariants that predict what access events follow what contexts.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/cui-tern-osdi10.pdf">Stable Deterministic Multithreading through Schedule Memoization</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/cui-tern-osdi10.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, Chia-Che Tsai, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the Ninth Symposium on Operating Systems Design and Implementation (OSDI '10)</span>, 
+October, 2010<br/>
+<div class="description">Describes Tern, a system for making threads more deterministic and stable. The key idea is to memoize past schedules and reuse them when possible, much like the natural tendencies in animals and humans to repeat familiar routes to avoid possible hazards along unknown routes.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/wu-loom-osdi10.pdf">Bypassing Races in Live Applications with Execution Filters</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/wu-loom-osdi10.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Proceedings of the Ninth Symposium on Operating Systems Design and Implementation (OSDI '10)</span>, 
+October, 2010<br/>
+<div class="description">Describes LOOM, a live-workaround system for fixing races in live applications. LOOM is safe (live-update will not introduce new errors), fast (negligible overhead for most benchmarks), and flexible (able to fix all bugs evaluated). </div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/loom-tr.pdf">Bypassing Races in Live Applications with Execution Filters</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/loom-tr.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~jingyue/">Jingyue Wu</a>, <a href="http://www.cs.columbia.edu/~heming/">Heming Cui</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">Columbia University Technical Report CUCS-036-10</span>
+<div class="description">A more complete description of LOOM compared to our OSDI '10 paper.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/dejavu-oopsla10.pdf">Scalable and Systematic Detection of Buggy Inconsistencies in Source Code</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/dejavu-oopsla10.bib">bib</a>]<br/>
+<span class="author">Mark Gabel, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Yuan Yu, Moises Goldszmidt, Zhendong Su</span><br/>
+<span class="conference">Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA '10)</span>, 
+October, 2010<br/>
+<div class="description">Describes how we found many copy-and-paste bugs in a large commercial code base.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/modist-nsdi09.pdf">MODIST: Transparent Model Checking of Unmodified Distributed Systems</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/modist-nsdi09.talk.pdf">talk</a> | <a href="http://www.cs.columbia.edu/~junfeng/papers/modist-nsdi09.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Tisheng Chen, Ming Wu, Zhilei Xu, Xuezheng Liu, Haoxiang Lin, Mao Yang, Fan Long, Lintao Zhang, Lidong Zhou</span><br/>
+<span class="conference">Proceedings of the Sixth Symposium on Networked Systems Design and Implementation (NSDI '09)</span>, 
+April, 2009<br/>
+<div class="description">Describes how we applied our in-situ model checking approach to find 10 protocol-level errors in three real distributed systems, including a production system that has been managing more than 100 thousand machines for over two years. Note this version has two minor calculation errors fixed.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/pod-explode-tr.pdf">A Software Checking Framework Using Distributed Model Checking and Checkpoint/Resume of Virtualized PrOcess Domains</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/pod-explode-tr.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/mice/persons/showPerson.php?personID=16410&amp;base=%2Fmice%2Fpersons%2F&amp;">Nageswar Keetha</a>, Leon Wu, <a href="http://www.cs.columbia.edu/~kaiser">Gail Kaiser</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">CS Department, Columbia University Technical Report CUCS-032-09</span>
+<div class="description">Describes a version of eXplode for in-vivo model checking.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/distributed-explode-tr.pdf">Distributed eXplode: A High-Performance Model Checking Engine to Scale Up State-Space Coverage</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/distributed-explode-tr.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/mice/persons/showPerson.php?personID=16410&amp;base=%2Fmice%2Fpersons%2F&amp;">Nageswar Keetha</a>, Leon Wu, <a href="http://www.cs.columbia.edu/~kaiser">Gail Kaiser</a>, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a></span><br/>
+<span class="conference">CS Department, Columbia University Technical Report CUCS-051-08</span>
+<div class="description">Describes a distributed version of eXplode.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yang-explode-osdi.pdf">EXPLODE: a Lightweight, General System for Finding Serious Storage System Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yang-explode-osdi.talk.pdf">talk</a> | <a href="http://www.cs.columbia.edu/~junfeng/papers/yang-explode-osdi.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Can Sar, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the Seventh Symposium on Operating Systems Design and Implementation (OSDI '06)</span>, 
+November, 2006<br/>
+<div class="description">Describes our in-situ model checking approach, which made it easy to thoroughly check real systems. We applied eXplode to 17 storage systems and found serious data-loss errors in every system checked. This paper is my favorite in describing our model checking approach, which forms the basis of my PhD thesis work.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yang-fisc-tocs.pdf">Using Model Checking to Find Serious File System Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yang-fisc-tocs.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Paul Twohey, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a>, Madanlal Musuvathi</span><br/>
+<span class="conference">ACM Transactions on Computer Systems, Volume 24, Issue 4 (November, 2006)</span><br/>
+<div class="description">A journal version of our FiSC work, forwarded from OSDI 04.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yang-malicious-disk-oakland06.pdf">Automatically Generating Malicious Disks using Symbolic Execution</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yang-malicious-disk-oakland06.talk.pdf">talk</a> | <a href="http://www.cs.columbia.edu/~junfeng/papers/yang-malicious-disk-oakland06.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Can Sar, Paul Twohey, Cristian Cadar, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the 2006 IEEE Symposium on Security and Privacy (S\&amp;P '06)</span>, 
+May, 2006<br/>
+<div class="description">Describes how we generated disks-of-death using symbolic execution. These disks, when mounted, can crash or take over control of your machine.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/fisc-bugs05.pdf">eXplode: A Lightweight, General Approach for Finding Serious Errors in Storage Systems</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/fisc-bugs05.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Paul Twohey, Ben Pfaff, Can Sar, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the first Workshop on the Evaluation of Software Defect Detection Tools (BUGS '05)</span>, 
+June, 2005<br/>
+<div class="description">Describes a preliminary version of the eXplode storage system checker</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yang-fisc-osdi.pdf">Using Model Checking to Find Serious File System Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yang-fisc-osdi.talk.pdf">talk</a> | <a href="http://www.cs.columbia.edu/~junfeng/papers/yang-fisc-osdi.bib">bib</a>]  (Best paper award)<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Paul Twohey, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a>, Madanlal Musuvathi</span><br/>
+<span class="conference">Proceedings of the Sixth Symposium on Operating Systems Design and Implementation (OSDI '04)</span>, 
+December, 2004<br/>
+<div class="description">Describes how we leveraged model checking to find serious errors in three widely used, well tested Linux file system errors. Some of these errors can vaporize your entire file systems.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/yang-meca-ccs.pdf">MECA: an Extensible, Expressive System and Language for Statically Checking Security Properties</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/yang-meca-ccs.bib">bib</a>]<br/>
+<span class="author"><a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Ted Kremenek, Yichen Xie, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the 10th ACM conference on Computer and communications security (CCS '03)</span>, 
+October, 2003<br/>
+<div class="description">Describes an extensible and lightweight annotation system that allows programmers to write a small set of domain-specific annotations to effectively annotate large bodies of code.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/sosp-metrics.pdf">An Empirical Study of Operating Systems Errors</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/sosp-metrics.bib">bib</a>]<br/>
+<span class="author">Andy Chou, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Benjamin Chelf, Seth Hallem, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the 18th ACM Symposium on Operating Systems Principles (SOSP '01)</span>, 
+November, 2001<br/>
+<div class="description">Presents our study of the errors found using meta-compilation. Some interesting conclusions include drivers are up to three to seven times buggier than the rest of the kernel.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/ranking-fse.pdf">Correlation exploitation in error ranking</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/ranking-fse.bib">bib</a>]<br/>
+<span class="author">Ted Kremenek, Ken Ashcraft, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, <a href="http://www.cs.stanford.edu/~engler">Dawson Engler</a></span><br/>
+<span class="conference">Proceedings of the 12th ACM SIGSOFT International Symposium on Foundations of Software Engineering (SIGSOFT '04/FSE-12)</span>, 
+November, 2004<br/>
+<div class="description">Describes how we can exploit the correlations of error messages emitted by static analysis tools to cluster false positives together, thus improve the effectiveness of the static analysis tools.</div>
+</li>
+<li>
+<span class="title"><a href="http://www.cs.columbia.edu/~junfeng/papers/kinesis-tos.pdf">Kinesis: A new approach to replica placement in distributed storage systems</a></span>
+ [<a href="http://www.cs.columbia.edu/~junfeng/papers/kinesis-tos.bib">bib</a>]<br/>
+<span class="author">John MacCormick, Nicholas Murphy, Venugopalan Ramasubramanian, Udi Wieder, <a href="http://www.cs.columbia.edu/~junfeng">Junfeng Yang</a>, Lidong Zhou</span><br/>
+<span class="conference">ACM Transactions on Storage Systems, Volume 4, Issue 4 (January, 2009)</span><br/>
+<div class="description">Describes a new replica placement strategy that uses multiple linear hash functions to achieve high performance, scalability, and availability.</div>
+</li>
+</ul>
+</div> <!--- content --->
+</body>

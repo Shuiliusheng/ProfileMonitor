@@ -1,42 +1,5 @@
 https://web.eecs.umich.edu/~barisk/publications/
-<body class="theme-base-0d">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-67903900-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<div class="sidebar">
-<div class="container sidebar-sticky">
-<div class="sidebar-about">
-<p>
-<img alt="Baris Kasikci" src="/~barisk/pictures/profile.jpg"/>
-</p>
-<h1>
-       Baris Kasikci
-</h1>
-      I am interested in making computer systems more reliable, secure, and efficient | <a href="/~barisk/public/cv.pdf">CV</a>
-<hr/>
-
-barisk@umich.edu | <a href="https://pgp.mit.edu/pks/lookup?search=0xAC17B59F&amp;op=index" target="_blank">GPG</a>
-<hr/>
-</div>
-<nav class="sidebar-nav">
-<a class="sidebar-nav-item" href="/~barisk/">Home</a>
-<a class="sidebar-nav-item" href="/~barisk/research">Research</a>
-<!--            <a class="sidebar-nav-item" href="/~barisk/team">Team</a> -->
-<a class="sidebar-nav-item active" href="/~barisk/publications">Publications</a>
-<a class="sidebar-nav-item" href="/~barisk/teaching">Teaching</a>
-<a class="sidebar-nav-item" href="/~barisk/contact">Contact</a>
-</nav>
-</div>
-</div>
-<div class="content container">
-<div class="page">
+[<div class="page">
 <h1 class="page-title">Publications</h1>
 <h3 id="conference-papers">Conference Papers</h3>
 <hr>
@@ -126,6 +89,4 @@ Cristian Zamfir, <b>Baris Kasikci</b>, Johannes Kinder, Edouard Bugnion, and Geo
 <em>Workshop on Hot Topics in System Dependability</em> (<a href="http://sigops.org/sosp/sosp13/hotdep.html"><strong>HotDep</strong></a>), Hollywood, USA October 2012</p>
 </li>
 </ol>
-</hr></hr></div>
-</div>
-</body>
+</hr></hr></div>]

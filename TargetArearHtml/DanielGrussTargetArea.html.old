@@ -1,32 +1,11 @@
 https://gruss.cc/
-<body>
-<div class="container-fluid" id="main">
-<div class="row">
-<!-- sidebar -->
-<div class="col-md-1 col-xs-0"> </div>
-<div class="col-md-2 col-sm-6 col-xs-12 text-center" id="sidebar">
-<img class="portrait" src="portrait_small.jpg"/>
-<br/>
-<br/>
-<h1>Daniel Gruss</h1>
-<ul class="fa-ul" id="contact-info">
-<li class="list-group-item" style="font-size: 210%;">
-<a href="mailto:daniel@gruss.cc"><i class="fa fa-envelope-square"></i></a>
-<a href="https://twitter.com/lavados"><i class="fa fa-twitter-square"></i></a>
-<a href="https://github.com/dgruss"><i class="fa fa-github-square"></i></a>
-<a href="https://scholar.google.com/citations?user=JmCg4uQAAAAJ&amp;hl=en"><i class="fa fa-google-plus-square"></i></a>
-</li>
-</ul>
-<p> </p>
-</div> <!-- /sidebar -->
-<div class="col-md-8 col-sm-6 col-xs-12" id="bodytext">
+[<div class="col-md-8 col-sm-6 col-xs-12" id="bodytext">
 <p>
 I'm an assistant professor, leading the coresec group, at the <a href="https://www.tugraz.at">Graz University of Technology</a>, Institute of Applied Information Processing and Communications.
 In my research I explore software-based microarchitectural attacks and operating system features.
 I teach undergraduate courses (<a href="https://teaching.iaik.tugraz.at/bs/start">Operating Systems</a>, <a href="https://teaching.iaik.tugraz.at/snp/start">System-Level Programming</a>) and graduate courses (<a href="https://teaching.iaik.tugraz.at/embsec/start">Embedded Security</a>, <a href="https://teaching.iaik.tugraz.at/sase/start">Security Aspects in Software Development</a>).
 </p>
-</div>
-<div class="col-md-8 col-sm-12 col-xs-12" id="bodytext">
+</div>, <div class="col-md-8 col-sm-12 col-xs-12" id="bodytext">
 <div id="publications">
 <h2>Publications</h2>
 <table class="table">
@@ -2115,7 +2094,4 @@ I teach undergraduate courses (<a href="https://teaching.iaik.tugraz.at/bs/start
 <li>On-site organization: COSADE'16</li>
 </ul>
 </div>
-</div>
-</div> <!-- /bodytext -->
-</div> <!-- /column -->
-</body>
+</div>]

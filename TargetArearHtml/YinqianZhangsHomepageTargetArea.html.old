@@ -1,2 +1,205 @@
-http://web.cse.ohio-state.edu/~zhang.834/
-None
+http://web.cse.ohio-state.edu/~zhang.834/publications.html
+<body>
+<h2>Publications</h2>
+	A more complete list may be found at <a href="http://scholar.google.com/citations?user=C7htwEIAAAAJ&amp;hl=en" target="_blank">Google Scholar</a>. <br/><br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2019</p>
+<ul class="papers">
+<li><font id="conf">[CCS'19]</font> OPERA: Open Remote Attestation for Intelâs Secure Enclaves</li>
+		Guoxing Chen, <i>Yinqian Zhang</i>, Ten-Hwang Lai<br/>
+<i>ACM Conference on Computer and Communications Security</i>, London, UK, Nov. 2019.<br/>
+<li><font id="conf">[CCS'19]</font> Automatically Identifying Vulnerable BLE-IoT Devices From Google Play (and Locating Them in Real World)</li>
+		Chaoshun Zuo, Haohuang Wen, Zhiqiang Lin, <i>Yinqian Zhang</i><br/>
+<i>ACM Conference on Computer and Communications Security</i>, London, UK, Nov. 2019.<br/>
+<li><font id="conf">[PACT'19]</font> SpecShield: Shielding Speculative Data from Microarchitectural Covert Channels</li>
+		Kristin Barber, Anys Bacha, Li Zhou, <i>Yinqian Zhang</i>, Radu Teodorescu<br/>
+<i>International Conference on Parallel Architectures and Compilation Techniques</i>, Seattle, WA, USA, Sep. 2019.<br/>
+<li><font id="conf">[RAID'19]</font> Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries</li>
+		Wubing Wang, <i>Yinqian Zhang</i>, Zhiqiang Lin<br/>
+<i>International Symposium on Research in Attacks, Intrusions and Defenses</i>, Beijing, China, Sep. 2019.<br/>
+<li><font id="conf">[Security'19]</font> Exploiting Unprotected I/O Operations in AMDâs Secure Encrypted Virtualization</li>
+		Mengyuan Li, <i>Yinqian Zhang</i>, Zhiqiang Lin, Yan Solihin<br/>
+<i>USENIX Security Symposium</i>, Santa Clara, CA, Aug. 2019.<br/>
+<li><font id="conf">[Security'19]</font> SafeHidden: An Efficient and Secure Information Hiding Technique Using Re-randomization</li>
+		Zhe Wang, Chenggang Wu, <i>Yinqian Zhang</i>, Bowen Tang, Pen-Chung Yew, Mengyao Xie, Yuanming Lai, Yan Kang, Yueqiang Cheng, and Zhiping Shi<br/>
+<i>USENIX Security Symposium</i>, Santa Clara, CA, Aug. 2019.<br/>
+<li><font id="conf">[CAL]</font> Isolating Speculative Data to Prevent
+Transient Execution Attacks</li>
+		Kristin Barber, Anys Bacha, Li Zhou, <i>Yinqian Zhang</i>, Radu Teodorescu<br/>
+<i>IEEE Computer Architecture Letters (CAL)</i>, 2019.
+		
+		<li><font id="conf">[AsiaCCS'19]</font> Running Language Interpreters Inside SGX: A Lightweight Legacy-Compatible Script Code Hardening Approach</li>
+		Huibo Wang, Erick Bauman, Vishal Karande, Yueqiang Cheng, Zhiqiang Lin, <i>Yinqian Zhang</i><br/>
+<i>ACM ASIA Conference on Information, Computer and Communications Security</i>, Auckland, New Zealand, Jul. 2019.<br/>
+<li><font id="conf">[DSN'19]</font> Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users</li>
+		Jiongyi Chen, Chaoshun Zuo, Wenrui Diao, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, <i>Yinqian Zhang</i>, and Kehuan Zhang<br/>
+<i>IEEE/IFIP International Conference on Dependable Systems and Networks</i>, Portland, Oregon, USA, Jun. 2019<br/>
+<li><font id="conf">[EuroS&amp;P'19]</font> SGXPECTRE: Stealing Intel Secrets from SGX Enclaves via Speculative Execution</li>
+		Guoxing Chen, Sanchuan Chen, Yuan Xiao, <i>Yinqian Zhang</i>, Zhiqiang Lin, Ten H. Lai<br/>
+<i>(The EuroS&amp;P version of this paper supersedes an earlier Arxiv version "SgxPectre Attacks: Leaking Enclave Secrets via Speculative Execution")</i><br/>
+<i>Arxiv pre-print version</i>, Feb. 2018.<br/>
+<a href="https://github.com/osusecLab/SgxPectre" target="_blank">[Project Homepage]</a><br/>
+<li><font id="conf">[NDSS'19]</font> Statistical Privacy for Streaming Traffic</li>
+		Xiaokuan Zhang, Jihun Hamm, Michael K. Reiter, <i>Yinqian Zhang</i><br/>
+<i>Network and Distributed System Security Symposium</i>, San Diego, CA, USA, Feb. 2019.<br/>
+<a href="./papers/ndss19a.pdf">[Pdf]</a> | <a href="bib/ndss19a.bib">[Bib]</a><br/>
+<li><font id="conf">[NDSS'19]</font> OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX</li>
+		Adil Ahmad, Byunggill Joe, Yuan Xiao, <i>Yinqian Zhang</i>, Insik Shin, and Byoungyoung Lee<br/>
+<i>Network and Distributed System Security Symposium</i>, San Diego, CA, USA, Feb. 2019.<br/>
+<a href="./papers/ndss19b.pdf">[Pdf]</a> | <a href="bib/ndss19b.bib">[Bib]</a><br/>
+<li><font id="conf">[S&amp;P'19]</font> Why Does Your Data Leak? Uncovering the Data Leakage in Cloud From Mobile Apps</li>
+		Chaoshun Zuo, Zhiqiang Lin, and <i>Yinqian Zhang</i>.<br/>
+<i>IEEE Symposium on Security and Privacy</i>, San Francisco, CA, USA, May. 2019.<br/>
+</ul>
+<br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2018</p>
+<ul class="papers">
+<li><font id="conf">[ACSAC'18]</font> Analyzing Cache Side Channels Using Deep Neural Networks</li>
+		Tianwei Zhang,  <i>Yinqian Zhang</i>, Ruby Lee<br/>
+<i>Annual Computer Security Applications Conference</i>, San Juan, Puerto Rico, USA, Dec. 2018<br/>
+<a href="./papers/acsac18b.pdf">[Pdf]</a> | <a href="bib/acsac18b.bib">[Bib]</a><br/>
+<li><font id="conf">[ACSAC'18]</font> A Measurement Study of Authentication Rate-Limiting Mechanisms of Modern Websites</li>
+		Bo Lu*, Xiaokuan Zhang*, Ziman Ling, <i>Yinqian Zhang</i>, Zhiqiang Lin<br/>
+<i>Annual Computer Security Applications Conference</i>, San Juan, Puerto Rico, USA, Dec. 2018 (*co-first authors)<br/>
+<a href="./papers/acsac18a.pdf">[Pdf]</a> | <a href="bib/acsac18a.bib">[Bib]</a><br/>
+<li><font id="conf">[ICCD'18]</font> NVCool: When Non-Volatile Caches Meet Cold Boot Attacks</li>
+		 Xiang Pan, Anys Bacha, Spencer Rudolph, Li Zhou, <i>Yinqian Zhang</i> and Radu Teodorescu<br/>
+<i>IEEE International Conference on Computer Design</i>, Orlando, Florida, USA, Oct. 2018.<br/>
+<a href="./papers/iccd18.pdf">[Pdf]</a> | <a href="bib/iccd18.bib">[Bib]</a><br/>
+<li><font id="conf">[CCS'18]</font> HoMonit: Monitoring Smart Home Apps from Encrypted Traffic</li>
+		Wei Zhang, Yan Meng, Yugeng Liu, Xiaokuan Zhang, <i>Yinqian Zhang</i>, Haojin Zhu<br/>
+<i>ACM Conference on Computer and Communications Security</i>, Toronto, Canada, Oct. 2018.<br/>
+<a href="./papers/ccs18.pdf">[Pdf]</a> | <a href="bib/ccs18.bib">[Bib]</a><br/>
+<li><font id="conf">[TDSC]</font> CPU Elasticity to Mitigate Cross-VM Runtime Monitoring</li>
+		Zeyu Mi, Haibo Chen, <i>Yinqian Zhang</i>, Shuanghe Peng, Xiaofeng Wang, and Michael Reiter<br/>
+<i>Transactions on Dependable and Secure Computing</i>, 2018.<br/>
+<a href="./papers/tdsc18.pdf">[Pdf]</a> | <a href="bib/tdsc18.bib">[Bib]</a><br/>
+<li><font id="conf">[ATC'18]</font> Peeking Behind the Curtains of Serverless Platforms</li>
+		Liang Wang, Mengyuan Li,  <i>Yinqian Zhang</i>, Thomas Ristenpart, Michael Swift<br/>
+<i>Usenix Annual Technical Conference</i>, Boston, MA, USA, Jul. 2018.<br/>
+<a href="./papers/atc18.pdf">[Pdf]</a> | <a href="bib/atc18.bib">[Bib]</a><br/>
+<li><font id="conf">[AsiaCCS'18]</font> Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses</li>
+		Sanchuan Chen, Fangfei Liu, Zeyu Mi, <i>Yinqian Zhang</i>, Ruby B. Lee, Haibo Chen, XiaoFeng Wang<br/>
+<i>ACM ASIA Conference on Information, Computer and Communications Security</i>, Songdo, Incheon, Korea, Jun. 2018.<br/>
+<a href="./papers/asiaccs18.pdf">[Pdf]</a><br/>
+<li><font id="conf">[S&amp;P'18]</font> Static Evaluation of Noninterference Using Approximate Model Counting</li>
+		Ziqiao Zhou, Zhiyun Qian, Michael K. Reiter, <i>Yinqian Zhang</i><br/>
+<i>IEEE Symposium on Security and Privacy</i>, San Francisco, CA, USA, May. 2018.<br/>
+<a href="./papers/sp18b.pdf">[Pdf]</a>  | <a href="bib/sp18b.bib">[Bib]</a><br/>
+<li><font id="conf">[S&amp;P'18]</font> Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races</li>
+		Guoxing Chen*, Wenhao Wang*, Tianyu Chen, Sanchuan Chen, <i>Yinqian Zhang</i>, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin<br/>
+<i>IEEE Symposium on Security and Privacy</i>, San Francisco, CA, USA, May. 2018. (* co-first authors)<br/>
+<a href="./papers/sp18a.pdf">[Pdf]</a> | <a href="bib/sp18a.bib">[Bib]</a><br/>
+<li><font id="conf">[INFOCOM'18]</font> Differentially Private Access Patterns for Searchable Symmetric Encryption</li>
+		Guoxing Chen, Ten H. Lai, Michael Reiter, <i>Yinqian Zhang</i><br/>
+<i>IEEE International Conference on Computer Communications</i>, Honolulu, HI, USA, Apr. 2018.<br/>
+<a href="./papers/infocom18.pdf">[Pdf]</a> | <a href="bib/infocom18.bib">[Bib]</a>| <a href="https://github.com/donnod/APOSSE" target="_blank">[Source code]</a><br/>
+<li><font id="conf">[NDSS'18]</font> OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS</li>
+		Xiaokuan Zhang, Xueqiang Wang, Xiaolong Bai, <i>Yinqian Zhang</i>, Xiaofeng Wang<br/>
+<i>Network and Distributed System Security Symposium</i>, San Diego, CA, USA, Feb. 2018.<br/>
+<font color="red">Top 10 Finalists of CSAW Best Applied Research Paper Award</font><br/>
+<a href="papers/ndss18a.pdf">[Pdf]</a> | <a href="bib/ndss18a.bib">[Bib]</a>  | <a href="https://www.youtube.com/watch?v=WoHOwJV6Lhk">[Video]</a><br/>
+<li><font id="conf">[NDSS'18]</font> Face Flashing: A Secure Liveness Detection Protocol based on Light Reflections</li>
+		Di Tang, Zhe Zhou, <i>Yinqian Zhang</i>, Kehuan Zhang<br/>
+<i>Network and Distributed System Security Symposium</i>, San Diego, CA, USA, Feb. 2018.<br/>
+<a href="papers/ndss18b.pdf">[Pdf]</a> | <a href="bib/ndss18b.bib">[Bib]</a><br/>
+</ul>
+<br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2017</p>
+<ul class="papers">
+<li><font id="conf">[CCS'17]</font> Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves</li>
+		Yuan Xiao, Mengyuan Li, Sanchuan Chen, <i>Yinqian Zhang</i><br/>
+<i>ACM Conference on Computer and Communications Security</i>, Dallas, Texas, USA, Oct. 2017.<br/>
+<i>(The CCS version of this paper supersedes <a href="https://arxiv.org/abs/1707.03473">arxiv 1707.03473</a>.)</i><br/>
+<a href="papers/ccs17a.pdf">[Pdf]</a> | <a href="bib/ccs17a.bib">[Bib]</a> | <a href="slides/ccs17a.pptx">[Slides]</a> | <a href="https://github.com/OSUSecLab/Stacco" target="_blank">[Project Homepage]</a><br/>
+<li><font id="conf">[CCS'17]</font> Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX</li>
+		Wenhao Wang, Guoxing Chen, Xiaorui Pan, <i>Yinqian Zhang</i>, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter<br/>
+<i>ACM Conference on Computer and Communications Security</i>, Dallas, Texas, USA, Oct. 2017.<br/>
+<i>(The CCS version of this paper supersedes <a href="https://arxiv.org/abs/1705.07289">arxiv 1705.07289</a>.)</i><br/>
+<a href="papers/ccs17b.pdf">[Pdf]</a> | <a href="bib/ccs17b.bib">[Bib]</a>
+<li><font id="conf">[PETS'17]</font> Personalized Pseudonyms for Servers in the Cloud</li>
+		Qiuyu Xiao, Michael K. Reiter, <i>Yinqian Zhang</i><br/>
+<i>Privacy Enhancing Technologies Symposium</i>, Minneapolis, Minnesota, Jul. 2017.<br/>
+<a href="papers/pets17.pdf">[Pdf]</a> | <a href="bib/pets17.bib">[Bib]</a> | <a href="http://www.cs.unc.edu/~qiuyu/popsicl/index.html"> [Demo]</a> | <a href="https://www.youtube.com/watch?v=QF32U2Xpeqs">[Presentation]</a>
+<li><font id="conf">[AsiaCCS'17]</font> Detecting Privileged Side-Channel Attacks in Shielded Execution with DEJA VU</li>
+		Sanchuan Chen, Xiaokuan Zhang, Michael Reiter, <i>Yinqian Zhang</i><br/>
+<i>ACM Asia Conference on Computer and Communications Security</i>, Abu Dhabi, UAE, Apr. 2017.<br/>
+<a href="papers/asiaccs17a.pdf">[Pdf]</a> | <a href="bib/asiaccs17a.bib">[Bib]</a>
+<li><font id="conf">[AsiaCCS'17]</font> DoS Attacks on Your Memory in the Cloud</li>
+		Tianwei Zhang, <i>Yinqian Zhang</i>, Ruby B. Lee<br/>
+<i>ACM Asia Conference on Computer and Communications Security</i>, Abu Dhabi, UAE, Apr. 2017.<br/>
+<i>(The AsiaCCS version of this paper supersedes <a href="https://arxiv.org/abs/1603.03404">arxiv 1603.03404</a>.)</i><br/>
+<a href="papers/asiaccs17b.pdf">[Pdf]</a> | <a href="bib/asiaccs17b.bib">[Bib]</a>
+<li><font id="conf">[CODASPY'17]</font> Transparent Backward-Edge Control Flow Violation Detection Using Intel Processor Trace</li>
+		Yufei Gu, Qingchuan Zhao, <i>Yinqian Zhang</i>, Zhiqiang Lin<br/>
+<i>ACM Conference on Data and Applications Security and Privacy</i>, Scottsdale, Arizona, Mar. 2017.<br/>
+<a href="papers/codaspy17.pdf">[Pdf]</a> | <a href="bib/codaspy17.bib">[Bib]</a>
+</ul>
+<br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2016</p>
+<ul class="papers">
+<li><font id="conf">[CCS'16]</font> Return-Oriented Flush-Reload Side Channels on ARM and Their
+Implications for Android Devices</li>
+		Xiaokuan Zhang, Yuan Xiao, <i>Yinqian Zhang</i><br/>
+<i>ACM Conference on Computer and Communications Security</i>, Vienna, Austria, Oct. 2016.<br/>
+<a href="papers/ccs16b.pdf">[Pdf]</a> | <a href="bib/ccs16b.bib">[Bib]</a> | <a href="slides/ccs16b.pptx">[Slides]</a>
+<li><font id="conf">[CCS'16]</font> A Software Approach to Defeating Side Channels in Last-Level Caches</li>
+		Ziqiao Zhou, Michael K. Reiter, <i>Yinqian Zhang</i><br/>
+<i>ACM Conference on Computer and Communications Security</i>, Vienna, Austria, Oct. 2016.<br/>
+<i>(The CCS version of this paper supersedes <a href="https://arxiv.org/abs/1603.05615">arxiv 1603.05615</a>.)</i><br/>
+<a href="papers/ccs16a.pdf">[Pdf]</a> | <a href="bib/ccs16a.bib">[Bib]</a>
+<li><font id="conf">[RAID'16]</font> CloudRadar: A Real-Time Side-Channel Attack Detection System in Clouds</li>
+        Tianwei Zhang, <i>Yinqian Zhang</i>, Ruby Lee<br/>
+<i>International Symposium on Research in Attacks, Intrusions and Defenses</i>, Sep. 2016.<br/>
+<a href="papers/raid16.pdf">[Pdf]</a> | <a href="bib/raid16.bib">[Bib]</a>
+<li><font id="conf">[Security'16]</font> One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege Escalation</li>
+        Yuan Xiao, Xiaokuan Zhang, <i>Yinqian Zhang</i>, Mircea-Radu Teodorescu<br/>
+<i>USENIX Security Symposium</i>, Austin, TX, Aug. 2016.<br/>
+<font color="red">Top 10 Finalists of CSAW Best Applied Research Paper Award</font><br/>
+<a href="papers/sec16.pdf">[Pdf]</a> | <a href="bib/sec16.bib">[Bib]</a> | <a href="slides/sec16.pptx">[Slides]</a>
+</ul>
+<!--<li>A Software Approach to Defeating Side Channels in Last-Level Caches</li>
+		Ziqiao Zhou, Michael K. Reiter, Yinqian Zhang<br>
+		<i><a href=http://arxiv.org/abs/1603.05615>arXiv preprint 1603.05615</a></i>,
+March 2016<br>
+		<a href="papers/1603.05615v1.pdf">[Pdf]</a> | <a
+href="bib/1603.05615v1.bib">[Bib]</a>
+		
+		<li>Memory DoS Attacks in Multi-tenant Clouds: Severity and Mitigation</li>
+		Tianwei Zhang, Yinqian Zhang, Ruby Lee<br>
+		<i><a href=http://arxiv.org/abs/1603.03404v2>arXiv preprint 1603.03404v2</a></i>,
+March 2016<br>
+		<a href="papers/1603.03404v2.pdf">[Pdf]</a> | <a
+href="bib/1603.03404v2.bib">[Bib]</a>-->
+<br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2015</p>
+<ul class="papers">
+<li><font id="conf">[CCS'15]</font> Mitigating Storage Side Channels Using Statistical Privacy Mechanisms</li>
+		Qiuyu Xiao, Michael K. Reiter, <i>Yinqian Zhang</i><br/>
+<i>ACM Conference on Computer and Communications Security</i>, Denver, Colorado, Oct. 2015.<br/>
+<a href="papers/ccs15.pdf">[Pdf]</a> | <a href="bib/ccs15.bib">[Bib]</a>
+<li><font id="conf">[Security'15]</font> A Placement Vulnerability Study in Multi-Tenant Public Clouds</li>
+		Venkatanathan Varadarajan, <i>Yinqian Zhang</i>, Thomas Ristenpart and Michael Swift<br/>
+<i>USENIX Security Symposium</i>, Washington, D.C., Aug. 2015.<br/>
+<a href="papers/sec15.pdf">[Pdf]</a> | <a href="bib/sec15.bib">[Bib]</a>
+</ul>
+<br/>
+<p style="background-color:LightGray;height:20px;font-weight:bold">2014 and before</p>
+<ul class="papers">
+<li><font id="conf">[CCS'14]</font> Cross-Tenant Side-Channel Attacks in PaaS Clouds</li>
+<i>Yinqian Zhang</i>, Ari Juels, Michael K. Reiter, Thomas Ristenpart<br/>
+<i>ACM Conference on Computer and Communications Security</i>, Scottsdale, AZ, Nov. 2014.<br/>
+<a href="papers/ccs14.pdf">[Pdf]</a> | <a href="bib/ccs14.bib">[Bib]</a>
+<li><font id="conf">[CCS'13]</font> Düppel: Retrofitting Commodity Operating Systems to Mitigate Cache Side Channels in the Cloud</li>
+<i>Yinqian Zhang</i>, Michael K. Reiter<br/>
+<i>ACM Conference on Computer and Communications Security</i>, Berlin, Germany, Nov. 2013. <br/>
+<a href="papers/ccs13.pdf">[Pdf]</a> | <a href="bib/ccs13.bib">[Bib]</a>
+<li><font id="conf">[CCS'12]</font> Cross-VM Side Channels and Their Use to Extract Private Keys</li>
+<i>Yinqian Zhang</i>, Ari Juels, Michael K. Reiter, Thomas Ristenpart<br/>
+<i>ACM Conference on Computer and Communications Security</i>, Raleigh, NC, Oct. 2012. <br/>
+<a href="papers/ccs12.pdf">[Pdf]</a> | <a href="bib/ccs12.bib">[Bib]</a> | <a href="slides/ccs12.pptx">[Slides]</a>
+<li><font id="conf">[S&amp;P'11]</font> HomeAlone: Co-Residency Detection in the Cloud via Side-Channel Analysis</li>
+<i>Yinqian Zhang</i>, Ari Juels, Alina Oprea, Michael K. Reiter<br/>
+<i>IEEE Symposium on Security and Privacy</i>, Oakland, CA, May 2011. <br/>
+<a href="papers/sp11.pdf">[Pdf]</a> | <a href="bib/sp11.bib">[Bib]</a>
+<li><font id="conf">[CCS'10]</font> The Security of Modern Password Expiration: An Algorithmic Framework and Empirical Analysis</li>
+<i>Yinqian Zhang</i></ul></body>

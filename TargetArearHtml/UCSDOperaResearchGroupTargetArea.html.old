@@ -1,30 +1,5 @@
 http://opera.ucsd.edu/pub_chronological.htm
-<body>
-<table cellspacing="10">
-<tr>
-<td valign="middle"><img alt="opera" height="84" src="australiaoperahouse_small2.jpg" width="150"/>
-</td><td valign="middle"><h1><font color="#00016A" size="+3">Opera</font>ting Systems Research Group<br/>
-<font color="#00016A" size="+2">Op</font>erating Systems Research on <font color="#00016A" size="+2">E</font>nergy, 
-	<font color="#00016A" size="+2">R</font>eliability and <font color="#00016A" size="+2">A</font>utonomy</h1>
-<br/>
-</td>
-</tr>
-</table>
-<div id="breadcrumb">
-<a href="pub_chronological.htm">Publications</a>
-</div>
-<div id="page">
-<div id="menu">
-<div><a href="index.html">Home</a></div>
-<div><a href="members.htm">People</a></div>
-<div><a href="pub_chronological.htm">Publications</a></div>
-<div><a href="software_released.htm">Software Released</a></div>
-<!-- <div><a href="projects.htm">Projects</a></div> -->
-<!-- <div><a href="conferences.htm">Conferences</a></div> -->
-<div><a href="ProspectiveStudents.htm">Prospective Students</a></div>
-<div><a href="memberonly.htm">Members Only</a></div>
-</div>
-<div id="content">
+[<div id="content">
 <div class="article-title">
         		Publications in reverse chronological order
             </div>
@@ -729,4 +704,4 @@ http://opera.ucsd.edu/pub_chronological.htm
 	Pin Zhou, Vivek Pandey, Jagadeesan 
     Sundaresan, Anand Raghuraman, Yuanyuan Zhou and Sanjeev Kumar.
     <a href="paper/ASPLOS04-Zhou.pdf">Dynamically Tracking Miss-Ratio-Curve for Memory Management</a>. 
-    The <i>Proceedings of the </i></li></ul></div></div></div></body>
+    The <i>Proceedings of the </i></li></ul></div></div>]

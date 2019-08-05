@@ -30,6 +30,12 @@ https://www.cs.ucr.edu/~csong/publications.html
 </ol>
 <h4>Conference and Workshop</h4>
 <ol reversed="">
+<li><strong>SPECCFI: CFI Informed Branch Prediction</strong>
+    (to appear) <br/>
+    Esmaeil M. Koruyeh, Shirin Hajiamin Shirazi, Khaled Khaswaneh, Chengyu Song, and Nael Abu-Ghazaleh <br/>
+    In Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland'20), <br/>
+    San Francisco, CA, May 2020.
+    </li>
 <li><strong>Principled Unearthing of TCP Side Channel Vulnerabilities</strong>
     (to appear) <br/>
     Yue Cao, Zhongjie Wang, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, and Paul Yu <br/>

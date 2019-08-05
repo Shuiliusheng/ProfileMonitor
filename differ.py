@@ -59,8 +59,8 @@ def main():
         finally:
             old_f.close()
             new_f.close()
-        data1 = parser.delete_html_tag(data1)
-        data2 = parser.delete_html_tag(data2)
+        data1 = parser.dehtml(data1)
+        data2 = parser.dehtml(data2)
         diff_html_data = diff_html(data1,data2,url)
         if "No Differences Found" not in diff_html_data:
             total_diff += diff_html_data

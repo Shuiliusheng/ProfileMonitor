@@ -2,15 +2,13 @@ import crawlers
 
 '''
 type information:
-    "ID": find all html tags who's attribute id = ID, and save the areas
-    "ID_KEY_ACC": find all html tags who's attribute id = ID and 
-    "ID_KEY_CONTAIN": find all html tags who's attribute id = ID and 
-    "CLASS":
-    "CLASS_KEY_ACC":
-    "CLASS_KEY_CONTAIN":
-    "KEY_ACC":
-    "KEY_CONTAIN":
-    "TAG_TREE":
+    "IDS": find all html tags who's attribute id = ID, and save the areas, there can be more than 1 id. 
+           such as "http://some.web.site.com IDS id1 id2 id3"
+    "CLASSES": find all html tags who's attribute class = CLASS, and save the areas
+           such as "http://some.web.site.com CLASSES class1 class2 class3"
+    "KEYS": find the block that contain key word, then return 2 upper level contents
+           such as "http://some.web.site.com KEYS key1 key2 key3"
+     default:
 '''
 
 # 1. input: a file, which contain several lines config info
@@ -46,14 +44,18 @@ def reader(file_name):
 # 2. process: according to the dict's "type" key to decide which crawler method to use
 def judger(web_type_param):
     try:
-        if web_type_param.get("type") == "IDS" :
+        if web_type_param.get("type") == None :
+            crawlers.crawler_all(web_type_param["url"])
+        elif web_type_param.get("type") == "IDS" :
             crawlers.crawler_ids(web_type_param["url"],web_type_param["parameters"])
+        elif web_type_param.get("type") == "CLASSES" :
+            crawlers.crawler_classes(web_type_param["url"],web_type_param["parameters"])
         elif web_type_param.get("type") == "KEYS" :
             crawlers.crawler_keys(web_type_param["url"],web_type_param["parameters"])
-        else :
-            crawlers.crawler_all(web_type_param["url"])
+        elif web_type_param.get("type") == "USELESS" :
+            pass
     except:
-        print(str(web_type_param.get("type")) + ":judger(): There is some error!")
+        print(str(web_type_param.get("url")) + ":judger(): There is some error!")
         pass
         
 def main():

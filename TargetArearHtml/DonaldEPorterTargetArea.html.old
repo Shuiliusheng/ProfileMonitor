@@ -1,42 +1,5 @@
-https://www.cs.unc.edu/~porter/research.html#publications
-<body>
-<table cellpadding="10">
-<tr>
-<td valign="top" width="10%">
-<p>Research</p>
-<p><a href="software.html">Software</a></p>
-<p><a href="doc">Documentation</a></p>
-<br/>
-<p><a href="index.html">Home</a></p>
-</td>
-<td valign="top">
-<h3>Current Projects</h3>
+https://www.cs.unc.edu/~porter/research.html
 
-My research develops better abstractions for managing concurrency and
-security, primarily in the operating system, and extending these abstractions to other portions of the
-technology stack as appropriate.
-<br>
-<h3>Projects</h3>
-<ul>
-<li><a href="http://oscar.cs.stonybrook.edu/projects/betrfs">BetrFS</a> -
-A write-optimized, general purpose Linux file system.</li>
-<li><a href="http://www.cs.stonybrook.edu/~porter/hoss">HOSS</a> -
-A pedagogical hypervisor.</li>
-<li><a href="http://graphene.cs.stonybrook.edu">Graphene</a> -
-A rich Linux library OS, including support for multi-process applications.</li>
-<li><a href="http://protego.cs.stonybrook.edu">Protego</a> -
-Practical techniques to obviate setuid-to-root binaries on Linux.</li>
-<li><a href="txos">TxOS</a> -
-Adding transactions to the system call API.</li>
-<li><a href="http://z.cs.utexas.edu/users/osa/laminar">Laminar</a> -
-Practical, fine-grained decentralized information flow control (DIFC)
-support in both the JVM and Linux kernel.</li>
-<li><a href="http://syncchar.code.csres.utexas.edu">Syncchar</a> -
-Analyzing and tuning the performance of transactional memory workloads.</li>
-<li><a href="http://z.cs.utexas.edu/users/osa/metatm/">MetaTM/TxLinux</a>
-- Using hardware transactional memory in the OS kernel.
-</li></ul>
-<h3><a name="publications">Publications</a></h3>
 (Presented in reverse chronological order, horizonal lines separate years).
 <ul>
 <li>
@@ -101,7 +64,7 @@ Algorithms and Architectures (<a href="https://spaa.acm.org/2019/">SPAA '19</a>)
 <a href="http://www.cs.stonybrook.edu/~mferdman/">Michael Ferdman</a>,
 and Donald E. Porter,
 <br/>
-(PDF)
+(<a href="http://dl.acm.org/authorize?N680545">ACM</a>, <a href="pubs/instrpop-systor19.pdf">PDF</a>)
 <br/>Proceedings of the 12th ACM International Systems and Storage Conference (<a href="http://www.systor.org/2019">SYSTOR '19</a>), Haifa, Israel, June 2019.
 </li>
 <br/>
@@ -677,4 +640,4 @@ and Donald E. Porter
 (<a href="pubs/jos-vm.pdf">PDF</a>)
 <br/>
 In the Proceedings of the <a href="http://sigcse2015.sigcse.org"> 46th SIGCSE Technical Symposium on Computer
-Science Education</a></li></br></br></br></br></br></br></br></ul></br></td></tr></table></body>
+Science Education</a></li></br></br></br></br></br></br></br></ul>

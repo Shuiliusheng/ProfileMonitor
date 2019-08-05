@@ -1,28 +1,68 @@
 import sys
 import re
 
+from html.parser import HTMLParser
+from re import sub
+from sys import stderr
+from traceback import print_exc
+ 
+class _DeHTMLParser(HTMLParser):
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.__text = []
+ 
+    def handle_data(self, data):
+        text = data.strip()
+        if len(text) > 0:
+            text = sub('[ \t\r\n]+', ' ', text)
+            self.__text.append(text + ' ')
+ 
+    def handle_starttag(self, tag, attrs):
+        if tag == 'p':
+            self.__text.append('\n\n')
+        elif tag == 'br':
+            self.__text.append('\n')
+ 
+    def handle_startendtag(self, tag, attrs):
+        if tag == 'br':
+            self.__text.append('\n\n')
+ 
+    def text(self):
+        return ''.join(self.__text).strip()
+ 
+ 
+def dehtml(text):
+    try:
+        parser = _DeHTMLParser()
+        parser.feed(text)
+        parser.close()
+        return parser.text()
+    except:
+        print_exc(file=stderr)
+        return text
 
-def delete_html_tag(data):
-    result = ""
-    reg = re.compile('<[^>]*>')
-    for line in data.splitlines():
-            line_p = reg.sub('',line).replace('\n','').replace(' ','')
-            if(len(line_p) > 0):
-                result += line_p
-                result += "\n"
-    return result
 
 
 
 def main():
+    text = r'''
+        <html>
+            <body>
+                <b>Project:</b> DeHTML<br>
+                <b>Description</b>:<br>
+                This small script is intended to allow conversion from HTML markup to 
+                plain text.
+            </body>
+        </html>
+    '''
     data = ""
     if len(sys.argv) != 2:
         print("input error")
     try:
         f = open(sys.argv[1],"r")
-        data = delete_html_tag(f.read())
+        data = dehtml(f.read())
     except:
-        print("file process error!")
+        print("read process error!")
     finally:
         f.close()
 
@@ -30,7 +70,7 @@ def main():
         f = open(sys.argv[1],"w")
         f.write(data)
     except:
-        print("file process error!")
+        print("write process error!")
     finally:
         f.close()
 

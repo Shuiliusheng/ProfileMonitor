@@ -1,78 +1,5 @@
 http://myan8.web.engr.illinois.edu/research.html
-<body>
-<span class="mobile btn-mobile-menu">
-<i class="icon icon-list btn-mobile-menu__icon"></i>
-<i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
-</span>
-<header class="panel-cover" style="background-image: url(images/cover_uiuc.jpg)">
-<div class="panel-main">
-<div class="panel-main__inner panel-inverted">
-<div class="panel-main__content">
-<a href="" title="link to home of Mengjia Yan">
-<img alt="My Profile Photo" class="user-image" src="images/profile_ymj.jpg"/>
-<h1 class="panel-cover__title panel-title">Mengjia Yan</h1>
-</a>
-<hr class="panel-cover__divider"/>
-<p class="panel-cover__description">A PhD student doing research in hardware support for security @ UIUC.</p>
-<hr class="panel-cover__divider panel-cover__divider--secondary"/>
-<div class="navigation-wrapper">
-<nav class="cover-navigation cover-navigation--primary">
-<ul class="navigation">
-<li class="navigation__item"><a class="blog-button" href="/">About</a></li>
-<li class="navigation__item"><a class="blog-button" href="/research.html">Publications</a></li>
-<li class="navigation__item"><a class="blog-button" href="data/cv_Mengjia_Yan.pdf" target="_blank">CV</a></li>
-</ul>
-</nav>
-<nav class="cover-navigation navigation--social">
-<ul class="navigation">
-<!-- LinkedIn -->
-<li class="navigation__item">
-<a href="https://www.linkedin.com/in/mengjiayan" target="_blank" title="Mengjia Yan on LinkedIn">
-<i class="icon icon-social-linkedin"></i>
-<span class="label">LinkedIn</span>
-</a>
-</li>
-<!-- GitHub -->
-<li class="navigation__item">
-<a href="https://www.github.com/mjyan0720" target="_blank" title="Mengjia Yan on GitHub">
-<i class="icon icon-social-github"></i>
-<span class="label">GitHub</span>
-</a>
-</li>
-<!-- GitHub -->
-<li class="navigation__item">
-<a href="https://scholar.google.com/citations?user=zx6dR2MAAAAJ" target="_blank" title="Mengjia Yan on Google Scholar">
-<i class="ai ai-google-scholar-square ai-175x"></i>
-<span class="label">Google Scholar</span>
-</a>
-</li>
-<!-- Email -->
-<li class="navigation__item">
-<a href="mailto:myan8@illinois.edu" target="_blank" title="Email myan8@illinois.edu">
-<i class="icon icon-mail"></i>
-<span class="label">Email</span>
-</a>
-</li>
-<!-- RSS -->
-<!--
-            <li class="navigation__item">
-              <a href="feed.xml" title="Subscribe" target="_blank">
-                <i class="icon icon-rss"></i>
-                <span class="label">RSS</span>
-              </a>
-            </li>
-            -->
-</ul>
-</nav>
-</div>
-</div>
-</div>
-<div class="panel-cover--overlay"></div>
-</div>
-</header>
-<div class="content-wrapper">
-<div class="content-wrapper__inner">
-<article class="post-container post-container--single">
+[<article class="post-container post-container--single">
 <header class="post-header">
 <h1 class="post-title">
         
@@ -163,13 +90,4 @@ IEEE International Symposium on Parallel &amp; Distributed Processing, Workshops
 [<a href="data/agent.pdf" target="_blank">pdf</a>]
 [<a href="data/agent.txt">BibTex</a>]<br/></p>
 </section>
-</article>
-</div>
-<footer class="footer">
-<span class="footer__copyright">© 2017 Mengjia Yan. All rights reserved.
-      Last updated on May 22, 2019</span>
-</footer>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
-<script src="js/main.js" type="text/javascript"></script>
-</div>
-</body>
+</article>]

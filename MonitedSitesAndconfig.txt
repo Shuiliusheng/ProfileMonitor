@@ -1,66 +1,69 @@
 https://www.cs.unc.edu/~porter/research.html KEYS Publications
+https://security.csl.toronto.edu/publications/ CLASS elementor-widget-wrap
+https://www.cs.ucr.edu/~csong/publications.html
 http://jianh.web.engr.illinois.edu/
-https://people.eecs.berkeley.edu/~raluca/
+https://people.eecs.berkeley.edu/~raluca/ ID Research
 https://taesoo.kim/
-http://people.csail.mit.edu/nickolai/#pubs
-https://web.stanford.edu/~kozyraki/papers.html
-https://www.cs.utexas.edu/users/witchel/research.html
-https://tsg.ece.cornell.edu/publications/
-http://www.cs.columbia.edu/~junfeng/#publications
+http://people.csail.mit.edu/nickolai/#pubs ID _pubs
+https://web.stanford.edu/~kozyraki/papers.html ID contentWide
+https://www.cs.utexas.edu/users/witchel/research.html ID page
+https://tsg.ece.cornell.edu/publications/ ID post-11
+http://www.cs.columbia.edu/~junfeng/publications.html
 https://wenke.gtisc.gatech.edu/publications.html
 http://www.cs.technion.ac.il/~dan/index_pubs.html
-https://sites.google.com/site/silbersteinmark/Home/publications
-https://security.csl.toronto.edu/publications/
-https://taesoo.kim/
-https://www.cs.unc.edu/~porter/research.html#publications
-https://web.eecs.umich.edu/~barisk/publications/
-https://people.eecs.berkeley.edu/~raluca/#Publications
-http://jianh.web.engr.illinois.edu/
-https://www.informatics.indiana.edu/xw7/
-https://www.cs.umd.edu/~jkatz/
-https://megele.io/
-https://engineering.tamu.edu/cse/profiles/guofei.html
-http://www.cs.umd.edu/~mwh/
-https://web.cse.ohio-state.edu/~lin.3021/
-http://web.engr.oregonstate.edu/~rosulekm/
-http://www.cse.psu.edu/~ads22/
-https://www.cs.purdue.edu/homes/ninghui/
+https://web.eecs.umich.edu/~barisk/publications/ CLASSES page
+https://www.informatics.indiana.edu/xw7/ IDS publications
+https://www.cs.umd.edu/~jkatz/papers.html
+https://megele.io/publication/
+http://www.cs.umd.edu/~mwh/papers/mwh.html
+https://web.cse.ohio-state.edu/~lin.3021/publication.html
+http://web.engr.oregonstate.edu/~rosulekm/ CLASSES publist
+http://www.cse.psu.edu/~ads22/research.html
 http://soc1024.ece.illinois.edu/
-http://www.public.asu.edu/~gahn1/
-https://adamaviv.com/index.html
-https://software.imdea.org/people/gilles.barthe/
+https://dblp.uni-trier.de/pers/hd/a/Aviv:Adam_J= CLASSES publ-list
+https://software.imdea.org/research/publications.html CLASSES grid_9
 https://people.eecs.berkeley.edu/~dawnsong/publication.html
-https://www.vusec.net/publications/
-http://opera.ucsd.edu/pub_chronological.htm
-https://www.microsoft.com/en-us/research/people/baumann/#!publications
+https://www.vusec.net/publications/ CLASSES primary
+http://opera.ucsd.edu/pub_chronological.htm IDS content
+https://www.microsoft.com/en-us/research/people/baumann/#!publications CLASSES msr-accordion
 http://www.cs.cornell.edu/projects/Quicksilver/pubs.html
 http://people.cs.uchicago.edu/~shanlu/publications.html
 http://www.eecg.toronto.edu/~yuan/publication.html
 https://cseweb.ucsd.edu/~jzhao/publications.html
-http://myan8.web.engr.illinois.edu/research.html
-https://engineering.purdue.edu/~yiying/publication.html#
+http://myan8.web.engr.illinois.edu/research.html CLASSES post-container
+https://engineering.purdue.edu/~yiying/publication.html
 http://cwfletcher.net/Pages/Research.php
-http://web.cse.ohio-state.edu/~zhang.834/
+http://web.cse.ohio-state.edu/~zhang.834/publications.html
 https://www.longlu.org/publications/
 https://web.cse.ohio-state.edu/~lin.3021/publication.html
-http://homepage.fudan.edu.cn/zz113/publication/
+http://homepage.fudan.edu.cn/zz113/publication/ IDS content
 https://yangzhangalmo.github.io/publications/
 http://www.cs.wayne.edu/fengwei/publications.html
 https://chao.100871.net/
 https://yajin.org/
-https://csis.gmu.edu/ksun/
-https://s2.ist.psu.edu/
-https://www.cs.ucr.edu/~csong/publications.html
+https://csis.gmu.edu/ksun/selectedpub.html
+https://s2.ist.psu.edu/pub-liu-group.html
+http://www.cse.psu.edu/~sxz16/researchbyyear.htm
+http://asquicciarini.ist.psu.edu/pubs.html
+https://faculty.ist.psu.edu/xu/publication.htm
+https://faculty.ist.psu.edu/wu/papers/index.html
 https://netsec.ethz.ch/publications/
-https://dblp.uni-trier.de/pers/hd/l/Liang:Zhenkai
+https://dblp.uni-trier.de/pers/hd/l/Liang:Zhenkai CLASSES publ-list
 https://nesa.zju.edu.cn/webpage/pubyear.html
 http://www.cse.psu.edu/~trj1/pubs.html
-https://www.microsoft.com/en-us/research/people/xing/#!publications
+https://www.microsoft.com/en-us/research/people/xing/#!publications CLASSES msr-accordion
 https://dblp.uni-trier.de/pers/hd/d/Duan:Hai=Xin
-https://www.microsoft.com/en-us/research/people/wdcui/#!publications
+https://www.microsoft.com/en-us/research/people/wdcui/#!publications CLASSES publ-list
 https://web.cs.ucdavis.edu/~hchen/paper/
 http://kaichen.org/Publication.html
 https://se.inf.tu-dresden.de/pubs/bibtexbrowser.php?bib=se.bib&all&nomenu=1
-https://gruss.cc/
+https://gruss.cc/ IDS bodytext
 https://csyhua.github.io/csyhua/fullpaper.htm
-https://www.cs.purdue.edu/homes/pfonseca/
+
+
+
+
+https://sites.google.com/site/silbersteinmark/Home/publications USELESS
+https://engineering.tamu.edu/cse/profiles/guofei.html USELESS
+https://www.cs.purdue.edu/homes/ninghui/ USELESS
+http://www.public.asu.edu/~gahn1/ USELESS
